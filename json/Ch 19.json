@@ -1,0 +1,137 @@
+{
+  "chapter_name": "Ο ΔΑΚΤΥΛΙΟΣ",
+  "word_list_page_number": 203,
+  "exercise_page_range": [
+    199,
+    202
+  ],
+  "sections": [
+    {
+      "section": "Ῥήματα",
+      "words": [
+        {
+          "book_entry": "ἁμαρτάνω"
+        },
+        {
+          "book_entry": "ἀρνέομαι"
+        },
+        {
+          "book_entry": "βλέπω"
+        },
+        {
+          "book_entry": "γελάω"
+        },
+        {
+          "book_entry": "δακρύω"
+        },
+        {
+          "book_entry": "διέρχομαι"
+        },
+        {
+          "book_entry": "εἰσέρχομαι"
+        },
+        {
+          "book_entry": "δοκέω"
+        },
+        {
+          "book_entry": "θαυμάζω"
+        },
+        {
+          "book_entry": "κλέπτω"
+        },
+        {
+          "book_entry": "οἰκτίρω"
+        },
+        {
+          "book_entry": "ὀργίζομαι"
+        },
+        {
+          "book_entry": "τύπτω"
+        },
+        {
+          "book_entry": "φθονέω"
+        },
+        {
+          "book_entry": "χέω"
+        }
+      ]
+    },
+    {
+      "section": "Ὀνόματα",
+      "words": [
+        {
+          "book_entry": "δακτύλιος, ὁ"
+        },
+        {
+          "book_entry": "δάκρυμα. τό"
+        },
+        {
+          "book_entry": "δῶρον, τό"
+        },
+        {
+          "book_entry": "ἔρις, ἡ"
+        },
+        {
+          "book_entry": "καρδία, ἡ"
+        },
+        {
+          "book_entry": "κάτοπτρον, τό"
+        },
+        {
+          "book_entry": "νοῦς, ὁ"
+        },
+        {
+          "book_entry": "στεφάνη, ἡ"
+        }
+      ]
+    },
+    {
+      "section": "Ἐπίθετα",
+      "words": [
+        {
+          "book_entry": "ἀληθής, -ές"
+        },
+        {
+          "book_entry": "ψευδής, -ές"
+        }
+      ]
+    },
+    {
+      "section": "Ἐπιρρήματα",
+      "words": [
+        {
+          "book_entry": "ἄληθες"
+        },
+        {
+          "book_entry": "οὐδέποτε"
+        },
+        {
+          "book_entry": "πάνυ"
+        },
+        {
+          "book_entry": "ὠς"
+        }
+      ]
+    },
+    {
+      "section": "Φράσεις",
+      "words": [
+        {
+          "book_entry": "ἐν νῷ ἔχω"
+        },
+        {
+          "book_entry": "ἔστιν ὅτε"
+        },
+        {
+          "book_entry": "εἰς κόρακας!"
+        },
+        {
+          "book_entry": "ὡς ἐμοὶ δοκεῖ"
+        },
+        {
+          "book_entry": "ὡς καλός!"
+        }
+      ]
+    }
+  ]
+}

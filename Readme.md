@@ -4,8 +4,8 @@
 These were created by using OCR to extract the text from the book, then manually editing each sheet to correct OCR errors, particularly accent related ones. Mistakes in spelling or accents are either my fault or the OCR engine's fault, not that of the original author.
 
 The following tasks are things I would consider useful for others, and would love help with.
-* [ ] Convert word lists into a machine friendly format, probably JSON.
-* [ ] Apply unicode normalization to NFD to both markdown and JSON formats.
+* [x] Convert word lists into a machine friendly format, probably JSON.
+* [x] Apply unicode normalization to NFD to both markdown and JSON formats.
 * [ ] Add line number and word index information for the location of the word in the book.
 * [ ] Macronize vocab list.
 

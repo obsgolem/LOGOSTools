@@ -1,0 +1,122 @@
+{
+  "chapter_name": "ΔΕΣΠΟΤΑΙ ΚΑΙ ΔΟΥΛΟΙ",
+  "word_list_page_number": 237,
+  "exercise_page_range": [
+    234,
+    236
+  ],
+  "sections": [
+    {
+      "section": "Ῥήματα",
+      "words": [
+        {
+          "book_entry": "ἀπορέω"
+        },
+        {
+          "book_entry": "δεικνύω"
+        },
+        {
+          "book_entry": "δειπνέω"
+        },
+        {
+          "book_entry": "εἴδω (ὁράω)"
+        },
+        {
+          "book_entry": "ἐρίζω"
+        },
+        {
+          "book_entry": "κατηγορέω"
+        },
+        {
+          "book_entry": "προηγέομαι"
+        },
+        {
+          "book_entry": "σπουδάζω"
+        },
+        {
+          "book_entry": "συμφέρω"
+        },
+        {
+          "book_entry": "φεύγω"
+        },
+        {
+          "book_entry": "χρή"
+        }
+      ]
+    },
+    {
+      "section": "Ὀνόματα",
+      "words": [
+        {
+          "book_entry": "νόμισμα, τό"
+        }
+      ]
+    },
+    {
+      "section": "Ἐπίθετα",
+      "words": [
+        {
+          "book_entry": "αἴτιος, -α, -ον"
+        },
+        {
+          "book_entry": "δῆλος, -η, -ον"
+        },
+        {
+          "book_entry": "κενός, -ή, -ον"
+        },
+        {
+          "book_entry": "πλήρης. -ες"
+        }
+      ]
+    },
+    {
+      "section": "Ἀντωνυμίαι",
+      "words": [
+        {
+          "book_entry": "ὅστις, ἥτις, ὅ τι"
+        }
+      ]
+    },
+    {
+      "section": "Σύνδεσμοι",
+      "words": [
+        {
+          "book_entry": "διότι"
+        }
+      ]
+    },
+    {
+      "section": "Μόρια",
+      "words": [
+        {
+          "book_entry": "μήν"
+        }
+      ]
+    },
+    {
+      "section": "Ἐπιφωνήματα",
+      "words": [
+        {
+          "book_entry": "οἴμοι!"
+        }
+      ]
+    },
+    {
+      "section": "Ἐπιρρήματα",
+      "words": [
+        {
+          "book_entry": "ἀδίκως"
+        },
+        {
+          "book_entry": "δῆτα"
+        },
+        {
+          "book_entry": "σήμερον"
+        },
+        {
+          "book_entry": "χθές"
+        }
+      ]
+    }
+  ]
+}

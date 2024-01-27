@@ -1,0 +1,110 @@
+{
+  "chapter_name": "Ο ΟΙΚΟΣ",
+  "word_list_page_number": 58,
+  "exercise_page_range": [
+    55,
+    57
+  ],
+  "sections": [
+    {
+      "section": "Ὀνόματα",
+      "words": [
+        {
+          "book_entry": "ἀδελφή, ἡ"
+        },
+        {
+          "book_entry": "ἀδελφός, ὁ"
+        },
+        {
+          "book_entry": "γονεῖς, οἱ"
+        },
+        {
+          "book_entry": "δέσποινα, ἡ"
+        },
+        {
+          "book_entry": "δεσπότης, ὁ"
+        },
+        {
+          "book_entry": "δούλη, ἡ"
+        },
+        {
+          "book_entry": "δοῦλος, ὁ"
+        },
+        {
+          "book_entry": "ἔγγονος, ὁ / ὴ"
+        },
+        {
+          "book_entry": "θυγάτηρ, ἡ"
+        },
+        {
+          "book_entry": "μήτηρ, ἡ"
+        },
+        {
+          "book_entry": "οἶκος, ὁ"
+        },
+        {
+          "book_entry": "πάππος, ὁ"
+        },
+        {
+          "book_entry": "πατήρ, ὁ"
+        },
+        {
+          "book_entry": "πρόγονος, ὁ / ἡ"
+        },
+        {
+          "book_entry": "τέκνον, τό"
+        },
+        {
+          "book_entry": "τήθη, ἡ"
+        },
+        {
+          "book_entry": "υἱός, ὁ"
+        }
+      ]
+    },
+    {
+      "section": "Κύρια ὀνόματα",
+      "words": [
+        {
+          "book_entry": "Αἴσωπος, ὁ"
+        },
+        {
+          "book_entry": "Ἱππόλυτος, ὁ"
+        },
+        {
+          "book_entry": "Θάλεια, ἡ"
+        },
+        {
+          "book_entry": "Πανδώρα, ἡ"
+        }
+      ]
+    },
+    {
+      "section": "Ἐπίθετα",
+      "words": [
+        {
+          "book_entry": "γενικός, -ή, -όν"
+        },
+        {
+          "book_entry": "φίλος, -η, τον"
+        }
+      ]
+    },
+    {
+      "section": "Ἐπιρρήματα",
+      "words": [
+        {
+          "book_entry": "ἰδού"
+        }
+      ]
+    },
+    {
+      "section": "Φράσεις",
+      "words": [
+        {
+          "book_entry": "τοῦτ ̓ ἔστιν"
+        }
+      ]
+    }
+  ]
+}
