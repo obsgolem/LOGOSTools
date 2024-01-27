@@ -1,0 +1,61 @@
+{
+    "$schema": "https://json-schema.org/draft-07/schema",
+    "$id": "https://raw.githubusercontent.com/obsgolem/LOGOSTools/main/schema.json",
+    "title": "Chapter Vocabulary",
+    "description": "The vocab list for a single chapter of ΛΟΓΟΣ",
+    "type": "object",
+    "properties": {
+        "chapter_name": {
+            "description": "The chapter's name",
+            "type": "string"
+        },
+        "word_list_page_number": {
+            "description": "The page number in the book for this list",
+            "type": "number"
+        },
+        "exercise_page_range": {
+            "description": "The page range for the exercises for this chapter",
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+                "type": "number"
+            }
+        },
+        "sections": {
+            "type": "array",
+            "items": {
+                "description": "The collection of words under a section header in the book",
+                "type": "object",
+                "properties": {
+                    "section": {
+                        "description": "The name of the section in the book",
+                        "type": "string"
+                    },
+                    "words": {
+                        "type": "array",
+                        "items": {
+                            "description": "The data for a single vocab entry",
+                            "type": "object",
+                            "properties": {
+                                "book_entry": {
+                                    "description": "The raw text in the book",
+                                    "type": "string"
+                                }
+                            },
+                            "additionalProperties": false,
+                            "required": [
+                                "book_entry"
+                            ]
+                        }
+                    }
+                },
+                "additionalProperties": false,
+                "required": [
+                    "section",
+                    "words"
+                ]
+            }
+        }
+    }
+}
