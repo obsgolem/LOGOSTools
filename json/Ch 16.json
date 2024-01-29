@@ -16,7 +16,11 @@
           "book_entry": "διαλέγομαι"
         },
         {
-          "book_entry": "κελεύω"
+          "book_entry": "κελεύω",
+          "first_occurence": [
+            37,
+            5
+          ]
         },
         {
           "book_entry": "κλείω"
