@@ -11,7 +11,7 @@
       "words": [
         {
           "book_entry": "ἐστίν | εἰσίν",
-          "first_occurence": [
+          "first_occurrence": [
             1,
             4
           ]
@@ -23,7 +23,7 @@
       "words": [
         {
           "book_entry": "τίς;",
-          "first_occurence": [
+          "first_occurrence": [
             69,
             1
           ]
@@ -35,7 +35,7 @@
       "words": [
         {
           "book_entry": "ἄνθρωπος, ὁ / ἡ",
-          "first_occurence": [
+          "first_occurrence": [
             19,
             6
           ]
@@ -48,7 +48,7 @@
         },
         {
           "book_entry": "βασίλεια, ἡ",
-          "first_occurence": [
+          "first_occurrence": [
             52,
             4
           ]
@@ -58,28 +58,28 @@
         },
         {
           "book_entry": "θεά, ἡ",
-          "first_occurence": [
+          "first_occurrence": [
             29,
             3
           ]
         },
         {
           "book_entry": "θεός, ὁ",
-          "first_occurence": [
+          "first_occurrence": [
             1,
             3
           ]
         },
         {
           "book_entry": "θηρίον, τό",
-          "first_occurence": [
+          "first_occurrence": [
             55,
             3
           ]
         },
         {
           "book_entry": "ἱέρεια, ἡ",
-          "first_occurence": [
+          "first_occurrence": [
             54,
             3
           ]
@@ -89,7 +89,7 @@
         },
         {
           "book_entry": "μαθηματικός, ὁ",
-          "first_occurence": [
+          "first_occurrence": [
             28,
             4
           ]
@@ -99,21 +99,21 @@
         },
         {
           "book_entry": "μουσικός, ὁ",
-          "first_occurence": [
+          "first_occurrence": [
             26,
             3
           ]
         },
         {
           "book_entry": "ποιήτρια, ἡ",
-          "first_occurence": [
+          "first_occurrence": [
             50,
             3
           ]
         },
         {
           "book_entry": "φιλόσοφος, ὁ",
-          "first_occurence": [
+          "first_occurrence": [
             24,
             3
           ]
@@ -125,14 +125,14 @@
       "words": [
         {
           "book_entry": "δέ",
-          "first_occurence": [
+          "first_occurrence": [
             76,
             1
           ]
         },
         {
           "book_entry": "μέν",
-          "first_occurence": [
+          "first_occurrence": [
             75,
             1
           ]
@@ -144,7 +144,7 @@
       "words": [
         {
           "book_entry": "Ἑλληνικός, -ή, -όν",
-          "first_occurence": [
+          "first_occurrence": [
             1,
             2
           ]
@@ -157,7 +157,7 @@
         },
         {
           "book_entry": "Ρωμαϊκός, -ή, -όν",
-          "first_occurence": [
+          "first_occurrence": [
             8,
             2
           ]
@@ -169,28 +169,28 @@
       "words": [
         {
           "book_entry": "ἆρα;",
-          "first_occurence": [
+          "first_occurrence": [
             71,
             8
           ]
         },
         {
           "book_entry": "ναί",
-          "first_occurence": [
+          "first_occurrence": [
             4,
             5
           ]
         },
         {
           "book_entry": "οὐ | οὐκ | οὐχ",
-          "first_occurence": [
+          "first_occurrence": [
             15,
             2
           ]
         },
         {
           "book_entry": "οὐδαμῶς",
-          "first_occurence": [
+          "first_occurrence": [
             15,
             6
           ]
@@ -202,7 +202,7 @@
       "words": [
         {
           "book_entry": "ὁ, ἡ",
-          "first_occurence": [
+          "first_occurrence": [
             2,
             5
           ]
@@ -214,14 +214,14 @@
       "words": [
         {
           "book_entry": "ἀλλά",
-          "first_occurence": [
+          "first_occurrence": [
             17,
             6
           ]
         },
         {
           "book_entry": "καί",
-          "first_occurence": [
+          "first_occurrence": [
             1,
             5
           ]

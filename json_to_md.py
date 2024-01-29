@@ -21,4 +21,11 @@ for file in Path.cwd().glob("json/*.json"):
         for section in data["sections"]:
             print(f"# {unicodedata.normalize('NFC', section['section'])}  ", file=f)
             for word in section["words"]:
-                print(f"{unicodedata.normalize('NFC', word['book_entry'])}  ", file=f)
+                line = ""
+                if "first_occurrence" in word:
+                    line = f" | First appeared on line {word['first_occurrence'][0]}"
+                word = (
+                    word["macronized"] if "macronized" in word else word["book_entry"]
+                )
+                word = unicodedata.normalize("NFC", word)
+                print(f"{word}{line}  ", file=f)
