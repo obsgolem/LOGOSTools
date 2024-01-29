@@ -10,43 +10,95 @@
       "section": "Ῥήματα",
       "words": [
         {
-          "book_entry": "ἀκολουθέω"
+          "book_entry": "ἀκολουθέω",
+          "first_occurence": [
+            71,
+            1
+          ]
         },
         {
-          "book_entry": "ἐπισκοπέω"
+          "book_entry": "ἐπισκοπέω",
+          "first_occurence": [
+            17,
+            1
+          ]
         },
         {
-          "book_entry": "ἐπιχειρέω"
+          "book_entry": "ἐπιχειρέω",
+          "first_occurence": [
+            95,
+            7
+          ]
         },
         {
-          "book_entry": "ἕπομαι"
+          "book_entry": "ἕπομαι",
+          "first_occurence": [
+            117,
+            3
+          ]
         },
         {
-          "book_entry": "ἡγέομαι"
+          "book_entry": "ἡγέομαι",
+          "first_occurence": [
+            70,
+            2
+          ]
         },
         {
-          "book_entry": "κατατρίβω"
+          "book_entry": "κατατρίβω",
+          "first_occurence": [
+            25,
+            3
+          ]
         },
         {
-          "book_entry": "παιδέυω"
+          "book_entry": "παιδέυω",
+          "first_occurence": [
+            75,
+            1
+          ]
         },
         {
-          "book_entry": "παραμελέω"
+          "book_entry": "παραμελέω",
+          "first_occurence": [
+            102,
+            1
+          ]
         },
         {
-          "book_entry": "παύω, -ομαι"
+          "book_entry": "παύω, -ομαι",
+          "first_occurence": [
+            25,
+            7
+          ]
         },
         {
-          "book_entry": "πείθω, -ομαι"
+          "book_entry": "πείθω, -ομαι",
+          "first_occurence": [
+            47,
+            2
+          ]
         },
         {
-          "book_entry": "πληρόω"
+          "book_entry": "πληρόω",
+          "first_occurence": [
+            104,
+            1
+          ]
         },
         {
-          "book_entry": "ῥᾳθυμέω"
+          "book_entry": "ῥᾳθυμέω",
+          "first_occurence": [
+            100,
+            3
+          ]
         },
         {
-          "book_entry": "φυλάσσω"
+          "book_entry": "φυλάσσω",
+          "first_occurence": [
+            73,
+            4
+          ]
         }
       ]
     },
@@ -54,28 +106,60 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "ἀμπελών, ὁ"
+          "book_entry": "ἀμπελών, ὁ",
+          "first_occurence": [
+            5,
+            1
+          ]
         },
         {
-          "book_entry": "ἀρετή, ἡ"
+          "book_entry": "ἀρετή, ἡ",
+          "first_occurence": [
+            74,
+            6
+          ]
         },
         {
-          "book_entry": "ἐλαιών, ὁ"
+          "book_entry": "ἐλαιών, ὁ",
+          "first_occurence": [
+            7,
+            8
+          ]
         },
         {
-          "book_entry": "θόρυβος, ὁ"
+          "book_entry": "θόρυβος, ὁ",
+          "first_occurence": [
+            114,
+            3
+          ]
         },
         {
-          "book_entry": "οἰκονομία, ἡ"
+          "book_entry": "οἰκονομία, ἡ",
+          "first_occurence": [
+            87,
+            2
+          ]
         },
         {
-          "book_entry": "σκιά, ἡ"
+          "book_entry": "σκιά, ἡ",
+          "first_occurence": [
+            26,
+            5
+          ]
         },
         {
-          "book_entry": "σταφυλή, ἡ"
+          "book_entry": "σταφυλή, ἡ",
+          "first_occurence": [
+            28,
+            2
+          ]
         },
         {
-          "book_entry": "σῦκον, τό"
+          "book_entry": "σῦκον, τό",
+          "first_occurence": [
+            28,
+            5
+          ]
         },
         {
           "book_entry": "ὑγρόν, τό"
@@ -127,19 +211,39 @@
       "section": "Ἐπιρρήματα",
       "words": [
         {
-          "book_entry": "ἀκριβῶς"
+          "book_entry": "ἀκριβῶς",
+          "first_occurence": [
+            72,
+            3
+          ]
         },
         {
-          "book_entry": "αὖθις"
+          "book_entry": "αὖθις",
+          "first_occurence": [
+            30,
+            5
+          ]
         },
         {
-          "book_entry": "αὐτίκα"
+          "book_entry": "αὐτίκα",
+          "first_occurence": [
+            61,
+            2
+          ]
         },
         {
-          "book_entry": "εὖ"
+          "book_entry": "εὖ",
+          "first_occurence": [
+            93,
+            4
+          ]
         },
         {
-          "book_entry": "οἴκαδε"
+          "book_entry": "οἴκαδε",
+          "first_occurence": [
+            64,
+            2
+          ]
         }
       ]
     },
@@ -147,10 +251,18 @@
       "section": "Μόρια",
       "words": [
         {
-          "book_entry": "γοῦν"
+          "book_entry": "γοῦν",
+          "first_occurence": [
+            91,
+            2
+          ]
         },
         {
-          "book_entry": "μέντοι"
+          "book_entry": "μέντοι",
+          "first_occurence": [
+            22,
+            3
+          ]
         }
       ]
     }

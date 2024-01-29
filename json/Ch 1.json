@@ -10,7 +10,11 @@
       "section": "Ῥήματα",
       "words": [
         {
-          "book_entry": "ἐστίν | εἰσίν"
+          "book_entry": "ἐστίν | εἰσίν",
+          "first_occurence": [
+            1,
+            4
+          ]
         }
       ]
     },
@@ -18,7 +22,11 @@
       "section": "Ἀντωνυμίαι",
       "words": [
         {
-          "book_entry": "τίς;"
+          "book_entry": "τίς;",
+          "first_occurence": [
+            69,
+            1
+          ]
         }
       ]
     },
@@ -26,7 +34,11 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "ἄνθρωπος, ὁ / ἡ"
+          "book_entry": "ἄνθρωπος, ὁ / ἡ",
+          "first_occurence": [
+            19,
+            6
+          ]
         },
         {
           "book_entry": "ἄρθρον, τό"
@@ -35,40 +47,76 @@
           "book_entry": "ἀριθμός, ὁ"
         },
         {
-          "book_entry": "βασίλεια, ἡ"
+          "book_entry": "βασίλεια, ἡ",
+          "first_occurence": [
+            52,
+            4
+          ]
         },
         {
           "book_entry": "γραμματική, ἡ"
         },
         {
-          "book_entry": "θεά, ἡ"
+          "book_entry": "θεά, ἡ",
+          "first_occurence": [
+            29,
+            3
+          ]
         },
         {
-          "book_entry": "θεός, ὁ"
+          "book_entry": "θεός, ὁ",
+          "first_occurence": [
+            1,
+            3
+          ]
         },
         {
-          "book_entry": "θηρίον, τό"
+          "book_entry": "θηρίον, τό",
+          "first_occurence": [
+            55,
+            3
+          ]
         },
         {
-          "book_entry": "ἱέρεια, ἡ"
+          "book_entry": "ἱέρεια, ἡ",
+          "first_occurence": [
+            54,
+            3
+          ]
         },
         {
           "book_entry": "κεφάλαιον, τό"
         },
         {
-          "book_entry": "μαθηματικός, ὁ"
+          "book_entry": "μαθηματικός, ὁ",
+          "first_occurence": [
+            28,
+            4
+          ]
         },
         {
           "book_entry": "μελέτημα, τό"
         },
         {
-          "book_entry": "μουσικός, ὁ"
+          "book_entry": "μουσικός, ὁ",
+          "first_occurence": [
+            26,
+            3
+          ]
         },
         {
-          "book_entry": "ποιήτρια, ἡ"
+          "book_entry": "ποιήτρια, ἡ",
+          "first_occurence": [
+            50,
+            3
+          ]
         },
         {
-          "book_entry": "φιλόσοφος, ὁ"
+          "book_entry": "φιλόσοφος, ὁ",
+          "first_occurence": [
+            24,
+            3
+          ]
         }
       ]
     },
@@ -76,10 +124,18 @@
       "section": "Μόρια",
       "words": [
         {
-          "book_entry": "δέ"
+          "book_entry": "δέ",
+          "first_occurence": [
+            76,
+            1
+          ]
         },
         {
-          "book_entry": "μέν"
+          "book_entry": "μέν",
+          "first_occurence": [
+            75,
+            1
+          ]
         }
       ]
     },
@@ -87,7 +143,11 @@
       "section": "Ἐπίθετα",
       "words": [
         {
-          "book_entry": "Ἑλληνικός, -ή, -όν"
+          "book_entry": "Ἑλληνικός, -ή, -όν",
+          "first_occurence": [
+            1,
+            2
+          ]
         },
         {
           "book_entry": "ἑνικός, -ἤ, -όν"
@@ -96,7 +156,11 @@
           "book_entry": "πληθυντικός, -ή, -όν"
         },
         {
-          "book_entry": "Ρωμαϊκός, -ή, -όν"
+          "book_entry": "Ρωμαϊκός, -ή, -όν",
+          "first_occurence": [
+            8,
+            2
+          ]
         }
       ]
     },
@@ -104,16 +168,32 @@
       "section": "Ἐπρρήματα",
       "words": [
         {
-          "book_entry": "ἆρα;"
+          "book_entry": "ἆρα;",
+          "first_occurence": [
+            71,
+            8
+          ]
         },
         {
-          "book_entry": "ναί"
+          "book_entry": "ναί",
+          "first_occurence": [
+            4,
+            5
+          ]
         },
         {
-          "book_entry": "οὐ | οὐκ | οὐχ"
+          "book_entry": "οὐ | οὐκ | οὐχ",
+          "first_occurence": [
+            15,
+            2
+          ]
         },
         {
-          "book_entry": "οὐδαμῶς"
+          "book_entry": "οὐδαμῶς",
+          "first_occurence": [
+            15,
+            6
+          ]
         }
       ]
     },
@@ -121,7 +201,11 @@
       "section": "Ἄρθρον",
       "words": [
         {
-          "book_entry": "ὁ, ἡ"
+          "book_entry": "ὁ, ἡ",
+          "first_occurence": [
+            2,
+            5
+          ]
         }
       ]
     },
@@ -129,10 +213,18 @@
       "section": "Σύνδεσμοι",
       "words": [
         {
-          "book_entry": "ἀλλά"
+          "book_entry": "ἀλλά",
+          "first_occurence": [
+            17,
+            6
+          ]
         },
         {
-          "book_entry": "καί"
+          "book_entry": "καί",
+          "first_occurence": [
+            1,
+            5
+          ]
         }
       ]
     },

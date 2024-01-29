@@ -41,6 +41,15 @@
                                 "book_entry": {
                                     "description": "The raw text in the book",
                                     "type": "string"
+                                },
+                                "first_occurence": {
+                                    "description": "The line and word number (1 indexed) of the first occurrence of the word in the book.",
+                                    "type": "array",
+                                    "minItems": 1,
+                                    "maxItems": 2,
+                                    "items": {
+                                        "type": "number"
+                                    }
                                 }
                             },
                             "additionalProperties": false,
