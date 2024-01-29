@@ -50,6 +50,10 @@
                                     "items": {
                                         "type": "number"
                                     }
+                                },
+                                "macronized": {
+                                    "description": "The entry with any ambiguous long vowels macronized.",
+                                    "type": "string"
                                 }
                             },
                             "additionalProperties": false,
