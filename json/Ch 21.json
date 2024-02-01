@@ -165,7 +165,11 @@
           "book_entry": "ὑγρόν, τό"
         },
         {
-          "book_entry": "φιλία, ἡ"
+          "book_entry": "φιλία, ἡ",
+          "first_occurrence": [
+            112,
+            6
+          ]
         }
       ]
     },
@@ -181,10 +185,18 @@
       "section": "Ἐπίθετα",
       "words": [
         {
-          "book_entry": "γεωργικός, -ή, -όν"
+          "book_entry": "γεωργικός, -ή, -όν",
+          "first_occurrence": [
+            17,
+            5
+          ]
         },
         {
-          "book_entry": "ὡραῖος, -α, -ον"
+          "book_entry": "ὡραῖος, -α, -ον",
+          "first_occurrence": [
+            21,
+            5
+          ]
         }
       ]
     },
@@ -192,7 +204,11 @@
       "section": "Σύνδεσμος",
       "words": [
         {
-          "book_entry": "ὅπως"
+          "book_entry": "ὅπως",
+          "first_occurrence": [
+            17,
+            2
+          ]
         }
       ]
     },
