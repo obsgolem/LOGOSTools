@@ -10,55 +10,123 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "ἀγορά, ἡ"
+          "book_entry": "ἀγορά, ἡ",
+          "first_occurrence": [
+            80,
+            4
+          ]
         },
         {
-          "book_entry": "ἀθλητής, ὁ"
+          "book_entry": "ἀθλητής, ὁ",
+          "first_occurrence": [
+            43,
+            3
+          ]
         },
         {
-          "book_entry": "ἄνθος, τό"
+          "book_entry": "ἄνθος, τό",
+          "first_occurrence": [
+            107,
+            6
+          ]
         },
         {
-          "book_entry": "ἄροτρον, τό"
+          "book_entry": "ἄροτρον, τό",
+          "first_occurrence": [
+            90,
+            5
+          ]
         },
         {
-          "book_entry": "γέρων, ὁ"
+          "book_entry": "γέρων, ὁ",
+          "first_occurrence": [
+            80,
+            5
+          ]
         },
         {
-          "book_entry": "γραῦς, ἡ"
+          "book_entry": "γραῦς, ἡ",
+          "first_occurrence": [
+            63,
+            1
+          ]
         },
         {
-          "book_entry": "δίσκος, ὁ"
+          "book_entry": "δίσκος, ὁ",
+          "first_occurrence": [
+            43,
+            5
+          ]
         },
         {
-          "book_entry": "ἔτος, τό"
+          "book_entry": "ἔτος, τό",
+          "first_occurrence": [
+            2,
+            3
+          ]
         },
         {
-          "book_entry": "ἱμάτιον, τό"
+          "book_entry": "ἱμάτιον, τό",
+          "first_occurrence": [
+            67,
+            1
+          ]
         },
         {
-          "book_entry": "ἱματιοπώλης, ὁ"
+          "book_entry": "ἱματιοπώλης, ὁ",
+          "first_occurrence": [
+            79,
+            2
+          ]
         },
         {
-          "book_entry": "κιθαριστής, ὁ"
+          "book_entry": "κιθαριστής, ὁ",
+          "first_occurrence": [
+            44,
+            3
+          ]
         },
         {
-          "book_entry": "κλῆρος, ὁ"
+          "book_entry": "κλῆρος, ὁ",
+          "first_occurrence": [
+            23,
+            1
+          ]
         },
         {
-          "book_entry": "κρήνη, ἡ"
+          "book_entry": "κρήνη, ἡ",
+          "first_occurrence": [
+            101,
+            1
+          ]
         },
         {
-          "book_entry": "οἰκονόμος, ὁ / ὴ"
+          "book_entry": "οἰκονόμος, ὁ / ὴ",
+          "first_occurrence": [
+            31,
+            5
+          ]
         },
         {
-          "book_entry": "ποίημα, τό"
+          "book_entry": "ποίημα, τό",
+          "first_occurrence": [
+            47,
+            2
+          ]
         },
         {
-          "book_entry": "πόνος, ὁ"
+          "book_entry": "πόνος, ὁ",
+          "first_occurrence": [
+            65,
+            2
+          ]
         },
         {
-          "book_entry": "τροφός, ἡ"
+          "book_entry": "τροφός, ἡ",
+          "first_occurrence": [
+            101,
+            5
+          ]
         }
       ]
     },
@@ -66,10 +134,18 @@
       "section": "Ἀντωνυμίαι",
       "words": [
         {
-          "book_entry": "οὗτος, αὕτη, τοῦτο"
+          "book_entry": "οὗτος, αὕτη, τοῦτο",
+          "first_occurrence": [
+            20,
+            3
+          ]
         },
         {
-          "book_entry": "ποῖος; ποία; ποῖον;"
+          "book_entry": "ποῖος; ποία; ποῖον;",
+          "first_occurrence": [
+            19,
+            6
+          ]
         }
       ]
     },
@@ -77,52 +153,112 @@
       "section": "Ἐπίθετα",
       "words": [
         {
-          "book_entry": "ἀγαθός, -ή, -όν"
+          "book_entry": "ἀγαθός, -ή, -όν",
+          "first_occurrence": [
+            20,
+            9
+          ]
         },
         {
-          "book_entry": "Ἀθηναῖος, -α, -ον"
+          "book_entry": "Ἀθηναῖος, -α, -ον",
+          "first_occurrence": [
+            18,
+            4
+          ]
         },
         {
-          "book_entry": "ἀνδρεῖος, -α, -ον"
+          "book_entry": "ἀνδρεῖος, -α, -ον",
+          "first_occurrence": [
+            42,
+            4
+          ]
         },
         {
-          "book_entry": "ἀνήσυχος. -ον"
+          "book_entry": "ἀνήσυχος. -ον",
+          "first_occurrence": [
+            70,
+            3
+          ]
         },
         {
-          "book_entry": "ἄσχημος. -ον"
+          "book_entry": "ἄσχημος, -ον",
+          "first_occurrence": [
+            93,
+            3
+          ]
         },
         {
-          "book_entry": "δεινός, -ή, -όν"
+          "book_entry": "δεινός, -ή, -όν",
+          "first_occurrence": [
+            31,
+            6
+          ]
         },
         {
-          "book_entry": "δύσκολος, -ον"
+          "book_entry": "δύσκολος, -ον",
+          "first_occurrence": [
+            69,
+            7
+          ]
         },
         {
-          "book_entry": "ἐπιδέξιος, -ον"
+          "book_entry": "ἐπιδέξιος, -ον",
+          "first_occurrence": [
+            44,
+            2
+          ]
         },
         {
-          "book_entry": "ἤσυχος, -ον"
+          "book_entry": "ἤσυχος, -ον",
+          "first_occurrence": [
+            64,
+            9
+          ]
         },
         {
-          "book_entry": "ἰσχυρός, -ά, -όν"
+          "book_entry": "ἰσχυρός, -ά, -όν",
+          "first_occurrence": [
+            20,
+            6
+          ]
         },
         {
           "book_entry": "_κτητικός, -ἤ, -ον_"
         },
         {
-          "book_entry": "πλούσιος, -α, -ον"
+          "book_entry": "πλούσιος, -α, -ον",
+          "first_occurrence": [
+            22,
+            3
+          ]
         },
         {
-          "book_entry": "ῥᾴθυμος, -ον"
+          "book_entry": "ῥᾴθυμος, -ον",
+          "first_occurrence": [
+            94,
+            8
+          ]
         },
         {
-          "book_entry": "φιλάνθρωπος, -ον"
+          "book_entry": "φιλάνθρωπος, -ον",
+          "first_occurrence": [
+            42,
+            7
+          ]
         },
         {
-          "book_entry": "φιλόπονος, -ον"
+          "book_entry": "φιλόπονος, -ον",
+          "first_occurrence": [
+            65,
+            2
+          ]
         },
         {
-          "book_entry": "χῆρος, -α, -ον"
+          "book_entry": "χῆρος, -α, -ον",
+          "first_occurrence": [
+            86,
+            3
+          ]
         }
       ]
     },
@@ -130,16 +266,32 @@
       "section": "Ἐπιρρήματα",
       "words": [
         {
-          "book_entry": "ἀεί"
+          "book_entry": "ἀεί",
+          "first_occurrence": [
+            70,
+            7
+          ]
         },
         {
-          "book_entry": "ἄριστα"
+          "book_entry": "ἄριστα",
+          "first_occurrence": [
+            61,
+            7
+          ]
         },
         {
-          "book_entry": "μάλα"
+          "book_entry": "μάλα",
+          "first_occurrence": [
+            88,
+            2
+          ]
         },
         {
-          "book_entry": "οὔπω"
+          "book_entry": "οὔπω",
+          "first_occurrence": [
+            70,
+            4
+          ]
         }
       ]
     },
@@ -147,37 +299,81 @@
       "section": "Ῥήματα",
       "words": [
         {
-          "book_entry": "ᾄδω"
+          "book_entry": "ᾄδω",
+          "first_occurrence": [
+            47,
+            4
+          ]
         },
         {
-          "book_entry": "ἀροτρεύω"
+          "book_entry": "ἀροτρεύω",
+          "first_occurrence": [
+            91,
+            5
+          ]
         },
         {
-          "book_entry": "διοικέω"
+          "book_entry": "διοικέω",
+          "first_occurrence": [
+            61,
+            8
+          ]
         },
         {
-          "book_entry": "ἐσθίω"
+          "book_entry": "ἐσθίω",
+          "first_occurrence": [
+            95,
+            4
+          ]
         },
         {
-          "book_entry": "θηλάζω"
+          "book_entry": "θηλάζω",
+          "first_occurrence": [
+            103,
+            2
+          ]
         },
         {
-          "book_entry": "κιθαρίζω"
+          "book_entry": "κιθαρίζω",
+          "first_occurrence": [
+            45,
+            5
+          ]
         },
         {
-          "book_entry": "κλαίω"
+          "book_entry": "κλαίω",
+          "first_occurrence": [
+            70,
+            8
+          ]
         },
         {
-          "book_entry": "πλύνω"
+          "book_entry": "πλύνω",
+          "first_occurrence": [
+            99,
+            6
+          ]
         },
         {
-          "book_entry": "πονέω"
+          "book_entry": "πονέω",
+          "first_occurrence": [
+            21,
+            3
+          ]
         },
         {
-          "book_entry": "πωλέω"
+          "book_entry": "πωλέω",
+          "first_occurrence": [
+            80,
+            1
+          ]
         },
         {
-          "book_entry": "συλλέγω"
+          "book_entry": "συλλέγω",
+          "first_occurrence": [
+            108,
+            1
+          ]
         }
       ]
     },
@@ -185,22 +381,46 @@
       "section": "Ἀριθμοί",
       "words": [
         {
-          "book_entry": "ἑβδομήκοντα"
+          "book_entry": "ἑβδομήκοντα",
+          "first_occurrence": [
+            80,
+            7
+          ]
         },
         {
-          "book_entry": "εἴκοσι"
+          "book_entry": "εἴκοσι",
+          "first_occurrence": [
+            92,
+            2
+          ]
         },
         {
-          "book_entry": "ἑξήκοντα"
+          "book_entry": "ἑξήκοντα",
+          "first_occurrence": [
+            63,
+            4
+          ]
         },
         {
-          "book_entry": "πεντεκαίδεκα"
+          "book_entry": "πεντεκαίδεκα",
+          "first_occurrence": [
+            40,
+            6
+          ]
         },
         {
-          "book_entry": "τεσσαράκοντα"
+          "book_entry": "τεσσαράκοντα",
+          "first_occurrence": [
+            18,
+            6
+          ]
         },
         {
-          "book_entry": "τριάκοντα"
+          "book_entry": "τριάκοντα",
+          "first_occurrence": [
+            29,
+            7
+          ]
         }
       ]
     },
