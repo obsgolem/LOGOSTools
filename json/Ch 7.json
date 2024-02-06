@@ -10,7 +10,11 @@
       "section": "Ῥήματα",
       "words": [
         {
-          "book_entry": "γίγνομαι"
+          "book_entry": "γίγνομαι",
+          "first_occurrence": [
+            1,
+            2
+          ]
         }
       ]
     },
@@ -18,7 +22,11 @@
       "section": "Ἀντωνυμίαι",
       "words": [
         {
-          "book_entry": "αὐτός, αὐτή, αὐτό"
+          "book_entry": "αὐτός, αὐτή, αὐτό",
+          "first_occurrence": [
+            67,
+            2
+          ]
         }
       ]
     },
@@ -26,94 +34,210 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "ἄγγελος, ὁ"
+          "book_entry": "ἄγγελος, ὁ",
+          "first_occurrence": [
+            61,
+            1
+          ]
         },
         {
-          "book_entry": "ἄμπελος, ἡ"
+          "book_entry": "ἄμπελος, ἡ",
+          "first_occurrence": [
+            63,
+            2
+          ]
         },
         {
-          "book_entry": "ἀστρονομία, ἡ"
+          "book_entry": "ἀστρονομία, ἡ",
+          "first_occurrence": [
+            58,
+            6
+          ]
         },
         {
-          "book_entry": "ἀφρός, ὁ"
+          "book_entry": "ἀφρός, ὁ",
+          "first_occurrence": [
+            74,
+            1
+          ]
         },
         {
-          "book_entry": "γάμος, ὁ"
+          "book_entry": "γάμος, ὁ",
+          "first_occurrence": [
+            33,
+            2
+          ]
         },
         {
-          "book_entry": "γεωργία, ἡ"
+          "book_entry": "γεωργία, ἡ",
+          "first_occurrence": [
+            33,
+            7
+          ]
         },
         {
-          "book_entry": "ἐπιστήμη, ἧ"
+          "book_entry": "ἐπιστήμη, ἧ",
+          "first_occurrence": [
+            51,
+            9
+          ]
         },
         {
-          "book_entry": "ἔρως, ὁ"
+          "book_entry": "ἔρως, ὁ",
+          "first_occurrence": [
+            74,
+            7
+          ]
         },
         {
-          "book_entry": "ἑστία, ἡ"
+          "book_entry": "ἑστία, ἡ",
+          "first_occurrence": [
+            32,
+            7
+          ]
         },
         {
-          "book_entry": "εὑρετής, ὁ"
+          "book_entry": "εὑρετής, ὁ",
+          "first_occurrence": [
+            63,
+            3
+          ]
         },
         {
-          "book_entry": "ἡμίθεος, ὁ"
+          "book_entry": "ἡμίθεος, ὁ",
+          "first_occurrence": [
+            65,
+            6
+          ]
         },
         {
-          "book_entry": "ἥρως, ὁ"
+          "book_entry": "ἥρως, ὁ",
+          "first_occurrence": [
+            41,
+            5
+          ]
         },
         {
-          "book_entry": "θήρα, ἡ"
+          "book_entry": "θήρα, ἡ",
+          "first_occurrence": [
+            49,
+            5
+          ]
         },
         {
-          "book_entry": "ἱστορία, ἡ"
+          "book_entry": "ἱστορία, ἡ",
+          "first_occurrence": [
+            56,
+            8
+          ]
         },
         {
-          "book_entry": "κωμῳδία, ἡ"
+          "book_entry": "κωμῳδία, ἡ",
+          "first_occurrence": [
+            56,
+            2
+          ]
         },
         {
-          "book_entry": "μαντεία, ἡ"
+          "book_entry": "μαντεία, ἡ",
+          "first_occurrence": [
+            50,
+            6
+          ]
         },
         {
-          "book_entry": "μοῦσα, ἡ"
+          "book_entry": "μοῦσα, ἡ",
+          "first_occurrence": [
+            51,
+            2
+          ]
         },
         {
-          "book_entry": "μουσική, ἡ"
+          "book_entry": "μουσική, ἡ",
+          "first_occurrence": [
+            57,
+            5
+          ]
         },
         {
-          "book_entry": "νύμφη, ἡ"
+          "book_entry": "νύμφη, ἡ",
+          "first_occurrence": [
+            15,
+            4
+          ]
         },
         {
-          "book_entry": "οἶνος, ὁ"
+          "book_entry": "οἶνος, ὁ",
+          "first_occurrence": [
+            62,
+            8
+          ]
         },
         {
-          "book_entry": "ποίησις, ἡ"
+          "book_entry": "ποίησις, ἡ",
+          "first_occurrence": [
+            54,
+            2
+          ]
         },
         {
-          "book_entry": "ποιητής, ὁ"
+          "book_entry": "ποιητής, ὁ",
+          "first_occurrence": [
+            3,
+            1
+          ]
         },
         {
-          "book_entry": "πόλεμος, ὁ"
+          "book_entry": "πόλεμος, ὁ",
+          "first_occurrence": [
+            45,
+            5
+          ]
         },
         {
-          "book_entry": "πῦρ, τό"
+          "book_entry": "πῦρ, τό",
+          "first_occurrence": [
+            46,
+            2
+          ]
         },
         {
-          "book_entry": "σοφία, ἡ"
+          "book_entry": "σοφία, ἡ",
+          "first_occurrence": [
+            72,
+            7
+          ]
         },
         {
-          "book_entry": "τέχνη, ἡ"
+          "book_entry": "τέχνη, ἡ",
+          "first_occurrence": [
+            50,
+            3
+          ]
         },
         {
-          "book_entry": "τραγῳδία, ἡ"
+          "book_entry": "τραγῳδία, ἡ",
+          "first_occurrence": [
+            55,
+            5
+          ]
         },
         {
-          "book_entry": "ὕμνος, ὁ"
+          "book_entry": "ὕμνος, ὁ",
+          "first_occurrence": [
+            59,
+            3
+          ]
         },
         {
           "book_entry": "_φωνή, ἡ_"
         },
         {
-          "book_entry": "χορός, ὁ"
+          "book_entry": "χορός, ὁ",
+          "first_occurrence": [
+            58,
+            2
+          ]
         }
       ]
     },
@@ -124,19 +248,35 @@
           "book_entry": "_ἐνεργητικός, -ή, -όν_"
         },
         {
-          "book_entry": "ἑπικός, -ἡ, -όν"
+          "book_entry": "ἑπικός, -ἡ, -όν",
+          "first_occurrence": [
+            54,
+            1
+          ]
         },
         {
-          "book_entry": "λυρικός, ή, -όν"
+          "book_entry": "λυρικός, ή, -όν",
+          "first_occurrence": [
+            54,
+            6
+          ]
         },
         {
-          "book_entry": "μέλας, μέλαινα, μέλαν"
+          "book_entry": "μέλας, μέλαινα, μέλαν",
+          "first_occurrence": [
+            5,
+            7
+          ]
         },
         {
           "book_entry": "μέσος, -η, -ον"
         },
         {
-          "book_entry": "πρωτόγονος, -ον"
+          "book_entry": "πρωτόγονος, -ον",
+          "first_occurrence": [
+            27,
+            2
+          ]
         }
       ]
     },
@@ -144,16 +284,37 @@
       "section": "Ἐπιρρήματα",
       "words": [
         {
-          "book_entry": "ἔπειτα"
+          "book_entry": "ἔπειτα",
+          "first_occurrence": [
+            4,
+            1
+          ]
         },
         {
-          "book_entry": "πρῶτον"
+          "book_entry": "πρῶτον",
+          "first_occurrence": [
+            3,
+            4
+          ]
         },
         {
-          "book_entry": "πῶς;"
-        },
+          "book_entry": "πῶς;",
+          "first_occurrence": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Συνδεσμοί",
+      "words": [
         {
-          "book_entry": "Συνδεσμοί φ“ οτι"
+          "book_entry": "ὅτι",
+          "first_occurrence": [
+            3,
+            3
+          ]
         }
       ]
     },
@@ -161,10 +322,11 @@
       "section": "Προθέσεις",
       "words": [
         {
-          "book_entry": "ἐκ/έξ"
-        },
-        {
-          "book_entry": ""
+          "book_entry": "ἐκ/έξ",
+          "first_occurrence": [
+            6,
+            5
+          ]
         }
       ]
     },
