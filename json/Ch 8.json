@@ -144,10 +144,18 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "ἀποικία, ἡ"
+          "book_entry": "ἀποικία, ἡ",
+          "first_occurrence": [
+            69,
+            4
+          ]
         },
         {
-          "book_entry": "χώρα, ἡ"
+          "book_entry": "χώρα, ἡ",
+          "first_occurrence": [
+            2,
+            5
+          ]
         }
       ]
     }
