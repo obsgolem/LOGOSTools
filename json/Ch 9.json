@@ -10,13 +10,25 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "ὄρος, τό"
+          "book_entry": "ὄρος, τό",
+          "first_occurrence": [
+            5,
+            1
+          ]
         },
         {
-          "book_entry": "πέλαγος, τό"
+          "book_entry": "πέλαγος, τό",
+          "first_occurrence": [
+            32,
+            6
+          ]
         },
         {
-          "book_entry": "στενόν, τό"
+          "book_entry": "στενόν, τό",
+          "first_occurrence": [
+            21,
+            6
+          ]
         }
       ]
     },
@@ -24,10 +36,18 @@
       "section": "Ἐπίθετα",
       "words": [
         {
-          "book_entry": "Ἰόνιος, -ον"
+          "book_entry": "Ἰόνιος, -ον",
+          "first_occurrence": [
+            35,
+            7
+          ]
         },
         {
-          "book_entry": "Αἰγαῖος, -α, -ον"
+          "book_entry": "Αἰγαῖος, -α, -ον",
+          "first_occurrence": [
+            32,
+            5
+          ]
         }
       ]
     },
