@@ -10,55 +10,123 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "ἀδελφή, ἡ"
+          "book_entry": "ἀδελφή, ἡ",
+          "first_occurrence": [
+            14,
+            4
+          ]
         },
         {
-          "book_entry": "ἀδελφός, ὁ"
+          "book_entry": "ἀδελφός, ὁ",
+          "first_occurrence": [
+            7,
+            5
+          ]
         },
         {
-          "book_entry": "γονεῖς, οἱ"
+          "book_entry": "γονεῖς, οἱ",
+          "first_occurrence": [
+            3,
+            5
+          ]
         },
         {
-          "book_entry": "δέσποινα, ἡ"
+          "book_entry": "δέσποινα, ἡ",
+          "first_occurrence": [
+            48,
+            1
+          ]
         },
         {
-          "book_entry": "δεσπότης, ὁ"
+          "book_entry": "δεσπότης, ὁ",
+          "first_occurrence": [
+            38,
+            3
+          ]
         },
         {
-          "book_entry": "δούλη, ἡ"
+          "book_entry": "δούλη, ἡ",
+          "first_occurrence": [
+            47,
+            1
+          ]
         },
         {
-          "book_entry": "δοῦλος, ὁ"
+          "book_entry": "δοῦλος, ὁ",
+          "first_occurrence": [
+            37,
+            2
+          ]
         },
         {
-          "book_entry": "ἔγγονος, ὁ / ὴ"
+          "book_entry": "ἔγγονος, ὁ / ὴ",
+          "first_occurrence": [
+            30,
+            1
+          ]
         },
         {
-          "book_entry": "θυγάτηρ, ἡ"
+          "book_entry": "θυγάτηρ, ἡ",
+          "first_occurrence": [
+            11,
+            2
+          ]
         },
         {
-          "book_entry": "μήτηρ, ἡ"
+          "book_entry": "μήτηρ, ἡ",
+          "first_occurrence": [
+            2,
+            5
+          ]
         },
         {
-          "book_entry": "οἶκος, ὁ"
+          "book_entry": "οἶκος, ὁ",
+          "first_occurrence": [
+            1,
+            3
+          ]
         },
         {
-          "book_entry": "πάππος, ὁ"
+          "book_entry": "πάππος, ὁ",
+          "first_occurrence": [
+            21,
+            6
+          ]
         },
         {
-          "book_entry": "πατήρ, ὁ"
+          "book_entry": "πατήρ, ὁ",
+          "first_occurrence": [
+            2,
+            1
+          ]
         },
         {
-          "book_entry": "πρόγονος, ὁ / ἡ"
+          "book_entry": "πρόγονος, ὁ / ἡ",
+          "first_occurrence": [
+            31,
+            7
+          ]
         },
         {
-          "book_entry": "τέκνον, τό"
+          "book_entry": "τέκνον, τό",
+          "first_occurrence": [
+            18,
+            4
+          ]
         },
         {
-          "book_entry": "τήθη, ἡ"
+          "book_entry": "τήθη, ἡ",
+          "first_occurrence": [
+            24,
+            7
+          ]
         },
         {
-          "book_entry": "υἱός, ὁ"
+          "book_entry": "υἱός, ὁ",
+          "first_occurrence": [
+            4,
+            2
+          ]
         }
       ]
     },
@@ -83,10 +151,14 @@
       "section": "Ἐπίθετα",
       "words": [
         {
-          "book_entry": "γενικός, -ή, -όν"
+          "book_entry": "_γενικός, -ή, -όν_"
         },
         {
-          "book_entry": "φίλος, -η, τον"
+          "book_entry": "φίλος, -η, -ον",
+          "first_occurrence": [
+            55,
+            2
+          ]
         }
       ]
     },
@@ -94,7 +166,11 @@
       "section": "Ἐπιρρήματα",
       "words": [
         {
-          "book_entry": "ἰδού"
+          "book_entry": "ἰδού",
+          "first_occurrence": [
+            1,
+            1
+          ]
         }
       ]
     },
