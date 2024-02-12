@@ -10,25 +10,49 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "ἀνήρ, ὁ"
+          "book_entry": "ἀνήρ, ὁ",
+          "first_occurrence": [
+            1,
+            3
+          ]
         },
         {
           "book_entry": "_γένος, τό_"
         },
         {
-          "book_entry": "γυνή, ἡ"
+          "book_entry": "γυνή, ἡ",
+          "first_occurrence": [
+            7,
+            7
+          ]
         },
         {
-          "book_entry": "κόρη, ἡ"
+          "book_entry": "κόρη, ἡ",
+          "first_occurrence": [
+            26,
+            2
+          ]
         },
         {
-          "book_entry": "νεανίας, ὁ"
+          "book_entry": "νεανίας, ὁ",
+          "first_occurrence": [
+            25,
+            5
+          ]
         },
         {
-          "book_entry": "παῖς, ὁ/ἡ"
+          "book_entry": "παῖς, ὁ/ἡ",
+          "first_occurrence": [
+            18,
+            6
+          ]
         },
         {
-          "book_entry": "παιδίον, τό"
+          "book_entry": "παιδίον, τό",
+          "first_occurrence": [
+            20,
+            4
+          ]
         }
       ]
     },
@@ -36,7 +60,11 @@
       "section": "Ἐπίθετα",
       "words": [
         {
-          "book_entry": "ἀθάνατος, -ον"
+          "book_entry": "ἀθάνατος, -ον",
+          "first_occurrence": [
+            43,
+            6
+          ]
         },
         {
           "book_entry": "_ἀρσενικός, -ή, -όν_"
@@ -45,13 +73,25 @@
           "book_entry": "_θηλυκός, -ή, -όν_"
         },
         {
-          "book_entry": "θνητός, -ή, -όν"
+          "book_entry": "θνητός, -ή, -όν",
+          "first_occurrence": [
+            43,
+            3
+          ]
         },
         {
-          "book_entry": "κακός, -ή, -ον"
+          "book_entry": "κακός, -ή, -ον",
+          "first_occurrence": [
+            32,
+            2
+          ]
         },
         {
-          "book_entry": "καλός, -ή, -όν"
+          "book_entry": "καλός, -ή, -όν",
+          "first_occurrence": [
+            31,
+            5
+          ]
         },
         {
           "book_entry": "_οὐδέτερος, -τέρα, -τερον_"
@@ -62,7 +102,11 @@
       "section": "Ἄρθρον",
       "words": [
         {
-          "book_entry": "ὁ, ἡ, τό | οἱ, αἱ, τά"
+          "book_entry": "ὁ, ἡ, τό | οἱ, αἱ, τά",
+          "first_occurrence": [
+            15,
+            6
+          ]
         }
       ]
     },
@@ -70,10 +114,18 @@
       "section": "Ἀριθμοί",
       "words": [
         {
-          "book_entry": "δύο"
+          "book_entry": "δύο",
+          "first_occurrence": [
+            3,
+            2
+          ]
         },
         {
-          "book_entry": "τρεῖς"
+          "book_entry": "τρεῖς",
+          "first_occurrence": [
+            6,
+            3
+          ]
         }
       ]
     },
@@ -81,13 +133,25 @@
       "section": "Σύνδεσμοι",
       "words": [
         {
-          "book_entry": "γάρ"
+          "book_entry": "γάρ",
+          "first_occurrence": [
+            25,
+            3
+          ]
         },
         {
-          "book_entry": "ἤ"
+          "book_entry": "ἤ",
+          "first_occurrence": [
+            66,
+            5
+          ]
         },
         {
-          "book_entry": "οὔτε ... οὔτε"
+          "book_entry": "οὔτε ... οὔτε",
+          "first_occurrence": [
+            24,
+            3
+          ]
         }
       ]
     },
@@ -95,7 +159,11 @@
       "section": "Μόρια",
       "words": [
         {
-          "book_entry": "οὖν"
+          "book_entry": "οὖν",
+          "first_occurrence": [
+            13,
+            3
+          ]
         }
       ]
     },
@@ -121,16 +189,32 @@
           "book_entry": "Καλλιρρόη, ἡ"
         },
         {
-          "book_entry": "Κασσάνδρα, ἡ"
+          "book_entry": "Κασσάνδρα, ἡ",
+          "first_occurrence": [
+            22,
+            3
+          ]
         },
         {
-          "book_entry": "Πάτροκλος, ὁ"
+          "book_entry": "Πάτροκλος, ὁ",
+          "first_occurrence": [
+            22,
+            6
+          ]
         },
         {
-          "book_entry": "Ὑπατία, ἡ"
+          "book_entry": "Ὑπατία, ἡ",
+          "first_occurrence": [
+            17,
+            4
+          ]
         },
         {
-          "book_entry": "Φίλιππος, ὁ"
+          "book_entry": "Φίλιππος, ὁ",
+          "first_occurrence": [
+            4,
+            1
+          ]
         }
       ]
     }
