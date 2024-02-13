@@ -10,40 +10,84 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "ἀπόγονος, ὁ"
+          "book_entry": "ἀπόγονος, ὁ",
+          "first_occurrence": [
+            52,
+            5
+          ]
         },
         {
-          "book_entry": "ἀρχηγέτης, ὁ"
+          "book_entry": "ἀρχηγέτης, ὁ",
+          "first_occurrence": [
+            60,
+            1
+          ]
         },
         {
-          "book_entry": "γενάρχης, ὁ"
+          "book_entry": "γενάρχης, ὁ",
+          "first_occurrence": [
+            68,
+            2
+          ]
         },
         {
-          "book_entry": "διάλεκτος, ἡ"
+          "book_entry": "διάλεκτος, ἡ",
+          "first_occurrence": [
+            100,
+            1
+          ]
         },
         {
-          "book_entry": "ἡγεμονία, ἡ"
+          "book_entry": "ἡγεμονία, ἡ",
+          "first_occurrence": [
+            89,
+            6
+          ]
         },
         {
-          "book_entry": "ἱστοριογράφος, ὁ"
+          "book_entry": "ἱστοριογράφος, ὁ",
+          "first_occurrence": [
+            109,
+            2
+          ]
         },
         {
-          "book_entry": "κάτοικος, ὁ"
+          "book_entry": "κάτοικος, ὁ",
+          "first_occurrence": [
+            46,
+            7
+          ]
         },
         {
           "book_entry": "παροιμία, ἡ"
         },
         {
-          "book_entry": "ῥήτωρ, ὁ"
+          "book_entry": "ῥήτωρ, ὁ",
+          "first_occurrence": [
+            88,
+            2
+          ]
         },
         {
-          "book_entry": "τόπος, ὁ"
+          "book_entry": "τόπος, ὁ",
+          "first_occurrence": [
+            21,
+            3
+          ]
         },
         {
-          "book_entry": "φυλή, ἡ"
+          "book_entry": "φυλή, ἡ",
+          "first_occurrence": [
+            59,
+            6
+          ]
         },
         {
-          "book_entry": "χώρος, ὁ"
+          "book_entry": "χώρος, ὁ",
+          "first_occurrence": [
+            63,
+            6
+          ]
         }
       ]
     },
@@ -104,73 +148,153 @@
       "section": "Ἐπίθετα",
       "words": [
         {
-          "book_entry": "Αἰολεύς, Αἰολίς"
+          "book_entry": "Αἰολεύς, Αἰολίς",
+          "first_occurrence": [
+            39,
+            2
+          ]
         },
         {
-          "book_entry": "αἰολικός. -ή, -όν"
+          "book_entry": "αἰολικός. -ή, -όν",
+          "first_occurrence": [
+            99,
+            6
+          ]
         },
         {
-          "book_entry": "Ἁλικαρνασσεύς, -ίς"
+          "book_entry": "Ἁλικαρνασσεύς, -ίς",
+          "first_occurrence": [
+            109,
+            1
+          ]
         },
         {
-          "book_entry": "ἄριστος, -η, -ον"
+          "book_entry": "ἄριστος, -η, -ον",
+          "first_occurrence": [
+            87,
+            7
+          ]
         },
         {
-          "book_entry": "ἀρχαῖος, -α, τον"
+          "book_entry": "ἀρχαῖος, -α, -ον",
+          "first_occurrence": [
+            38,
+            2
+          ]
         },
         {
-          "book_entry": "Ἀχαιός, -ά"
+          "book_entry": "Ἀχαιός, -ά",
+          "first_occurrence": [
+            39,
+            2
+          ]
         },
         {
-          "book_entry": "βάρβαρος, -ον"
+          "book_entry": "βάρβαρος, -ον",
+          "first_occurrence": [
+            18,
+            2
+          ]
         },
         {
-          "book_entry": "Βοιώτιος, -α"
+          "book_entry": "Βοιώτιος, -α",
+          "first_occurrence": [
+            48,
+            4
+          ]
         },
         {
-          "book_entry": "Γαλάτης, Γαλάτισσα"
+          "book_entry": "Γαλάτης, Γαλάτισσα",
+          "first_occurrence": [
+            29,
+            5
+          ]
         },
         {
-          "book_entry": "Γραικός, -ή"
+          "book_entry": "Γραικός, -ή",
+          "first_occurrence": [
+            51,
+            5
+          ]
         },
         {
-          "book_entry": "Δωριεύς, Δωρίς"
+          "book_entry": "Δωριεύς, Δωρίς",
+          "first_occurrence": [
+            39,
+            3
+          ]
         },
         {
           "book_entry": "ἐθνικός, -ή, -ον"
         },
         {
-          "book_entry": "Ἑλλαδικός, -ή, -όν"
+          "book_entry": "Ἑλλαδικός, -ή, -όν",
+          "first_occurrence": [
+            63,
+            5
+          ]
         },
         {
-          "book_entry": "Ἐφέσιος, -α"
+          "book_entry": "Ἐφέσιος, -α",
+          "first_occurrence": [
+            50,
+            1
+          ]
         },
         {
-          "book_entry": "Θεσσαλός, -ίς"
+          "book_entry": "Θεσσαλός, -ίς",
+          "first_occurrence": [
+            48,
+            2
+          ]
         },
         {
-          "book_entry": "Θηβαῖος, -α"
+          "book_entry": "Θηβαῖος, -α",
+          "first_occurrence": [
+            105,
+            7
+          ]
         },
         {
-          "book_entry": "Ἴβηρ, Ἰβηρίς"
+          "book_entry": "Ἴβηρ, Ἰβηρίς",
+          "first_occurrence": [
+            32,
+            7
+          ]
         },
         {
           "book_entry": "Ἴων, Ἰωνίς"
         },
         {
-          "book_entry": "Κιτιεύς, Κιτίς"
+          "book_entry": "Κιτιεύς, Κιτίς",
+          "first_occurrence": [
+            123,
+            6
+          ]
         },
         {
-          "book_entry": "Κορίνθιος, -α"
+          "book_entry": "Κορίνθιος, -α",
+          "first_occurrence": [
+            45,
+            1
+          ]
         },
         {
           "book_entry": "Κρής, Κρῆσσα"
         },
         {
-          "book_entry": "Κύπριος, -α"
+          "book_entry": "Κύπριος, -α",
+          "first_occurrence": [
+            123,
+            1
+          ]
         },
         {
-          "book_entry": "Λέσβιος, Λεσβίς"
+          "book_entry": "Λέσβιος, Λεσβίς",
+          "first_occurrence": [
+            114,
+            6
+          ]
         },
         {
           "book_entry": "Μῆδος, Μηδίς"
@@ -200,7 +324,11 @@
           "book_entry": "Σύριος, -α"
         },
         {
-          "book_entry": "τοπικός, -ή, -όν"
+          "book_entry": "τοπικός, -ή, -όν",
+          "first_occurrence": [
+            99,
+            2
+          ]
         }
       ]
     },
@@ -208,49 +336,101 @@
       "section": "Ῥήματα",
       "words": [
         {
-          "book_entry": "αἰολίζω"
+          "book_entry": "αἰολίζω",
+          "first_occurrence": [
+            112,
+            4
+          ]
         },
         {
           "book_entry": "ἀποδοκιμάζω"
         },
         {
-          "book_entry": "ἀττικίζω"
+          "book_entry": "ἀττικίζω",
+          "first_occurrence": [
+            117,
+            3
+          ]
         },
         {
-          "book_entry": "βαρβαρίζω"
+          "book_entry": "βαρβαρίζω",
+          "first_occurrence": [
+            26,
+            7
+          ]
         },
         {
-          "book_entry": "βασιλεύω"
+          "book_entry": "βασιλεύω",
+          "first_occurrence": [
+            79,
+            4
+          ]
         },
         {
-          "book_entry": "γεννάω"
+          "book_entry": "γεννάω",
+          "first_occurrence": [
+            75,
+            4
+          ]
         },
         {
           "book_entry": "διαφέρω"
         },
         {
-          "book_entry": "δωρίζω"
+          "book_entry": "δωρίζω",
+          "first_occurrence": [
+            101,
+            4
+          ]
         },
         {
-          "book_entry": "ἑλληνίζω"
+          "book_entry": "ἑλληνίζω",
+          "first_occurrence": [
+            9,
+            5
+          ]
         },
         {
-          "book_entry": "ἐπίσταμαι"
+          "book_entry": "ἐπίσταμαι",
+          "first_occurrence": [
+            2,
+            5
+          ]
         },
         {
-          "book_entry": "ἰωνίζω"
+          "book_entry": "ἰωνίζω",
+          "first_occurrence": [
+            107,
+            4
+          ]
         },
         {
-          "book_entry": "λαλέω"
+          "book_entry": "λαλέω",
+          "first_occurrence": [
+            2,
+            3
+          ]
         },
         {
-          "book_entry": "μερίζω"
+          "book_entry": "μερίζω",
+          "first_occurrence": [
+            73,
+            5
+          ]
         },
         {
-          "book_entry": "ὀνομάζω, -ομαι"
+          "book_entry": "ὀνομάζω, -ομαι",
+          "first_occurrence": [
+            63,
+            1
+          ]
         },
         {
-          "book_entry": "προσαγορεύω"
+          "book_entry": "προσαγορεύω",
+          "first_occurrence": [
+            95,
+            6
+          ]
         }
       ]
     },
@@ -266,7 +446,11 @@
       "section": "Ἀντωνυμίαι",
       "words": [
         {
-          "book_entry": "ὅσοι, ὅσαι, ὅσα"
+          "book_entry": "ὅσοι, ὅσαι, ὅσα",
+          "first_occurrence": [
+            17,
+            3
+          ]
         }
       ]
     },
@@ -274,13 +458,25 @@
       "section": "Ἐπιρήματα",
       "words": [
         {
-          "book_entry": "ἑλληνιστί"
+          "book_entry": "ἑλληνιστί",
+          "first_occurrence": [
+            6,
+            6
+          ]
         },
         {
-          "book_entry": "πέραν"
+          "book_entry": "πέραν",
+          "first_occurrence": [
+            77,
+            4
+          ]
         },
         {
-          "book_entry": "πρότερον"
+          "book_entry": "πρότερον",
+          "first_occurrence": [
+            71,
+            8
+          ]
         }
       ]
     },
@@ -288,7 +484,11 @@
       "section": "Φράσεις",
       "words": [
         {
-          "book_entry": "Χαλεπὰ τὰ καλά"
+          "book_entry": "Χαλεπὰ τὰ καλά",
+          "first_occurrence": [
+            36,
+            1
+          ]
         }
       ]
     }
