@@ -10,88 +10,188 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "ἀγών, ὁ"
+          "book_entry": "ἀγών, ὁ",
+          "first_occurrence": [
+            83,
+            5
+          ]
         },
         {
-          "book_entry": "ἀριστοκρατία, ἡ"
+          "book_entry": "ἀριστοκρατία, ἡ",
+          "first_occurrence": [
+            8,
+            4
+          ]
         },
         {
-          "book_entry": "ἄρχων, ὁ"
+          "book_entry": "ἄρχων, ὁ",
+          "first_occurrence": [
+            69,
+            3
+          ]
         },
         {
-          "book_entry": "ἀσέβεια, ἡ"
+          "book_entry": "ἀσέβεια, ἡ",
+          "first_occurrence": [
+            104,
+            4
+          ]
         },
         {
           "book_entry": "βουλευτής, ὁ"
         },
         {
-          "book_entry": "βουλή, ἡ"
+          "book_entry": "βουλή, ἡ",
+          "first_occurrence": [
+            48,
+            3
+          ]
         },
         {
-          "book_entry": "γραφή, ἡ"
+          "book_entry": "γραφή, ἡ",
+          "first_occurrence": [
+            84,
+            3
+          ]
         },
         {
-          "book_entry": "δημοκρατία, ἡ"
+          "book_entry": "δημοκρατία, ἡ",
+          "first_occurrence": [
+            6,
+            1
+          ]
         },
         {
-          "book_entry": "δημότης, ὁ,"
+          "book_entry": "δημότης, ὁ,",
+          "first_occurrence": [
+            34,
+            6
+          ]
         },
         {
-          "book_entry": "διαρχία, ἡ"
+          "book_entry": "διαρχία, ἡ",
+          "first_occurrence": [
+            17,
+            6
+          ]
         },
         {
-          "book_entry": "δικαστήριον, τό"
+          "book_entry": "δικαστήριον, τό",
+          "first_occurrence": [
+            85,
+            8
+          ]
         },
         {
           "book_entry": "δίκη, ἡ"
         },
         {
-          "book_entry": "δοκιμασία, ἡ"
+          "book_entry": "δοκιμασία, ἡ",
+          "first_occurrence": [
+            116,
+            2
+          ]
         },
         {
-          "book_entry": "εἶδος, τό"
+          "book_entry": "εἶδος, τό",
+          "first_occurrence": [
+            1,
+            6
+          ]
         },
         {
-          "book_entry": "εἰσαγγελία, ἡ"
+          "book_entry": "εἰσαγγελία, ἡ",
+          "first_occurrence": [
+            114,
+            6
+          ]
         },
         {
-          "book_entry": "ἐκκλησία, ἡ"
+          "book_entry": "ἐκκλησία, ἡ",
+          "first_occurrence": [
+            49,
+            1
+          ]
         },
         {
-          "book_entry": "ἐκκλησιαστής, ὁ"
+          "book_entry": "ἐκκλησιαστής, ὁ",
+          "first_occurrence": [
+            51,
+            4
+          ]
         },
         {
-          "book_entry": "ἐνάγισμα, τό"
+          "book_entry": "ἐνάγισμα, τό",
+          "first_occurrence": [
+            108,
+            5
+          ]
         },
         {
-          "book_entry": "ἐπιβολή, ἡ"
+          "book_entry": "ἐπιβολή, ἡ",
+          "first_occurrence": [
+            129,
+            1
+          ]
         },
         {
-          "book_entry": "ἐπίκληρος, ἡ"
+          "book_entry": "ἐπίκληρος, ἡ",
+          "first_occurrence": [
+            92,
+            6
+          ]
         },
         {
-          "book_entry": "ἔπος, τό"
+          "book_entry": "ἔπος, τό",
+          "first_occurrence": [
+            102,
+            4
+          ]
         },
         {
-          "book_entry": "θεσμοθέτης, ὁ"
+          "book_entry": "θεσμοθέτης, ὁ",
+          "first_occurrence": [
+            75,
+            8
+          ]
         },
         {
-          "book_entry": "θεσμός, ὁ"
+          "book_entry": "θεσμός, ὁ",
+          "first_occurrence": [
+            113,
+            5
+          ]
         },
         {
-          "book_entry": "ἵππαρχος, ὁ"
+          "book_entry": "ἵππαρχος, ὁ",
+          "first_occurrence": [
+            133,
+            7
+          ]
         },
         {
-          "book_entry": "κάκωσις, ἡ"
+          "book_entry": "κάκωσις, ἡ",
+          "first_occurrence": [
+            97,
+            1
+          ]
         },
         {
-          "book_entry": "κατάστασις, ἡ"
+          "book_entry": "κατάστασις, ἡ",
+          "first_occurrence": [
+            31,
+            6
+          ]
         },
         {
           "book_entry": "κράτος, τό"
         },
         {
-          "book_entry": "κωμῳδός, ὁ"
+          "book_entry": "κωμῳδός, ὁ",
+          "first_occurrence": [
+            98,
+            4
+          ]
         },
         {
           "book_entry": "λαμπάς, ἡ"
@@ -100,61 +200,125 @@
           "book_entry": "λαός, ὁ"
         },
         {
-          "book_entry": "μονάρχης, ὁ"
+          "book_entry": "μονάρχης, ὁ",
+          "first_occurrence": [
+            14,
+            3
+          ]
         },
         {
-          "book_entry": "μοναρχία, ἡ"
+          "book_entry": "μοναρχία, ἡ",
+          "first_occurrence": [
+            13,
+            1
+          ]
         },
         {
           "book_entry": "νόμος, ὁ"
         },
         {
-          "book_entry": "ὀλιγαρχία, ἡ"
+          "book_entry": "ὀλιγαρχία, ἡ",
+          "first_occurrence": [
+            10,
+            2
+          ]
         },
         {
-          "book_entry": "πολέμαρχος, ὁ"
+          "book_entry": "πολέμαρχος, ὁ",
+          "first_occurrence": [
+            79,
+            5
+          ]
         },
         {
-          "book_entry": "πολῖτις, ἡ"
+          "book_entry": "πολῖτις, ἡ",
+          "first_occurrence": [
+            139,
+            2
+          ]
         },
         {
-          "book_entry": "πομπή, ἡ"
+          "book_entry": "πομπή, ἡ",
+          "first_occurrence": [
+            84,
+            2
+          ]
         },
         {
-          "book_entry": "πράγμα, τό"
+          "book_entry": "πράγμα, τό",
+          "first_occurrence": [
+            8,
+            3
+          ]
         },
         {
-          "book_entry": "σύμβολον, τό"
+          "book_entry": "σύμβολον, τό",
+          "first_occurrence": [
+            118,
+            3
+          ]
         },
         {
-          "book_entry": "συνέδριον, τό"
+          "book_entry": "συνέδριον, τό",
+          "first_occurrence": [
+            51,
+            1
+          ]
         },
         {
-          "book_entry": "ταξίαρχος, ὁ"
+          "book_entry": "ταξίαρχος, ὁ",
+          "first_occurrence": [
+            131,
+            5
+          ]
         },
         {
           "book_entry": "τάξις, ἡ"
         },
         {
-          "book_entry": "τυραννίς, ἡ"
+          "book_entry": "τυραννίς, ἡ",
+          "first_occurrence": [
+            19,
+            5
+          ]
         },
         {
           "book_entry": "τραγῳδός, ὁ"
         },
         {
-          "book_entry": "τρόπος, ὁ"
+          "book_entry": "τρόπος, ὁ",
+          "first_occurrence": [
+            32,
+            5
+          ]
         },
         {
-          "book_entry": "τύραννος, ὁ"
+          "book_entry": "τύραννος, ὁ",
+          "first_occurrence": [
+            24,
+            7
+          ]
         },
         {
-          "book_entry": "φόνος, ὁ"
+          "book_entry": "φόνος, ὁ",
+          "first_occurrence": [
+            105,
+            2
+          ]
         },
         {
-          "book_entry": "χορηγός, ὁ"
+          "book_entry": "χορηγός, ὁ",
+          "first_occurrence": [
+            87,
+            5
+          ]
         },
         {
-          "book_entry": "ψευδομαρτύριον, τό"
+          "book_entry": "ψευδομαρτύριον, τό",
+          "first_occurrence": [
+            117,
+            4
+          ]
         }
       ]
     },
@@ -162,10 +326,18 @@
       "section": "Σύνδεσμοι",
       "words": [
         {
-          "book_entry": "μήτε .... μήτε"
+          "book_entry": "μήτε .... μήτε",
+          "first_occurrence": [
+            11,
+            2
+          ]
         },
         {
-          "book_entry": "ὅταν"
+          "book_entry": "ὅταν",
+          "first_occurrence": [
+            127,
+            5
+          ]
         }
       ]
     },
@@ -173,7 +345,11 @@
       "section": "Ἀριθμοί",
       "words": [
         {
-          "book_entry": "πεντακόσιοι"
+          "book_entry": "πεντακόσιοι",
+          "first_occurrence": [
+            71,
+            3
+          ]
         }
       ]
     },
@@ -189,79 +365,175 @@
       "section": "Ῥήματα",
       "words": [
         {
-          "book_entry": "ἀναγράφω"
+          "book_entry": "ἀναγράφω",
+          "first_occurrence": [
+            113,
+            6
+          ]
         },
         {
-          "book_entry": "ἀνακρίνω"
+          "book_entry": "ἀνακρίνω",
+          "first_occurrence": [
+            85,
+            5
+          ]
         },
         {
-          "book_entry": "ἀτακτέω"
+          "book_entry": "ἀτακτέω",
+          "first_occurrence": [
+            128,
+            3
+          ]
         },
         {
-          "book_entry": "βουλεύω"
+          "book_entry": "βουλεύω",
+          "first_occurrence": [
+            47,
+            8
+          ]
         },
         {
-          "book_entry": "δέω"
+          "book_entry": "δέω",
+          "first_occurrence": [
+            128,
+            1
+          ]
         },
         {
-          "book_entry": "διαχειρίζω"
+          "book_entry": "διαχειρίζω",
+          "first_occurrence": [
+            65,
+            4
+          ]
         },
         {
-          "book_entry": "δοκιμάζω"
+          "book_entry": "δοκιμάζω",
+          "first_occurrence": [
+            65,
+            5
+          ]
         },
         {
-          "book_entry": "ἐγγράφω, -ομαι"
+          "book_entry": "ἐγγράφω, -ομαι",
+          "first_occurrence": [
+            34,
+            3
+          ]
         },
         {
           "book_entry": "ἔθω"
         },
         {
-          "book_entry": "εἰσαγγέλλω"
+          "book_entry": "εἰσαγγέλλω",
+          "first_occurrence": [
+            114,
+            7
+          ]
         },
         {
-          "book_entry": "ἐκκλησιάζω"
+          "book_entry": "ἐκκλησιάζω",
+          "first_occurrence": [
+            48,
+            6
+          ]
         },
         {
-          "book_entry": "ἐκκηρύσσω"
+          "book_entry": "ἐκκηρύσσω",
+          "first_occurrence": [
+            128,
+            5
+          ]
         },
         {
-          "book_entry": "ἐπιβάλλω"
+          "book_entry": "ἐπιβάλλω",
+          "first_occurrence": [
+            94,
+            1
+          ]
         },
         {
-          "book_entry": "ἐπιμελέομαι"
+          "book_entry": "ἐπιμελέομαι",
+          "first_occurrence": [
+            53,
+            3
+          ]
         },
         {
-          "book_entry": "καθίστημι"
+          "book_entry": "καθίστημι",
+          "first_occurrence": [
+            88,
+            5
+          ]
         },
         {
-          "book_entry": "κληρόω, -έομαι"
+          "book_entry": "κληρόω, -έομαι",
+          "first_occurrence": [
+            70,
+            1
+          ]
         },
         {
-          "book_entry": "κρίνω, -ομαι"
+          "book_entry": "κρίνω, -ομαι",
+          "first_occurrence": [
+            55,
+            2
+          ]
         },
         {
-          "book_entry": "κυρόω"
+          "book_entry": "κυρόω",
+          "first_occurrence": [
+            119,
+            1
+          ]
         },
         {
-          "book_entry": "λαγχάνω, -ομαι"
+          "book_entry": "λαγχάνω, -ομαι",
+          "first_occurrence": [
+            84,
+            7
+          ]
         },
         {
-          "book_entry": "μετέχω"
+          "book_entry": "μετέχω",
+          "first_occurrence": [
+            32,
+            7
+          ]
         },
         {
-          "book_entry": "μοναρχέω"
+          "book_entry": "μοναρχέω",
+          "first_occurrence": [
+            14,
+            6
+          ]
         },
         {
-          "book_entry": "νομοθετέω"
+          "book_entry": "νομοθετέω",
+          "first_occurrence": [
+            46,
+            7
+          ]
         },
         {
-          "book_entry": "πολιτεύω"
+          "book_entry": "πολιτεύω",
+          "first_occurrence": [
+            44,
+            3
+          ]
         },
         {
-          "book_entry": "συνεδρεύω"
+          "book_entry": "συνεδρεύω",
+          "first_occurrence": [
+            61,
+            1
+          ]
         },
         {
-          "book_entry": "τίθημι"
+          "book_entry": "τίθημι",
+          "first_occurrence": [
+            101,
+            1
+          ]
         }
       ]
     },
@@ -269,10 +541,18 @@
       "section": "Ἐπιρρήματα",
       "words": [
         {
-          "book_entry": "πολιτικῶς"
+          "book_entry": "πολιτικῶς",
+          "first_occurrence": [
+            25,
+            4
+          ]
         },
         {
-          "book_entry": "τυραννικῶς"
+          "book_entry": "τυραννικῶς",
+          "first_occurrence": [
+            26,
+            1
+          ]
         }
       ]
     },
@@ -280,46 +560,102 @@
       "section": "Ἐπίθετα",
       "words": [
         {
-          "book_entry": "ἅπας, ἅπασα, ἅπαν"
+          "book_entry": "ἅπας, ἅπασα, ἅπαν",
+          "first_occurrence": [
+            69,
+            4
+          ]
         },
         {
-          "book_entry": "ἀριστοκρατικός, -ή, -όν"
+          "book_entry": "ἀριστοκρατικός, -ή, -όν",
+          "first_occurrence": [
+            3,
+            6
+          ]
         },
         {
-          "book_entry": "δημοτικός, -ή, -όν"
+          "book_entry": "δημοτικός, -ή, -όν",
+          "first_occurrence": [
+            23,
+            1
+          ]
         },
         {
-          "book_entry": "ἐπιτάφιος, -ον"
+          "book_entry": "ἐπιτάφιος, -ον",
+          "first_occurrence": [
+            106,
+            1
+          ]
         },
         {
-          "book_entry": "ἐπώνυμος, -ον"
+          "book_entry": "ἐπώνυμος, -ον",
+          "first_occurrence": [
+            75,
+            3
+          ]
         },
         {
-          "book_entry": "Καρχηδόνιος, -α, -ον"
+          "book_entry": "Καρχηδόνιος, -α, -ον",
+          "first_occurrence": [
+            17,
+            5
+          ]
         },
         {
-          "book_entry": "κληρωτός, -ή, -όν"
+          "book_entry": "κληρωτός, -ή, -όν",
+          "first_occurrence": [
+            68,
+            3
+          ]
         },
         {
-          "book_entry": "κύριος, -α, τον"
+          "book_entry": "κύριος, -α, -ον",
+          "first_occurrence": [
+            7,
+            6
+          ]
         },
         {
-          "book_entry": "Ληναῖος, -α, τον"
+          "book_entry": "Ληναῖος, -α, -ον",
+          "first_occurrence": [
+            100,
+            1
+          ]
         },
         {
-          "book_entry": "ὀρφανός, -ή, -όν"
+          "book_entry": "ὀρφανός, -ή, -όν",
+          "first_occurrence": [
+            92,
+            4
+          ]
         },
         {
-          "book_entry": "πέμπτον, -η, -ον"
+          "book_entry": "πέμπτον, -η, -ον",
+          "first_occurrence": [
+            5,
+            4
+          ]
         },
         {
-          "book_entry": "μοναρχικός, -ή, -όν"
+          "book_entry": "μοναρχικός, -ή, -όν",
+          "first_occurrence": [
+            4,
+            8
+          ]
         },
         {
-          "book_entry": "τέταρτον, -η, -ον"
+          "book_entry": "τέταρτον, -η, -ον",
+          "first_occurrence": [
+            4,
+            6
+          ]
         },
         {
-          "book_entry": "τυραννικός, -ή, -όν"
+          "book_entry": "τυραννικός, -ή, -όν",
+          "first_occurrence": [
+            5,
+            7
+          ]
         }
       ]
     },
