@@ -10,7 +10,8 @@
       "section": "Ῥήματα",
       "words": [
         {
-          "book_entry": "ἄγω"
+          "book_entry": "ἄγω", 
+          "first_occurrence": [139,6]
         },
         {
           "book_entry": "αἱρέω",
