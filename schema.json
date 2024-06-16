@@ -54,6 +54,10 @@
                                 "macronized": {
                                     "description": "The entry with any ambiguous long vowels macronized.",
                                     "type": "string"
+                                },
+                                "gloss": {
+                                    "description": "A short definition in english for the word.",
+                                    "type": "string"
                                 }
                             },
                             "additionalProperties": false,

@@ -14,49 +14,56 @@
           "first_occurrence": [
             71,
             2
-          ]
+          ],
+          "gloss": "to be in the ἀγορά"
         },
         {
           "book_entry": "διαλέγομαι",
           "first_occurrence": [
             68,
             1
-          ]
+          ],
+          "gloss": "(passive deponent) converse with (+ dat.)"
         },
         {
           "book_entry": "κελεύω",
           "first_occurrence": [
             37,
             5
-          ]
+          ],
+          "gloss": "order, command"
         },
         {
           "book_entry": "κλείω",
           "first_occurrence": [
             56,
             3
-          ]
+          ],
+          "gloss": "close, shut (verb)"
         },
         {
           "book_entry": "παίζω",
           "first_occurrence": [
             21,
             4
-          ]
+          ],
+          "gloss": "play; joke (at) (verb)"
         },
         {
           "book_entry": "περιπατέω",
           "first_occurrence": [
             69,
             1
-          ]
+          ],
+          "gloss": "to walk up and down, to walk about"
         },
         {
           "book_entry": "σπεύδω",
           "first_occurrence": [
             47,
             5
-          ]
+          ],
+          "gloss": "seek eagerly, strive (+ inf.); (intrans.) rush, hasten"
         }
       ]
     },
@@ -68,7 +75,8 @@
           "first_occurrence": [
             54,
             1
-          ]
+          ],
+          "gloss": "of or belonging to the courtyard (αὐλή)"
         },
         {
           "book_entry": "δωρικός, -ή, -όν",
@@ -82,7 +90,8 @@
           "first_occurrence": [
             70,
             9
-          ]
+          ],
+          "gloss": "made for a purpose, suitable; useful, necessary"
         },
         {
           "book_entry": "ἰωνικός, -ή, -όν",
@@ -108,7 +117,8 @@
           "first_occurrence": [
             14,
             4
-          ]
+          ],
+          "gloss": "now"
         }
       ]
     },
@@ -120,21 +130,24 @@
           "first_occurrence": [
             83,
             6
-          ]
+          ],
+          "gloss": "a sausage-dealer"
         },
         {
           "book_entry": "ἀλλᾶς, ὁ",
           "first_occurrence": [
             76,
             3
-          ]
+          ],
+          "gloss": "a sausage"
         },
         {
           "book_entry": "ἀνάγκη, ἡ",
           "first_occurrence": [
             40,
             3
-          ]
+          ],
+          "gloss": "force, constraint, necessity"
         },
         {
           "book_entry": "_ἀπαρέμφατος, ἡ_"
@@ -144,160 +157,184 @@
           "first_occurrence": [
             85,
             1
-          ]
+          ],
+          "gloss": "bookseller"
         },
         {
           "book_entry": "βύρσα, ἡ",
           "first_occurrence": [
             78,
             4
-          ]
+          ],
+          "gloss": "the skin stripped off, a hide"
         },
         {
           "book_entry": "βυρσοπώλης, ὁ",
           "first_occurrence": [
             113,
             1
-          ]
+          ],
+          "gloss": "a leather-seller"
         },
         {
           "book_entry": "γένεσις, ἡ",
           "first_occurrence": [
             12,
             4
-          ]
+          ],
+          "gloss": "birth (noun)"
         },
         {
           "book_entry": "δραχμή, ἡ",
           "first_occurrence": [
             126,
             2
-          ]
+          ],
+          "gloss": "drachma (noun)"
         },
         {
           "book_entry": "ἔνδυμα, τό",
           "first_occurrence": [
             73,
             1
-          ]
+          ],
+          "gloss": "a garment"
         },
         {
           "book_entry": "θεράπαινα, ἡ",
           "first_occurrence": [
             86,
             4
-          ]
+          ],
+          "gloss": "maidservant (noun)"
         },
         {
           "book_entry": "θυρωρός, ὁ",
           "first_occurrence": [
             55,
             2
-          ]
+          ],
+          "gloss": "a door-keeper, porter"
         },
         {
           "book_entry": "καιρός, ὁ",
           "first_occurrence": [
             14,
             6
-          ]
+          ],
+          "gloss": "right moment"
         },
         {
           "book_entry": "κάλαθος, ὁ",
           "first_occurrence": [
             49,
             3
-          ]
+          ],
+          "gloss": "a vase-shaped basket"
         },
         {
           "book_entry": "καπηλεῖον, τό",
           "first_occurrence": [
             72,
             7
-          ]
+          ],
+          "gloss": "shop of a κάπηλος, freq. of a tavern"
         },
         {
           "book_entry": "κάπηλος, ὁ",
           "first_occurrence": [
             82,
             5
-          ]
+          ],
+          "gloss": "a retail-dealer, huckster, hawker, peddlar, higgler"
         },
         {
           "book_entry": "κόσμημα, τό",
           "first_occurrence": [
             73,
             2
-          ]
+          ],
+          "gloss": "an ornament, decoration"
         },
         {
-          "book_entry": "λάχανον, τό"
+          "book_entry": "λάχανον, τό",
+          "gloss": "garden-herbs, potherbs, vegetables, greens"
         },
         {
           "book_entry": "λαχανοπώλης, ὁ",
           "first_occurrence": [
             82,
             2
-          ]
+          ],
+          "gloss": "one who sells vegetables, a green-grocer"
         },
         {
-          "book_entry": "μύρον, τό"
+          "book_entry": "μύρον, τό",
+          "gloss": "sweet juice extracted form plants, sweet-oil, unguent, balsam"
         },
         {
           "book_entry": "μυροπώλης, ὁ",
           "first_occurrence": [
             113,
             5
-          ]
+          ],
+          "gloss": "a dealer in unguents"
         },
         {
           "book_entry": "ὀβολός, ὁ",
           "first_occurrence": [
             139,
             5
-          ]
+          ],
+          "gloss": "an obol"
         },
         {
           "book_entry": "ὅπλον, τό",
           "first_occurrence": [
             73,
             5
-          ]
+          ],
+          "gloss": "tool; (pl.) weapons"
         },
         {
           "book_entry": "ὄχλος, ὁ",
           "first_occurrence": [
             67,
             4
-          ]
+          ],
+          "gloss": "a moving crowd, a throng, mob"
         },
         {
           "book_entry": "προβατοπώλης, ὁ",
           "first_occurrence": [
             85,
             4
-          ]
+          ],
+          "gloss": "a sheep-dealer"
         },
         {
           "book_entry": "πώλησις, ἡ",
           "first_occurrence": [
             120,
             2
-          ]
+          ],
+          "gloss": "a selling, sale"
         },
         {
           "book_entry": "στοά, ἡ",
           "first_occurrence": [
             70,
             1
-          ]
+          ],
+          "gloss": "a roofed colonnade, piazza, cloister"
         },
         {
           "book_entry": "χρῆμα, τό",
           "first_occurrence": [
             94,
             3
-          ]
+          ],
+          "gloss": "thing, (pl.) goods, property, money"
         }
       ]
     },
@@ -316,14 +353,16 @@
           "first_occurrence": [
             133,
             5
-          ]
+          ],
+          "gloss": "that"
         },
         {
           "book_entry": "ὅδε, ἥδε, τόδε",
           "first_occurrence": [
             126,
             2
-          ]
+          ],
+          "gloss": "this"
         }
       ]
     },
@@ -331,7 +370,8 @@
       "section": "Προθέσεις",
       "words": [
         {
-          "book_entry": "παρά + δοτ."
+          "book_entry": "παρά + δοτ.",
+          "gloss": "from (the side of) (+ gen); at (the side of), at the house of (+ dat); to (the side of), beside, contrary to (+ acc)"
         }
       ]
     }

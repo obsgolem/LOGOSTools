@@ -14,21 +14,24 @@
           "first_occurrence": [
             1,
             3
-          ]
+          ],
+          "gloss": "to cause to rise up; rise up"
         },
         {
           "book_entry": "ἀνοίγω",
           "first_occurrence": [
             3,
             4
-          ]
+          ],
+          "gloss": "open, cleave, break open"
         },
         {
           "book_entry": "ἀπαλλάσσω",
           "first_occurrence": [
             12,
             6
-          ]
+          ],
+          "gloss": "to set free, release, deliver"
         },
         {
           "book_entry": "ἀποκρίνομαι",
@@ -42,77 +45,88 @@
           "first_occurrence": [
             25,
             6
-          ]
+          ],
+          "gloss": "to wake one from sleep"
         },
         {
           "book_entry": "ἐγείρω, -ομαι",
           "first_occurrence": [
             2,
             5
-          ]
+          ],
+          "gloss": "to awaken, wake up, rouse"
         },
         {
           "book_entry": "ἐκβαίνω",
           "first_occurrence": [
             4,
             4
-          ]
+          ],
+          "gloss": "to step out of"
         },
         {
           "book_entry": "ἐνδύω, -ομαι",
           "first_occurrence": [
             4,
             1
-          ]
+          ],
+          "gloss": "to go into"
         },
         {
           "book_entry": "ἐρωτάω",
           "first_occurrence": [
             39,
             5
-          ]
+          ],
+          "gloss": "fut. ἐρωτήσω and ἐρήσομαι, aor. ἠρώτησα and ἠρόμην, ἠρώτηκα, ἠρώτημαι, ἠρωτήθην, ask, question"
         },
         {
           "book_entry": "καταβαίνω",
           "first_occurrence": [
             5,
             1
-          ]
+          ],
+          "gloss": "step down; dismount; go down to the sea from inland"
         },
         {
           "book_entry": "νίζω",
           "first_occurrence": [
             6,
             4
-          ]
+          ],
+          "gloss": "to wash the hands"
         },
         {
           "book_entry": "προσεύχομαι",
           "first_occurrence": [
             8,
             4
-          ]
+          ],
+          "gloss": "to offer prayers"
         },
         {
           "book_entry": "στενάζω",
           "first_occurrence": [
             20,
             4
-          ]
+          ],
+          "gloss": "to sigh often, sigh deeply"
         },
         {
           "book_entry": "τιμάω",
           "first_occurrence": [
             11,
             6
-          ]
+          ],
+          "gloss": "honor"
         },
         {
           "book_entry": "φέρω",
           "first_occurrence": [
             23,
             2
-          ]
+          ],
+          "gloss": "or ἤνεγκον, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην, bring, bear, carry; (mid.) win"
         }
       ]
     },
@@ -124,7 +138,8 @@
           "first_occurrence": [
             30,
             6
-          ]
+          ],
+          "gloss": "in"
         },
         {
           "book_entry": "μὰ τόν Δία"
@@ -139,28 +154,32 @@
           "first_occurrence": [
             48,
             9
-          ]
+          ],
+          "gloss": "bread, loaf of bread"
         },
         {
           "book_entry": "γάλα, τό",
           "first_occurrence": [
             61,
             7
-          ]
+          ],
+          "gloss": "milk"
         },
         {
           "book_entry": "κάνθαρος, ὁ",
           "first_occurrence": [
             66,
             2
-          ]
+          ],
+          "gloss": "a beetle, a Naxian boat"
         },
         {
           "book_entry": "κύλιξ, ἡ",
           "first_occurrence": [
             72,
             1
-          ]
+          ],
+          "gloss": "a cup, drinking-cup, wine-cup"
         },
         {
           "book_entry": "λεκάκιον, τό",
@@ -174,49 +193,56 @@
           "first_occurrence": [
             52,
             1
-          ]
+          ],
+          "gloss": "honey"
         },
         {
           "book_entry": "ὄρθρος, ὁ",
           "first_occurrence": [
             1,
             5
-          ]
+          ],
+          "gloss": "day-break, dawn, cock-crow"
         },
         {
           "book_entry": "πρόσωπον, τό",
           "first_occurrence": [
             6,
             3
-          ]
+          ],
+          "gloss": "the face, visage, countenance"
         },
         {
           "book_entry": "συμφορά, ἡ",
           "first_occurrence": [
             11,
             2
-          ]
+          ],
+          "gloss": "event, happening, circumstance, unlucky event, misfortune"
         },
         {
           "book_entry": "τυρός, ὁ",
           "first_occurrence": [
             38,
             7
-          ]
+          ],
+          "gloss": "cheese"
         },
         {
           "book_entry": "ὑδρία, ἡ",
           "first_occurrence": [
             62,
             2
-          ]
+          ],
+          "gloss": "a water-pot, pitcher, urn"
         },
         {
           "book_entry": "χιτών, ὁ",
           "first_occurrence": [
             3,
             7
-          ]
+          ],
+          "gloss": "the garment worn next the skin, a frock"
         }
       ]
     },
@@ -228,14 +254,16 @@
           "first_occurrence": [
             27,
             9
-          ]
+          ],
+          "gloss": "alone"
         },
         {
           "book_entry": "πονηρός, -ά, -όν",
           "first_occurrence": [
             21,
             9
-          ]
+          ],
+          "gloss": "worthless, evil, base"
         },
         {
           "book_entry": "_προστακτικός, -ή, -όν_"
@@ -245,14 +273,16 @@
           "first_occurrence": [
             9,
             6
-          ]
+          ],
+          "gloss": "wise, skilled"
         },
         {
           "book_entry": "τάλας, τάλαινα, τάλαν",
           "first_occurrence": [
             21,
             1
-          ]
+          ],
+          "gloss": "wretched, unhappy (adjective)"
         }
       ]
     },
@@ -260,25 +290,32 @@
       "section": "Προθέσεις",
       "words": [
         {
-          "book_entry": "διά (διὰ τί;)"
+          "book_entry": "διά (διὰ τί;)",
+          "gloss": "through (+ gen); on account of (+ acc)"
         },
         {
-          "book_entry": "ἐπί + δοτ."
+          "book_entry": "ἐπί + δοτ.",
+          "gloss": "on (+ gen); on, pertaining to, on condition that (+ dat); onto, over, against, for (purpose) (+ acc)"
         },
         {
-          "book_entry": "κατά + γεν."
+          "book_entry": "κατά + γεν.",
+          "gloss": "down from, under, against (+ gen); according to, throughout (+ acc.)"
         },
         {
-          "book_entry": "μετά (μετὰ ταῦτα)"
+          "book_entry": "μετά (μετὰ ταῦτα)",
+          "gloss": "with (+ gen); after (+ acc)"
         },
         {
-          "book_entry": "πρός + αἷτ."
+          "book_entry": "πρός + αἷτ.",
+          "gloss": "in the eyes of, in the name of (+ gen); near, in addition to (+ dat); toward (+ acc)"
         },
         {
-          "book_entry": "σύν"
+          "book_entry": "σύν",
+          "gloss": "with"
         },
         {
-          "book_entry": "ὑπό + δοτ."
+          "book_entry": "ὑπό + δοτ.",
+          "gloss": "by (personal agent), under (+ gen); under, under the power of (+ dat); under (with motion), toward (of time) (+ acc)"
         }
       ]
     },
@@ -290,21 +327,24 @@
           "first_occurrence": [
             11,
             4
-          ]
+          ],
+          "gloss": "I"
         },
         {
           "book_entry": "οὐδείς, οὐδεμία, οὐδέν",
           "first_occurrence": [
             47,
             1
-          ]
+          ],
+          "gloss": "no one, nothing"
         },
         {
           "book_entry": "σύ",
           "first_occurrence": [
             9,
             8
-          ]
+          ],
+          "gloss": "you (sg.)"
         }
       ]
     },
@@ -316,14 +356,16 @@
           "first_occurrence": [
             74,
             3
-          ]
+          ],
+          "gloss": "at any rate, at least (emphasizes or limits preceding word)"
         },
         {
           "book_entry": "δή",
           "first_occurrence": [
             47,
             8
-          ]
+          ],
+          "gloss": "in fact, of course"
         }
       ]
     },
@@ -335,28 +377,32 @@
           "first_occurrence": [
             74,
             2
-          ]
+          ],
+          "gloss": "(adv.), most"
         },
         {
           "book_entry": "οὐκέτι",
           "first_occurrence": [
             32,
             7
-          ]
+          ],
+          "gloss": "no longer"
         },
         {
           "book_entry": "πάλιν",
           "first_occurrence": [
             53,
             4
-          ]
+          ],
+          "gloss": "back, backwards; again"
         },
         {
           "book_entry": "πόθεν;",
           "first_occurrence": [
             42,
             4
-          ]
+          ],
+          "gloss": "from where? whence?"
         }
       ]
     }

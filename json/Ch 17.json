@@ -10,42 +10,48 @@
       "section": "Ῥήματα",
       "words": [
         {
-          "book_entry": "ἀλλάσσω"
+          "book_entry": "ἀλλάσσω",
+          "gloss": "change, alter; exchange (+ gen. of thing received in return); (mid.) take in exchange (+ gen. of thing given in return)"
         },
         {
           "book_entry": "ἀπάγω",
           "first_occurrence": [
             140,
             4
-          ]
+          ],
+          "gloss": "lead away; arrest, carry off to prison"
         },
         {
           "book_entry": "ἀπαρνέομαι",
           "first_occurrence": [
             120,
             5
-          ]
+          ],
+          "gloss": "to deny utterly, deny"
         },
         {
           "book_entry": "ἅπτω, -ομαι",
           "first_occurrence": [
             110,
             1
-          ]
+          ],
+          "gloss": "light; fasten, fix (verb)"
         },
         {
           "book_entry": "ἁρπάζω, -ομαι",
           "first_occurrence": [
             139,
             2
-          ]
+          ],
+          "gloss": "snatch away, carry off; seize"
         },
         {
           "book_entry": "βιάζω, -ομαι",
           "first_occurrence": [
             126,
             6
-          ]
+          ],
+          "gloss": "to constrain"
         },
         {
           "book_entry": "διώκω. -ομαι",
@@ -59,42 +65,48 @@
           "first_occurrence": [
             104,
             2
-          ]
+          ],
+          "gloss": "to settle; to inhabit"
         },
         {
           "book_entry": "κινέω, -έομαι",
           "first_occurrence": [
             9,
             1
-          ]
+          ],
+          "gloss": "to set in motion, to move"
         },
         {
           "book_entry": "μεταβάλλω, -ομαι",
           "first_occurrence": [
             98,
             7
-          ]
+          ],
+          "gloss": "to throw into a different position, to turn quickly"
         },
         {
           "book_entry": "ὁμιλέω",
           "first_occurrence": [
             136,
             4
-          ]
+          ],
+          "gloss": "to be in company with, consort with"
         },
         {
           "book_entry": "ὀσφραίνομαι",
           "first_occurrence": [
             19,
             8
-          ]
+          ],
+          "gloss": "to catch scent of, smell, scent, track"
         },
         {
           "book_entry": "ὑβρίζω",
           "first_occurrence": [
             117,
             4
-          ]
+          ],
+          "gloss": "treat violently, disgracefully (verb)"
         }
       ]
     },
@@ -106,35 +118,40 @@
           "first_occurrence": [
             2,
             8
-          ]
+          ],
+          "gloss": "belonging to mankind; human"
         },
         {
           "book_entry": "γυμνός, -ή, -όν",
           "first_occurrence": [
             131,
             2
-          ]
+          ],
+          "gloss": "naked; unarmed"
         },
         {
           "book_entry": "ἔμπειρος, -ον",
           "first_occurrence": [
             103,
             1
-          ]
+          ],
+          "gloss": "experienced in, acquainted with (+ gen)"
         },
         {
           "book_entry": "ζῳοκέφαλος, -ον",
           "first_occurrence": [
             71,
             3
-          ]
+          ],
+          "gloss": "animal-headed"
         },
         {
           "book_entry": "ἱερός, -ά, -όν",
           "first_occurrence": [
             94,
             6
-          ]
+          ],
+          "gloss": "holy, sacred to (+ gen)"
         },
         {
           "book_entry": "_παθητικός, ή, -όν_"
@@ -144,24 +161,28 @@
           "first_occurrence": [
             7,
             4
-          ]
+          ],
+          "gloss": "all, every, whole"
         },
         {
           "book_entry": "πτερωτός, -ή, -όν",
           "first_occurrence": [
             60,
             5
-          ]
+          ],
+          "gloss": "feathered"
         },
         {
-          "book_entry": "τεράστιος, -ον"
+          "book_entry": "τεράστιος, -ον",
+          "gloss": "monstrous"
         },
         {
           "book_entry": "χωλός, -ή, -όν",
           "first_occurrence": [
             56,
             3
-          ]
+          ],
+          "gloss": "lame"
         }
       ]
     },
@@ -173,14 +194,16 @@
           "first_occurrence": [
             106,
             7
-          ]
+          ],
+          "gloss": "twenty-two"
         },
         {
           "book_entry": "πεντήκοντα",
           "first_occurrence": [
             79,
             1
-          ]
+          ],
+          "gloss": "fifty"
         }
       ]
     },
@@ -192,17 +215,20 @@
           "first_occurrence": [
             64,
             2
-          ]
+          ],
+          "gloss": "or ἡ, goat"
         },
         {
           "book_entry": "ἀρχή, ἡ",
           "first_occurrence": [
             2,
             2
-          ]
+          ],
+          "gloss": "beginning, rule, empire"
         },
         {
-          "book_entry": "βοῦς, ἡ / ὸ"
+          "book_entry": "βοῦς, ἡ / ὸ",
+          "gloss": "ox, cow"
         },
         {
           "book_entry": "γίγας, ὁ",
@@ -212,100 +238,116 @@
           ]
         },
         {
-          "book_entry": "δάκτυλος, ὁ"
+          "book_entry": "δάκτυλος, ὁ",
+          "gloss": "a finger"
         },
         {
           "book_entry": "δάφνη, ἡ",
           "first_occurrence": [
             94,
             3
-          ]
+          ],
+          "gloss": "the laurel"
         },
         {
           "book_entry": "ζωή, ἡ",
           "first_occurrence": [
             3,
             1
-          ]
+          ],
+          "gloss": "a living"
         },
         {
           "book_entry": "ἡγεμών, ὁ",
           "first_occurrence": [
             53,
             3
-          ]
+          ],
+          "gloss": "leader, guide"
         },
         {
-          "book_entry": "θάνατος, ὁ"
+          "book_entry": "θάνατος, ὁ",
+          "gloss": "death"
         },
         {
           "book_entry": "κέρας, τό",
           "first_occurrence": [
             73,
             1
-          ]
+          ],
+          "gloss": "the horn of an animal"
         },
         {
           "book_entry": "κίνησις, ἡ",
           "first_occurrence": [
             9,
             8
-          ]
+          ],
+          "gloss": "movement, motion"
         },
         {
           "book_entry": "κρᾶσις, ἡ",
           "first_occurrence": [
             59,
             5
-          ]
+          ],
+          "gloss": "a mixing, blending, compounding"
         },
         {
-          "book_entry": "μέρος, τό"
+          "book_entry": "μέρος, τό",
+          "gloss": "share, portion; part; one's turn"
         },
         {
           "book_entry": "μεταβολή, ἡ",
           "first_occurrence": [
             96,
             5
-          ]
+          ],
+          "gloss": "a change, changing"
         },
         {
           "book_entry": "μορφή, ἡ",
           "first_occurrence": [
             10,
             4
-          ]
+          ],
+          "gloss": "form, shape"
         },
         {
           "book_entry": "ὀδούς, ὁ",
           "first_occurrence": [
             21,
             6
-          ]
+          ],
+          "gloss": "tooth"
         },
         {
           "book_entry": "οὐρά, ἡ",
           "first_occurrence": [
             44,
             6
-          ]
+          ],
+          "gloss": "the tail"
         },
         {
-          "book_entry": "οὖς, τό"
+          "book_entry": "οὖς, τό",
+          "gloss": "ear"
         },
         {
           "book_entry": "πτερόν, τό",
           "first_occurrence": [
             37,
             6
-          ]
+          ],
+          "gloss": "feathers"
         },
         {
           "book_entry": "ῥάβδος, ἡ",
           "first_occurrence": [
             109,
             7
-          ]
+          ],
+          "gloss": "a rod, wand, stick, switch"
         },
         {
           "book_entry": "ῥῖς, ἡ",
@@ -319,7 +361,8 @@
           "first_occurrence": [
             17,
             3
-          ]
+          ],
+          "gloss": "mouth (noun)"
         },
         {
           "book_entry": "_σύνταξις, ἡ_"
@@ -329,14 +372,16 @@
           "first_occurrence": [
             2,
             5
-          ]
+          ],
+          "gloss": "end, power"
         },
         {
           "book_entry": "ὕβρις, ἡ",
           "first_occurrence": [
             124,
             2
-          ]
+          ],
+          "gloss": "insolence"
         },
         {
           "book_entry": "ὑφάντρια, ἡ",
@@ -350,42 +395,48 @@
           "first_occurrence": [
             113,
             1
-          ]
+          ],
+          "gloss": "a drug, medicine"
         },
         {
           "book_entry": "φύλαξ, ὁ",
           "first_occurrence": [
             84,
             6
-          ]
+          ],
+          "gloss": "guard"
         },
         {
           "book_entry": "φύσις, ἡ",
           "first_occurrence": [
             4,
             7
-          ]
+          ],
+          "gloss": "nature"
         },
         {
           "book_entry": "φυτόν, τό",
           "first_occurrence": [
             94,
             7
-          ]
+          ],
+          "gloss": "that which has grown, a plant, tree"
         },
         {
           "book_entry": "χείρ, ἡ",
           "first_occurrence": [
             13,
             4
-          ]
+          ],
+          "gloss": "hand"
         },
         {
           "book_entry": "ψυχή, ἡ",
           "first_occurrence": [
             3,
             7
-          ]
+          ],
+          "gloss": "soul"
         }
       ]
     },
@@ -393,49 +444,59 @@
       "section": "Κυρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Ἐλευσίς, ἡ"
+          "book_entry": "Ἐλευσίς, ἡ",
+          "gloss": "Eleusis, an old city of Attica"
         },
         {
           "book_entry": "Αἰαία, ἡ"
         },
         {
-          "book_entry": "Ἀκταίων, ὁ"
+          "book_entry": "Ἀκταίων, ὁ",
+          "gloss": "Actaeon"
         },
         {
           "book_entry": "Ἀράχνη, ἡ"
         },
         {
-          "book_entry": "Γανυμήδης, ὁ"
+          "book_entry": "Γανυμήδης, ὁ",
+          "gloss": "Ganymede"
         },
         {
-          "book_entry": "Γλαῦκος, ὁ"
+          "book_entry": "Γλαῦκος, ὁ",
+          "gloss": "Glaucus"
         },
         {
           "book_entry": "Γοργών, ἡ"
         },
         {
-          "book_entry": "Εὐρύλοχος, ὁ"
+          "book_entry": "Εὐρύλοχος, ὁ",
+          "gloss": "Eurylochus"
         },
         {
           "book_entry": "Ἥλιος, ὁ"
         },
         {
-          "book_entry": "Κίρκη, ἡ"
+          "book_entry": "Κίρκη, ἡ",
+          "gloss": "Circe"
         },
         {
-          "book_entry": "Λήδα, ἡ"
+          "book_entry": "Λήδα, ἡ",
+          "gloss": "Leda"
         },
         {
           "book_entry": "Μετίοχος, ὁ"
         },
         {
-          "book_entry": "Πέρση, ἡ"
+          "book_entry": "Πέρση, ἡ",
+          "gloss": "Perse, daughter of Oceanus, wife of Helius"
         },
         {
-          "book_entry": "Σωκράτης, ὁ"
+          "book_entry": "Σωκράτης, ὁ",
+          "gloss": "Socrates"
         },
         {
-          "book_entry": "Τηλέμαχος, ὁ"
+          "book_entry": "Τηλέμαχος, ὁ",
+          "gloss": "Telemachus"
         }
       ]
     },
@@ -447,21 +508,24 @@
           "first_occurrence": [
             94,
             1
-          ]
+          ],
+          "gloss": "thereafter"
         },
         {
           "book_entry": "ἐνίοτε",
           "first_occurrence": [
             89,
             1
-          ]
+          ],
+          "gloss": "sometimes"
         },
         {
           "book_entry": "πολλάκις",
           "first_occurrence": [
             136,
             5
-          ]
+          ],
+          "gloss": "(adv.), often"
         }
       ]
     },
@@ -473,7 +537,8 @@
           "first_occurrence": [
             107,
             9
-          ]
+          ],
+          "gloss": "each (of many); (pl.) each (of several groups), all (considered singly)"
         }
       ]
     },
@@ -485,7 +550,8 @@
           "first_occurrence": [
             54,
             6
-          ]
+          ],
+          "gloss": "except; (also used as conjunction) except (+ gen.)"
         }
       ]
     }

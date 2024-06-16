@@ -14,59 +14,68 @@
           "first_occurrence": [
             83,
             5
-          ]
+          ],
+          "gloss": "contest, struggle"
         },
         {
           "book_entry": "ἀριστοκρατία, ἡ",
           "first_occurrence": [
             8,
             4
-          ]
+          ],
+          "gloss": "the rule of the best, an aristocracy"
         },
         {
           "book_entry": "ἄρχων, ὁ",
           "first_occurrence": [
             69,
             3
-          ]
+          ],
+          "gloss": "ruler; archon"
         },
         {
           "book_entry": "ἀσέβεια, ἡ",
           "first_occurrence": [
             104,
             4
-          ]
+          ],
+          "gloss": "irreverence to the gods (noun)"
         },
         {
-          "book_entry": "βουλευτής, ὁ"
+          "book_entry": "βουλευτής, ὁ",
+          "gloss": "member of council (noun)"
         },
         {
           "book_entry": "βουλή, ἡ",
           "first_occurrence": [
             48,
             3
-          ]
+          ],
+          "gloss": "will, council"
         },
         {
           "book_entry": "γραφή, ἡ",
           "first_occurrence": [
             84,
             3
-          ]
+          ],
+          "gloss": "indictment"
         },
         {
           "book_entry": "δημοκρατία, ἡ",
           "first_occurrence": [
             6,
             1
-          ]
+          ],
+          "gloss": "democracy"
         },
         {
           "book_entry": "δημότης, ὁ,",
           "first_occurrence": [
             34,
             6
-          ]
+          ],
+          "gloss": "one of the people, a commoner, plebeian"
         },
         {
           "book_entry": "διαρχία, ἡ",
@@ -80,169 +89,196 @@
           "first_occurrence": [
             85,
             8
-          ]
+          ],
+          "gloss": "law-court (noun)"
         },
         {
-          "book_entry": "δίκη, ἡ"
+          "book_entry": "δίκη, ἡ",
+          "gloss": "justice, lawsuit"
         },
         {
           "book_entry": "δοκιμασία, ἡ",
           "first_occurrence": [
             116,
             2
-          ]
+          ],
+          "gloss": "an assay, examination, scrutiny"
         },
         {
           "book_entry": "εἶδος, τό",
           "first_occurrence": [
             1,
             6
-          ]
+          ],
+          "gloss": "that which is seen, form, shape, figure"
         },
         {
           "book_entry": "εἰσαγγελία, ἡ",
           "first_occurrence": [
             114,
             6
-          ]
+          ],
+          "gloss": "impeachment (noun)"
         },
         {
           "book_entry": "ἐκκλησία, ἡ",
           "first_occurrence": [
             49,
             1
-          ]
+          ],
+          "gloss": "assembly"
         },
         {
           "book_entry": "ἐκκλησιαστής, ὁ",
           "first_occurrence": [
             51,
             4
-          ]
+          ],
+          "gloss": "a member of the ἐκκλησία"
         },
         {
           "book_entry": "ἐνάγισμα, τό",
           "first_occurrence": [
             108,
             5
-          ]
+          ],
+          "gloss": "an offering to the manes"
         },
         {
           "book_entry": "ἐπιβολή, ἡ",
           "first_occurrence": [
             129,
             1
-          ]
+          ],
+          "gloss": "a throwing"
         },
         {
           "book_entry": "ἐπίκληρος, ἡ",
           "first_occurrence": [
             92,
             6
-          ]
+          ],
+          "gloss": "an heiress"
         },
         {
           "book_entry": "ἔπος, τό",
           "first_occurrence": [
             102,
             4
-          ]
+          ],
+          "gloss": "word; (pl., sometimes) epic poetry"
         },
         {
           "book_entry": "θεσμοθέτης, ὁ",
           "first_occurrence": [
             75,
             8
-          ]
+          ],
+          "gloss": "a lawgiver"
         },
         {
           "book_entry": "θεσμός, ὁ",
           "first_occurrence": [
             113,
             5
-          ]
+          ],
+          "gloss": "that which is laid down and established, a law, ordinance"
         },
         {
           "book_entry": "ἵππαρχος, ὁ",
           "first_occurrence": [
             133,
             7
-          ]
+          ],
+          "gloss": "a general of cavalry"
         },
         {
           "book_entry": "κάκωσις, ἡ",
           "first_occurrence": [
             97,
             1
-          ]
+          ],
+          "gloss": "ill-treatment"
         },
         {
           "book_entry": "κατάστασις, ἡ",
           "first_occurrence": [
             31,
             6
-          ]
+          ],
+          "gloss": "a settling, appointing, appointment, institution"
         },
         {
-          "book_entry": "κράτος, τό"
+          "book_entry": "κράτος, τό",
+          "gloss": "strength, power"
         },
         {
           "book_entry": "κωμῳδός, ὁ",
           "first_occurrence": [
             98,
             4
-          ]
+          ],
+          "gloss": "a comedian"
         },
         {
-          "book_entry": "λαμπάς, ἡ"
+          "book_entry": "λαμπάς, ἡ",
+          "gloss": "torch (noun)"
         },
         {
-          "book_entry": "λαός, ὁ"
+          "book_entry": "λαός, ὁ",
+          "gloss": "the people"
         },
         {
           "book_entry": "μονάρχης, ὁ",
           "first_occurrence": [
             14,
             3
-          ]
+          ],
+          "gloss": "monarch (dub. for -ος)"
         },
         {
           "book_entry": "μοναρχία, ἡ",
           "first_occurrence": [
             13,
             1
-          ]
+          ],
+          "gloss": "the rule of one, monarchy, sovereignty"
         },
         {
-          "book_entry": "νόμος, ὁ"
+          "book_entry": "νόμος, ὁ",
+          "gloss": "custom, law"
         },
         {
           "book_entry": "ὀλιγαρχία, ἡ",
           "first_occurrence": [
             10,
             2
-          ]
+          ],
+          "gloss": "an oligarchy, government in the hands of a few families"
         },
         {
           "book_entry": "πολέμαρχος, ὁ",
           "first_occurrence": [
             79,
             5
-          ]
+          ],
+          "gloss": "war lord, chieftain; at Athens, the third archon"
         },
         {
           "book_entry": "πολῖτις, ἡ",
           "first_occurrence": [
             139,
             2
-          ]
+          ],
+          "gloss": "female citizen (noun)"
         },
         {
           "book_entry": "πομπή, ἡ",
           "first_occurrence": [
             84,
             2
-          ]
+          ],
+          "gloss": "conduct, escort, guidance"
         },
         {
           "book_entry": "πράγμα, τό",
@@ -256,69 +292,80 @@
           "first_occurrence": [
             118,
             3
-          ]
+          ],
+          "gloss": "a sign"
         },
         {
           "book_entry": "συνέδριον, τό",
           "first_occurrence": [
             51,
             1
-          ]
+          ],
+          "gloss": "a body of men assembled in council, a council-board, council"
         },
         {
           "book_entry": "ταξίαρχος, ὁ",
           "first_occurrence": [
             131,
             5
-          ]
+          ],
+          "gloss": "the commander of a squadron"
         },
         {
-          "book_entry": "τάξις, ἡ"
+          "book_entry": "τάξις, ἡ",
+          "gloss": "battle-array, order, rank (noun)"
         },
         {
           "book_entry": "τυραννίς, ἡ",
           "first_occurrence": [
             19,
             5
-          ]
+          ],
+          "gloss": "kingly power, sovereignty"
         },
         {
-          "book_entry": "τραγῳδός, ὁ"
+          "book_entry": "τραγῳδός, ὁ",
+          "gloss": "member of tragic chorus; (pl.) tragic performance; tragedian"
         },
         {
           "book_entry": "τρόπος, ὁ",
           "first_occurrence": [
             32,
             5
-          ]
+          ],
+          "gloss": "way, manner, character"
         },
         {
           "book_entry": "τύραννος, ὁ",
           "first_occurrence": [
             24,
             7
-          ]
+          ],
+          "gloss": "absolute ruler, tyrant"
         },
         {
           "book_entry": "φόνος, ὁ",
           "first_occurrence": [
             105,
             2
-          ]
+          ],
+          "gloss": "murder, killing"
         },
         {
           "book_entry": "χορηγός, ὁ",
           "first_occurrence": [
             87,
             5
-          ]
+          ],
+          "gloss": "a chorus leader"
         },
         {
           "book_entry": "ψευδομαρτύριον, τό",
           "first_occurrence": [
             117,
             4
-          ]
+          ],
+          "gloss": "bearing false witness (LSJ ψευδομαρτυρίου)"
         }
       ]
     },
@@ -330,14 +377,16 @@
           "first_occurrence": [
             11,
             2
-          ]
+          ],
+          "gloss": "...μήτε, neither...nor"
         },
         {
           "book_entry": "ὅταν",
           "first_occurrence": [
             127,
             5
-          ]
+          ],
+          "gloss": "when, whenever"
         }
       ]
     },
@@ -349,7 +398,8 @@
           "first_occurrence": [
             71,
             3
-          ]
+          ],
+          "gloss": "five hundred"
         }
       ]
     },
@@ -369,171 +419,196 @@
           "first_occurrence": [
             113,
             6
-          ]
+          ],
+          "gloss": "to engrave and set up"
         },
         {
           "book_entry": "ἀνακρίνω",
           "first_occurrence": [
             85,
             5
-          ]
+          ],
+          "gloss": "to examine closely, to question, interrogate"
         },
         {
           "book_entry": "ἀτακτέω",
           "first_occurrence": [
             128,
             3
-          ]
+          ],
+          "gloss": "to be undisciplined, disorderly"
         },
         {
           "book_entry": "βουλεύω",
           "first_occurrence": [
             47,
             8
-          ]
+          ],
+          "gloss": "deliberate on, plan; (mid.) take counsel with oneself, deliberate"
         },
         {
           "book_entry": "δέω",
           "first_occurrence": [
             128,
             1
-          ]
+          ],
+          "gloss": "to bind, tie, fetter"
         },
         {
           "book_entry": "διαχειρίζω",
           "first_occurrence": [
             65,
             4
-          ]
+          ],
+          "gloss": "to have in hand, conduct, manage, administer"
         },
         {
           "book_entry": "δοκιμάζω",
           "first_occurrence": [
             65,
             5
-          ]
+          ],
+          "gloss": "to scrutinise; to approve"
         },
         {
           "book_entry": "ἐγγράφω, -ομαι",
           "first_occurrence": [
             34,
             3
-          ]
+          ],
+          "gloss": "enrol, enlist, register (verb)"
         },
         {
-          "book_entry": "ἔθω"
+          "book_entry": "ἔθω",
+          "gloss": "be accustomed (see also εἴωθα)"
         },
         {
           "book_entry": "εἰσαγγέλλω",
           "first_occurrence": [
             114,
             7
-          ]
+          ],
+          "gloss": "impeach (verb)"
         },
         {
           "book_entry": "ἐκκλησιάζω",
           "first_occurrence": [
             48,
             6
-          ]
+          ],
+          "gloss": "to hold an assembly, debate therein"
         },
         {
           "book_entry": "ἐκκηρύσσω",
           "first_occurrence": [
             128,
             5
-          ]
+          ],
+          "gloss": "to proclaim by voice of herald"
         },
         {
           "book_entry": "ἐπιβάλλω",
           "first_occurrence": [
             94,
             1
-          ]
+          ],
+          "gloss": "to throw"
         },
         {
           "book_entry": "ἐπιμελέομαι",
           "first_occurrence": [
             53,
             3
-          ]
+          ],
+          "gloss": "/ἐπιμελέομαι, take care of, have charge of (+ gen.)"
         },
         {
           "book_entry": "καθίστημι",
           "first_occurrence": [
             88,
             5
-          ]
+          ],
+          "gloss": "(trans.) or κατέστην (intrans.), καθέστηκα (intrans.), καθέσταμαι, κατεστάθην, (trans.) appoint, establish, put into a state; (intrans.) be established, be appointed, enter into a state"
         },
         {
           "book_entry": "κληρόω, -έομαι",
           "first_occurrence": [
             70,
             1
-          ]
+          ],
+          "gloss": "to appoint"
         },
         {
           "book_entry": "κρίνω, -ομαι",
           "first_occurrence": [
             55,
             2
-          ]
+          ],
+          "gloss": "separate, decide, judge"
         },
         {
           "book_entry": "κυρόω",
           "first_occurrence": [
             119,
             1
-          ]
+          ],
+          "gloss": "to make valid, confirm, ratify, determine"
         },
         {
           "book_entry": "λαγχάνω, -ομαι",
           "first_occurrence": [
             84,
             7
-          ]
+          ],
+          "gloss": "bring suit (δίκην) against, obtain by lot, run as candidate for office (verb)"
         },
         {
           "book_entry": "μετέχω",
           "first_occurrence": [
             32,
             7
-          ]
+          ],
+          "gloss": "partake of, have a share of or in  (+ gen.)"
         },
         {
           "book_entry": "μοναρχέω",
           "first_occurrence": [
             14,
             6
-          ]
+          ],
+          "gloss": "to be sovereign"
         },
         {
           "book_entry": "νομοθετέω",
           "first_occurrence": [
             46,
             7
-          ]
+          ],
+          "gloss": "to make law"
         },
         {
           "book_entry": "πολιτεύω",
           "first_occurrence": [
             44,
             3
-          ]
+          ],
+          "gloss": "live as a citizen, conduct the government, (passive) be governed"
         },
         {
           "book_entry": "συνεδρεύω",
           "first_occurrence": [
             61,
             1
-          ]
+          ],
+          "gloss": "to sit together, sit in council"
         },
         {
           "book_entry": "τίθημι",
           "first_occurrence": [
             101,
             1
-          ]
+          ],
+          "gloss": "put"
         }
       ]
     },
@@ -564,56 +639,64 @@
           "first_occurrence": [
             69,
             4
-          ]
+          ],
+          "gloss": "all, quite all"
         },
         {
           "book_entry": "ἀριστοκρατικός, -ή, -όν",
           "first_occurrence": [
             3,
             6
-          ]
+          ],
+          "gloss": "aristocratical"
         },
         {
           "book_entry": "δημοτικός, -ή, -όν",
           "first_occurrence": [
             23,
             1
-          ]
+          ],
+          "gloss": "of or for the people, common; on the popular or democratic side"
         },
         {
           "book_entry": "ἐπιτάφιος, -ον",
           "first_occurrence": [
             106,
             1
-          ]
+          ],
+          "gloss": "over a tomb"
         },
         {
           "book_entry": "ἐπώνυμος, -ον",
           "first_occurrence": [
             75,
             3
-          ]
+          ],
+          "gloss": "given as a name"
         },
         {
           "book_entry": "Καρχηδόνιος, -α, -ον",
           "first_occurrence": [
             17,
             5
-          ]
+          ],
+          "gloss": "Carthaginian"
         },
         {
           "book_entry": "κληρωτός, -ή, -όν",
           "first_occurrence": [
             68,
             3
-          ]
+          ],
+          "gloss": "appointed by lot"
         },
         {
           "book_entry": "κύριος, -α, -ον",
           "first_occurrence": [
             7,
             6
-          ]
+          ],
+          "gloss": "able, with power, by right, sovereign (adjective)"
         },
         {
           "book_entry": "Ληναῖος, -α, -ον",
@@ -627,7 +710,8 @@
           "first_occurrence": [
             92,
             4
-          ]
+          ],
+          "gloss": "an orphan"
         },
         {
           "book_entry": "πέμπτον, -η, -ον",
@@ -641,7 +725,8 @@
           "first_occurrence": [
             4,
             8
-          ]
+          ],
+          "gloss": "monarchical"
         },
         {
           "book_entry": "τέταρτον, -η, -ον",
@@ -655,7 +740,8 @@
           "first_occurrence": [
             5,
             7
-          ]
+          ],
+          "gloss": "of or for a tyrant, befitting a tyrant, in favor of tyranny"
         }
       ]
     },
@@ -663,34 +749,41 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Ἀγαρίστη, ἡ"
+          "book_entry": "Ἀγαρίστη, ἡ",
+          "gloss": "Agariste"
         },
         {
-          "book_entry": "Ἁρμόδιος, ὁ"
+          "book_entry": "Ἁρμόδιος, ὁ",
+          "gloss": "Harmodius"
         },
         {
-          "book_entry": "Ἀριστογείτων, ὁ"
+          "book_entry": "Ἀριστογείτων, ὁ",
+          "gloss": "Aristogiton"
         },
         {
           "book_entry": "Βουλευτήριον, τό"
         },
         {
-          "book_entry": "Διονύσια, τά"
+          "book_entry": "Διονύσια, τά",
+          "gloss": "festival of Dionysus"
         },
         {
           "book_entry": "Θεσμοφόρια, τά"
         },
         {
-          "book_entry": "Κύψελος, ὁ"
+          "book_entry": "Κύψελος, ὁ",
+          "gloss": "pr.n. Cypselus"
         },
         {
           "book_entry": "Ξάνθιππος. ὁ"
         },
         {
-          "book_entry": "Πεισίστρατος, ὁ"
+          "book_entry": "Πεισίστρατος, ὁ",
+          "gloss": "Peisistratus"
         },
         {
-          "book_entry": "Πολυκράτης, ὁ"
+          "book_entry": "Πολυκράτης, ὁ",
+          "gloss": "Polycrates"
         }
       ]
     }

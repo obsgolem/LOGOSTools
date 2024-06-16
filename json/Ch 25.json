@@ -14,73 +14,84 @@
           "first_occurrence": [
             52,
             5
-          ]
+          ],
+          "gloss": "born or descended from, offspring"
         },
         {
           "book_entry": "ἀρχηγέτης, ὁ",
           "first_occurrence": [
             60,
             1
-          ]
+          ],
+          "gloss": "a first leader, the founder"
         },
         {
           "book_entry": "γενάρχης, ὁ",
           "first_occurrence": [
             68,
             2
-          ]
+          ],
+          "gloss": "founder"
         },
         {
           "book_entry": "διάλεκτος, ἡ",
           "first_occurrence": [
             100,
             1
-          ]
+          ],
+          "gloss": "discourse: discussion, debate, arguing"
         },
         {
           "book_entry": "ἡγεμονία, ἡ",
           "first_occurrence": [
             89,
             6
-          ]
+          ],
+          "gloss": "a leading the way, going first"
         },
         {
           "book_entry": "ἱστοριογράφος, ὁ",
           "first_occurrence": [
             109,
             2
-          ]
+          ],
+          "gloss": "writer of history, historian"
         },
         {
           "book_entry": "κάτοικος, ὁ",
           "first_occurrence": [
             46,
             7
-          ]
+          ],
+          "gloss": "a settler"
         },
         {
-          "book_entry": "παροιμία, ἡ"
+          "book_entry": "παροιμία, ἡ",
+          "gloss": "a by-word, common saying, proverb, maxim, saw"
         },
         {
           "book_entry": "ῥήτωρ, ὁ",
           "first_occurrence": [
             88,
             2
-          ]
+          ],
+          "gloss": "public speaker"
         },
         {
           "book_entry": "τόπος, ὁ",
           "first_occurrence": [
             21,
             3
-          ]
+          ],
+          "gloss": "place"
         },
         {
           "book_entry": "φυλή, ἡ",
           "first_occurrence": [
             59,
             6
-          ]
+          ],
+          "gloss": "a race, a tribe"
         },
         {
           "book_entry": "χώρος, ὁ",
@@ -95,49 +106,59 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Αἴολος, ὁ"
+          "book_entry": "Αἴολος, ὁ",
+          "gloss": "Aeolus"
         },
         {
-          "book_entry": "Ἀλκαῖος, ὁ"
+          "book_entry": "Ἀλκαῖος, ὁ",
+          "gloss": "Alcaeus"
         },
         {
           "book_entry": "Ἀλκμάν, ὁ"
         },
         {
-          "book_entry": "Ἀχαία, ἡ"
+          "book_entry": "Ἀχαία, ἡ",
+          "gloss": "epithet of Demeter, Achaea"
         },
         {
           "book_entry": "Γραικός, ὁ"
         },
         {
-          "book_entry": "Δωρίς, ἡ"
+          "book_entry": "Δωρίς, ἡ",
+          "gloss": "Dorian"
         },
         {
           "book_entry": "Δῶρος, ὁ"
         },
         {
-          "book_entry": "Ἕλλην, ὁ"
+          "book_entry": "Ἕλλην, ὁ",
+          "gloss": "a Greek"
         },
         {
-          "book_entry": "Ζήνων, ὁ"
+          "book_entry": "Ζήνων, ὁ",
+          "gloss": "Zeno"
         },
         {
-          "book_entry": "Θήρα, ἡ"
+          "book_entry": "Θήρα, ἡ",
+          "gloss": "Thera"
         },
         {
           "book_entry": "Θυία, ἡ"
         },
         {
-          "book_entry": "Κίτιον, τό"
+          "book_entry": "Κίτιον, τό",
+          "gloss": "Citium"
         },
         {
-          "book_entry": "Κρέουσα, ἡ"
+          "book_entry": "Κρέουσα, ἡ",
+          "gloss": "Creüsa"
         },
         {
           "book_entry": "Ξούθος, ὁ"
         },
         {
-          "book_entry": "Πίνδαρος, ὁ"
+          "book_entry": "Πίνδαρος, ὁ",
+          "gloss": "Pindar"
         },
         {
           "book_entry": "Φθία. ἡ"
@@ -152,7 +173,8 @@
           "first_occurrence": [
             39,
             2
-          ]
+          ],
+          "gloss": "Aeolian"
         },
         {
           "book_entry": "αἰολικός. -ή, -όν",
@@ -166,49 +188,56 @@
           "first_occurrence": [
             109,
             1
-          ]
+          ],
+          "gloss": "a Halicarnassian"
         },
         {
           "book_entry": "ἄριστος, -η, -ον",
           "first_occurrence": [
             87,
             7
-          ]
+          ],
+          "gloss": "best, bravest, excellent"
         },
         {
           "book_entry": "ἀρχαῖος, -α, -ον",
           "first_occurrence": [
             38,
             2
-          ]
+          ],
+          "gloss": "ancient, old; old-fashioned"
         },
         {
           "book_entry": "Ἀχαιός, -ά",
           "first_occurrence": [
             39,
             2
-          ]
+          ],
+          "gloss": "Achaian"
         },
         {
           "book_entry": "βάρβαρος, -ον",
           "first_occurrence": [
             18,
             2
-          ]
+          ],
+          "gloss": "non-Greek, foreign"
         },
         {
           "book_entry": "Βοιώτιος, -α",
           "first_occurrence": [
             48,
             4
-          ]
+          ],
+          "gloss": "Boeotian"
         },
         {
           "book_entry": "Γαλάτης, Γαλάτισσα",
           "first_occurrence": [
             29,
             5
-          ]
+          ],
+          "gloss": "Celt"
         },
         {
           "book_entry": "Γραικός, -ή",
@@ -222,113 +251,135 @@
           "first_occurrence": [
             39,
             3
-          ]
+          ],
+          "gloss": "a Dorian, descendant of Dorus"
         },
         {
-          "book_entry": "ἐθνικός, -ή, -ον"
+          "book_entry": "ἐθνικός, -ή, -ον",
+          "gloss": "foreign, heathen, gentile"
         },
         {
           "book_entry": "Ἑλλαδικός, -ή, -όν",
           "first_occurrence": [
             63,
             5
-          ]
+          ],
+          "gloss": "Hellenic"
         },
         {
           "book_entry": "Ἐφέσιος, -α",
           "first_occurrence": [
             50,
             1
-          ]
+          ],
+          "gloss": "of Ephesus"
         },
         {
           "book_entry": "Θεσσαλός, -ίς",
           "first_occurrence": [
             48,
             2
-          ]
+          ],
+          "gloss": "Thessalian"
         },
         {
           "book_entry": "Θηβαῖος, -α",
           "first_occurrence": [
             105,
             7
-          ]
+          ],
+          "gloss": "Theban"
         },
         {
           "book_entry": "Ἴβηρ, Ἰβηρίς",
           "first_occurrence": [
             32,
             7
-          ]
+          ],
+          "gloss": "Iberian"
         },
         {
-          "book_entry": "Ἴων, Ἰωνίς"
+          "book_entry": "Ἴων, Ἰωνίς",
+          "gloss": "Ion"
         },
         {
           "book_entry": "Κιτιεύς, Κιτίς",
           "first_occurrence": [
             123,
             6
-          ]
+          ],
+          "gloss": "of Citium"
         },
         {
           "book_entry": "Κορίνθιος, -α",
           "first_occurrence": [
             45,
             1
-          ]
+          ],
+          "gloss": "Corinthian"
         },
         {
-          "book_entry": "Κρής, Κρῆσσα"
+          "book_entry": "Κρής, Κρῆσσα",
+          "gloss": "a Cretan"
         },
         {
           "book_entry": "Κύπριος, -α",
           "first_occurrence": [
             123,
             1
-          ]
+          ],
+          "gloss": "of Cyprus, Cyprian"
         },
         {
           "book_entry": "Λέσβιος, Λεσβίς",
           "first_occurrence": [
             114,
             6
-          ]
+          ],
+          "gloss": "Lesbian, of Lesbos"
         },
         {
-          "book_entry": "Μῆδος, Μηδίς"
+          "book_entry": "Μῆδος, Μηδίς",
+          "gloss": "a Mede, Median"
         },
         {
-          "book_entry": "Μιλήσιος, -α"
+          "book_entry": "Μιλήσιος, -α",
+          "gloss": "Milesian"
         },
         {
-          "book_entry": "Πάριος, -α"
+          "book_entry": "Πάριος, -α",
+          "gloss": "from the island of Paros"
         },
         {
-          "book_entry": "Πέρσης, Περσίς"
+          "book_entry": "Πέρσης, Περσίς",
+          "gloss": "a Persian; Perses (pr.n.)"
         },
         {
-          "book_entry": "Ῥόδιος, -α"
+          "book_entry": "Ῥόδιος, -α",
+          "gloss": "Rhodian, of or from Rhodes"
         },
         {
-          "book_entry": "Ῥωμαῖος, -α"
+          "book_entry": "Ῥωμαῖος, -α",
+          "gloss": "a Roman"
         },
         {
           "book_entry": "Σάμιος. -α"
         },
         {
-          "book_entry": "Σμυρναῖος, -α"
+          "book_entry": "Σμυρναῖος, -α",
+          "gloss": "of Smyrna"
         },
         {
-          "book_entry": "Σύριος, -α"
+          "book_entry": "Σύριος, -α",
+          "gloss": "Syrian"
         },
         {
           "book_entry": "τοπικός, -ή, -όν",
           "first_occurrence": [
             99,
             2
-          ]
+          ],
+          "gloss": "local; concerning common-places (τόποι)"
         }
       ]
     },
@@ -340,10 +391,12 @@
           "first_occurrence": [
             112,
             4
-          ]
+          ],
+          "gloss": "to speak Aeolian"
         },
         {
-          "book_entry": "ἀποδοκιμάζω"
+          "book_entry": "ἀποδοκιμάζω",
+          "gloss": "to reject on scrutiny, to reject for want of qualification"
         },
         {
           "book_entry": "ἀττικίζω",
@@ -357,24 +410,28 @@
           "first_occurrence": [
             26,
             7
-          ]
+          ],
+          "gloss": "to behave like a barbarian, speak like one"
         },
         {
           "book_entry": "βασιλεύω",
           "first_occurrence": [
             79,
             4
-          ]
+          ],
+          "gloss": "be king; (inceptive aor.) became king"
         },
         {
           "book_entry": "γεννάω",
           "first_occurrence": [
             75,
             4
-          ]
+          ],
+          "gloss": "to beget, engender"
         },
         {
-          "book_entry": "διαφέρω"
+          "book_entry": "διαφέρω",
+          "gloss": "carry through; be different from, excel (+ gen)"
         },
         {
           "book_entry": "δωρίζω",
@@ -388,14 +445,16 @@
           "first_occurrence": [
             9,
             5
-          ]
+          ],
+          "gloss": "to speak Greek"
         },
         {
           "book_entry": "ἐπίσταμαι",
           "first_occurrence": [
             2,
             5
-          ]
+          ],
+          "gloss": "-, -, -, ἠπιστήθην, know"
         },
         {
           "book_entry": "ἰωνίζω",
@@ -409,28 +468,32 @@
           "first_occurrence": [
             2,
             3
-          ]
+          ],
+          "gloss": "to talk, chat, prattle, babble"
         },
         {
           "book_entry": "μερίζω",
           "first_occurrence": [
             73,
             5
-          ]
+          ],
+          "gloss": "to divide, distribute"
         },
         {
           "book_entry": "ὀνομάζω, -ομαι",
           "first_occurrence": [
             63,
             1
-          ]
+          ],
+          "gloss": "to name"
         },
         {
           "book_entry": "προσαγορεύω",
           "first_occurrence": [
             95,
             6
-          ]
+          ],
+          "gloss": "address, speak to (verb)"
         }
       ]
     },
@@ -438,7 +501,8 @@
       "section": "Προθέσεις",
       "words": [
         {
-          "book_entry": "περί (+ αἰτ.)"
+          "book_entry": "περί (+ αἰτ.)",
+          "gloss": "concerning, about (+ gen); around (+ dat); around, concerning (+ acc)"
         }
       ]
     },
@@ -469,7 +533,8 @@
           "first_occurrence": [
             77,
             4
-          ]
+          ],
+          "gloss": "on the other side, across, beyond"
         },
         {
           "book_entry": "πρότερον",

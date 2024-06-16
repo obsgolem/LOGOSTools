@@ -21,31 +21,36 @@
           "first_occurrence": [
             69,
             6
-          ]
+          ],
+          "gloss": "gather together"
         },
         {
           "book_entry": "αἰτέω",
           "first_occurrence": [
             69,
             2
-          ]
+          ],
+          "gloss": "ask for (+ acc. of person and acc. of thing or inf.)"
         },
         {
           "book_entry": "ἀμύνω, -ομαι",
           "first_occurrence": [
             26,
             5
-          ]
+          ],
+          "gloss": "keep off, withstand (verb)"
         },
         {
-          "book_entry": "ἀναλαμβάνω"
+          "book_entry": "ἀναλαμβάνω",
+          "gloss": "take back, take up (verb)"
         },
         {
           "book_entry": "ἀπαιτέω",
           "first_occurrence": [
             89,
             2
-          ]
+          ],
+          "gloss": "demand X from Y (+ acc., acc.) (verb)"
         },
         {
           "book_entry": "ἀποδεικνύω",
@@ -59,157 +64,180 @@
           "first_occurrence": [
             91,
             3
-          ]
+          ],
+          "gloss": "give back, pay, permit; (mid.) sell"
         },
         {
           "book_entry": "ἀσφαλίζω -ομαι",
           "first_occurrence": [
             72,
             6
-          ]
+          ],
+          "gloss": "fortify; to make safe, secure"
         },
         {
           "book_entry": "ἄχθομαι",
           "first_occurrence": [
             92,
             6
-          ]
+          ],
+          "gloss": "to be loaded; to be annoyed"
         },
         {
-          "book_entry": "διακρίνω, -ομαι"
+          "book_entry": "διακρίνω, -ομαι",
+          "gloss": "decide, judge between (verb)"
         },
         {
           "book_entry": "διηγέομαι",
           "first_occurrence": [
             47,
             4
-          ]
+          ],
+          "gloss": "explain, relate, go through (verb)"
         },
         {
           "book_entry": "ἐάω",
           "first_occurrence": [
             115,
             4
-          ]
+          ],
+          "gloss": "permit, allow (+ acc. + inf.); let go, dismiss"
         },
         {
           "book_entry": "ἕλκω",
           "first_occurrence": [
             109,
             2
-          ]
+          ],
+          "gloss": "to draw, drag"
         },
         {
           "book_entry": "ἐμβάλλω",
           "first_occurrence": [
             49,
             4
-          ]
+          ],
+          "gloss": "to throw in, put in"
         },
         {
           "book_entry": "ἐμπίμπρημι",
           "first_occurrence": [
             123,
             5
-          ]
+          ],
+          "gloss": "to kindle, burn, set on fire"
         },
         {
           "book_entry": "ἐντίθημι",
           "first_occurrence": [
             65,
             4
-          ]
+          ],
+          "gloss": "place in, put in (verb)"
         },
         {
           "book_entry": "ἐπέρχομαι",
           "first_occurrence": [
             121,
             8
-          ]
+          ],
+          "gloss": "go against, attack (verb)"
         },
         {
           "book_entry": "ἐπινοέω",
           "first_occurrence": [
             101,
             6
-          ]
+          ],
+          "gloss": "to think on"
         },
         {
           "book_entry": "θεάομαι",
           "first_occurrence": [
             108,
             2
-          ]
+          ],
+          "gloss": "observe, watch (verb); θεάομαι, watch, gaze at (verb) (3b (= 2dG))"
         },
         {
           "book_entry": "ἵστημι",
           "first_occurrence": [
             111,
             2
-          ]
+          ],
+          "gloss": "(trans.) or ἔστην (intrans.), ἕστηκα (intrans.), ἕσταμαι, ἐστάθην, make stand; (mid. or intrans.) stand"
         },
         {
           "book_entry": "καταβάλλω",
           "first_occurrence": [
             114,
             5
-          ]
+          ],
+          "gloss": "to throw down, overthrow"
         },
         {
           "book_entry": "κατακαίω",
           "first_occurrence": [
             113,
             6
-          ]
+          ],
+          "gloss": "to burn down, burn completely"
         },
         {
           "book_entry": "καταλείπω",
           "first_occurrence": [
             65,
             2
-          ]
+          ],
+          "gloss": "leave behind, abandon"
         },
         {
           "book_entry": "καταστρέφω",
           "first_occurrence": [
             33,
             3
-          ]
+          ],
+          "gloss": "to turn down, trample on"
         },
         {
           "book_entry": "κατέχω",
           "first_occurrence": [
             117,
             3
-          ]
+          ],
+          "gloss": "to hold fast"
         },
         {
           "book_entry": "κηδεύω",
           "first_occurrence": [
             62,
             7
-          ]
+          ],
+          "gloss": "to take charge of, attend to, ally oneself (in marriage)"
         },
         {
           "book_entry": "κτείνω",
           "first_occurrence": [
             92,
             1
-          ]
+          ],
+          "gloss": "kill (verb)"
         },
         {
           "book_entry": "ξενίζω, -ομαι",
           "first_occurrence": [
             11,
             3
-          ]
+          ],
+          "gloss": "to receive a guest; to surprise, to make strange"
         },
         {
           "book_entry": "παραινέω",
           "first_occurrence": [
             73,
             1
-          ]
+          ],
+          "gloss": "exhort, advise (+ dat. of person + inf.)"
         },
         {
           "book_entry": "πειράομαι",
@@ -223,80 +251,92 @@
           "first_occurrence": [
             13,
             1
-          ]
+          ],
+          "gloss": "to wait for, await"
         },
         {
           "book_entry": "πλέω",
           "first_occurrence": [
             94,
             4
-          ]
+          ],
+          "gloss": "sail, go by sea"
         },
         {
           "book_entry": "προκρίνω, -ομαι",
           "first_occurrence": [
             59,
             2
-          ]
+          ],
+          "gloss": "to choose before others, choose by preference, prefer, select"
         },
         {
           "book_entry": "προσέχω",
           "first_occurrence": [
             46,
             3
-          ]
+          ],
+          "gloss": "to hold to, offer"
         },
         {
           "book_entry": "στρατεύω",
           "first_occurrence": [
             32,
             1
-          ]
+          ],
+          "gloss": "carry out a military campaign, wage war; (mid.) carry out a campaign, march (on campaign)"
         },
         {
           "book_entry": "στρατολογέω",
           "first_occurrence": [
             70,
             1
-          ]
+          ],
+          "gloss": "to levy soldiers"
         },
         {
-          "book_entry": "συναθροίζω, -ομαι"
+          "book_entry": "συναθροίζω, -ομαι",
+          "gloss": "to gather together, assemble"
         },
         {
           "book_entry": "σφάζω",
           "first_occurrence": [
             122,
             4
-          ]
+          ],
+          "gloss": "to slay, slaughter"
         },
         {
           "book_entry": "τοξεύω, -ομαι",
           "first_occurrence": [
             99,
             4
-          ]
+          ],
+          "gloss": "to shoot with the bow"
         },
         {
           "book_entry": "ὑπίσχομαι",
           "first_occurrence": [
             54,
             4
-          ]
+          ],
+          "gloss": "take upon oneself, undertake, promise"
         },
         {
           "book_entry": "ὑποδέχομαι",
           "first_occurrence": [
             119,
             6
-          ]
+          ],
+          "gloss": "welcome, entertain (verb)"
         },
         {
           "book_entry": "ὑποτίθημι, ὑποτίθεμαι",
           "first_occurrence": [
             102,
             4
-          ]
+          ],
+          "gloss": "to place under, to suggest"
         }
       ]
     },
@@ -311,70 +351,84 @@
           "first_occurrence": [
             61,
             5
-          ]
+          ],
+          "gloss": "tenth"
         },
         {
           "book_entry": "δούρειος, -α, -ον",
           "first_occurrence": [
             101,
             7
-          ]
+          ],
+          "gloss": "wooden"
         },
         {
           "book_entry": "ἐνναέτης, -ες",
           "first_occurrence": [
             64,
             8
-          ]
+          ],
+          "gloss": "nine years old"
         },
         {
           "book_entry": "ἔνοπλος, -ον",
           "first_occurrence": [
             112,
             4
-          ]
+          ],
+          "gloss": "in arms, armed"
         },
         {
-          "book_entry": "Κεφαλλήν, Κεφαλληνίς"
+          "book_entry": "Κεφαλλήν, Κεφαλληνίς",
+          "gloss": "Cephallenian"
         },
         {
           "book_entry": "κοῖλος, -η, -ον",
           "first_occurrence": [
             104,
             2
-          ]
+          ],
+          "gloss": "hollow, hollowed"
         },
         {
-          "book_entry": "Μυκηναῖος, -α"
+          "book_entry": "Μυκηναῖος, -α",
+          "gloss": "Mycenaean"
         },
         {
-          "book_entry": "Μυρμιδόνες, οἱ"
+          "book_entry": "Μυρμιδόνες, οἱ",
+          "gloss": "Myrmidons (sg. a Myrmidon, or their mythical ancestor M.)"
         },
         {
           "book_entry": "ὀνομαστός, -ή, -ον",
           "first_occurrence": [
             97,
             4
-          ]
+          ],
+          "gloss": "named, to be named"
         },
         {
           "book_entry": "πρόθυμος, -ον",
           "first_occurrence": [
             76,
             6
-          ]
+          ],
+          "gloss": "ready, willing, eager; bearing good will"
         },
         {
-          "book_entry": "Πύλιος, -α"
+          "book_entry": "Πύλιος, -α",
+          "gloss": "of Pylos, Pylian; (pr.n.) Pylius, godfather of Heracles"
         },
         {
-          "book_entry": "Σαλαμίνιος, -α"
+          "book_entry": "Σαλαμίνιος, -α",
+          "gloss": "Salaminian, of or from Salamis"
         },
         {
-          "book_entry": "Τελαμώνιος, -α"
+          "book_entry": "Τελαμώνιος, -α",
+          "gloss": "Telamonian"
         },
         {
-          "book_entry": "Τρώς, Τρωιάς"
+          "book_entry": "Τρώς, Τρωιάς",
+          "gloss": "Tros"
         }
       ]
     },
@@ -386,62 +440,72 @@
           "first_occurrence": [
             126,
             3
-          ]
+          ],
+          "gloss": "a taking, capture, conquest, destruction"
         },
         {
           "book_entry": "ἀνάκτορον, τό",
           "first_occurrence": [
             110,
             9
-          ]
+          ],
+          "gloss": "a palace"
         },
         {
           "book_entry": "ἁρπαγή, ἡ",
           "first_occurrence": [
             67,
             5
-          ]
+          ],
+          "gloss": "seizure, rapine, robbery, rape"
         },
         {
-          "book_entry": "ἀτιμία, ἡ"
+          "book_entry": "ἀτιμία, ἡ",
+          "gloss": "loss of citizen rights (noun)"
         },
         {
           "book_entry": "βάραθρον, τό",
           "first_occurrence": [
             114,
             4
-          ]
+          ],
+          "gloss": "a gulf, pit"
         },
         {
           "book_entry": "βούλησις, ἡ",
           "first_occurrence": [
             40,
             7
-          ]
+          ],
+          "gloss": "a willing"
         },
         {
-          "book_entry": "ἐλευθερία, ἡ"
+          "book_entry": "ἐλευθερία, ἡ",
+          "gloss": "freedom"
         },
         {
           "book_entry": "κάλλος, τό",
           "first_occurrence": [
             48,
             7
-          ]
+          ],
+          "gloss": "beauty"
         },
         {
           "book_entry": "κατασκευή, ἡ",
           "first_occurrence": [
             102,
             2
-          ]
+          ],
+          "gloss": "preparation"
         },
         {
           "book_entry": "καταφρόνησις, ἡ",
           "first_occurrence": [
             74,
             2
-          ]
+          ],
+          "gloss": "contempt, disdain"
         },
         {
           "book_entry": "κήρυξ, ὁ",
@@ -455,49 +519,56 @@
           "first_occurrence": [
             19,
             7
-          ]
+          ],
+          "gloss": "acquisition"
         },
         {
           "book_entry": "λάφυρα, τά",
           "first_occurrence": [
             124,
             1
-          ]
+          ],
+          "gloss": "spoils"
         },
         {
           "book_entry": "μητροπάτωρ, ὁ",
           "first_occurrence": [
             63,
             1
-          ]
+          ],
+          "gloss": "one’s mother’s father"
         },
         {
           "book_entry": "πανοπλία, ἡ",
           "first_occurrence": [
             94,
             3
-          ]
+          ],
+          "gloss": "suit of armour of a ὁπλίτης"
         },
         {
           "book_entry": "στρατεία, ἡ",
           "first_occurrence": [
             69,
             3
-          ]
+          ],
+          "gloss": "an expedition, campaign"
         },
         {
           "book_entry": "στρατόπεδον, τό",
           "first_occurrence": [
             108,
             1
-          ]
+          ],
+          "gloss": "camp (of an army)"
         },
         {
           "book_entry": "σφυρόν, τό",
           "first_occurrence": [
             100,
             5
-          ]
+          ],
+          "gloss": "the ankle"
         }
       ]
     },
@@ -509,7 +580,8 @@
           "first_occurrence": [
             41,
             2
-          ]
+          ],
+          "gloss": "in order that"
         }
       ]
     },
@@ -521,7 +593,8 @@
           "first_occurrence": [
             25,
             4
-          ]
+          ],
+          "gloss": "over, above, on behalf of (+ gen); (of motion or measure) over, beyond (+acc)"
         }
       ]
     },
@@ -532,28 +605,36 @@
           "book_entry": "Ἀερόπη, ἡ"
         },
         {
-          "book_entry": "Αἴας, ὁ"
+          "book_entry": "Αἴας, ὁ",
+          "gloss": "Ajax"
         },
         {
-          "book_entry": "Ἀντίκλεια, ἡ"
+          "book_entry": "Ἀντίκλεια, ἡ",
+          "gloss": "Anticlia"
         },
         {
-          "book_entry": "Ἀτρεύς, ὁ"
+          "book_entry": "Ἀτρεύς, ὁ",
+          "gloss": "Atreus"
         },
         {
-          "book_entry": "Αὐλίς, ἡ"
+          "book_entry": "Αὐλίς, ἡ",
+          "gloss": "Aulis, a town in Boeotia, on the Euripus"
         },
         {
-          "book_entry": "Διομήδης, ὁ"
+          "book_entry": "Διομήδης, ὁ",
+          "gloss": "Diomedes (Zeus-counselled)"
         },
         {
-          "book_entry": "Ἐπειός, ὁ"
+          "book_entry": "Ἐπειός, ὁ",
+          "gloss": "Epeius, builder of the wooden horse; an Epeian"
         },
         {
-          "book_entry": "Ἑρμιόνη, ἡ"
+          "book_entry": "Ἑρμιόνη, ἡ",
+          "gloss": "Hermione"
         },
         {
-          "book_entry": "Θέτις, ἡ"
+          "book_entry": "Θέτις, ἡ",
+          "gloss": "Thetis"
         },
         {
           "book_entry": "Κατρεύς, ὁ"
@@ -562,16 +643,20 @@
           "book_entry": "Μυκῆναι, αἱ"
         },
         {
-          "book_entry": "Νέστωρ, ὁ"
+          "book_entry": "Νέστωρ, ὁ",
+          "gloss": "Nestor"
         },
         {
-          "book_entry": "Νηλεύς, ὁ"
+          "book_entry": "Νηλεύς, ὁ",
+          "gloss": "Neleus"
         },
         {
-          "book_entry": "Πηλεύς, ὁ"
+          "book_entry": "Πηλεύς, ὁ",
+          "gloss": "Peleus"
         },
         {
-          "book_entry": "Πρίαμος, ὁ"
+          "book_entry": "Πρίαμος, ὁ",
+          "gloss": "Priam"
         },
         {
           "book_entry": "Σκαιαὶ πύλαι, αἱ"
@@ -589,7 +674,8 @@
           "first_occurrence": [
             104,
             3
-          ]
+          ],
+          "gloss": "from within"
         },
         {
           "book_entry": "συνεχῶς",
@@ -608,7 +694,8 @@
           "first_occurrence": [
             24,
             9
-          ]
+          ],
+          "gloss": "our; (as a substantive) ours"
         }
       ]
     }

@@ -14,7 +14,8 @@
           "first_occurrence": [
             1,
             4
-          ]
+          ],
+          "gloss": "to be"
         }
       ]
     },
@@ -26,7 +27,8 @@
           "first_occurrence": [
             69,
             1
-          ]
+          ],
+          "gloss": "who?, which?, what?"
         }
       ]
     },
@@ -38,20 +40,24 @@
           "first_occurrence": [
             19,
             6
-          ]
+          ],
+          "gloss": "human"
         },
         {
-          "book_entry": "ἄρθρον, τό"
+          "book_entry": "ἄρθρον, τό",
+          "gloss": "a joint"
         },
         {
-          "book_entry": "ἀριθμός, ὁ"
+          "book_entry": "ἀριθμός, ὁ",
+          "gloss": "number"
         },
         {
           "book_entry": "βασίλεια, ἡ",
           "first_occurrence": [
             52,
             4
-          ]
+          ],
+          "gloss": "a queen, princess"
         },
         {
           "book_entry": "γραμματική, ἡ"
@@ -61,62 +67,72 @@
           "first_occurrence": [
             29,
             3
-          ]
+          ],
+          "gloss": "goddess"
         },
         {
           "book_entry": "θεός, ὁ",
           "first_occurrence": [
             1,
             3
-          ]
+          ],
+          "gloss": "god, goddess"
         },
         {
           "book_entry": "θηρίον, τό",
           "first_occurrence": [
             55,
             3
-          ]
+          ],
+          "gloss": "wild animal"
         },
         {
           "book_entry": "ἱέρεια, ἡ",
           "first_occurrence": [
             54,
             3
-          ]
+          ],
+          "gloss": "priestess"
         },
         {
-          "book_entry": "κεφάλαιον, τό"
+          "book_entry": "κεφάλαιον, τό",
+          "gloss": "main point; chief person; sum, total; chapter"
         },
         {
           "book_entry": "μαθηματικός, ὁ",
           "first_occurrence": [
             28,
             4
-          ]
+          ],
+          "gloss": "disposed to learn"
         },
         {
-          "book_entry": "μελέτημα, τό"
+          "book_entry": "μελέτημα, τό",
+          "gloss": "a practice, exercise, study"
         },
         {
           "book_entry": "μουσικός, ὁ",
           "first_occurrence": [
             26,
             3
-          ]
+          ],
+          "gloss": "musical, skilled in music, elegant"
         },
         {
           "book_entry": "ποιήτρια, ἡ",
           "first_occurrence": [
             50,
             3
-          ]
+          ],
+          "gloss": "a poetess"
         },
         {
           "book_entry": "φιλόσοφος, ὁ",
           "first_occurrence": [
             24,
             3
-          ]
+          ],
+          "gloss": "philosopher (noun)"
         }
       ]
     },
@@ -128,14 +144,16 @@
           "first_occurrence": [
             76,
             1
-          ]
+          ],
+          "gloss": "...on the other hand"
         },
         {
           "book_entry": "μέν",
           "first_occurrence": [
             75,
             1
-          ]
+          ],
+          "gloss": "on the one hand.."
         }
       ]
     },
@@ -147,20 +165,24 @@
           "first_occurrence": [
             1,
             2
-          ]
+          ],
+          "gloss": "Hellenic, Greek"
         },
         {
-          "book_entry": "ἑνικός, -ἤ, -όν"
+          "book_entry": "ἑνικός, -ἤ, -όν",
+          "gloss": "single"
         },
         {
-          "book_entry": "πληθυντικός, -ή, -όν"
+          "book_entry": "πληθυντικός, -ή, -όν",
+          "gloss": "plural"
         },
         {
           "book_entry": "Ρωμαϊκός, -ή, -όν",
           "first_occurrence": [
             8,
             2
-          ]
+          ],
+          "gloss": "Roman"
         }
       ]
     },
@@ -172,28 +194,32 @@
           "first_occurrence": [
             71,
             8
-          ]
+          ],
+          "gloss": "introduces a question"
         },
         {
           "book_entry": "ναί",
           "first_occurrence": [
             4,
             5
-          ]
+          ],
+          "gloss": "yes (particle)"
         },
         {
           "book_entry": "οὐ | οὐκ | οὐχ",
           "first_occurrence": [
             15,
             2
-          ]
+          ],
+          "gloss": "not"
         },
         {
           "book_entry": "οὐδαμῶς",
           "first_occurrence": [
             15,
             6
-          ]
+          ],
+          "gloss": "in no way, not at all (adverb)"
         }
       ]
     },
@@ -205,7 +231,8 @@
           "first_occurrence": [
             2,
             5
-          ]
+          ],
+          "gloss": "the [definite article]"
         }
       ]
     },
@@ -217,14 +244,16 @@
           "first_occurrence": [
             17,
             6
-          ]
+          ],
+          "gloss": "but"
         },
         {
           "book_entry": "καί",
           "first_occurrence": [
             1,
             5
-          ]
+          ],
+          "gloss": "and, also, even"
         }
       ]
     },
@@ -235,82 +264,105 @@
           "book_entry": "Ἀθηνᾶ, ἡ"
         },
         {
-          "book_entry": "Ἀπόλλων, ὁ"
+          "book_entry": "Ἀπόλλων, ὁ",
+          "gloss": "Apollo"
         },
         {
-          "book_entry": "Ἄρης, ὁ"
+          "book_entry": "Ἄρης, ὁ",
+          "gloss": "Ares"
         },
         {
-          "book_entry": "Ἄρτεμις, ἡ"
+          "book_entry": "Ἄρτεμις, ἡ",
+          "gloss": "Artemis"
         },
         {
           "book_entry": "Ἀστερίων, ὁ"
         },
         {
-          "book_entry": "Ἀφροδίτη, ἡ"
+          "book_entry": "Ἀφροδίτη, ἡ",
+          "gloss": "Aphrodite"
         },
         {
-          "book_entry": "Δημήτηρ, ἡ"
+          "book_entry": "Δημήτηρ, ἡ",
+          "gloss": "Demeter"
         },
         {
-          "book_entry": "Διόνυσος, ὁ"
+          "book_entry": "Διόνυσος, ὁ",
+          "gloss": "Dionysus"
         },
         {
-          "book_entry": "Διοτίμα, ἡ"
+          "book_entry": "Διοτίμα, ἡ",
+          "gloss": "Diotima"
         },
         {
-          "book_entry": "Ἑρμῆς, ὁ"
+          "book_entry": "Ἑρμῆς, ὁ",
+          "gloss": "the god Hermes (Roman Mercury); herm (pillar surmounted by a bust, usually with male genitals on the pillar, set up by the door to ward off evil)"
         },
         {
-          "book_entry": "Ἥφαιστος, ὁ"
+          "book_entry": "Ἥφαιστος, ὁ",
+          "gloss": "Hephaestus, god of fire"
         },
         {
-          "book_entry": "Ζεύς, ὁ"
+          "book_entry": "Ζεύς, ὁ",
+          "gloss": "(voc. Ζεῦ), Zeus"
         },
         {
-          "book_entry": "Ἥρα, ἡ"
+          "book_entry": "Ἥρα, ἡ",
+          "gloss": "Hera"
         },
         {
-          "book_entry": "Κέρβερος, ὁ"
+          "book_entry": "Κέρβερος, ὁ",
+          "gloss": "Cerberus"
         },
         {
-          "book_entry": "Κλεοπάτρα, ἡ"
+          "book_entry": "Κλεοπάτρα, ἡ",
+          "gloss": "Cleopatra"
         },
         {
           "book_entry": "Κόριννα, ἡ"
         },
         {
-          "book_entry": "Μέδουσα, ἣ"
+          "book_entry": "Μέδουσα, ἣ",
+          "gloss": "Medusa"
         },
         {
-          "book_entry": "Ὀρφεύς, ὁ"
+          "book_entry": "Ὀρφεύς, ὁ",
+          "gloss": "Orpheus"
         },
         {
-          "book_entry": "Περσεφόνη, ἡ"
+          "book_entry": "Περσεφόνη, ἡ",
+          "gloss": "Persephone, Proserpine"
         },
         {
-          "book_entry": "Πήγασος, ὁ"
+          "book_entry": "Πήγασος, ὁ",
+          "gloss": "Pegasus"
         },
         {
-          "book_entry": "Πλάτων, ὁ"
+          "book_entry": "Πλάτων, ὁ",
+          "gloss": "Plato"
         },
         {
-          "book_entry": "Ποδάργη, ἡ"
+          "book_entry": "Ποδάργη, ἡ",
+          "gloss": "Podarge, ‘Swift-footed’"
         },
         {
-          "book_entry": "Πολύφημος, ὁ"
+          "book_entry": "Πολύφημος, ὁ",
+          "gloss": "Polyphemus"
         },
         {
-          "book_entry": "Πυθαγόρας, ὁ"
+          "book_entry": "Πυθαγόρας, ὁ",
+          "gloss": "Pythagoras"
         },
         {
           "book_entry": "Ὕδρα, ἡ"
         },
         {
-          "book_entry": "Χείρων, ὁ"
+          "book_entry": "Χείρων, ὁ",
+          "gloss": "Cheiron"
         },
         {
-          "book_entry": "Χίμαιρα, ἡ"
+          "book_entry": "Χίμαιρα, ἡ",
+          "gloss": "Chimaera"
         }
       ]
     }

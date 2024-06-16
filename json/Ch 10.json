@@ -13,70 +13,90 @@
           "book_entry": "ᾄδω"
         },
         {
-          "book_entry": "ἀναγιγνώσκω"
+          "book_entry": "ἀναγιγνώσκω",
+          "gloss": "read (aloud), recite (from a written document)"
         },
         {
           "book_entry": "ἀναπαύομαι"
         },
         {
-          "book_entry": "ἄπειμι"
+          "book_entry": "ἄπειμι",
+          "gloss": "be away, be distant, be absent"
         },
         {
-          "book_entry": "διατρίβω"
+          "book_entry": "διατρίβω",
+          "gloss": "pass time, waste time (verb)"
         },
         {
           "book_entry": "δύει"
         },
         {
-          "book_entry": "εὑρίσκω"
+          "book_entry": "εὑρίσκω",
+          "gloss": "find, discover"
         },
         {
-          "book_entry": "ἔχω"
+          "book_entry": "ἔχω",
+          "gloss": "or σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, -, have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.)"
         },
         {
-          "book_entry": "ζητέω"
+          "book_entry": "ζητέω",
+          "gloss": "seek"
         },
         {
-          "book_entry": "θεραπεύω"
+          "book_entry": "θεραπεύω",
+          "gloss": "look after, tend (verb)"
         },
         {
-          "book_entry": "καθεύδω"
+          "book_entry": "καθεύδω",
+          "gloss": "sleep (verb)"
         },
         {
-          "book_entry": "καλέω"
+          "book_entry": "καλέω",
+          "gloss": "call"
         },
         {
-          "book_entry": "κτενίζω"
+          "book_entry": "κτενίζω",
+          "gloss": "to comb, curry"
         },
         {
-          "book_entry": "λαμβάνω"
+          "book_entry": "λαμβάνω",
+          "gloss": "take"
         },
         {
-          "book_entry": "λείπω"
+          "book_entry": "λείπω",
+          "gloss": "leave, leave behind"
         },
         {
-          "book_entry": "λούω, -ομαι"
+          "book_entry": "λούω, -ομαι",
+          "gloss": "to wash"
         },
         {
-          "book_entry": "μαγειρεύω"
+          "book_entry": "μαγειρεύω",
+          "gloss": "to be a cook, to cook meat"
         },
         {
-          "book_entry": "ὁράω"
+          "book_entry": "ὁράω",
+          "gloss": "or ἑώρᾱκα, ἑώρᾱμαι or ὦμμαι, ὤφθην, see"
         },
         {
-          "book_entry": "παρασκευάζω"
+          "book_entry": "παρασκευάζω",
+          "gloss": "prepare, provide, procure; (mid.) prepare for oneself, make preparations"
         },
         {
-          "book_entry": "πάρειμι"
+          "book_entry": "πάρειμι",
+          "gloss": "be by, be present"
         },
         {
-          "book_entry": "ῥάπτω"
+          "book_entry": "ῥάπτω",
+          "gloss": "to sew"
         },
         {
-          "book_entry": "τρέφω"
+          "book_entry": "τρέφω",
+          "gloss": "bring up, rear (children); nourish, maintain; cherish"
         },
         {
-          "book_entry": "φιλέω"
+          "book_entry": "φιλέω",
+          "gloss": "love"
         }
       ]
     },
@@ -84,7 +104,8 @@
       "section": "Προθέσεις",
       "words": [
         {
-          "book_entry": "κατά (κατ ̓ οἰκον)"
+          "book_entry": "κατά (κατ ̓ οἰκον)",
+          "gloss": "down from, under, against (+ gen); according to, throughout (+ acc.)"
         }
       ]
     },
@@ -92,124 +113,161 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "ἀνδρωνῖτις, ἡ"
+          "book_entry": "ἀνδρωνῖτις, ἡ",
+          "gloss": "passage between two courts of a house"
         },
         {
-          "book_entry": "ἀποθήκη, ἡ"
+          "book_entry": "ἀποθήκη, ἡ",
+          "gloss": "any place wherein to lay up"
         },
         {
-          "book_entry": "αὐλή, ἡ"
+          "book_entry": "αὐλή, ἡ",
+          "gloss": "courtyard (noun)"
         },
         {
-          "book_entry": "αὔλιον, τό"
+          "book_entry": "αὔλιον, τό",
+          "gloss": "a country house, cottage"
         },
         {
-          "book_entry": "βιβλιοθήκη, ἡ"
+          "book_entry": "βιβλιοθήκη, ἡ",
+          "gloss": "book-case"
         },
         {
-          "book_entry": "βιβλίον, τό"
+          "book_entry": "βιβλίον, τό",
+          "gloss": "book"
         },
         {
-          "book_entry": "βωμός, ὁ"
+          "book_entry": "βωμός, ὁ",
+          "gloss": "altar (noun)"
         },
         {
-          "book_entry": "γυναικωνῖτις, ἡ"
+          "book_entry": "γυναικωνῖτις, ἡ",
+          "gloss": "the women’s apartments"
         },
         {
-          "book_entry": "δεῖπνον, τό"
+          "book_entry": "δεῖπνον, τό",
+          "gloss": "meal"
         },
         {
-          "book_entry": "δωμάτιον, τό"
+          "book_entry": "δωμάτιον, τό",
+          "gloss": "a chamber, bed-chamber"
         },
         {
-          "book_entry": "ἐπιστολή, ἡ"
+          "book_entry": "ἐπιστολή, ἡ",
+          "gloss": "message, order sent by messenger; letter"
         },
         {
-          "book_entry": "ἔργον, τό"
+          "book_entry": "ἔργον, τό",
+          "gloss": "work, deed"
         },
         {
-          "book_entry": "ἑσπέρα, ἡ"
+          "book_entry": "ἑσπέρα, ἡ",
+          "gloss": "evening; the west"
         },
         {
-          "book_entry": "ἡμέρα, ῆ"
+          "book_entry": "ἡμέρα, ῆ",
+          "gloss": "day"
         },
         {
-          "book_entry": "θάλαμος, ὁ"
+          "book_entry": "θάλαμος, ὁ",
+          "gloss": "bedchamber (noun)"
         },
         {
-          "book_entry": "θρόνος, ὁ"
+          "book_entry": "θρόνος, ὁ",
+          "gloss": "a seat, chair"
         },
         {
-          "book_entry": "θύρα, ἡ"
+          "book_entry": "θύρα, ἡ",
+          "gloss": "door, (freq. pl.) double/folding doors"
         },
         {
-          "book_entry": "θυρίς, ἡ"
+          "book_entry": "θυρίς, ἡ",
+          "gloss": "a window"
         },
         {
-          "book_entry": "καθέδρα, ἡ"
+          "book_entry": "καθέδρα, ἡ",
+          "gloss": "a seat"
         },
         {
-          "book_entry": "κάλαμος, ὁ"
+          "book_entry": "κάλαμος, ὁ",
+          "gloss": "a reed"
         },
         {
-          "book_entry": "κῆπος, ὁ"
+          "book_entry": "κῆπος, ὁ",
+          "gloss": "a garden, orchard, plantation"
         },
         {
-          "book_entry": "κιβώτιον, τό"
+          "book_entry": "κιβώτιον, τό",
+          "gloss": "box, voting urn"
         },
         {
-          "book_entry": "κιθάρα, ἡ"
+          "book_entry": "κιθάρα, ἡ",
+          "gloss": "lyre, lute"
         },
         {
           "book_entry": "κλίμαξ, ἡ"
         },
         {
-          "book_entry": "κλίνη, ἡ"
+          "book_entry": "κλίνη, ἡ",
+          "gloss": "that on which one lies, a couch"
         },
         {
-          "book_entry": "κόμη, ἡ"
+          "book_entry": "κόμη, ἡ",
+          "gloss": "the hair, hair of the head"
         },
         {
-          "book_entry": "λουτρόν, τό"
+          "book_entry": "λουτρόν, τό",
+          "gloss": "a bath, bathing place"
         },
         {
-          "book_entry": "μαγειρεῖον, τό"
+          "book_entry": "μαγειρεῖον, τό",
+          "gloss": "a cook-shop"
         },
         {
-          "book_entry": "μῆλον, τό"
+          "book_entry": "μῆλον, τό",
+          "gloss": "a sheep"
         },
         {
-          "book_entry": "νύξ, ἡ"
+          "book_entry": "νύξ, ἡ",
+          "gloss": "night"
         },
         {
-          "book_entry": "ξύλον, τό"
+          "book_entry": "ξύλον, τό",
+          "gloss": "wood"
         },
         {
           "book_entry": "ὄνειρον, τό"
         },
         {
-          "book_entry": "πάπυρος, ὁ"
+          "book_entry": "πάπυρος, ὁ",
+          "gloss": "the papyrus"
         },
         {
-          "book_entry": "πέπλος, ὁ"
+          "book_entry": "πέπλος, ὁ",
+          "gloss": "any woven cloth"
         },
         {
           "book_entry": "περιστύλιον, τό"
         },
         {
-          "book_entry": "στῦλος, ὁ"
+          "book_entry": "στῦλος, ὁ",
+          "gloss": "a pillar"
         },
         {
-          "book_entry": "συμπόσιον, τό"
+          "book_entry": "συμπόσιον, τό",
+          "gloss": "a drinking-party, symposium"
         },
         {
-          "book_entry": "τράπεζα, ἡ"
+          "book_entry": "τράπεζα, ἡ",
+          "gloss": "table, money-changer's table, bank"
         },
         {
-          "book_entry": "τροφή, ἡ"
+          "book_entry": "τροφή, ἡ",
+          "gloss": "food, nourishment (noun)"
         },
         {
-          "book_entry": "ὕπνος, ὁ"
+          "book_entry": "ὕπνος, ὁ",
+          "gloss": "sleep"
         }
       ]
     },
@@ -217,7 +275,8 @@
       "section": "Ἐπίθετα",
       "words": [
         {
-          "book_entry": "αἰτιατικός, -ή, -όν"
+          "book_entry": "αἰτιατικός, -ή, -όν",
+          "gloss": "causal"
         },
         {
           "book_entry": "διπλοῦς, -ῆ, -οῦν"
@@ -226,10 +285,12 @@
           "book_entry": "_κλητικός, -ή, -όν_"
         },
         {
-          "book_entry": "ξύλινος, -η, -ον"
+          "book_entry": "ξύλινος, -η, -ον",
+          "gloss": "of wood, wooden"
         },
         {
-          "book_entry": "περίστυλος, -ον"
+          "book_entry": "περίστυλος, -ον",
+          "gloss": "with pillars round the wall, surrounded with a colonnade"
         }
       ]
     },
@@ -237,16 +298,19 @@
       "section": "Ἐπιρρήματα",
       "words": [
         {
-          "book_entry": "ἅμα"
+          "book_entry": "ἅμα",
+          "gloss": "(adv) at the same time; (prep + dat) at the same time as"
         },
         {
-          "book_entry": "ἤδη"
+          "book_entry": "ἤδη",
+          "gloss": "already, immediately, actually, now"
         },
         {
           "book_entry": "καλῶς"
         },
         {
-          "book_entry": "τέλος"
+          "book_entry": "τέλος",
+          "gloss": "end, power"
         }
       ]
     },

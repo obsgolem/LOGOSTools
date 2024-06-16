@@ -14,77 +14,88 @@
           "first_occurrence": [
             69,
             5
-          ]
+          ],
+          "gloss": "miss (+ gen.); make a mistake, do wrong"
         },
         {
           "book_entry": "ἀρνέομαι",
           "first_occurrence": [
             115,
             3
-          ]
+          ],
+          "gloss": "to deny, disown"
         },
         {
           "book_entry": "βλέπω",
           "first_occurrence": [
             7,
             5
-          ]
+          ],
+          "gloss": "look (at) (verb)"
         },
         {
           "book_entry": "γελάω",
           "first_occurrence": [
             84,
             6
-          ]
+          ],
+          "gloss": "laugh; laugh at (+ prep. phrase or + dat.); deride (+ acc.)"
         },
         {
           "book_entry": "δακρύω",
           "first_occurrence": [
             72,
             6
-          ]
+          ],
+          "gloss": "weep (verb)"
         },
         {
           "book_entry": "διέρχομαι",
           "first_occurrence": [
             2,
             2
-          ]
+          ],
+          "gloss": "go through, relate (verb)"
         },
         {
           "book_entry": "εἰσέρχομαι",
           "first_occurrence": [
             2,
             6
-          ]
+          ],
+          "gloss": "enter (verb)"
         },
         {
           "book_entry": "δοκέω",
           "first_occurrence": [
             49,
             7
-          ]
+          ],
+          "gloss": "-, δέδογμαι, -ἐδόχθην, seem, think, it seems best"
         },
         {
           "book_entry": "θαυμάζω",
           "first_occurrence": [
             106,
             2
-          ]
+          ],
+          "gloss": "wonder at, marvel at; admire"
         },
         {
           "book_entry": "κλέπτω",
           "first_occurrence": [
             113,
             1
-          ]
+          ],
+          "gloss": "steal"
         },
         {
           "book_entry": "οἰκτίρω",
           "first_occurrence": [
             124,
             1
-          ]
+          ],
+          "gloss": "pity (verb)"
         },
         {
           "book_entry": "ὀργίζομαι",
@@ -98,21 +109,24 @@
           "first_occurrence": [
             126,
             1
-          ]
+          ],
+          "gloss": "strike, beat"
         },
         {
           "book_entry": "φθονέω",
           "first_occurrence": [
             125,
             3
-          ]
+          ],
+          "gloss": "to bear ill-will"
         },
         {
           "book_entry": "χέω",
           "first_occurrence": [
             43,
             7
-          ]
+          ],
+          "gloss": "to pour"
         }
       ]
     },
@@ -124,42 +138,48 @@
           "first_occurrence": [
             59,
             9
-          ]
+          ],
+          "gloss": "a ring, seal-ring"
         },
         {
           "book_entry": "δάκρυμα, τό",
           "first_occurrence": [
             70,
             6
-          ]
+          ],
+          "gloss": "that which is wept for, a subject for tears"
         },
         {
           "book_entry": "δῶρον, τό",
           "first_occurrence": [
             61,
             7
-          ]
+          ],
+          "gloss": "gift, bribe"
         },
         {
           "book_entry": "ἔρις, ἡ",
           "first_occurrence": [
             129,
             7
-          ]
+          ],
+          "gloss": "strife, quarrel, rivalry"
         },
         {
           "book_entry": "καρδία, ἡ",
           "first_occurrence": [
             75,
             6
-          ]
+          ],
+          "gloss": "the heart"
         },
         {
           "book_entry": "κάτοπτρον, τό",
           "first_occurrence": [
             9,
             7
-          ]
+          ],
+          "gloss": "a mirror"
         },
         {
           "book_entry": "νοῦς, ὁ"
@@ -169,7 +189,8 @@
           "first_occurrence": [
             52,
             7
-          ]
+          ],
+          "gloss": "anything that encircles"
         }
       ]
     },
@@ -181,14 +202,16 @@
           "first_occurrence": [
             67,
             3
-          ]
+          ],
+          "gloss": "true, real"
         },
         {
           "book_entry": "ψευδής, -ές",
           "first_occurrence": [
             79,
             4
-          ]
+          ],
+          "gloss": "false, lying"
         }
       ]
     },
@@ -207,14 +230,16 @@
           "first_occurrence": [
             78,
             6
-          ]
+          ],
+          "gloss": "never (adverb)"
         },
         {
           "book_entry": "πάνυ",
           "first_occurrence": [
             117,
             4
-          ]
+          ],
+          "gloss": "(adv.), perfectly, very; by all means"
         },
         {
           "book_entry": "ὠς",
@@ -229,19 +254,23 @@
       "section": "Φράσεις",
       "words": [
         {
-          "book_entry": "ἐν νῷ ἔχω"
+          "book_entry": "ἐν νῷ ἔχω",
+          "gloss": "in"
         },
         {
           "book_entry": "ἔστιν ὅτε"
         },
         {
-          "book_entry": "εἰς κόρακας!"
+          "book_entry": "εἰς κόρακας!",
+          "gloss": "into, to, for (purpose)"
         },
         {
-          "book_entry": "ὡς ἐμοὶ δοκεῖ"
+          "book_entry": "ὡς ἐμοὶ δοκεῖ",
+          "gloss": "in order that"
         },
         {
-          "book_entry": "ὡς καλός!"
+          "book_entry": "ὡς καλός!",
+          "gloss": "in order that"
         }
       ]
     }

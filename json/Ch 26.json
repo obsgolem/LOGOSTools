@@ -14,195 +14,224 @@
           "first_occurrence": [
             134,
             8
-          ]
+          ],
+          "gloss": "truth, reality"
         },
         {
           "book_entry": "γαμβρός, ὁ",
           "first_occurrence": [
             51,
             2
-          ]
+          ],
+          "gloss": "any one connected by marriage"
         },
         {
           "book_entry": "γεοῦχος, ὁ",
           "first_occurrence": [
             116,
             6
-          ]
+          ],
+          "gloss": "landowner"
         },
         {
           "book_entry": "διαλλαγή, ἡ",
           "first_occurrence": [
             32,
             3
-          ]
+          ],
+          "gloss": "interchange, exchange"
         },
         {
           "book_entry": "Ἑκατομβαιών, ὁ",
           "first_occurrence": [
             1,
             3
-          ]
+          ],
+          "gloss": "the month Hecatombaeon"
         },
         {
           "book_entry": "ἑορτή, ἡ",
           "first_occurrence": [
             2,
             3
-          ]
+          ],
+          "gloss": "festival"
         },
         {
           "book_entry": "ἐργαστήριον, τό",
           "first_occurrence": [
             40,
             6
-          ]
+          ],
+          "gloss": "any place in which work is done: a workshop, manufactory"
         },
         {
           "book_entry": "ἑστιάτωρ, ὁ",
           "first_occurrence": [
             13,
             6
-          ]
+          ],
+          "gloss": "one who gives a banquet, a host"
         },
         {
           "book_entry": "ἔχθρα, ἡ",
           "first_occurrence": [
             119,
             4
-          ]
+          ],
+          "gloss": "hatred, enmity"
         },
         {
           "book_entry": "ἡδονή, ἡ",
           "first_occurrence": [
             114,
             4
-          ]
+          ],
+          "gloss": "pleasure"
         },
         {
           "book_entry": "θεράπων, ὁ",
           "first_occurrence": [
             19,
             1
-          ]
+          ],
+          "gloss": "servant (noun)"
         },
         {
           "book_entry": "θυσία, ἡ",
           "first_occurrence": [
             5,
             1
-          ]
+          ],
+          "gloss": "sacrifice"
         },
         {
-          "book_entry": "ἱππεύς, ὁ"
+          "book_entry": "ἱππεύς, ὁ",
+          "gloss": "horseman"
         },
         {
           "book_entry": "μέθη, ἡ",
           "first_occurrence": [
             135,
             9
-          ]
+          ],
+          "gloss": "strong drink"
         },
         {
           "book_entry": "μήν, ὁ",
           "first_occurrence": [
             1,
             2
-          ]
+          ],
+          "gloss": "(postpositive particle adding strength to declarations) truly, surely"
         },
         {
           "book_entry": "μῆνις, ἡ",
           "first_occurrence": [
             166,
             3
-          ]
+          ],
+          "gloss": "wrath, anger"
         },
         {
           "book_entry": "ναυπηγός, ὁ",
           "first_occurrence": [
             39,
             5
-          ]
+          ],
+          "gloss": "a shipwright"
         },
         {
           "book_entry": "οἰνοχόη, ἡ",
           "first_occurrence": [
             86,
             1
-          ]
+          ],
+          "gloss": "a can for ladling wine"
         },
         {
           "book_entry": "οἰνοχόος, ὁ",
           "first_occurrence": [
             85,
             6
-          ]
+          ],
+          "gloss": "a wine-pourer, cupbearer"
         },
         {
           "book_entry": "πενθερός, ὁ",
           "first_occurrence": [
             52,
             7
-          ]
+          ],
+          "gloss": "a father-in-law"
         },
         {
           "book_entry": "πέρας, τό",
           "first_occurrence": [
             213,
             4
-          ]
+          ],
+          "gloss": "an end, limit, boundary"
         },
         {
           "book_entry": "πρέσβυς, ὁ",
           "first_occurrence": [
             28,
             2
-          ]
+          ],
+          "gloss": "old man; elder; ambassador (plural rare except in this last sense)"
         },
         {
           "book_entry": "πρόβλημα, τό",
           "first_occurrence": [
             117,
             2
-          ]
+          ],
+          "gloss": "anything projecting, a headland, promontory"
         },
         {
           "book_entry": "συνουσία, ἡ",
           "first_occurrence": [
             213,
             7
-          ]
+          ],
+          "gloss": "a being with, social intercourse, society, conversation, communion"
         },
         {
-          "book_entry": "τιμή, ἡ"
+          "book_entry": "τιμή, ἡ",
+          "gloss": "honor, price"
         },
         {
           "book_entry": "τριήρης, ἡ",
           "first_occurrence": [
             42,
             4
-          ]
+          ],
+          "gloss": "trireme (a military vessel with three banks of oars)"
         },
         {
           "book_entry": "ὑποδοχή, ἡ",
           "first_occurrence": [
             16,
             1
-          ]
+          ],
+          "gloss": "a reception, entertainment"
         },
         {
           "book_entry": "χαρά, ἡ",
           "first_occurrence": [
             81,
             5
-          ]
+          ],
+          "gloss": "joy, delight"
         },
         {
           "book_entry": "ὥρα, ἡ",
           "first_occurrence": [
             153,
             4
-          ]
+          ],
+          "gloss": "[sacrificial victim]"
         }
       ]
     },
@@ -210,7 +239,8 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Κριτόβουλος, ὁ"
+          "book_entry": "Κριτόβουλος, ὁ",
+          "gloss": "Critobulus"
         }
       ]
     },
@@ -218,7 +248,8 @@
       "section": "Ῥήματα",
       "words": [
         {
-          "book_entry": "ἀνάγω"
+          "book_entry": "ἀνάγω",
+          "gloss": "to lead up; mid. set sail"
         },
         {
           "book_entry": "ἀναιρέομαι",
@@ -232,80 +263,92 @@
           "first_occurrence": [
             166,
             1
-          ]
+          ],
+          "gloss": "rule, command (+ gen)"
         },
         {
           "book_entry": "ἀσπάζομαι",
           "first_occurrence": [
             67,
             5
-          ]
+          ],
+          "gloss": "greet, welcome (verb)"
         },
         {
           "book_entry": "ἀφικνέομαι",
           "first_occurrence": [
             151,
             4
-          ]
+          ],
+          "gloss": "arrive"
         },
         {
           "book_entry": "δειπνίζω",
           "first_occurrence": [
             10,
             1
-          ]
+          ],
+          "gloss": "to entertain at dinner"
         },
         {
-          "book_entry": "δέχομαι"
+          "book_entry": "δέχομαι",
+          "gloss": "receive; welcome"
         },
         {
           "book_entry": "διαλύω",
           "first_occurrence": [
             205,
             5
-          ]
+          ],
+          "gloss": "to loose one from another, to part asunder, undo"
         },
         {
           "book_entry": "διατελέω",
           "first_occurrence": [
             175,
             7
-          ]
+          ],
+          "gloss": "continue; persevere, live"
         },
         {
           "book_entry": "εἰσάγω",
           "first_occurrence": [
             65,
             2
-          ]
+          ],
+          "gloss": "introduce (verb)"
         },
         {
           "book_entry": "ἐμπίπτω",
           "first_occurrence": [
             117,
             3
-          ]
+          ],
+          "gloss": "fall into, on (verb)"
         },
         {
           "book_entry": "ἑορτάζω",
           "first_occurrence": [
             4,
             3
-          ]
+          ],
+          "gloss": "to keep festival"
         },
         {
           "book_entry": "ἔραμαι",
           "first_occurrence": [
             181,
             7
-          ]
+          ],
+          "gloss": "to love, to be in love with"
         },
         {
           "book_entry": "ἑτοιμάζω",
           "first_occurrence": [
             16,
             7
-          ]
+          ],
+          "gloss": "to make ready, prepare"
         },
         {
           "book_entry": "εὐφραίνομαι",
@@ -315,38 +358,44 @@
           ]
         },
         {
-          "book_entry": "καθοράω"
+          "book_entry": "καθοράω",
+          "gloss": "see, look down on (verb)"
         },
         {
           "book_entry": "κατάκειμαι",
           "first_occurrence": [
             66,
             7
-          ]
+          ],
+          "gloss": "to lie down, lie outstretched"
         },
         {
           "book_entry": "κατανοέω",
           "first_occurrence": [
             108,
             4
-          ]
+          ],
+          "gloss": "to observe well, to understand"
         },
         {
-          "book_entry": "οἰνοχοέω"
+          "book_entry": "οἰνοχοέω",
+          "gloss": "to pour out wine; be a cup bearer"
         },
         {
           "book_entry": "πέμπω",
           "first_occurrence": [
             30,
             3
-          ]
+          ],
+          "gloss": "send"
         },
         {
           "book_entry": "πραγματεύομαι",
           "first_occurrence": [
             27,
             3
-          ]
+          ],
+          "gloss": "to busy oneself, take trouble"
         },
         {
           "book_entry": "προσήκει",
@@ -360,7 +409,8 @@
           "first_occurrence": [
             204,
             3
-          ]
+          ],
+          "gloss": "pour a libation; (mid.) exchange libations, make a truce, make peace"
         },
         {
           "book_entry": "συλλαμβάνομαι",
@@ -374,21 +424,24 @@
           "first_occurrence": [
             74,
             1
-          ]
+          ],
+          "gloss": "join in keeping festival"
         },
         {
           "book_entry": "τελέθω",
           "first_occurrence": [
             203,
             5
-          ]
+          ],
+          "gloss": "to come into being, to be quite"
         },
         {
           "book_entry": "ὑπολαμβάνω",
           "first_occurrence": [
             93,
             2
-          ]
+          ],
+          "gloss": "take up; understand, interpret; assume; reply, rejoin"
         }
       ]
     },
@@ -400,10 +453,12 @@
           "first_occurrence": [
             96,
             2
-          ]
+          ],
+          "gloss": "above, atop, on the upper side"
         },
         {
-          "book_entry": "παρά + αἰτ."
+          "book_entry": "παρά + αἰτ.",
+          "gloss": "from (the side of) (+ gen); at (the side of), at the house of (+ dat); to (the side of), beside, contrary to (+ acc)"
         }
       ]
     },
@@ -415,28 +470,32 @@
           "first_occurrence": [
             191,
             6
-          ]
+          ],
+          "gloss": "without learning"
         },
         {
           "book_entry": "γενναῖος, -α, -ον",
           "first_occurrence": [
             13,
             5
-          ]
+          ],
+          "gloss": "noble, fine (adjective)"
         },
         {
           "book_entry": "ἐμός, -ή, -όν",
           "first_occurrence": [
             164,
             8
-          ]
+          ],
+          "gloss": "my; (as a substantive) mine"
         },
         {
           "book_entry": "ἐρωτικός, -ή, -όν",
           "first_occurrence": [
             174,
             2
-          ]
+          ],
+          "gloss": "amatory"
         },
         {
           "book_entry": "ἕτοιμος, -η, -ον",
@@ -450,28 +509,32 @@
           "first_occurrence": [
             111,
             6
-          ]
+          ],
+          "gloss": "pleasant, glad"
         },
         {
           "book_entry": "νέος, -α, -ον",
           "first_occurrence": [
             46,
             6
-          ]
+          ],
+          "gloss": "new, young"
         },
         {
           "book_entry": "ὀρνίθειος, -α, -ον",
           "first_occurrence": [
             21,
             3
-          ]
+          ],
+          "gloss": "of or belonging to a bird"
         },
         {
           "book_entry": "Πηληϊάδης, -ες",
           "first_occurrence": [
             166,
             6
-          ]
+          ],
+          "gloss": "son of Peleus"
         },
         {
           "book_entry": "πιστευτέος, -α, -ον",
@@ -485,38 +548,44 @@
           "first_occurrence": [
             11,
             3
-          ]
+          ],
+          "gloss": "former, superior"
         },
         {
-          "book_entry": "σός, σή, σόν"
+          "book_entry": "σός, σή, σόν",
+          "gloss": "your; (as a substantive) yours"
         },
         {
           "book_entry": "συγγενής, -ές",
           "first_occurrence": [
             24,
             7
-          ]
+          ],
+          "gloss": "relation (noun)"
         },
         {
           "book_entry": "σύμμαχος, -ον",
           "first_occurrence": [
             33,
             5
-          ]
+          ],
+          "gloss": "ally"
         },
         {
           "book_entry": "ταχύς, ταχεῖα, ταχύ",
           "first_occurrence": [
             42,
             3
-          ]
+          ],
+          "gloss": "quick, swift"
         },
         {
           "book_entry": "Τύριος, -α",
           "first_occurrence": [
             37,
             1
-          ]
+          ],
+          "gloss": "of Tyre, Tyrian"
         }
       ]
     },
@@ -545,7 +614,8 @@
           "first_occurrence": [
             93,
             1
-          ]
+          ],
+          "gloss": "betwixt, between"
         },
         {
           "book_entry": "τρίτον",
@@ -559,7 +629,8 @@
           "first_occurrence": [
             93,
             5
-          ]
+          ],
+          "gloss": "in this way, thus, so very"
         }
       ]
     },
@@ -567,7 +638,8 @@
       "section": "Φράσεις",
       "words": [
         {
-          "book_entry": "ἐν δὲ τούτῳ"
+          "book_entry": "ἐν δὲ τούτῳ",
+          "gloss": "in"
         }
       ]
     },
@@ -575,7 +647,8 @@
       "section": "Σύνδεσμοι",
       "words": [
         {
-          "book_entry": "εἰ"
+          "book_entry": "εἰ",
+          "gloss": "if"
         }
       ]
     },
@@ -587,7 +660,8 @@
           "first_occurrence": [
             202,
             2
-          ]
+          ],
+          "gloss": "therefore (particle)"
         }
       ]
     }

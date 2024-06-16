@@ -10,124 +10,161 @@
       "section": "Ῥήματα",
       "words": [
         {
-          "book_entry": "αἴρω, -ομαι"
+          "book_entry": "αἴρω, -ομαι",
+          "gloss": "to take up, raise, lift up"
         },
         {
-          "book_entry": "ἀναχωρέω"
+          "book_entry": "ἀναχωρέω",
+          "gloss": "retreat (verb)"
         },
         {
-          "book_entry": "ἀνδραποδίζω"
+          "book_entry": "ἀνδραποδίζω",
+          "gloss": "to reduce to slavery, enslave"
         },
         {
-          "book_entry": "ἀντιλέγω"
+          "book_entry": "ἀντιλέγω",
+          "gloss": "to speak against; speak in turn, reply"
         },
         {
-          "book_entry": "γέμω"
+          "book_entry": "γέμω",
+          "gloss": "to be full"
         },
         {
-          "book_entry": "γνωρίζω"
+          "book_entry": "γνωρίζω",
+          "gloss": "to make known, point out, explain"
         },
         {
-          "book_entry": "διαμένω"
+          "book_entry": "διαμένω",
+          "gloss": "continue, persist, last"
         },
         {
-          "book_entry": "διαφαίνω, -ομαι"
+          "book_entry": "διαφαίνω, -ομαι",
+          "gloss": "to shew through, let"
         },
         {
-          "book_entry": "διέχω"
+          "book_entry": "διέχω",
+          "gloss": "to keep apart; to be apart, distant"
         },
         {
           "book_entry": "διῆκω"
         },
         {
-          "book_entry": "εἰσβάλλω"
+          "book_entry": "εἰσβάλλω",
+          "gloss": "to throw into, put into"
         },
         {
-          "book_entry": "εἴσειμι"
+          "book_entry": "εἴσειμι",
+          "gloss": "to go into"
         },
         {
-          "book_entry": "ἐκπέμπω"
+          "book_entry": "ἐκπέμπω",
+          "gloss": "send out, divorce (verb)"
         },
         {
-          "book_entry": "ἐξαιρέω"
+          "book_entry": "ἐξαιρέω",
+          "gloss": "to take out of"
         },
         {
-          "book_entry": "ἐπαναφέρω"
+          "book_entry": "ἐπαναφέρω",
+          "gloss": "to throw back upon, ascribe, refer"
         },
         {
           "book_entry": "ἰδρύω"
         },
         {
-          "book_entry": "ἰσχύω"
+          "book_entry": "ἰσχύω",
+          "gloss": "to be strong"
         },
         {
-          "book_entry": "καθαιρέω"
+          "book_entry": "καθαιρέω",
+          "gloss": "to take down"
         },
         {
-          "book_entry": "καθίημι"
+          "book_entry": "καθίημι",
+          "gloss": "to send down, let fall"
         },
         {
-          "book_entry": "καρτερέω"
+          "book_entry": "καρτερέω",
+          "gloss": "to be steadfast, patient, staunch"
         },
         {
-          "book_entry": "καταπλέω"
+          "book_entry": "καταπλέω",
+          "gloss": "to sail down"
         },
         {
-          "book_entry": "κατασκάπτω"
+          "book_entry": "κατασκάπτω",
+          "gloss": "to dig down, destroy utterly, rase to the ground, overthrow"
         },
         {
-          "book_entry": "κάτειμι"
+          "book_entry": "κάτειμι",
+          "gloss": "go down"
         },
         {
-          "book_entry": "λύω"
+          "book_entry": "λύω",
+          "gloss": "unbind, free, release, dissolve, destroy"
         },
         {
-          "book_entry": "παραγγέλλω"
+          "book_entry": "παραγγέλλω",
+          "gloss": "to transmit as a message; give orders"
         },
         {
-          "book_entry": "παραδίδωμι"
+          "book_entry": "παραδίδωμι",
+          "gloss": "hand over, surrender; hand down"
         },
         {
-          "book_entry": "παραλαμβάνω"
+          "book_entry": "παραλαμβάνω",
+          "gloss": "take, receive from (verb); παραλαμβάνω, undertake, take from (verb) (19d (12i))"
         },
         {
-          "book_entry": "πιστεύω"
+          "book_entry": "πιστεύω",
+          "gloss": "trust (+ dat)"
         },
         {
-          "book_entry": "πολιορκέω, -έομαι"
+          "book_entry": "πολιορκέω, -έομαι",
+          "gloss": "besiege"
         },
         {
-          "book_entry": "πορθέω"
+          "book_entry": "πορθέω",
+          "gloss": "to destroy, ravage, waste, plunder"
         },
         {
-          "book_entry": "προβαίνω"
+          "book_entry": "προβαίνω",
+          "gloss": "to step on, step forward, advance"
         },
         {
-          "book_entry": "προέχω"
+          "book_entry": "προέχω",
+          "gloss": "to hold before, to pretend; to jut out, to excel"
         },
         {
-          "book_entry": "προτιμάω, -άομαι"
+          "book_entry": "προτιμάω, -άομαι",
+          "gloss": "to honour"
         },
         {
-          "book_entry": "στρατοπεδεύω"
+          "book_entry": "στρατοπεδεύω",
+          "gloss": "to encamp, bivouac, take up a position"
         },
         {
-          "book_entry": "συγγράφω"
+          "book_entry": "συγγράφω",
+          "gloss": "to write down, describe, compose"
         },
         {
-          "book_entry": "συμπολεμέω"
+          "book_entry": "συμπολεμέω",
+          "gloss": "to join in war"
         },
         {
           "book_entry": "σωματασκέω"
         },
         {
-          "book_entry": "τάσσω"
+          "book_entry": "τάσσω",
+          "gloss": "draw up in order, station, appoint"
         },
         {
-          "book_entry": "τειχίζω"
+          "book_entry": "τειχίζω",
+          "gloss": "to build a wall"
         },
         {
-          "book_entry": "ὑπάρχω"
+          "book_entry": "ὑπάρχω",
+          "gloss": "be, be sufficient; begin (verb); ὑπάρχω, begin (+ gen.) (verb) (12c)"
         }
       ]
     },
@@ -135,28 +172,36 @@
       "section": "Ἐπίθετα",
       "words": [
         {
-          "book_entry": "ἀξιοθέατος, -ον"
+          "book_entry": "ἀξιοθέατος, -ον",
+          "gloss": "well worth seeing"
         },
         {
-          "book_entry": "ἀξιόλογος, -ον"
+          "book_entry": "ἀξιόλογος, -ον",
+          "gloss": "worthy of mention, noteworthy"
         },
         {
-          "book_entry": "λαμπρός, -ά, -ον"
+          "book_entry": "λαμπρός, -ά, -ον",
+          "gloss": "bright, brilliant, radiant"
         },
         {
-          "book_entry": "Μεγαρεύς, -ίς"
+          "book_entry": "Μεγαρεύς, -ίς",
+          "gloss": "a citizen of Megara"
         },
         {
-          "book_entry": "Πελοποννησιακός, -ή, -όν"
+          "book_entry": "Πελοποννησιακός, -ή, -όν",
+          "gloss": "Peloponnesian (of things)"
         },
         {
-          "book_entry": "πεζικός, -ή, -όν"
+          "book_entry": "πεζικός, -ή, -όν",
+          "gloss": "on foot, of or for a foot-soldier"
         },
         {
-          "book_entry": "πολυχρόνιος, -ον"
+          "book_entry": "πολυχρόνιος, -ον",
+          "gloss": "long-existing, of olden time, ancient"
         },
         {
-          "book_entry": "ὑποτελής, -ές"
+          "book_entry": "ὑποτελής, -ές",
+          "gloss": "subject to pay taxes, taxable, tributary"
         }
       ]
     },
@@ -164,10 +209,12 @@
       "section": "Ἐπιρρήματα",
       "words": [
         {
-          "book_entry": "ἀντίον"
+          "book_entry": "ἀντίον",
+          "gloss": "[over against >ἀντίος]"
         },
         {
-          "book_entry": "εὐθύς"
+          "book_entry": "εὐθύς",
+          "gloss": "immediately, forthwith"
         },
         {
           "book_entry": "παντελῶς"
@@ -181,85 +228,111 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "ἀγαλματοποιός, ὁ"
+          "book_entry": "ἀγαλματοποιός, ὁ",
+          "gloss": "a maker of statues, a sculptor, statuary"
         },
         {
-          "book_entry": "αὐλητρίς, ἡ"
+          "book_entry": "αὐλητρίς, ἡ",
+          "gloss": "an aulos-girl"
         },
         {
-          "book_entry": "δόξα, ἡ"
+          "book_entry": "δόξα, ἡ",
+          "gloss": "expectatιοn, belief, reputation, glory"
         },
         {
-          "book_entry": "ἔθνος, τό"
+          "book_entry": "ἔθνος, τό",
+          "gloss": "a number of people accustomed to live together, a company, body of men"
         },
         {
-          "book_entry": "ἔθος, τό"
+          "book_entry": "ἔθος, τό",
+          "gloss": "manner, habit (noun)"
         },
         {
-          "book_entry": "ἐπίδοσις, ἡ"
+          "book_entry": "ἐπίδοσις, ἡ",
+          "gloss": "a giving over and above, a voluntary contribution"
         },
         {
-          "book_entry": "εὐδαιμονία, ἡ"
+          "book_entry": "εὐδαιμονία, ἡ",
+          "gloss": "prosperity, good fortune, wealth, weal, happiness"
         },
         {
-          "book_entry": "ἦθος, τό"
+          "book_entry": "ἦθος, τό",
+          "gloss": "custom, character"
         },
         {
-          "book_entry": "ἡλικία, ἡ"
+          "book_entry": "ἡλικία, ἡ",
+          "gloss": "time of life, age"
         },
         {
-          "book_entry": "ἡσυχία, ἡ"
+          "book_entry": "ἡσυχία, ἡ",
+          "gloss": "quiet, rest, calm"
         },
         {
-          "book_entry": "κράτος, τό"
+          "book_entry": "κράτος, τό",
+          "gloss": "strength, power"
         },
         {
-          "book_entry": "λιμός, ὁ"
+          "book_entry": "λιμός, ὁ",
+          "gloss": "hunger, famine"
         },
         {
-          "book_entry": "οἰμωγή, ἡ"
+          "book_entry": "οἰμωγή, ἡ",
+          "gloss": "loud wailing, lamentation"
         },
         {
-          "book_entry": "παιδεία, ἡ"
+          "book_entry": "παιδεία, ἡ",
+          "gloss": "education, training, culture"
         },
         {
-          "book_entry": "παλαίστρα, ἡ"
+          "book_entry": "παλαίστρα, ἡ",
+          "gloss": "a palaestra, wrestling-school"
         },
         {
-          "book_entry": "πλοῦτος, ὁ"
+          "book_entry": "πλοῦτος, ὁ",
+          "gloss": "wealth, riches"
         },
         {
           "book_entry": "ῥητορική, ἡ"
         },
         {
-          "book_entry": "στάδιον, τό"
+          "book_entry": "στάδιον, τό",
+          "gloss": "(plural τὰ στάδια or οἱ στάδιοι), stade (= ca. 600 ft.)"
         },
         {
-          "book_entry": "στρατιώτης, ὁ"
+          "book_entry": "στρατιώτης, ὁ",
+          "gloss": "soldier"
         },
         {
-          "book_entry": "συμμαχία, ἡ"
+          "book_entry": "συμμαχία, ἡ",
+          "gloss": "an alliance offensive and defensive"
         },
         {
-          "book_entry": "συνέχεια, ἡ"
+          "book_entry": "συνέχεια, ἡ",
+          "gloss": "continuity"
         },
         {
-          "book_entry": "συνθήκη, ἡ"
+          "book_entry": "συνθήκη, ἡ",
+          "gloss": "a composition; convention, pl. treaty"
         },
         {
-          "book_entry": "τεκνοποιία, ἡ"
+          "book_entry": "τεκνοποιία, ἡ",
+          "gloss": "production of children"
         },
         {
-          "book_entry": "τεχνίτης, ὁ"
+          "book_entry": "τεχνίτης, ὁ",
+          "gloss": "an artificer, artisan, craftsman, skilled workman"
         },
         {
-          "book_entry": "φιλοσοφία, ἡ"
+          "book_entry": "φιλοσοφία, ἡ",
+          "gloss": "philosophy (noun)"
         },
         {
-          "book_entry": "φυγάς, ὁ"
+          "book_entry": "φυγάς, ὁ",
+          "gloss": "exile; runaway, fugitive"
         },
         {
-          "book_entry": "χαρακτήρ, ὁ"
+          "book_entry": "χαρακτήρ, ὁ",
+          "gloss": "a mark engraved"
         }
       ]
     },
@@ -267,55 +340,68 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Ἆγις"
+          "book_entry": "Ἆγις",
+          "gloss": "Agis"
         },
         {
           "book_entry": "Αἰγὸς Ποταμοί"
         },
         {
-          "book_entry": "Ἀναξαγόρας"
+          "book_entry": "Ἀναξαγόρας",
+          "gloss": "Anaxagoras"
         },
         {
-          "book_entry": "Ἀσπασία"
+          "book_entry": "Ἀσπασία",
+          "gloss": "Aspasia"
         },
         {
-          "book_entry": "Ἑλλήσποντος"
+          "book_entry": "Ἑλλήσποντος",
+          "gloss": "the Hellespont"
         },
         {
-          "book_entry": "Θηραμένης"
+          "book_entry": "Θηραμένης",
+          "gloss": "Theramenes"
         },
         {
-          "book_entry": "Θουκυδίδης"
+          "book_entry": "Θουκυδίδης",
+          "gloss": "Thucydides"
         },
         {
           "book_entry": "Λακωνική"
         },
         {
-          "book_entry": "Λάμψακος"
+          "book_entry": "Λάμψακος",
+          "gloss": "Lampsacus"
         },
         {
           "book_entry": "Λυκούργος"
         },
         {
-          "book_entry": "Λύσανδρος"
+          "book_entry": "Λύσανδρος",
+          "gloss": "Lysander"
         },
         {
-          "book_entry": "Λυσίας"
+          "book_entry": "Λυσίας",
+          "gloss": "Lysias"
         },
         {
           "book_entry": "Ξενοφών"
         },
         {
-          "book_entry": "Πάραλος"
+          "book_entry": "Πάραλος",
+          "gloss": "(f) Athenian state vessel; (m) its crew"
         },
         {
-          "book_entry": "Παυσανίας"
+          "book_entry": "Παυσανίας",
+          "gloss": "Pausanias"
         },
         {
-          "book_entry": "Πρωταγόρας"
+          "book_entry": "Πρωταγόρας",
+          "gloss": "Protagoras"
         },
         {
-          "book_entry": "Σελλασία"
+          "book_entry": "Σελλασία",
+          "gloss": "Sellasia"
         }
       ]
     },
@@ -323,10 +409,12 @@
       "section": "Ἀντωνυμίαι",
       "words": [
         {
-          "book_entry": "ἕτερος, -α, -ον"
+          "book_entry": "ἕτερος, -α, -ον",
+          "gloss": "the other (of two)"
         },
         {
-          "book_entry": "τοιοῦτος, τοιαύτη, τοιοῦτο"
+          "book_entry": "τοιοῦτος, τοιαύτη, τοιοῦτο",
+          "gloss": "/ τοιοῦτον, of this/that sort, such (as this)"
         }
       ]
     },
@@ -334,7 +422,8 @@
       "section": "Σύνδεσμοι",
       "words": [
         {
-          "book_entry": "ὥστε"
+          "book_entry": "ὥστε",
+          "gloss": "so as, so that"
         }
       ]
     }

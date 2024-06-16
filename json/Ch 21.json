@@ -14,42 +14,48 @@
           "first_occurrence": [
             71,
             1
-          ]
+          ],
+          "gloss": "follow, accompany (+ dat.) (verb)"
         },
         {
           "book_entry": "ἐπισκοπέω",
           "first_occurrence": [
             17,
             1
-          ]
+          ],
+          "gloss": "to look upon"
         },
         {
           "book_entry": "ἐπιχειρέω",
           "first_occurrence": [
             95,
             7
-          ]
+          ],
+          "gloss": "put one's hand to, attempt (+ dat. or + inf.)"
         },
         {
           "book_entry": "ἕπομαι",
           "first_occurrence": [
             117,
             3
-          ]
+          ],
+          "gloss": "follow, pursue (+ dat)"
         },
         {
           "book_entry": "ἡγέομαι",
           "first_occurrence": [
             70,
             2
-          ]
+          ],
+          "gloss": "lead the way; be commander; rule (+ gen); believe"
         },
         {
           "book_entry": "κατατρίβω",
           "first_occurrence": [
             25,
             3
-          ]
+          ],
+          "gloss": "to rub down"
         },
         {
           "book_entry": "παιδέυω",
@@ -63,28 +69,32 @@
           "first_occurrence": [
             102,
             1
-          ]
+          ],
+          "gloss": "to pass by and disregard, to be disregardful of"
         },
         {
           "book_entry": "παύω, -ομαι",
           "first_occurrence": [
             25,
             7
-          ]
+          ],
+          "gloss": "make stop, stop"
         },
         {
           "book_entry": "πείθω, -ομαι",
           "first_occurrence": [
             47,
             2
-          ]
+          ],
+          "gloss": "persuade"
         },
         {
           "book_entry": "πληρόω",
           "first_occurrence": [
             104,
             1
-          ]
+          ],
+          "gloss": "to make full"
         },
         {
           "book_entry": "ῥᾳθυμέω",
@@ -98,7 +108,8 @@
           "first_occurrence": [
             73,
             4
-          ]
+          ],
+          "gloss": "guard"
         }
       ]
     },
@@ -110,56 +121,64 @@
           "first_occurrence": [
             5,
             1
-          ]
+          ],
+          "gloss": "a vineyard"
         },
         {
           "book_entry": "ἀρετή, ἡ",
           "first_occurrence": [
             74,
             6
-          ]
+          ],
+          "gloss": "excellence, virtue"
         },
         {
           "book_entry": "ἐλαιών, ὁ",
           "first_occurrence": [
             7,
             8
-          ]
+          ],
+          "gloss": "an olive-yard"
         },
         {
           "book_entry": "θόρυβος, ὁ",
           "first_occurrence": [
             114,
             3
-          ]
+          ],
+          "gloss": "noise, din, hustle and bustle (noun)"
         },
         {
           "book_entry": "οἰκονομία, ἡ",
           "first_occurrence": [
             87,
             2
-          ]
+          ],
+          "gloss": "the management of a household"
         },
         {
           "book_entry": "σκιά, ἡ",
           "first_occurrence": [
             26,
             5
-          ]
+          ],
+          "gloss": "a shadow"
         },
         {
           "book_entry": "σταφυλή, ἡ",
           "first_occurrence": [
             28,
             2
-          ]
+          ],
+          "gloss": "a bunch of grapes"
         },
         {
           "book_entry": "σῦκον, τό",
           "first_occurrence": [
             28,
             5
-          ]
+          ],
+          "gloss": "fig"
         },
         {
           "book_entry": "ὑγρόν, τό"
@@ -169,7 +188,8 @@
           "first_occurrence": [
             112,
             6
-          ]
+          ],
+          "gloss": "friendship"
         }
       ]
     },
@@ -177,7 +197,8 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Κηφισός, ὁ"
+          "book_entry": "Κηφισός, ὁ",
+          "gloss": "the Cephisus"
         }
       ]
     },
@@ -189,14 +210,16 @@
           "first_occurrence": [
             17,
             5
-          ]
+          ],
+          "gloss": "agricultural, of farming, skilled in farming"
         },
         {
           "book_entry": "ὡραῖος, -α, -ον",
           "first_occurrence": [
             21,
             5
-          ]
+          ],
+          "gloss": "produced at the right season (subst. ἡ ὡραία harvest time)"
         }
       ]
     },
@@ -208,7 +231,8 @@
           "first_occurrence": [
             17,
             2
-          ]
+          ],
+          "gloss": "in order that"
         }
       ]
     },
@@ -216,7 +240,8 @@
       "section": "Φράσεις",
       "words": [
         {
-          "book_entry": "ὡς τὰ πολλά"
+          "book_entry": "ὡς τὰ πολλά",
+          "gloss": "in order that"
         },
         {
           "book_entry": "διὰ τοῦτο"
@@ -238,28 +263,32 @@
           "first_occurrence": [
             30,
             5
-          ]
+          ],
+          "gloss": "again, in turn, hereafter, in the future"
         },
         {
           "book_entry": "αὐτίκα",
           "first_occurrence": [
             61,
             2
-          ]
+          ],
+          "gloss": "immediately"
         },
         {
           "book_entry": "εὖ",
           "first_occurrence": [
             93,
             4
-          ]
+          ],
+          "gloss": "well"
         },
         {
           "book_entry": "οἴκαδε",
           "first_occurrence": [
             64,
             2
-          ]
+          ],
+          "gloss": "to home"
         }
       ]
     },
@@ -271,14 +300,16 @@
           "first_occurrence": [
             91,
             2
-          ]
+          ],
+          "gloss": "at any rate (particle)"
         },
         {
           "book_entry": "μέντοι",
           "first_occurrence": [
             22,
             3
-          ]
+          ],
+          "gloss": "(postpositive) however (stronger adversative than δή or ἀλλά)"
         }
       ]
     }

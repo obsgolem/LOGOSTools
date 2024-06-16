@@ -14,41 +14,48 @@
           "first_occurrence": [
             62,
             6
-          ]
+          ],
+          "gloss": "hold off; (intrans.) be away from, be distant from"
         },
         {
           "book_entry": "ἐκπλέω",
           "first_occurrence": [
             64,
             7
-          ]
+          ],
+          "gloss": "to sail out, sail away, weigh anchor"
         },
         {
-          "book_entry": "νικάω"
+          "book_entry": "νικάω",
+          "gloss": "win, conquer"
         },
         {
           "book_entry": "οἰκοδομέω",
           "first_occurrence": [
             80,
             2
-          ]
+          ],
+          "gloss": "to build a house"
         },
         {
           "book_entry": "ὁρμίζω",
           "first_occurrence": [
             55,
             2
-          ]
+          ],
+          "gloss": "to bring to a safe anchorage, bring into harbour, to moor, anchor"
         },
         {
-          "book_entry": "ῥέω"
+          "book_entry": "ῥέω",
+          "gloss": "flow"
         },
         {
           "book_entry": "φύω",
           "first_occurrence": [
             20,
             2
-          ]
+          ],
+          "gloss": "(pres., fut., weak aor. active) produce, make grow; beget; (pres. passive, intrans. strong aor., intrans. perfect) grow, be begotten, be born; (perfect with present meaning) be by nature, be by nature prone to (+ inf.)"
         }
       ]
     },
@@ -56,34 +63,42 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Ἀκτή, ἡ"
+          "book_entry": "Ἀκτή, ἡ",
+          "gloss": "Acte"
         },
         {
-          "book_entry": "Ἠριδανός, ὁ"
+          "book_entry": "Ἠριδανός, ὁ",
+          "gloss": "Eridanus"
         },
         {
-          "book_entry": "Ἰλισός, ὁ"
+          "book_entry": "Ἰλισός, ὁ",
+          "gloss": "the Ilissus river"
         },
         {
-          "book_entry": "Μαραθών, ὁ"
+          "book_entry": "Μαραθών, ὁ",
+          "gloss": "Marathon"
         },
         {
           "book_entry": "Παρθενών, ὁ"
         },
         {
-          "book_entry": "Πάρις, ὁ"
+          "book_entry": "Πάρις, ὁ",
+          "gloss": "Paris son of Priam"
         },
         {
-          "book_entry": "Πειραιεύς, ὁ"
+          "book_entry": "Πειραιεύς, ὁ",
+          "gloss": "Peiraeus"
         },
         {
           "book_entry": "Πτολεμαίος, ὁ"
         },
         {
-          "book_entry": "Σούνιον, τό"
+          "book_entry": "Σούνιον, τό",
+          "gloss": "Sunium"
         },
         {
-          "book_entry": "Φάληρον, τό"
+          "book_entry": "Φάληρον, τό",
+          "gloss": "Phaleron"
         }
       ]
     },
@@ -95,21 +110,24 @@
           "first_occurrence": [
             53,
             3
-          ]
+          ],
+          "gloss": "the sea-shore, beach, strand"
         },
         {
           "book_entry": "ἄκρον, τό",
           "first_occurrence": [
             25,
             5
-          ]
+          ],
+          "gloss": "the highest or furthest point: mountain top, cape"
         },
         {
           "book_entry": "ἀκτή, ἡ",
           "first_occurrence": [
             50,
             3
-          ]
+          ],
+          "gloss": "headland, foreland, promontory"
         },
         {
           "book_entry": "ἀμυγδαλῆ, ἡ",
@@ -133,93 +151,108 @@
           "first_occurrence": [
             20,
             7
-          ]
+          ],
+          "gloss": "a place where stone is cut, a quarry"
         },
         {
-          "book_entry": "λιθοτόμος, ὁ"
+          "book_entry": "λιθοτόμος, ὁ",
+          "gloss": "a stone-cutter"
         },
         {
           "book_entry": "λιμήν, ὁ",
           "first_occurrence": [
             58,
             1
-          ]
+          ],
+          "gloss": "harbor"
         },
         {
           "book_entry": "λόφος, ὁ",
           "first_occurrence": [
             47,
             1
-          ]
+          ],
+          "gloss": "neck, crest of hill, ridge, crest of a helmet"
         },
         {
           "book_entry": "ναύαρχος, ὁ",
           "first_occurrence": [
             78,
             6
-          ]
+          ],
+          "gloss": "the commander of a fleet, an admiral"
         },
         {
           "book_entry": "ναυμαχία, ἡ",
           "first_occurrence": [
             70,
             1
-          ]
+          ],
+          "gloss": "naval battle (noun)"
         },
         {
           "book_entry": "ὅρμος, ὁ",
           "first_occurrence": [
             56,
             2
-          ]
+          ],
+          "gloss": "a cord, chain, anchorage"
         },
         {
-          "book_entry": "παρθένος, ἡ"
+          "book_entry": "παρθένος, ἡ",
+          "gloss": "a maid, maiden, virgin, girl"
         },
         {
           "book_entry": "πεδίον, τό",
           "first_occurrence": [
             27,
             5
-          ]
+          ],
+          "gloss": "plain"
         },
         {
           "book_entry": "πλευρά, ἡ",
           "first_occurrence": [
             49,
             1
-          ]
+          ],
+          "gloss": "a rib"
         },
         {
           "book_entry": "στόλος, ὁ",
           "first_occurrence": [
             71,
             5
-          ]
+          ],
+          "gloss": "an expedition; a voyage; equipment"
         },
         {
           "book_entry": "στρατός, ὁ",
           "first_occurrence": [
             30,
             2
-          ]
+          ],
+          "gloss": "army, host"
         },
         {
           "book_entry": "συκῆ, ἡ",
           "first_occurrence": [
             10,
             1
-          ]
+          ],
+          "gloss": "fig tree"
         },
         {
           "book_entry": "τεῖχος, τό",
           "first_occurrence": [
             79,
             5
-          ]
+          ],
+          "gloss": "city wall"
         },
         {
-          "book_entry": "Κηφισός, ὁ"
+          "book_entry": "Κηφισός, ὁ",
+          "gloss": "the Cephisus"
         }
       ]
     },
@@ -231,14 +264,16 @@
           "first_occurrence": [
             79,
             2
-          ]
+          ],
+          "gloss": "Egyptian"
         },
         {
           "book_entry": "ἀμφιθάλασσος, -ον",
           "first_occurrence": [
             48,
             3
-          ]
+          ],
+          "gloss": "with sea on both sides, sea-girt"
         },
         {
           "book_entry": "ἀττικός, -ή, -όν"
@@ -248,7 +283,8 @@
           "first_occurrence": [
             66,
             6
-          ]
+          ],
+          "gloss": "commercial, mercantile"
         },
         {
           "book_entry": "ἔρημος, -ον",
@@ -262,7 +298,8 @@
           "first_occurrence": [
             29,
             7
-          ]
+          ],
+          "gloss": "hated, hostile, (as substantive) enemy"
         },
         {
           "book_entry": "_θετικός, -ή, -όν_"
@@ -272,35 +309,40 @@
           "first_occurrence": [
             3,
             1
-          ]
+          ],
+          "gloss": "fruit-bearing, fruitful"
         },
         {
           "book_entry": "Μηδικός, -ή, -όν",
           "first_occurrence": [
             29,
             4
-          ]
+          ],
+          "gloss": "Median, of the Medes"
         },
         {
           "book_entry": "ὀρεινός, -ή, -όν",
           "first_occurrence": [
             15,
             7
-          ]
+          ],
+          "gloss": "mountainous, hilly"
         },
         {
           "book_entry": "παλαιός, -ά, -όν",
           "first_occurrence": [
             52,
             1
-          ]
+          ],
+          "gloss": "old, aged, ancient"
         },
         {
           "book_entry": "Περσικός, -ή, -όν",
           "first_occurrence": [
             30,
             1
-          ]
+          ],
+          "gloss": "Persian"
         },
         {
           "book_entry": "_συγκριτικός, -ή, -όν_"
@@ -318,7 +360,8 @@
           "first_occurrence": [
             28,
             7
-          ]
+          ],
+          "gloss": "wherever"
         }
       ]
     }

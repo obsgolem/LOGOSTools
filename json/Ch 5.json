@@ -14,14 +14,16 @@
           "first_occurrence": [
             14,
             4
-          ]
+          ],
+          "gloss": "sister"
         },
         {
           "book_entry": "ἀδελφός, ὁ",
           "first_occurrence": [
             7,
             5
-          ]
+          ],
+          "gloss": "brother"
         },
         {
           "book_entry": "γονεῖς, οἱ",
@@ -35,98 +37,112 @@
           "first_occurrence": [
             48,
             1
-          ]
+          ],
+          "gloss": "mistress (f. of ‘master’), queen (noun)"
         },
         {
           "book_entry": "δεσπότης, ὁ",
           "first_occurrence": [
             38,
             3
-          ]
+          ],
+          "gloss": "master, lord, absolute ruler"
         },
         {
           "book_entry": "δούλη, ἡ",
           "first_occurrence": [
             47,
             1
-          ]
+          ],
+          "gloss": "slave (female)"
         },
         {
           "book_entry": "δοῦλος, ὁ",
           "first_occurrence": [
             37,
             2
-          ]
+          ],
+          "gloss": "slave"
         },
         {
           "book_entry": "ἔγγονος, ὁ / ὴ",
           "first_occurrence": [
             30,
             1
-          ]
+          ],
+          "gloss": "a grandson, granddaughter"
         },
         {
           "book_entry": "θυγάτηρ, ἡ",
           "first_occurrence": [
             11,
             2
-          ]
+          ],
+          "gloss": "daughter"
         },
         {
           "book_entry": "μήτηρ, ἡ",
           "first_occurrence": [
             2,
             5
-          ]
+          ],
+          "gloss": "mother"
         },
         {
           "book_entry": "οἶκος, ὁ",
           "first_occurrence": [
             1,
             3
-          ]
+          ],
+          "gloss": "house, dwelling place; household"
         },
         {
           "book_entry": "πάππος, ὁ",
           "first_occurrence": [
             21,
             6
-          ]
+          ],
+          "gloss": "a grandfather"
         },
         {
           "book_entry": "πατήρ, ὁ",
           "first_occurrence": [
             2,
             1
-          ]
+          ],
+          "gloss": "father"
         },
         {
           "book_entry": "πρόγονος, ὁ / ἡ",
           "first_occurrence": [
             31,
             7
-          ]
+          ],
+          "gloss": "forebear, ancestor (noun)"
         },
         {
           "book_entry": "τέκνον, τό",
           "first_occurrence": [
             18,
             4
-          ]
+          ],
+          "gloss": "child (noun)"
         },
         {
           "book_entry": "τήθη, ἡ",
           "first_occurrence": [
             24,
             7
-          ]
+          ],
+          "gloss": "a grandmother"
         },
         {
           "book_entry": "υἱός, ὁ",
           "first_occurrence": [
             4,
             2
-          ]
+          ],
+          "gloss": "son"
         }
       ]
     },
@@ -134,16 +150,20 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Αἴσωπος, ὁ"
+          "book_entry": "Αἴσωπος, ὁ",
+          "gloss": "Aesop"
         },
         {
-          "book_entry": "Ἱππόλυτος, ὁ"
+          "book_entry": "Ἱππόλυτος, ὁ",
+          "gloss": "Hippolytus"
         },
         {
-          "book_entry": "Θάλεια, ἡ"
+          "book_entry": "Θάλεια, ἡ",
+          "gloss": "Thalia"
         },
         {
-          "book_entry": "Πανδώρα, ἡ"
+          "book_entry": "Πανδώρα, ἡ",
+          "gloss": "Pandora"
         }
       ]
     },
@@ -158,7 +178,8 @@
           "first_occurrence": [
             55,
             2
-          ]
+          ],
+          "gloss": "friend"
         }
       ]
     },
@@ -170,7 +191,8 @@
           "first_occurrence": [
             1,
             1
-          ]
+          ],
+          "gloss": "look! here! hey! (interjection)"
         }
       ]
     },

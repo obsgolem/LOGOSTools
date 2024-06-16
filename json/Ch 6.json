@@ -14,21 +14,24 @@
           "first_occurrence": [
             11,
             6
-          ]
+          ],
+          "gloss": "write, draw"
         },
         {
           "book_entry": "κεῖμαι",
           "first_occurrence": [
             2,
             3
-          ]
+          ],
+          "gloss": "lie, be placed, be set"
         },
         {
           "book_entry": "οἰκέω",
           "first_occurrence": [
             38,
             3
-          ]
+          ],
+          "gloss": "inhabit, settle; manage (a house or a government); dwell, live"
         }
       ]
     },
@@ -40,7 +43,8 @@
           "first_occurrence": [
             48,
             1
-          ]
+          ],
+          "gloss": "another, other"
         },
         {
           "book_entry": "πόσοι: πόσαι; πόσα;",
@@ -100,35 +104,40 @@
           "first_occurrence": [
             57,
             8
-          ]
+          ],
+          "gloss": "there (in that place)"
         },
         {
           "book_entry": "ἔξω",
           "first_occurrence": [
             12,
             6
-          ]
+          ],
+          "gloss": "outside (adverb)"
         },
         {
           "book_entry": "ἔσω",
           "first_occurrence": [
             30,
             1
-          ]
+          ],
+          "gloss": "to the interior"
         },
         {
           "book_entry": "κάτω",
           "first_occurrence": [
             59,
             4
-          ]
+          ],
+          "gloss": "below (adverb)"
         },
         {
           "book_entry": "ποῦ;",
           "first_occurrence": [
             38,
             1
-          ]
+          ],
+          "gloss": "where? in what place?"
         }
       ]
     },
@@ -140,28 +149,32 @@
           "first_occurrence": [
             39,
             7
-          ]
+          ],
+          "gloss": "field, country(side) (noun)"
         },
         {
           "book_entry": "ἄντρον, τό",
           "first_occurrence": [
             66,
             1
-          ]
+          ],
+          "gloss": "a cave, grot, cavern"
         },
         {
           "book_entry": "ἄστρον, τό",
           "first_occurrence": [
             7,
             4
-          ]
+          ],
+          "gloss": "the stars"
         },
         {
           "book_entry": "βυθός, ὁ",
           "first_occurrence": [
             40,
             11
-          ]
+          ],
+          "gloss": "the depth"
         },
         {
           "book_entry": "_ἔγκλισις, ἡ_"
@@ -171,28 +184,32 @@
           "first_occurrence": [
             4,
             5
-          ]
+          ],
+          "gloss": "sun"
         },
         {
           "book_entry": "ἤπειρος, ἡ",
           "first_occurrence": [
             25,
             4
-          ]
+          ],
+          "gloss": "terra-firma, the land"
         },
         {
           "book_entry": "λαβύρινθος, ὁ",
           "first_occurrence": [
             67,
             5
-          ]
+          ],
+          "gloss": "a labyrinth"
         },
         {
           "book_entry": "νεκρός, ὁ",
           "first_occurrence": [
             59,
             1
-          ]
+          ],
+          "gloss": "corpse (noun)"
         },
         {
           "book_entry": "νηρηίς, ἡ"
@@ -202,66 +219,76 @@
           "first_occurrence": [
             69,
             5
-          ]
+          ],
+          "gloss": "island"
         },
         {
-          "book_entry": "οἰκία, ἡ"
+          "book_entry": "οἰκία, ἡ",
+          "gloss": "house"
         },
         {
           "book_entry": "οἰκουμένη, ἡ",
           "first_occurrence": [
             32,
             5
-          ]
+          ],
+          "gloss": "the inhabited world"
         },
         {
           "book_entry": "οὐρανός, ὁ",
           "first_occurrence": [
             2,
             8
-          ]
+          ],
+          "gloss": "heaven, the heavens, sky"
         },
         {
           "book_entry": "πλανήτης, ὁ",
           "first_occurrence": [
             4,
             3
-          ]
+          ],
+          "gloss": "wandering, roaming"
         },
         {
           "book_entry": "πορθμός, ὁ",
           "first_occurrence": [
             70,
             2
-          ]
+          ],
+          "gloss": "a ferry"
         },
         {
           "book_entry": "σελήνη, ἡ",
           "first_occurrence": [
             4,
             1
-          ]
+          ],
+          "gloss": "moon (noun)"
         },
         {
           "book_entry": "σφαῖρα, ἡ",
           "first_occurrence": [
             24,
             4
-          ]
+          ],
+          "gloss": "a ball, playing-ball"
         },
         {
           "book_entry": "τέρας, τό",
           "first_occurrence": [
             69,
             8
-          ]
+          ],
+          "gloss": "portent, sign, marvel; monster"
         },
         {
           "book_entry": "ὕλη, ἡ",
           "first_occurrence": [
             38,
             11
-          ]
+          ],
+          "gloss": "wood, material"
         }
       ]
     },
@@ -272,13 +299,15 @@
           "book_entry": "Ἅιδης, ὁ"
         },
         {
-          "book_entry": "Ἀμφιτρίτη, ἡ"
+          "book_entry": "Ἀμφιτρίτη, ἡ",
+          "gloss": "Amphitrite"
         },
         {
           "book_entry": "Ἀπόλλων. ὁ"
         },
         {
-          "book_entry": "Ἀσία, ἡ"
+          "book_entry": "Ἀσία, ἡ",
+          "gloss": "Asia"
         },
         {
           "book_entry": "Γῆ, ἡ"
@@ -287,37 +316,47 @@
           "book_entry": "Ἑκατόγχειρες, οἱ"
         },
         {
-          "book_entry": "Εὐρώπη, ἡ"
+          "book_entry": "Εὐρώπη, ἡ",
+          "gloss": "Europa, Europe"
         },
         {
-          "book_entry": "Θεσσαλία, ἡ"
+          "book_entry": "Θεσσαλία, ἡ",
+          "gloss": "Thessaly"
         },
         {
-          "book_entry": "Λιβύη, ἡ"
+          "book_entry": "Λιβύη, ἡ",
+          "gloss": "Libya, the north part of Africa"
         },
         {
           "book_entry": "Νηρηίδες, αἱ"
         },
         {
-          "book_entry": "Ὄλυμπος, ὁ"
+          "book_entry": "Ὄλυμπος, ὁ",
+          "gloss": "Olympus"
         },
         {
-          "book_entry": "Πλειάδες, αἱ"
+          "book_entry": "Πλειάδες, αἱ",
+          "gloss": "the Pleiads"
         },
         {
-          "book_entry": "Ποσειδῶν, ὁ"
+          "book_entry": "Ποσειδῶν, ὁ",
+          "gloss": "Poseidon (noun)"
         },
         {
-          "book_entry": "Σείριος, ὁ"
+          "book_entry": "Σείριος, ὁ",
+          "gloss": "Sirius, the dog-star"
         },
         {
-          "book_entry": "Τάρταρος, ὁ"
+          "book_entry": "Τάρταρος, ὁ",
+          "gloss": "Tartarus"
         },
         {
-          "book_entry": "Χάρυβδις, ἡ"
+          "book_entry": "Χάρυβδις, ἡ",
+          "gloss": "Charybdis"
         },
         {
-          "book_entry": "Ὠκεανός, ὁ"
+          "book_entry": "Ὠκεανός, ὁ",
+          "gloss": "Oceanus"
         }
       ]
     },
@@ -329,7 +368,8 @@
           "first_occurrence": [
             18,
             2
-          ]
+          ],
+          "gloss": "and"
         }
       ]
     },
@@ -341,7 +381,8 @@
           "first_occurrence": [
             32,
             3
-          ]
+          ],
+          "gloss": "in"
         }
       ]
     },
@@ -349,7 +390,8 @@
       "section": "Ἀριθμοί",
       "words": [
         {
-          "book_entry": "δώδεκα"
+          "book_entry": "δώδεκα",
+          "gloss": "twelve"
         }
       ]
     }

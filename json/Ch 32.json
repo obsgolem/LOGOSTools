@@ -10,73 +10,93 @@
       "section": "Ῥήματα",
       "words": [
         {
-          "book_entry": "ἀναμένω"
+          "book_entry": "ἀναμένω",
+          "gloss": "wait, hold on (verb)"
         },
         {
-          "book_entry": "ἀπαγγέλλω"
+          "book_entry": "ἀπαγγέλλω",
+          "gloss": "announce, report (verb)"
         },
         {
-          "book_entry": "ἀπογράφω, -ομαι"
+          "book_entry": "ἀπογράφω, -ομαι",
+          "gloss": "to write off, copy: to enter in a list, register"
         },
         {
-          "book_entry": "δέω"
+          "book_entry": "δέω",
+          "gloss": "to bind, tie, fetter"
         },
         {
-          "book_entry": "διαπράσσω, -ομαι"
+          "book_entry": "διαπράσσω, -ομαι",
+          "gloss": "to pass over; bring about, accomplish"
         },
         {
-          "book_entry": "ἐγκαθίστημι"
+          "book_entry": "ἐγκαθίστημι",
+          "gloss": "place or establish in (double acc., someone as ruler)"
         },
         {
-          "book_entry": "ἐπιτελέω"
+          "book_entry": "ἐπιτελέω",
+          "gloss": "to complete, finish, accomplish"
         },
         {
-          "book_entry": "ἥδομαι"
+          "book_entry": "ἥδομαι",
+          "gloss": "enjoy, take pleasure (+ dat. or + part.)"
         },
         {
-          "book_entry": "καταπολεμέω, -ομαι"
+          "book_entry": "καταπολεμέω, -ομαι",
+          "gloss": "to war down"
         },
         {
           "book_entry": "λακωνίζω"
         },
         {
-          "book_entry": "μεταγράφω"
+          "book_entry": "μεταγράφω",
+          "gloss": "to write differently, to alter"
         },
         {
-          "book_entry": "μεταπέμπω, -ομαι"
+          "book_entry": "μεταπέμπω, -ομαι",
+          "gloss": "to send after, send for, summon"
         },
         {
           "book_entry": "οἶμαι"
         },
         {
-          "book_entry": "ὄμνυμι"
+          "book_entry": "ὄμνυμι",
+          "gloss": "swear; swear to, swear by; swear that (+ inf.)"
         },
         {
-          "book_entry": "ὁμογνωμονέω"
+          "book_entry": "ὁμογνωμονέω",
+          "gloss": "to be of one mind, to league together"
         },
         {
-          "book_entry": "παρακαλέω"
+          "book_entry": "παρακαλέω",
+          "gloss": "to call to"
         },
         {
-          "book_entry": "παρέρχομαι"
+          "book_entry": "παρέρχομαι",
+          "gloss": "come forward, pass by, go by (verb)"
         },
         {
-          "book_entry": "προηγορέω"
+          "book_entry": "προηγορέω",
+          "gloss": "to speak on the part of"
         },
         {
-          "book_entry": "προσκρούω"
+          "book_entry": "προσκρούω",
+          "gloss": "to strike against"
         },
         {
-          "book_entry": "ὑποτάσσω, -ομαι"
+          "book_entry": "ὑποτάσσω, -ομαι",
+          "gloss": "to place under, assign; place behind; subject, subdue"
         },
         {
           "book_entry": "φαίνομαι"
         },
         {
-          "book_entry": "φιλονικέω"
+          "book_entry": "φιλονικέω",
+          "gloss": "to be fond of victory, engage in rivalry, be contentious"
         },
         {
-          "book_entry": "φρονέω"
+          "book_entry": "φρονέω",
+          "gloss": "to think, to have understanding, to be sage, wise, prudent"
         }
       ]
     },
@@ -90,34 +110,43 @@
           "book_entry": "ἀρμοστής, ὁ"
         },
         {
-          "book_entry": "αὐτονομία, ἡ"
+          "book_entry": "αὐτονομία, ἡ",
+          "gloss": "freedom to use one’s own laws, independence"
         },
         {
-          "book_entry": "γνώμη, ἡ"
+          "book_entry": "γνώμη, ἡ",
+          "gloss": "opinion, judgment"
         },
         {
-          "book_entry": "διοικητής, ὁ"
+          "book_entry": "διοικητής, ὁ",
+          "gloss": "administrator, governor"
         },
         {
-          "book_entry": "δυσκολία, ἡ"
+          "book_entry": "δυσκολία, ἡ",
+          "gloss": "discontent, peevishness"
         },
         {
-          "book_entry": "κατάλυσις, ἡ"
+          "book_entry": "κατάλυσις, ἡ",
+          "gloss": "a dissolving, dissolution; lodging, resting place"
         },
         {
           "book_entry": "πράξις, ἡ"
         },
         {
-          "book_entry": "πρεσβεία, ἡ"
+          "book_entry": "πρεσβεία, ἡ",
+          "gloss": "age, seniority; embassy"
         },
         {
-          "book_entry": "σιωπή, ἡ"
+          "book_entry": "σιωπή, ἡ",
+          "gloss": "silence"
         },
         {
-          "book_entry": "ταραχή, ἡ"
+          "book_entry": "ταραχή, ἡ",
+          "gloss": "trouble, disorder, confusion"
         },
         {
-          "book_entry": "φρουρά, ἡ"
+          "book_entry": "φρουρά, ἡ",
+          "gloss": "a looking out, watch, guard"
         }
       ]
     },
@@ -125,7 +154,8 @@
       "section": "Ἀντωνυμίαι",
       "words": [
         {
-          "book_entry": "ὑμεῖς"
+          "book_entry": "ὑμεῖς",
+          "gloss": "you (pl.)"
         }
       ]
     },
@@ -133,7 +163,8 @@
       "section": "Μόρια",
       "words": [
         {
-          "book_entry": "ἄρα"
+          "book_entry": "ἄρα",
+          "gloss": "therefore"
         }
       ]
     },
@@ -141,7 +172,8 @@
       "section": "Σύνδεσμοι",
       "words": [
         {
-          "book_entry": "ἐάν (εἰ - ἄν)"
+          "book_entry": "ἐάν (εἰ - ἄν)",
+          "gloss": "if"
         }
       ]
     },
@@ -149,7 +181,8 @@
       "section": "Προθέσεις",
       "words": [
         {
-          "book_entry": "ἀντί"
+          "book_entry": "ἀντί",
+          "gloss": "instead of"
         }
       ]
     },
@@ -157,31 +190,40 @@
       "section": "Ἐπίθετα",
       "words": [
         {
-          "book_entry": "ἄδικος, -ον"
+          "book_entry": "ἄδικος, -ον",
+          "gloss": "unjust"
         },
         {
-          "book_entry": "ἀναμάρτητος, -ον"
+          "book_entry": "ἀναμάρτητος, -ον",
+          "gloss": "without missing, unfailing, unerring"
         },
         {
-          "book_entry": "ἀνάξιος, -ον"
+          "book_entry": "ἀνάξιος, -ον",
+          "gloss": "unworthy (+ gen)"
         },
         {
-          "book_entry": "ἀντίτυπος, -ον"
+          "book_entry": "ἀντίτυπος, -ον",
+          "gloss": "repelled"
         },
         {
-          "book_entry": "ἄπρακτος, -ον"
+          "book_entry": "ἄπρακτος, -ον",
+          "gloss": "doing nothing, ineffectual, unprofitable"
         },
         {
-          "book_entry": "αὐτόνομος, -ον"
+          "book_entry": "αὐτόνομος, -ον",
+          "gloss": "living under one’s own laws, independent"
         },
         {
-          "book_entry": "εὔπορος, -ον"
+          "book_entry": "εὔπορος, -ον",
+          "gloss": "easy to pass"
         },
         {
-          "book_entry": "σχολαῖος, -α, -ον"
+          "book_entry": "σχολαῖος, -α, -ον",
+          "gloss": "at one’s leisure, leisurely, tardy"
         },
         {
-          "book_entry": "σώφρων, -ον"
+          "book_entry": "σώφρων, -ον",
+          "gloss": "prudent, temperate"
         }
       ]
     },
@@ -192,31 +234,38 @@
           "book_entry": "ἀθύμως"
         },
         {
-          "book_entry": "ἄλλως"
+          "book_entry": "ἄλλως",
+          "gloss": "otherwise; in vain (adverb)"
         },
         {
           "book_entry": "ἀφρόνως"
         },
         {
-          "book_entry": "δήπου"
+          "book_entry": "δήπου",
+          "gloss": "(postpositive) surely, doubtless, I presume"
         },
         {
-          "book_entry": "δίς"
+          "book_entry": "δίς",
+          "gloss": "twice"
         },
         {
-          "book_entry": "ἐμποδών"
+          "book_entry": "ἐμποδών",
+          "gloss": "at the feet, in the way, in one’s path"
         },
         {
           "book_entry": "πολεμικῶς"
         },
         {
-          "book_entry": "πρόσθεν"
+          "book_entry": "πρόσθεν",
+          "gloss": "(of place) before, in front of (occasionally governs gen. like a preposition); (of time) before, formerly"
         },
         {
-          "book_entry": "πως"
+          "book_entry": "πως",
+          "gloss": "in any way, in some way"
         },
         {
-          "book_entry": "ὑμέτερος, -α, -ον"
+          "book_entry": "ὑμέτερος, -α, -ον",
+          "gloss": "your; (as a substantive) yours"
         },
         {
           "book_entry": "σωφρόνως"

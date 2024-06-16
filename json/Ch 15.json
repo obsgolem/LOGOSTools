@@ -14,42 +14,48 @@
           "first_occurrence": [
             60,
             7
-          ]
+          ],
+          "gloss": "go up, go upland; board, mount"
         },
         {
           "book_entry": "βαίνω",
           "first_occurrence": [
             71,
             7
-          ]
+          ],
+          "gloss": "-βήσομαι, -ἔβην, βέβηκα, -, -, walk, step, go; (perfect) stand"
         },
         {
           "book_entry": "ἐνέχω",
           "first_occurrence": [
             62,
             3
-          ]
+          ],
+          "gloss": "to hold within"
         },
         {
           "book_entry": "ἐπαίρω",
           "first_occurrence": [
             39,
             2
-          ]
+          ],
+          "gloss": "to lift up and set on"
         },
         {
           "book_entry": "κάμνω",
           "first_occurrence": [
             10,
             4
-          ]
+          ],
+          "gloss": "to work, toil, be sick"
         },
         {
           "book_entry": "μένω",
           "first_occurrence": [
             17,
             7
-          ]
+          ],
+          "gloss": "remain, stay"
         },
         {
           "book_entry": "πορεύομαι",
@@ -63,49 +69,56 @@
           "first_occurrence": [
             38,
             1
-          ]
+          ],
+          "gloss": "to go to, approach"
         },
         {
           "book_entry": "προχωρέω",
           "first_occurrence": [
             17,
             5
-          ]
+          ],
+          "gloss": "to go forward, advance"
         },
         {
           "book_entry": "σιγάω",
           "first_occurrence": [
             51,
             8
-          ]
+          ],
+          "gloss": "be silent; (transitive) keep secret"
         },
         {
           "book_entry": "συμμετέχω",
           "first_occurrence": [
             111,
             5
-          ]
+          ],
+          "gloss": "to partake of a thing together with"
         },
         {
           "book_entry": "συνοδεύω",
           "first_occurrence": [
             8,
             3
-          ]
+          ],
+          "gloss": "to travel in company"
         },
         {
           "book_entry": "συντυγχάνω",
           "first_occurrence": [
             78,
             7
-          ]
+          ],
+          "gloss": "meet with (verb)"
         },
         {
           "book_entry": "χαίρω",
           "first_occurrence": [
             87,
             4
-          ]
+          ],
+          "gloss": "rejoice (in), take pleasure (in), enjoy (+ dat)"
         }
       ]
     },
@@ -113,7 +126,8 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Ἐλευσίς, ἡ"
+          "book_entry": "Ἐλευσίς, ἡ",
+          "gloss": "Eleusis, an old city of Attica"
         }
       ]
     },
@@ -121,7 +135,8 @@
       "section": "Προθέσεις",
       "words": [
         {
-          "book_entry": "περί + γεν."
+          "book_entry": "περί + γεν.",
+          "gloss": "concerning, about (+ gen); around (+ dat); around, concerning (+ acc)"
         }
       ]
     },
@@ -129,7 +144,8 @@
       "section": "Μόρια",
       "words": [
         {
-          "book_entry": "μή (+ προστ.)"
+          "book_entry": "μή (+ προστ.)",
+          "gloss": "not"
         }
       ]
     },
@@ -141,70 +157,80 @@
           "first_occurrence": [
             66,
             6
-          ]
+          ],
+          "gloss": "almond"
         },
         {
           "book_entry": "ἐλαία, ἡ",
           "first_occurrence": [
             66,
             1
-          ]
+          ],
+          "gloss": "the olive-tree"
         },
         {
           "book_entry": "ἱερεύς, ὁ",
           "first_occurrence": [
             104,
             5
-          ]
+          ],
+          "gloss": "priest"
         },
         {
           "book_entry": "ἱερόν, τό",
           "first_occurrence": [
             84,
             1
-          ]
+          ],
+          "gloss": "shrine"
         },
         {
           "book_entry": "κριθή, ἡ",
           "first_occurrence": [
             92,
             2
-          ]
+          ],
+          "gloss": "barley-corns, barley"
         },
         {
           "book_entry": "κυκεών, ὁ",
           "first_occurrence": [
             104,
             1
-          ]
+          ],
+          "gloss": "mixed drink, a potion, tankard"
         },
         {
           "book_entry": "μυστήριον, τό",
           "first_occurrence": [
             112,
             1
-          ]
+          ],
+          "gloss": "a mystery"
         },
         {
           "book_entry": "μύστης, ὁ",
           "first_occurrence": [
             109,
             3
-          ]
+          ],
+          "gloss": "one initiated; (adj.) mystic"
         },
         {
           "book_entry": "ναός, ὁ",
           "first_occurrence": [
             102,
             6
-          ]
+          ],
+          "gloss": "the dwelling of a god, a temple"
         },
         {
           "book_entry": "ὁδός, ἡ",
           "first_occurrence": [
             3,
             8
-          ]
+          ],
+          "gloss": "road"
         },
         {
           "book_entry": "σακίον, τό",
@@ -218,27 +244,31 @@
           "first_occurrence": [
             11,
             8
-          ]
+          ],
+          "gloss": "a shield"
         },
         {
           "book_entry": "σιγή, ἡ",
           "first_occurrence": [
             52,
             4
-          ]
+          ],
+          "gloss": "silence"
         },
         {
           "book_entry": "σκηνή, ἡ",
           "first_occurrence": [
             20
-          ]
+          ],
+          "gloss": "tent, booth; stage building, stage"
         },
         {
           "book_entry": "συγγνώμη, ἡ",
           "first_occurrence": [
             120,
             7
-          ]
+          ],
+          "gloss": "forgiveness; συγγνώμην ἔχω, to forgive, pardon (+ dat.)"
         }
       ]
     },
@@ -257,7 +287,8 @@
           "first_occurrence": [
             8,
             1
-          ]
+          ],
+          "gloss": "who, which"
         },
         {
           "book_entry": "σεαυτόν, σεαυτήν",
@@ -279,42 +310,48 @@
           "first_occurrence": [
             77,
             3
-          ]
+          ],
+          "gloss": "short; small"
         },
         {
           "book_entry": "δυνατός, -ή, -όν",
           "first_occurrence": [
             120,
             3
-          ]
+          ],
+          "gloss": "strong, able; possible"
         },
         {
           "book_entry": "Ἐλευσίνιος, -α, -ον",
           "first_occurrence": [
             83,
             4
-          ]
+          ],
+          "gloss": "of Eleusis"
         },
         {
           "book_entry": "κατάρατος, -ον",
           "first_occurrence": [
             52,
             2
-          ]
+          ],
+          "gloss": "accursed, abominable"
         },
         {
           "book_entry": "μακρός, -ά, -όν",
           "first_occurrence": [
             43,
             1
-          ]
+          ],
+          "gloss": "long, tall"
         },
         {
           "book_entry": "χαλεπός, -ή, -όν",
           "first_occurrence": [
             42,
             4
-          ]
+          ],
+          "gloss": "difficult, harsh"
         }
       ]
     },
@@ -326,14 +363,16 @@
           "first_occurrence": [
             72,
             4
-          ]
+          ],
+          "gloss": "to Athens (adverb)"
         },
         {
           "book_entry": "Ἀθήνηθεν",
           "first_occurrence": [
             85,
             7
-          ]
+          ],
+          "gloss": "from Athens"
         },
         {
           "book_entry": "βραδέως",
@@ -357,7 +396,8 @@
           "first_occurrence": [
             49,
             1
-          ]
+          ],
+          "gloss": "barely, scarcely"
         },
         {
           "book_entry": "πεζῇ",
@@ -378,7 +418,8 @@
           "first_occurrence": [
             71,
             5
-          ]
+          ],
+          "gloss": "(to) where? whither?"
         },
         {
           "book_entry": "πόρρω",
@@ -392,14 +433,16 @@
           "first_occurrence": [
             36,
             1
-          ]
+          ],
+          "gloss": "then"
         },
         {
           "book_entry": "χαμαί",
           "first_occurrence": [
             18,
             5
-          ]
+          ],
+          "gloss": "on the earth, on the ground"
         }
       ]
     },

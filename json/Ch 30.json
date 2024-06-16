@@ -14,94 +14,108 @@
           "first_occurrence": [
             34,
             8
-          ]
+          ],
+          "gloss": "announce"
         },
         {
           "book_entry": "ἀναμιμνήσκω",
           "first_occurrence": [
             60,
             1
-          ]
+          ],
+          "gloss": "remind, call to mind (+ acc. of person + gen. of thing); (mid./pass.) remember (+ gen. or + acc.), make mention of (+ gen.)"
         },
         {
-          "book_entry": "ἀντέχω, -ομαι"
+          "book_entry": "ἀντέχω, -ομαι",
+          "gloss": "to hold out against, withstand"
         },
         {
           "book_entry": "ἀπεικονίζω",
           "first_occurrence": [
             8,
             3
-          ]
+          ],
+          "gloss": "to represent in a statue"
         },
         {
           "book_entry": "ἄπειμι (< εἶμι)",
           "first_occurrence": [
             120,
             6
-          ]
+          ],
+          "gloss": "be away, be distant, be absent"
         },
         {
           "book_entry": "ἀποστέλλω",
           "first_occurrence": [
             68,
             6
-          ]
+          ],
+          "gloss": "to send off"
         },
         {
           "book_entry": "ἀφίστημι",
           "first_occurrence": [
             64,
             4
-          ]
+          ],
+          "gloss": "(trnas.) or ἀπέστην (intrans.), ἀφέστηκα (intrans.), ἀφέσταμαι, ἀπεστάθην, (trans.) cause to revolt; (mid. or intrans.) revolt"
         },
         {
           "book_entry": "δηλόω",
           "first_occurrence": [
             39,
             5
-          ]
+          ],
+          "gloss": "make clear, show"
         },
         {
           "book_entry": "διαπεραιόω, -ομαι",
           "first_occurrence": [
             31,
             2
-          ]
+          ],
+          "gloss": "to take across, ferry over"
         },
         {
           "book_entry": "δουλόω",
           "first_occurrence": [
             67,
             7
-          ]
+          ],
+          "gloss": "to make a slave of, enslave"
         },
         {
           "book_entry": "δράω",
           "first_occurrence": [
             94,
             2
-          ]
+          ],
+          "gloss": "do, act (verb)"
         },
         {
           "book_entry": "ἐκλείπω",
           "first_occurrence": [
             134,
             7
-          ]
+          ],
+          "gloss": "to leave out, omit, pass over"
         },
         {
           "book_entry": "ἐπαινέω",
           "first_occurrence": [
             100,
             6
-          ]
+          ],
+          "gloss": "approve, praise"
         },
         {
           "book_entry": "ἐρύω",
           "first_occurrence": [
             67,
             2
-          ]
+          ],
+          "gloss": "to drag along the ground, drag, draw"
         },
         {
           "book_entry": "ἐφίσταμαι",
@@ -118,73 +132,84 @@
           "first_occurrence": [
             37,
             4
-          ]
+          ],
+          "gloss": "to sing a dirge, to wail"
         },
         {
           "book_entry": "καταλαμβάνω",
           "first_occurrence": [
             116,
             1
-          ]
+          ],
+          "gloss": "come across, overtake (verb)"
         },
         {
           "book_entry": "καταφρονέω",
           "first_occurrence": [
             74,
             2
-          ]
+          ],
+          "gloss": "despise, look down on (+ gen.) (verb)"
         },
         {
           "book_entry": "κωλύω",
           "first_occurrence": [
             117,
             3
-          ]
+          ],
+          "gloss": "hinder, prevent"
         },
         {
           "book_entry": "μάχομαι",
           "first_occurrence": [
             83,
             6
-          ]
+          ],
+          "gloss": "fight (+ dat)"
         },
         {
           "book_entry": "ὄλλυμι",
           "first_occurrence": [
             35,
             7
-          ]
+          ],
+          "gloss": "(poetic) destroy, kill; lose; (mid. and intrans. aor. and perf.) perish, die"
         },
         {
           "book_entry": "προάγω",
           "first_occurrence": [
             117,
             4
-          ]
+          ],
+          "gloss": "lead on (verb)"
         },
         {
           "book_entry": "προκαταλαμβάνω, -ομαι",
           "first_occurrence": [
             116,
             1
-          ]
+          ],
+          "gloss": "to seize beforehand, preoccupy"
         },
         {
-          "book_entry": "συμβουλεύω"
+          "book_entry": "συμβουλεύω",
+          "gloss": "advise, counsel (+ dat); (mid.) consult with (+ dat)"
         },
         {
           "book_entry": "συναγωνίζομαι",
           "first_occurrence": [
             71,
             1
-          ]
+          ],
+          "gloss": "to contend along with, to share in a contest"
         },
         {
           "book_entry": "συνέρχομαι",
           "first_occurrence": [
             109,
             7
-          ]
+          ],
+          "gloss": "come together (verb)"
         }
       ]
     },
@@ -196,56 +221,64 @@
           "first_occurrence": [
             33,
             3
-          ]
+          ],
+          "gloss": "a contest, struggle for victory"
         },
         {
           "book_entry": "ἀθυμία, ἡ",
           "first_occurrence": [
             46,
             8
-          ]
+          ],
+          "gloss": "lack of spirit, depression (noun)"
         },
         {
           "book_entry": "αἰτία, ἡ",
           "first_occurrence": [
             39,
             1
-          ]
+          ],
+          "gloss": "responsibilty, guilt; cause"
         },
         {
           "book_entry": "ἀνδριάς, ὁ",
           "first_occurrence": [
             4,
             1
-          ]
+          ],
+          "gloss": "the image of a man, a statue"
         },
         {
           "book_entry": "ἀπάντησις, ἡ",
           "first_occurrence": [
             114,
             4
-          ]
+          ],
+          "gloss": "escort"
         },
         {
           "book_entry": "ἀπόστασις, ἡ",
           "first_occurrence": [
             80,
             4
-          ]
+          ],
+          "gloss": "a standing away from"
         },
         {
           "book_entry": "δουλοσύνη, ἡ",
           "first_occurrence": [
             67,
             7
-          ]
+          ],
+          "gloss": "slavery, slavish work"
         },
         {
           "book_entry": "εἴδωλον, τό",
           "first_occurrence": [
             37,
             7
-          ]
+          ],
+          "gloss": "an image, a phantom"
         },
         {
           "book_entry": "ἧττα, ἡ",
@@ -262,38 +295,44 @@
           "first_occurrence": [
             117,
             1
-          ]
+          ],
+          "gloss": "passer-by"
         },
         {
           "book_entry": "πεζομαχία, ἡ",
           "first_occurrence": [
             23,
             1
-          ]
+          ],
+          "gloss": "a battle by land"
         },
         {
           "book_entry": "σπουδή, ἡ",
           "first_occurrence": [
             98,
             3
-          ]
+          ],
+          "gloss": "haste, speed; trouble, effort; regard, esteem, good will"
         },
         {
-          "book_entry": "συναγώνισμα, τό"
+          "book_entry": "συναγώνισμα, τό",
+          "gloss": "succour in a contest"
         },
         {
           "book_entry": "σύνοδος, ἡ",
           "first_occurrence": [
             111,
             3
-          ]
+          ],
+          "gloss": "fellow-traveller"
         },
         {
           "book_entry": "ὑπόθεσις, ἡ",
           "first_occurrence": [
             25,
             5
-          ]
+          ],
+          "gloss": "proposal, subject, supposition"
         }
       ]
     },
@@ -301,7 +340,8 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Πλαταιαί, αἱ"
+          "book_entry": "Πλαταιαί, αἱ",
+          "gloss": "Plataeae (LSJ Πλάταια)"
         }
       ]
     },
@@ -309,7 +349,8 @@
       "section": "Ἀντωνυμίαι",
       "words": [
         {
-          "book_entry": "οἷος, -α, -ον"
+          "book_entry": "οἷος, -α, -ον",
+          "gloss": "such as, of the sort which; what sort of!"
         }
       ]
     },
@@ -321,63 +362,72 @@
           "first_occurrence": [
             72,
             4
-          ]
+          ],
+          "gloss": "assisting, auxiliary"
         },
         {
           "book_entry": "ἐλάσσων, -ον",
           "first_occurrence": [
             44,
             3
-          ]
+          ],
+          "gloss": "smaller, fewer; smallest, fewest"
         },
         {
           "book_entry": "εὔθετος, -ον",
           "first_occurrence": [
             113,
             3
-          ]
+          ],
+          "gloss": "well-arranged"
         },
         {
           "book_entry": "ἱκανός, -ή, -όν",
           "first_occurrence": [
             115,
             6
-          ]
+          ],
+          "gloss": "sufficient, capable"
         },
         {
           "book_entry": "λίθινος, -η, -ον",
           "first_occurrence": [
             5,
             2
-          ]
+          ],
+          "gloss": "of stone"
         },
         {
           "book_entry": "ναυτικός, -ἡ, -όν",
           "first_occurrence": [
             112,
             4
-          ]
+          ],
+          "gloss": "naval (adjective)"
         },
         {
           "book_entry": "ταπεινός, -ή, -όν",
           "first_occurrence": [
             46,
             2
-          ]
+          ],
+          "gloss": "low"
         },
         {
           "book_entry": "τραγικός, -ή, -όν",
           "first_occurrence": [
             14,
             6
-          ]
+          ],
+          "gloss": "(goat-like); tragic, majestic, pompous"
         },
         {
           "book_entry": "τριταῖος, -α, -ον",
           "first_occurrence": [
             99,
             1
-          ]
+          ],
+          "gloss": "on the third day"
         }
       ]
     },
@@ -389,28 +439,32 @@
           "first_occurrence": [
             96,
             2
-          ]
+          ],
+          "gloss": "two thousand, three thousand, etc."
         },
         {
           "book_entry": "ἐνενήκοντα",
           "first_occurrence": [
             92,
             3
-          ]
+          ],
+          "gloss": "ninety"
         },
         {
           "book_entry": "ἑξακισχίλιοι, -αι, -α",
           "first_occurrence": [
             90,
             6
-          ]
+          ],
+          "gloss": "six thousand"
         },
         {
           "book_entry": "τετρακόσιοι, -αι, -α",
           "first_occurrence": [
             91,
             2
-          ]
+          ],
+          "gloss": "four hundred"
         }
       ]
     },
@@ -429,7 +483,8 @@
           "first_occurrence": [
             143,
             5
-          ]
+          ],
+          "gloss": "near; (+ gen.) next to, near"
         }
       ]
     },
@@ -441,7 +496,8 @@
           "first_occurrence": [
             43,
             6
-          ]
+          ],
+          "gloss": "so then, wherefore, therefore, accordingly"
         }
       ]
     }

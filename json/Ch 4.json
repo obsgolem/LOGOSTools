@@ -10,111 +10,128 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "αἷμα, τό"
+          "book_entry": "αἷμα, τό",
+          "gloss": "blood"
         },
         {
           "book_entry": "ἀλώπηξ, ἡ",
           "first_occurrence": [
             14,
             7
-          ]
+          ],
+          "gloss": "a fox; a large bat; psoas muscles; mange"
         },
         {
           "book_entry": "ἀράχνη, ἡ",
           "first_occurrence": [
             15,
             8
-          ]
+          ],
+          "gloss": "a spider, a spider’s web"
         },
         {
           "book_entry": "ἅρπυια, ἡ",
           "first_occurrence": [
             75,
             8
-          ]
+          ],
+          "gloss": "harpy"
         },
         {
           "book_entry": "βάτραχος, ὁ",
           "first_occurrence": [
             53,
             4
-          ]
+          ],
+          "gloss": "a frog"
         },
         {
-          "book_entry": "βίος, ὁ"
+          "book_entry": "βίος, ὁ",
+          "gloss": "life, means of living"
         },
         {
           "book_entry": "δελφίς, ὁ",
           "first_occurrence": [
             19,
             7
-          ]
+          ],
+          "gloss": "the dolphin"
         },
         {
           "book_entry": "δράκαινα, ἡ",
           "first_occurrence": [
             92,
             3
-          ]
+          ],
+          "gloss": "a shedragon"
         },
         {
           "book_entry": "ἔλαφος, ὁ",
           "first_occurrence": [
             11,
             3
-          ]
+          ],
+          "gloss": "a deer"
         },
         {
           "book_entry": "ἐλέφας, ὁ",
           "first_occurrence": [
             9,
             1
-          ]
+          ],
+          "gloss": "elephant, ivory"
         },
         {
           "book_entry": "ζῷον, τό",
           "first_occurrence": [
             1,
             3
-          ]
+          ],
+          "gloss": "animal"
         },
         {
-          "book_entry": "θάλασσα, ἡ"
+          "book_entry": "θάλασσα, ἡ",
+          "gloss": "sea"
         },
         {
           "book_entry": "ἱπποπόταμος, ὁ",
           "first_occurrence": [
             12,
             5
-          ]
+          ],
+          "gloss": "hippopotamus"
         },
         {
           "book_entry": "ἵππος, ὁ",
           "first_occurrence": [
             17,
             1
-          ]
+          ],
+          "gloss": "or ἡ, horse, mare"
         },
         {
           "book_entry": "ἰχθύς, ὁ",
           "first_occurrence": [
             34,
             7
-          ]
+          ],
+          "gloss": "fish"
         },
         {
           "book_entry": "καρκίνος, ὁ",
           "first_occurrence": [
             8,
             1
-          ]
+          ],
+          "gloss": "a crab"
         },
         {
           "book_entry": "καρχαρίας, ὁ",
           "first_occurrence": [
             27,
             1
-          ]
+          ],
+          "gloss": "shark"
         },
         {
           "book_entry": "_κατηγορούμενον, τό_"
@@ -131,7 +148,8 @@
           "first_occurrence": [
             13,
             1
-          ]
+          ],
+          "gloss": "a lizard (see -διλος)"
         },
         {
           "book_entry": "κύκλωψ, ὁ",
@@ -145,81 +163,95 @@
           "first_occurrence": [
             1,
             2
-          ]
+          ],
+          "gloss": "a swan"
         },
         {
           "book_entry": "κύων, ὁ",
           "first_occurrence": [
             14,
             1
-          ]
+          ],
+          "gloss": "dog; shameless creature"
         },
         {
           "book_entry": "λέων, ὁ",
           "first_occurrence": [
             11,
             1
-          ]
+          ],
+          "gloss": "lion"
         },
         {
-          "book_entry": "λίμνη, ἡ"
+          "book_entry": "λίμνη, ἡ",
+          "gloss": "a pool of standing water; a lake"
         },
         {
           "book_entry": "λύκος, ὁ",
           "first_occurrence": [
             11,
             6
-          ]
+          ],
+          "gloss": "a wolf"
         },
         {
           "book_entry": "μέλισσα, ἡ",
           "first_occurrence": [
             3,
             6
-          ]
+          ],
+          "gloss": "a bee"
         },
         {
-          "book_entry": "μῦθος, ὁ"
+          "book_entry": "μῦθος, ὁ",
+          "gloss": "anything, delivered by word of mouth, word, speech"
         },
         {
           "book_entry": "ὄνος, ὁ",
           "first_occurrence": [
             10,
             2
-          ]
+          ],
+          "gloss": "an ass"
         },
         {
           "book_entry": "ὄρνις, ἡ",
           "first_occurrence": [
             76,
             9
-          ]
+          ],
+          "gloss": "bird; omen"
         },
         {
           "book_entry": "ὄφις, ὁ",
           "first_occurrence": [
             19,
             10
-          ]
+          ],
+          "gloss": "a serpent, snake"
         },
         {
           "book_entry": "_παράδειγμα, τό_"
         },
         {
-          "book_entry": "πόλις, ἡ"
+          "book_entry": "πόλις, ἡ",
+          "gloss": "city"
         },
         {
-          "book_entry": "ποταμός, ὁ"
+          "book_entry": "ποταμός, ὁ",
+          "gloss": "river"
         },
         {
-          "book_entry": "πούς, ὁ"
+          "book_entry": "πούς, ὁ",
+          "gloss": "or ἡ, foot"
         },
         {
           "book_entry": "πρόβατον, τό",
           "first_occurrence": [
             1,
             7
-          ]
+          ],
+          "gloss": "sheep (noun)"
         },
         {
           "book_entry": "_πτῶσις, ἡ_"
@@ -232,31 +264,36 @@
           "first_occurrence": [
             59,
             4
-          ]
+          ],
+          "gloss": "lizard"
         },
         {
           "book_entry": "σειρήν, ἡ",
           "first_occurrence": [
             77,
             2
-          ]
+          ],
+          "gloss": "siren"
         },
         {
           "book_entry": "ταῦρος, ὁ",
           "first_occurrence": [
             75,
             6
-          ]
+          ],
+          "gloss": "a bull"
         },
         {
           "book_entry": "τίγρις, ὁ",
           "first_occurrence": [
             12,
             3
-          ]
+          ],
+          "gloss": "a tiger"
         },
         {
-          "book_entry": "ὕδωρ, τό"
+          "book_entry": "ὕδωρ, τό",
+          "gloss": "water"
         },
         {
           "book_entry": "_ὑποκείμενον, τό_"
@@ -266,14 +303,16 @@
           "first_occurrence": [
             8,
             7
-          ]
+          ],
+          "gloss": "a whale"
         },
         {
           "book_entry": "χελώνη, ἡ",
           "first_occurrence": [
             27,
             6
-          ]
+          ],
+          "gloss": "a tortoise"
         }
       ]
     },
@@ -285,105 +324,120 @@
           "first_occurrence": [
             10,
             8
-          ]
+          ],
+          "gloss": "(living in the fields) wild, savage, harsh"
         },
         {
           "book_entry": "ἀμφίβιος, -ον",
           "first_occurrence": [
             55,
             2
-          ]
+          ],
+          "gloss": "living a double life"
         },
         {
           "book_entry": "ἄναιμος, -ον",
           "first_occurrence": [
             15,
             4
-          ]
+          ],
+          "gloss": "without blood, bloodless"
         },
         {
           "book_entry": "ἀνθρωπόμορφος, -ον",
           "first_occurrence": [
             71,
             3
-          ]
+          ],
+          "gloss": "of human form"
         },
         {
           "book_entry": "ἄπους, -ουν",
           "first_occurrence": [
             19,
             4
-          ]
+          ],
+          "gloss": "without foot"
         },
         {
           "book_entry": "δίπους, -ουν",
           "first_occurrence": [
             22,
             5
-          ]
+          ],
+          "gloss": "two-footed"
         },
         {
           "book_entry": "ἔναιμος, -ον",
           "first_occurrence": [
             16,
             7
-          ]
+          ],
+          "gloss": "with blood in one"
         },
         {
           "book_entry": "ἔνυδρος, -ον",
           "first_occurrence": [
             25,
             4
-          ]
+          ],
+          "gloss": "with water in it, holding water; living in the water"
         },
         {
           "book_entry": "ἑρπυστικός, -ή, -όν",
           "first_occurrence": [
             50,
             4
-          ]
+          ],
+          "gloss": "creeping"
         },
         {
           "book_entry": "ἥμερος, -α, -ον",
           "first_occurrence": [
             9,
             6
-          ]
+          ],
+          "gloss": "tame, tamed, reclaimed"
         },
         {
           "book_entry": "ἥμισυς, ἡμίσεια, ἥμισυ",
           "first_occurrence": [
             72,
             7
-          ]
+          ],
+          "gloss": "half"
         },
         {
           "book_entry": "θαλάσσιος, -α, -ον",
           "first_occurrence": [
             28,
             2
-          ]
+          ],
+          "gloss": "of, in, on, from the sea"
         },
         {
           "book_entry": "λιμναῖος, -α, -ον",
           "first_occurrence": [
             30,
             6
-          ]
+          ],
+          "gloss": "of or from the marsh, stagnant"
         },
         {
           "book_entry": "μυθικός, -ή, -όν",
           "first_occurrence": [
             70,
             5
-          ]
+          ],
+          "gloss": "mythic, legendary"
         },
         {
           "book_entry": "ὀλίγος, -η, -ον",
           "first_occurrence": [
             6,
             2
-          ]
+          ],
+          "gloss": "little; (pl) few"
         },
         {
           "book_entry": "_ὀνομαστικός, -ή, -ον_"
@@ -393,56 +447,64 @@
           "first_occurrence": [
             18,
             4
-          ]
+          ],
+          "gloss": "on foot, on land"
         },
         {
           "book_entry": "πολιτικός, -ή, -όν",
           "first_occurrence": [
             64,
             5
-          ]
+          ],
+          "gloss": "political (adjective)"
         },
         {
           "book_entry": "πολύπους, -ον",
           "first_occurrence": [
             23,
             1
-          ]
+          ],
+          "gloss": "many-footed"
         },
         {
           "book_entry": "πολύς, πολλή, πολύ",
           "first_occurrence": [
             6,
             4
-          ]
+          ],
+          "gloss": "much, many"
         },
         {
           "book_entry": "ποτάμιος, -α, -ον",
           "first_occurrence": [
             30,
             3
-          ]
+          ],
+          "gloss": "of or from a river"
         },
         {
           "book_entry": "πτηνός, -ή, -όν",
           "first_occurrence": [
             20,
             3
-          ]
+          ],
+          "gloss": "feathered, winged"
         },
         {
           "book_entry": "τετράπους, -ουν",
           "first_occurrence": [
             21,
             4
-          ]
+          ],
+          "gloss": "four-footed"
         },
         {
           "book_entry": "χερσαῖος, -α, -ον",
           "first_occurrence": [
             25,
             8
-          ]
+          ],
+          "gloss": "on or of dry land"
         }
       ]
     },
@@ -454,56 +516,64 @@
           "first_occurrence": [
             41,
             7
-          ]
+          ],
+          "gloss": "walk, go (verb)"
         },
         {
           "book_entry": "ἕρπω",
           "first_occurrence": [
             42,
             7
-          ]
+          ],
+          "gloss": "to creep, crawl"
         },
         {
           "book_entry": "κολυμβάω",
           "first_occurrence": [
             36,
             9
-          ]
+          ],
+          "gloss": "to plunge into the sea"
         },
         {
           "book_entry": "λέγω",
           "first_occurrence": [
             65,
             1
-          ]
+          ],
+          "gloss": "or λέξω, εἷπον or ἔλεξα, εἴρηκα, εἴρημαι or λέλεγμαι, ἐλέχθην or ἐρρήθην, say, speak"
         },
         {
           "book_entry": "πέτομαι",
           "first_occurrence": [
             46,
             2
-          ]
+          ],
+          "gloss": "to fly"
         },
         {
           "book_entry": "πηδάω",
           "first_occurrence": [
             57,
             2
-          ]
+          ],
+          "gloss": "leap, jump (verb)"
         },
         {
           "book_entry": "ποιέω",
           "first_occurrence": [
             36,
             2
-          ]
+          ],
+          "gloss": "make, do"
         },
         {
           "book_entry": "τρέχω",
           "first_occurrence": [
             41,
             9
-          ]
+          ],
+          "gloss": "run"
         }
       ]
     },
@@ -515,7 +585,8 @@
           "first_occurrence": [
             13,
             2
-          ]
+          ],
+          "gloss": "yet, still"
         },
         {
           "book_entry": "μόνον",
@@ -530,13 +601,15 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Ἀριστοτέλης, ὁ"
+          "book_entry": "Ἀριστοτέλης, ὁ",
+          "gloss": "Aristotle"
         },
         {
           "book_entry": "Παρθενόπη, ἡ"
         },
         {
-          "book_entry": "Σφίγξ, ἡ"
+          "book_entry": "Σφίγξ, ἡ",
+          "gloss": "Sphinx"
         }
       ]
     },
@@ -555,7 +628,8 @@
           "first_occurrence": [
             9,
             8
-          ]
+          ],
+          "gloss": "as, as if, just as if"
         }
       ]
     }

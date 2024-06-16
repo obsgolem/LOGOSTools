@@ -10,120 +10,140 @@
       "section": "Ῥήματα",
       "words": [
         {
-          "book_entry": "ἄγω", 
-          "first_occurrence": [139,6]
+          "book_entry": "ἄγω",
+          "first_occurrence": [
+            139,
+            6
+          ],
+          "gloss": "lead"
         },
         {
           "book_entry": "αἱρέω",
           "first_occurrence": [
             123,
             7
-          ]
+          ],
+          "gloss": "take, capture; (mid) choose"
         },
         {
           "book_entry": "ἀλγέω",
           "first_occurrence": [
             112,
             5
-          ]
+          ],
+          "gloss": "to feel bodily pain, suffer"
         },
         {
           "book_entry": "ἀποχωρέω",
           "first_occurrence": [
             125,
             2
-          ]
+          ],
+          "gloss": "go away, depart (verb)"
         },
         {
           "book_entry": "βοηθέω",
           "first_occurrence": [
             117,
             2
-          ]
+          ],
+          "gloss": "come to the aid of (+ dat.); come to the rescue"
         },
         {
           "book_entry": "βούλομαι",
           "first_occurrence": [
             62,
             4
-          ]
+          ],
+          "gloss": "want"
         },
         {
           "book_entry": "γεωργέω",
           "first_occurrence": [
             92,
             5
-          ]
+          ],
+          "gloss": "to be a husbandman, farmer"
         },
         {
           "book_entry": "διδάσκω",
           "first_occurrence": [
             52,
             2
-          ]
+          ],
+          "gloss": "teach"
         },
         {
           "book_entry": "δύναμαι",
           "first_occurrence": [
             116,
             3
-          ]
+          ],
+          "gloss": "-, -, δεδύνημαι, ἐδυνήθην, be able"
         },
         {
           "book_entry": "ἐργάζομαι",
           "first_occurrence": [
             29,
             7
-          ]
+          ],
+          "gloss": "work; work at, make; do, perform"
         },
         {
           "book_entry": "ἥκω",
           "first_occurrence": [
             126,
             7
-          ]
+          ],
+          "gloss": "have come, be present"
         },
         {
           "book_entry": "ἰλιγγιάω",
           "first_occurrence": [
             72,
             1
-          ]
+          ],
+          "gloss": "to be or become dizzy, lose oneʼs head"
         },
         {
           "book_entry": "κάθημαι",
           "first_occurrence": [
             126,
             6
-          ]
+          ],
+          "gloss": "be seated (verb)"
         },
         {
           "book_entry": "κατασκευάζω",
           "first_occurrence": [
             22,
             6
-          ]
+          ],
+          "gloss": "to equip"
         },
         {
           "book_entry": "μισέω",
           "first_occurrence": [
             66,
             4
-          ]
+          ],
+          "gloss": "hate; (ingressive aor.) conceived a hatred for"
         },
         {
           "book_entry": "οἶδα",
           "first_occurrence": [
             15,
             4
-          ]
+          ],
+          "gloss": "know"
         },
         {
           "book_entry": "πίπτω",
           "first_occurrence": [
             110,
             3
-          ]
+          ],
+          "gloss": "-, -, fall"
         },
         {
           "book_entry": "πταῖω",
@@ -137,7 +157,8 @@
           "first_occurrence": [
             111,
             4
-          ]
+          ],
+          "gloss": "-, -, -, say, assert, affirm"
         }
       ]
     },
@@ -145,7 +166,8 @@
       "section": "Ἐκφράσεις",
       "words": [
         {
-          "book_entry": "οὐ γὰρ οὖν!"
+          "book_entry": "οὐ γὰρ οὖν!",
+          "gloss": "not"
         },
         {
           "book_entry": "τί ἔστιν;"
@@ -160,63 +182,72 @@
           "first_occurrence": [
             85,
             3
-          ]
+          ],
+          "gloss": "image, statue (noun)"
         },
         {
           "book_entry": "ἀγγεῖον, τό",
           "first_occurrence": [
             22,
             5
-          ]
+          ],
+          "gloss": "vessel, reservoir"
         },
         {
           "book_entry": "ἀστρονόμος, ὁ",
           "first_occurrence": [
             74,
             1
-          ]
+          ],
+          "gloss": "an astronomer"
         },
         {
           "book_entry": "βοήθεια, ἡ",
           "first_occurrence": [
             113,
             2
-          ]
+          ],
+          "gloss": "help, rescue operation (noun)"
         },
         {
           "book_entry": "γλύπτης, ὁ",
           "first_occurrence": [
             84,
             1
-          ]
+          ],
+          "gloss": "a carver, sculptor"
         },
         {
           "book_entry": "διδασκαλεῖον, τό",
           "first_occurrence": [
             50,
             7
-          ]
+          ],
+          "gloss": "a teaching-place, school"
         },
         {
           "book_entry": "διδάσκαλος, ὁ",
           "first_occurrence": [
             50,
             2
-          ]
+          ],
+          "gloss": "teacher"
         },
         {
           "book_entry": "κεραμεύς, ὁ",
           "first_occurrence": [
             21,
             2
-          ]
+          ],
+          "gloss": "a potter"
         },
         {
           "book_entry": "λόγος, ὁ",
           "first_occurrence": [
             80,
             6
-          ]
+          ],
+          "gloss": "word, speech, story"
         },
         {
           "book_entry": "_μετοχή, ἡ_"
@@ -226,49 +257,56 @@
           "first_occurrence": [
             68,
             1
-          ]
+          ],
+          "gloss": "sailor"
         },
         {
           "book_entry": "ὄχθη, ἡ",
           "first_occurrence": [
             5,
             8
-          ]
+          ],
+          "gloss": "a rising ground, a bank, dyke"
         },
         {
           "book_entry": "πλοῖον, τό",
           "first_occurrence": [
             67,
             4
-          ]
+          ],
+          "gloss": "ship, boat"
         },
         {
           "book_entry": "προθυμία, ἡ",
           "first_occurrence": [
             86,
             1
-          ]
+          ],
+          "gloss": "readiness, willingness, eagerness, zeal"
         },
         {
           "book_entry": "στρατηγός, ὁ",
           "first_occurrence": [
             62,
             7
-          ]
+          ],
+          "gloss": "general"
         },
         {
           "book_entry": "τάφος, ὁ",
           "first_occurrence": [
             31,
             1
-          ]
+          ],
+          "gloss": "a burial, funeral"
         },
         {
           "book_entry": "φόβος, ὁ",
           "first_occurrence": [
             104,
             7
-          ]
+          ],
+          "gloss": "fear"
         }
       ]
     },
@@ -299,7 +337,8 @@
           "first_occurrence": [
             103,
             3
-          ]
+          ],
+          "gloss": "here, over here (adverb)"
         }
       ]
     },
@@ -307,7 +346,8 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Ἀγαμέμνων, ὁ"
+          "book_entry": "Ἀγαμέμνων, ὁ",
+          "gloss": "Agamemnon, lit. the very steadfast"
         },
         {
           "book_entry": "Ἀκρόπολις, ἡ"
@@ -316,28 +356,35 @@
           "book_entry": "Ἀναξίμανδρος, ὁ"
         },
         {
-          "book_entry": "Ἀρχέλαος, ὁ"
+          "book_entry": "Ἀρχέλαος, ὁ",
+          "gloss": "Archelaus"
         },
         {
-          "book_entry": "Κεραμεικός, ὁ"
+          "book_entry": "Κεραμεικός, ὁ",
+          "gloss": "the Potters’ Quarter in Athens; (adj.) of Ceramus, in Caria"
         },
         {
-          "book_entry": "Λακεδαίμων, ἡ"
+          "book_entry": "Λακεδαίμων, ἡ",
+          "gloss": "Lacedaemon"
         },
         {
           "book_entry": "Λεωνίδας, ὁ"
         },
         {
-          "book_entry": "Λύσιππος, ὁ"
+          "book_entry": "Λύσιππος, ὁ",
+          "gloss": "Lysippus"
         },
         {
-          "book_entry": "Μενέλαος, ὁ"
+          "book_entry": "Μενέλαος, ὁ",
+          "gloss": "Menelaos"
         },
         {
-          "book_entry": "Πλάτων, ὁ"
+          "book_entry": "Πλάτων, ὁ",
+          "gloss": "Plato"
         },
         {
-          "book_entry": "Πραξιτέλης, ὁ"
+          "book_entry": "Πραξιτέλης, ὁ",
+          "gloss": "Praxiteles"
         }
       ]
     },
@@ -349,35 +396,40 @@
           "first_occurrence": [
             111,
             1
-          ]
+          ],
+          "gloss": "unmoved, motionless"
         },
         {
           "book_entry": "Λακεδαιμόνιος, -α",
           "first_occurrence": [
             33,
             2
-          ]
+          ],
+          "gloss": "Spartan (used of persons)"
         },
         {
           "book_entry": "Μακεδών, Μακεδόνισσα",
           "first_occurrence": [
             12,
             3
-          ]
+          ],
+          "gloss": "a Macedonian"
         },
         {
           "book_entry": "ξένος, -η, -ον",
           "first_occurrence": [
             12,
             2
-          ]
+          ],
+          "gloss": "guest-friend, host, stranger, foreigner"
         },
         {
           "book_entry": "ὅλος, -η, -ον",
           "first_occurrence": [
             21,
             8
-          ]
+          ],
+          "gloss": "whole, entire"
         }
       ]
     },
@@ -389,17 +441,20 @@
           "first_occurrence": [
             29,
             1
-          ]
+          ],
+          "gloss": "outside"
         },
         {
           "book_entry": "ἐντός",
           "first_occurrence": [
             28,
             4
-          ]
+          ],
+          "gloss": "within, inside"
         },
         {
-          "book_entry": "πρός + δοτ."
+          "book_entry": "πρός + δοτ.",
+          "gloss": "in the eyes of, in the name of (+ gen); near, in addition to (+ dat); toward (+ acc)"
         }
       ]
     }

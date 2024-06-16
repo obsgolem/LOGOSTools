@@ -10,63 +10,72 @@
       "section": "Ῥήματα",
       "words": [
         {
-          "book_entry": "αἰδέομαι"
+          "book_entry": "αἰδέομαι",
+          "gloss": "to be ashamed to do"
         },
         {
           "book_entry": "αἰσθάνομαι",
           "first_occurrence": [
             121,
             6
-          ]
+          ],
+          "gloss": "perceive (+ gen or acc)"
         },
         {
           "book_entry": "ἀναγκάζω, -ομαι",
           "first_occurrence": [
             68,
             1
-          ]
+          ],
+          "gloss": "force, compel (verb)"
         },
         {
           "book_entry": "ἀποκτείνω",
           "first_occurrence": [
             154,
             5
-          ]
+          ],
+          "gloss": "kill"
         },
         {
           "book_entry": "ἀπόλλυμι",
           "first_occurrence": [
             137,
             7
-          ]
+          ],
+          "gloss": "(trans) or ἀπωλόμην (intrans), ἀπολώλεκα (trans) or ἀπόλωλα (intrans)ς ΧΧΧ, ΧΧΧ, kill, lose; (mid. and intrans.) die, cease to exist"
         },
         {
           "book_entry": "ἀποτίνω",
           "first_occurrence": [
             63,
             1
-          ]
+          ],
+          "gloss": "to pay back, repay, return"
         },
         {
           "book_entry": "αὐξάνω, -ομαι",
           "first_occurrence": [
             127,
             2
-          ]
+          ],
+          "gloss": "to make large, increase, augment"
         },
         {
           "book_entry": "δείδω",
           "first_occurrence": [
             145,
             3
-          ]
+          ],
+          "gloss": "/δέδια, (perfects with present meaning) fear"
         },
         {
           "book_entry": "διαρθρόω, -ομαι",
           "first_occurrence": [
             134,
             2
-          ]
+          ],
+          "gloss": "to divide by joints, to articulate"
         },
         {
           "book_entry": "δωρέομαι",
@@ -80,7 +89,8 @@
           "first_occurrence": [
             8,
             2
-          ]
+          ],
+          "gloss": "to listen"
         },
         {
           "book_entry": "ἐπικαλέομαι",
@@ -94,169 +104,196 @@
           "first_occurrence": [
             38,
             2
-          ]
+          ],
+          "gloss": "be quiet, keep quiet (verb)"
         },
         {
           "book_entry": "ἱκετεύω",
           "first_occurrence": [
             8,
             1
-          ]
+          ],
+          "gloss": "beg, supplicate (verb)"
         },
         {
           "book_entry": "κατακρίνω, -ομαι",
           "first_occurrence": [
             66,
             4
-          ]
+          ],
+          "gloss": "to give as sentence against"
         },
         {
           "book_entry": "καταναλίσκω",
           "first_occurrence": [
             97,
             1
-          ]
+          ],
+          "gloss": "to use up, spend, lavish"
         },
         {
           "book_entry": "καταφεύγω",
           "first_occurrence": [
             39,
             2
-          ]
+          ],
+          "gloss": "to flee for refuge"
         },
         {
           "book_entry": "κοσμέω",
           "first_occurrence": [
             82,
             1
-          ]
+          ],
+          "gloss": "to order, arrange"
         },
         {
           "book_entry": "κτίζω",
           "first_occurrence": [
             142,
             6
-          ]
+          ],
+          "gloss": "to found"
         },
         {
           "book_entry": "μαστιγόω",
           "first_occurrence": [
             29,
             3
-          ]
+          ],
+          "gloss": "to whip, flog"
         },
         {
           "book_entry": "μέλλω",
           "first_occurrence": [
             80,
             9
-          ]
+          ],
+          "gloss": "be about to, be likely to (+ future infin.); delay"
         },
         {
-          "book_entry": "μετέρχομαι"
+          "book_entry": "μετέρχομαι",
+          "gloss": "send for, chase after (verb)"
         },
         {
           "book_entry": "νέμω",
           "first_occurrence": [
             82,
             4
-          ]
+          ],
+          "gloss": "distribute, allot, assign (verb)"
         },
         {
           "book_entry": "ὁπλίζω",
           "first_occurrence": [
             88,
             2
-          ]
+          ],
+          "gloss": "to equip, make ready; to arm"
         },
         {
           "book_entry": "ὀστρακίζω, -ομαι",
           "first_occurrence": [
             64,
             5
-          ]
+          ],
+          "gloss": "to banish by potsherds, ostracize"
         },
         {
           "book_entry": "παραβαίνω",
           "first_occurrence": [
             52,
             5
-          ]
+          ],
+          "gloss": "go beside; overstep, transgress, violate"
         },
         {
           "book_entry": "παραιτέομαι",
           "first_occurrence": [
             83,
             6
-          ]
+          ],
+          "gloss": "beg (verb)"
         },
         {
           "book_entry": "πορίζω",
           "first_occurrence": [
             95,
             3
-          ]
+          ],
+          "gloss": "provide, offer (verb)"
         },
         {
           "book_entry": "πρέπω",
           "first_occurrence": [
             83,
             2
-          ]
+          ],
+          "gloss": "it is fitting / becoming / seemly (+ acc. or dat. of person + inf.)"
         },
         {
           "book_entry": "προσάπτω",
           "first_occurrence": [
             87,
             3
-          ]
+          ],
+          "gloss": "give, attach to (verb)"
         },
         {
-          "book_entry": "προσέρχομαι"
+          "book_entry": "προσέρχομαι",
+          "gloss": "advance, go / come towards (verb)"
         },
         {
-          "book_entry": "προσηλόω"
+          "book_entry": "προσηλόω",
+          "gloss": "to nail, pin"
         },
         {
           "book_entry": "προστάσσω",
           "first_occurrence": [
             81,
             2
-          ]
+          ],
+          "gloss": "order (verb)"
         },
         {
-          "book_entry": "σέβομαι"
+          "book_entry": "σέβομαι",
+          "gloss": "feel awe (before the gods); revere, worship, honor"
         },
         {
           "book_entry": "συμβαίνω",
           "first_occurrence": [
             5,
             7
-          ]
+          ],
+          "gloss": "come together; come to an agreement, come to terms; (impersonal) come to pass, happen"
         },
         {
           "book_entry": "τιμωρέω, -έομαι",
           "first_occurrence": [
             58,
             5
-          ]
+          ],
+          "gloss": "to seek, exact vengeance; help to retaliate"
         },
         {
-          "book_entry": "τίνω"
+          "book_entry": "τίνω",
+          "gloss": "to pay a price"
         },
         {
           "book_entry": "τυπόω",
           "first_occurrence": [
             79,
             3
-          ]
+          ],
+          "gloss": "to form, mould, model"
         },
         {
           "book_entry": "φροντίζω",
           "first_occurrence": [
             31,
             3
-          ]
+          ],
+          "gloss": "think; worry (verb)"
         }
       ]
     },
@@ -292,14 +329,16 @@
           "first_occurrence": [
             137,
             2
-          ]
+          ],
+          "gloss": "scatteredly, here and there"
         },
         {
           "book_entry": "ὕστερον",
           "first_occurrence": [
             120,
             4
-          ]
+          ],
+          "gloss": "(adv) later"
         }
       ]
     },
@@ -326,13 +365,16 @@
       "section": "Προθέσεις",
       "words": [
         {
-          "book_entry": "ἐπί - αἰτ. (ἐπὶ πάντας)"
+          "book_entry": "ἐπί - αἰτ. (ἐπὶ πάντας)",
+          "gloss": "on (+ gen); on, pertaining to, on condition that (+ dat); onto, over, against, for (purpose) (+ acc)"
         },
         {
-          "book_entry": "παρά + γεν. (παρ ̓ ἐμοῦ)"
+          "book_entry": "παρά + γεν. (παρ ̓ ἐμοῦ)",
+          "gloss": "from (the side of) (+ gen); at (the side of), at the house of (+ dat); to (the side of), beside, contrary to (+ acc)"
         },
         {
-          "book_entry": "περί + δοτ. (περὶ τῷ γένει)"
+          "book_entry": "περί + δοτ. (περὶ τῷ γένει)",
+          "gloss": "concerning, about (+ gen); around (+ dat); around, concerning (+ acc)"
         }
       ]
     },
@@ -344,14 +386,16 @@
           "first_occurrence": [
             51,
             6
-          ]
+          ],
+          "gloss": "injustice, wrongdoing"
         },
         {
           "book_entry": "αἰδώς, ἡ",
           "first_occurrence": [
             147,
             1
-          ]
+          ],
+          "gloss": "awe; sense of shame; respect for others"
         },
         {
           "book_entry": "ἄσυλον, τό",
@@ -365,45 +409,52 @@
           "first_occurrence": [
             92,
             8
-          ]
+          ],
+          "gloss": "eatage, meat"
         },
         {
           "book_entry": "βοτάνη, ἡ",
           "first_occurrence": [
             91,
             3
-          ]
+          ],
+          "gloss": "grass, fodder"
         },
         {
           "book_entry": "δέρμα, τό",
           "first_occurrence": [
             88,
             8
-          ]
+          ],
+          "gloss": "skin (noun)"
         },
         {
           "book_entry": "δικαίωμα, τό",
           "first_occurrence": [
             45,
             3
-          ]
+          ],
+          "gloss": "an act by which wrong is set right"
         },
         {
-          "book_entry": "δικαστής, ὁ"
+          "book_entry": "δικαστής, ὁ",
+          "gloss": "juryman, judge (in court)"
         },
         {
           "book_entry": "δύναμις, ἡ",
           "first_occurrence": [
             82,
             6
-          ]
+          ],
+          "gloss": "strength, power"
         },
         {
           "book_entry": "εὐπορία, ἡ",
           "first_occurrence": [
             113,
             3
-          ]
+          ],
+          "gloss": "abundance, means (noun)"
         },
         {
           "book_entry": "ἥπαρ, τό",
@@ -417,154 +468,176 @@
           "first_occurrence": [
             88,
             5
-          ]
+          ],
+          "gloss": "the hair of the head"
         },
         {
           "book_entry": "ἱκεσία, ἡ",
           "first_occurrence": [
             10,
             6
-          ]
+          ],
+          "gloss": "the prayer of a suppliant"
         },
         {
           "book_entry": "ἱκέτης, ὁ",
           "first_occurrence": [
             22,
             4
-          ]
+          ],
+          "gloss": "suppliant (noun)"
         },
         {
           "book_entry": "ἰσχύς, ἡ",
           "first_occurrence": [
             87,
             2
-          ]
+          ],
+          "gloss": "strength"
         },
         {
           "book_entry": "κίνδυνος, ὁ",
           "first_occurrence": [
             65,
             2
-          ]
+          ],
+          "gloss": "danger"
         },
         {
           "book_entry": "κλοπή, ἡ",
           "first_occurrence": [
             121,
             2
-          ]
+          ],
+          "gloss": "theft"
         },
         {
           "book_entry": "κώνειον, τό",
           "first_occurrence": [
             68,
             3
-          ]
+          ],
+          "gloss": "hemlock"
         },
         {
           "book_entry": "λοβός, ὁ",
           "first_occurrence": [
             126,
             4
-          ]
+          ],
+          "gloss": "lobe (of ear, liver, lung)"
         },
         {
           "book_entry": "μοῖρα, ἡ",
           "first_occurrence": [
             130,
             7
-          ]
+          ],
+          "gloss": "fate"
         },
         {
           "book_entry": "νομή, ἡ",
           "first_occurrence": [
             101,
             4
-          ]
+          ],
+          "gloss": "a pasture, pasturage"
         },
         {
           "book_entry": "νόσος, ἡ",
           "first_occurrence": [
             155,
             1
-          ]
+          ],
+          "gloss": "sickness"
         },
         {
           "book_entry": "οἴκησις, ἡ",
           "first_occurrence": [
             134,
             6
-          ]
+          ],
+          "gloss": "dwelling (noun)"
         },
         {
           "book_entry": "ὀλιγογονία, ἡ",
           "first_occurrence": [
             93,
             3
-          ]
+          ],
+          "gloss": "production of few at a birth"
         },
         {
           "book_entry": "πολυγονία, ἡ",
           "first_occurrence": [
             94,
             4
-          ]
+          ],
+          "gloss": "fecundity"
         },
         {
           "book_entry": "ῥίζα, ἡ",
           "first_occurrence": [
             92,
             3
-          ]
+          ],
+          "gloss": "a root"
         },
         {
           "book_entry": "συγγένεια, ἡ",
           "first_occurrence": [
             131,
             8
-          ]
+          ],
+          "gloss": "kinship (noun)"
         },
         {
           "book_entry": "σωτηρία, ἡ",
           "first_occurrence": [
             89,
             7
-          ]
+          ],
+          "gloss": "safety, means of safety, preservation; salvation"
         },
         {
           "book_entry": "τάχος, τό",
           "first_occurrence": [
             87,
             6
-          ]
+          ],
+          "gloss": "speed, swiftness"
         },
         {
           "book_entry": "τιμωρία, ἡ",
           "first_occurrence": [
             51,
             1
-          ]
+          ],
+          "gloss": "revenge, vengeance (noun)"
         },
         {
           "book_entry": "ὑπόδεσις, ἡ",
           "first_occurrence": [
             135,
             1
-          ]
+          ],
+          "gloss": "a putting on one’s shoes"
         },
         {
           "book_entry": "φωνή, ἡ",
           "first_occurrence": [
             133,
             6
-          ]
+          ],
+          "gloss": "sound, voice"
         },
         {
           "book_entry": "φῶς, τό",
           "first_occurrence": [
             80,
             8
-          ]
+          ],
+          "gloss": "light"
         }
       ]
     },
@@ -572,10 +645,12 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Θησεῖον, τό"
+          "book_entry": "Θησεῖον, τό",
+          "gloss": "the temple of Theseus"
         },
         {
-          "book_entry": "Τιτάν, ὁ"
+          "book_entry": "Τιτάν, ὁ",
+          "gloss": "Titan"
         }
       ]
     },
@@ -587,105 +662,120 @@
           "first_occurrence": [
             98,
             7
-          ]
+          ],
+          "gloss": "unprovided for (adjective)"
         },
         {
           "book_entry": "ἄλογος, -ον",
           "first_occurrence": [
             97,
             7
-          ]
+          ],
+          "gloss": "unreasoning, unreasonable, irrational"
         },
         {
           "book_entry": "ἀνόσιος, -ον",
           "first_occurrence": [
             38,
             5
-          ]
+          ],
+          "gloss": "unholy, profane"
         },
         {
           "book_entry": "ἀνυπόδητος, -ον",
           "first_occurrence": [
             103,
             4
-          ]
+          ],
+          "gloss": "unshod, barefoot"
         },
         {
           "book_entry": "ἄοπλος, -ον",
           "first_occurrence": [
             103,
             6
-          ]
+          ],
+          "gloss": "unarmed (adjective)"
         },
         {
           "book_entry": "ἀσεβής, -ές",
           "first_occurrence": [
             38,
             3
-          ]
+          ],
+          "gloss": "ungodly, unholy"
         },
         {
           "book_entry": "δημιουργικός, -ή, -ον",
           "first_occurrence": [
             139,
             9
-          ]
+          ],
+          "gloss": "technical, of a workman (adjective)"
         },
         {
           "book_entry": "δίκαιος, -α, ον",
           "first_occurrence": [
             11,
             9
-          ]
+          ],
+          "gloss": "just"
         },
         {
           "book_entry": "ἔντεχνος, -ον",
           "first_occurrence": [
             101,
             4
-          ]
+          ],
+          "gloss": "within the province of art, artificial, artistic"
         },
         {
           "book_entry": "θεῖος, -α, -ον",
           "first_occurrence": [
             130,
             6
-          ]
+          ],
+          "gloss": "divine (adjective)"
         },
         {
           "book_entry": "ἱκέσιος, -α, -ον",
           "first_occurrence": [
             9,
             1
-          ]
+          ],
+          "gloss": "of or for suppliants, protector of suppliants"
         },
         {
           "book_entry": "ἴσος, -η, -ον",
           "first_occurrence": [
             42,
             4
-          ]
+          ],
+          "gloss": "equal, fair; flat"
         },
         {
           "book_entry": "ὅσιος, -α, -ον",
           "first_occurrence": [
             40,
             3
-          ]
+          ],
+          "gloss": "hallowed, pious, pure"
         },
         {
           "book_entry": "πυκνός, -ή, -όν",
           "first_occurrence": [
             88,
             3
-          ]
+          ],
+          "gloss": "close, compact"
         },
         {
           "book_entry": "στερεός, -ά, -όν",
           "first_occurrence": [
             88,
             7
-          ]
+          ],
+          "gloss": "stiff, stark, firm, solid"
         }
       ]
     }

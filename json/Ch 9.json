@@ -14,14 +14,16 @@
           "first_occurrence": [
             5,
             1
-          ]
+          ],
+          "gloss": "mountain, hill"
         },
         {
           "book_entry": "πέλαγος, τό",
           "first_occurrence": [
             32,
             6
-          ]
+          ],
+          "gloss": "the sea"
         },
         {
           "book_entry": "στενόν, τό",
@@ -40,14 +42,16 @@
           "first_occurrence": [
             35,
             7
-          ]
+          ],
+          "gloss": "of/called after Io"
         },
         {
           "book_entry": "Αἰγαῖος, -α, -ον",
           "first_occurrence": [
             32,
             5
-          ]
+          ],
+          "gloss": "Aegaean"
         }
       ]
     },
@@ -55,124 +59,158 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Ἀθῆναι, αἱ"
+          "book_entry": "Ἀθῆναι, αἱ",
+          "gloss": "Athens (noun)"
         },
         {
-          "book_entry": "Αἰγεύς, ὁ"
+          "book_entry": "Αἰγεύς, ὁ",
+          "gloss": "Aegeus"
         },
         {
-          "book_entry": "Αἰολίς, ἡ"
+          "book_entry": "Αἰολίς, ἡ",
+          "gloss": "Aeolian , of the Aeolian musical mode"
         },
         {
-          "book_entry": "Ἀλφειός, ὁ"
+          "book_entry": "Ἀλφειός, ὁ",
+          "gloss": "Alpheus"
         },
         {
-          "book_entry": "Ἄνδρος, ἡ"
+          "book_entry": "Ἄνδρος, ἡ",
+          "gloss": "Andros"
         },
         {
-          "book_entry": "Ἀξιός, ὁ"
+          "book_entry": "Ἀξιός, ὁ",
+          "gloss": "a river in Macedonia"
         },
         {
           "book_entry": "Ἀττική. ἣ"
         },
         {
-          "book_entry": "Βοιωτία, ἡ"
+          "book_entry": "Βοιωτία, ἡ",
+          "gloss": "Boeotia"
         },
         {
-          "book_entry": "Δελφοί, οἱ"
+          "book_entry": "Δελφοί, οἱ",
+          "gloss": "Delphi; Delphians"
         },
         {
-          "book_entry": "Δωδώνη, ἡ"
+          "book_entry": "Δωδώνη, ἡ",
+          "gloss": "Dodona"
         },
         {
-          "book_entry": "Εὔβοια, ἡ"
+          "book_entry": "Εὔβοια, ἡ",
+          "gloss": "Euboea"
         },
         {
-          "book_entry": "Ζάκυνθος, ἡ"
+          "book_entry": "Ζάκυνθος, ἡ",
+          "gloss": "Zacynthus"
         },
         {
-          "book_entry": "Ἤπειρος, ἡ"
+          "book_entry": "Ἤπειρος, ἡ",
+          "gloss": "Epirus"
         },
         {
-          "book_entry": "Θάσος, ἡ"
+          "book_entry": "Θάσος, ἡ",
+          "gloss": "Thasos"
         },
         {
-          "book_entry": "Θερμοπύλαι, αἱ"
+          "book_entry": "Θερμοπύλαι, αἱ",
+          "gloss": "Thermopylae"
         },
         {
-          "book_entry": "Θῆβαι, αἱ"
+          "book_entry": "Θῆβαι, αἱ",
+          "gloss": "Thebes (usu. plural)"
         },
         {
-          "book_entry": "Θρᾴκη, ἡ"
+          "book_entry": "Θρᾴκη, ἡ",
+          "gloss": "Thrace"
         },
         {
-          "book_entry": "Ἴδη, ἡ"
+          "book_entry": "Ἴδη, ἡ",
+          "gloss": "Ida"
         },
         {
-          "book_entry": "Ἰθάκη, ἡ"
+          "book_entry": "Ἰθάκη, ἡ",
+          "gloss": "Ithaca"
         },
         {
           "book_entry": "Ἰόνιον, τό"
         },
         {
-          "book_entry": "Ἰώ, ἡ"
+          "book_entry": "Ἰώ, ἡ",
+          "gloss": "Io"
         },
         {
-          "book_entry": "Ἰωνία, ἡ"
+          "book_entry": "Ἰωνία, ἡ",
+          "gloss": "Ionia"
         },
         {
-          "book_entry": "Κεφαλληνία, ἡ"
+          "book_entry": "Κεφαλληνία, ἡ",
+          "gloss": "Cephalenia"
         },
         {
-          "book_entry": "Κόρινθος, ἡ"
+          "book_entry": "Κόρινθος, ἡ",
+          "gloss": "Corinth, (masc) Korinthos son of Zeus, founder of Corinth"
         },
         {
-          "book_entry": "Κόρκυρα, ἡ"
+          "book_entry": "Κόρκυρα, ἡ",
+          "gloss": "Corcyra, Corfu"
         },
         {
-          "book_entry": "Κυκλάδες, αἱ"
+          "book_entry": "Κυκλάδες, αἱ",
+          "gloss": "Cyclades"
         },
         {
-          "book_entry": "Λέσβος, ἡ"
+          "book_entry": "Λέσβος, ἡ",
+          "gloss": "Lesbos"
         },
         {
-          "book_entry": "Λῆμνος, ἡ"
+          "book_entry": "Λῆμνος, ἡ",
+          "gloss": "Lemnos"
         },
         {
-          "book_entry": "Μακεδονία, ἡ"
+          "book_entry": "Μακεδονία, ἡ",
+          "gloss": "Macedon"
         },
         {
           "book_entry": "Μύκονος, ἡ"
         },
         {
-          "book_entry": "Μυτιλήνη, ἡ"
+          "book_entry": "Μυτιλήνη, ἡ",
+          "gloss": "Mytilene"
         },
         {
           "book_entry": "Νέστος, ὁ"
         },
         {
-          "book_entry": "Ὀλυμπία, ἡ"
+          "book_entry": "Ὀλυμπία, ἡ",
+          "gloss": "Olympia"
         },
         {
-          "book_entry": "Πάρνης, ἣ"
+          "book_entry": "Πάρνης, ἣ",
+          "gloss": "Parnes"
         },
         {
-          "book_entry": "Πέλλα, ἡ"
+          "book_entry": "Πέλλα, ἡ",
+          "gloss": "Pella"
         },
         {
-          "book_entry": "Πελοπόννησος, ἡ"
+          "book_entry": "Πελοπόννησος, ἡ",
+          "gloss": "the Peloponnesus"
         },
         {
           "book_entry": "Πεντέλη, ἡ"
         },
         {
-          "book_entry": "Σάμος, ἣ"
+          "book_entry": "Σάμος, ἣ",
+          "gloss": "Samos"
         },
         {
           "book_entry": "Σμύρνη, ἢ"
         },
         {
-          "book_entry": "Σπάρτη, ἡ"
+          "book_entry": "Σπάρτη, ἡ",
+          "gloss": "Sparta"
         },
         {
           "book_entry": "Φωχίς, ἡ"

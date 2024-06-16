@@ -14,7 +14,8 @@
           "first_occurrence": [
             1,
             2
-          ]
+          ],
+          "gloss": "be born; become; happen"
         }
       ]
     },
@@ -26,7 +27,8 @@
           "first_occurrence": [
             67,
             2
-          ]
+          ],
+          "gloss": "same (adj in attributive position); -self, -selves (in predicate position or alone in nom); him, her, it, them (pronoun in gen, dat, acc)"
         }
       ]
     },
@@ -38,112 +40,128 @@
           "first_occurrence": [
             61,
             1
-          ]
+          ],
+          "gloss": "messenger"
         },
         {
           "book_entry": "ἄμπελος, ἡ",
           "first_occurrence": [
             63,
             2
-          ]
+          ],
+          "gloss": "vine"
         },
         {
           "book_entry": "ἀστρονομία, ἡ",
           "first_occurrence": [
             58,
             6
-          ]
+          ],
+          "gloss": "astronomy"
         },
         {
           "book_entry": "ἀφρός, ὁ",
           "first_occurrence": [
             74,
             1
-          ]
+          ],
+          "gloss": "foam"
         },
         {
           "book_entry": "γάμος, ὁ",
           "first_occurrence": [
             33,
             2
-          ]
+          ],
+          "gloss": "wedding, wedding feast; marriage"
         },
         {
           "book_entry": "γεωργία, ἡ",
           "first_occurrence": [
             33,
             7
-          ]
+          ],
+          "gloss": "tillage, agriculture, farming"
         },
         {
           "book_entry": "ἐπιστήμη, ἧ",
           "first_occurrence": [
             51,
             9
-          ]
+          ],
+          "gloss": "knowledge"
         },
         {
           "book_entry": "ἔρως, ὁ",
           "first_occurrence": [
             74,
             7
-          ]
+          ],
+          "gloss": "(voc. ἔρως), love"
         },
         {
           "book_entry": "ἑστία, ἡ",
           "first_occurrence": [
             32,
             7
-          ]
+          ],
+          "gloss": "the hearth of a house, fireside; family"
         },
         {
           "book_entry": "εὑρετής, ὁ",
           "first_occurrence": [
             63,
             3
-          ]
+          ],
+          "gloss": "an inventor, discoverer"
         },
         {
           "book_entry": "ἡμίθεος, ὁ",
           "first_occurrence": [
             65,
             6
-          ]
+          ],
+          "gloss": "a half-god, demigod"
         },
         {
           "book_entry": "ἥρως, ὁ",
           "first_occurrence": [
             41,
             5
-          ]
+          ],
+          "gloss": "hero, i.e., an epic warrior from the Age of Heroes and/or a cult figure with powers for good and evil worshipped at a hero shrine or tomb"
         },
         {
           "book_entry": "θήρα, ἡ",
           "first_occurrence": [
             49,
             5
-          ]
+          ],
+          "gloss": "hunting, the chase"
         },
         {
           "book_entry": "ἱστορία, ἡ",
           "first_occurrence": [
             56,
             8
-          ]
+          ],
+          "gloss": "a learning by inquiry, inquiry"
         },
         {
           "book_entry": "κωμῳδία, ἡ",
           "first_occurrence": [
             56,
             2
-          ]
+          ],
+          "gloss": "a comedy"
         },
         {
           "book_entry": "μαντεία, ἡ",
           "first_occurrence": [
             50,
             6
-          ]
+          ],
+          "gloss": "prophesying, prophetic power"
         },
         {
           "book_entry": "μοῦσα, ἡ",
@@ -157,77 +175,88 @@
           "first_occurrence": [
             57,
             5
-          ]
+          ],
+          "gloss": "any art over which the Muses presided"
         },
         {
           "book_entry": "νύμφη, ἡ",
           "first_occurrence": [
             15,
             4
-          ]
+          ],
+          "gloss": "a young wife, bride; a Nymph"
         },
         {
           "book_entry": "οἶνος, ὁ",
           "first_occurrence": [
             62,
             8
-          ]
+          ],
+          "gloss": "wine"
         },
         {
           "book_entry": "ποίησις, ἡ",
           "first_occurrence": [
             54,
             2
-          ]
+          ],
+          "gloss": "creation, production; writing of poetry; poem"
         },
         {
           "book_entry": "ποιητής, ὁ",
           "first_occurrence": [
             3,
             1
-          ]
+          ],
+          "gloss": "poet, author"
         },
         {
           "book_entry": "πόλεμος, ὁ",
           "first_occurrence": [
             45,
             5
-          ]
+          ],
+          "gloss": "war"
         },
         {
           "book_entry": "πῦρ, τό",
           "first_occurrence": [
             46,
             2
-          ]
+          ],
+          "gloss": "fire"
         },
         {
           "book_entry": "σοφία, ἡ",
           "first_occurrence": [
             72,
             7
-          ]
+          ],
+          "gloss": "wisdom, skill"
         },
         {
           "book_entry": "τέχνη, ἡ",
           "first_occurrence": [
             50,
             3
-          ]
+          ],
+          "gloss": "art, skill, craft"
         },
         {
           "book_entry": "τραγῳδία, ἡ",
           "first_occurrence": [
             55,
             5
-          ]
+          ],
+          "gloss": "a tragedy"
         },
         {
           "book_entry": "ὕμνος, ὁ",
           "first_occurrence": [
             59,
             3
-          ]
+          ],
+          "gloss": "a hymn, festive song"
         },
         {
           "book_entry": "_φωνή, ἡ_"
@@ -237,7 +266,8 @@
           "first_occurrence": [
             58,
             2
-          ]
+          ],
+          "gloss": "dance, chorus"
         }
       ]
     },
@@ -259,24 +289,28 @@
           "first_occurrence": [
             54,
             6
-          ]
+          ],
+          "gloss": "of or for the lyre, lyric"
         },
         {
           "book_entry": "μέλας, μέλαινα, μέλαν",
           "first_occurrence": [
             5,
             7
-          ]
+          ],
+          "gloss": "black, dark"
         },
         {
-          "book_entry": "μέσος, -η, -ον"
+          "book_entry": "μέσος, -η, -ον",
+          "gloss": "middle (of)"
         },
         {
           "book_entry": "πρωτόγονος, -ον",
           "first_occurrence": [
             27,
             2
-          ]
+          ],
+          "gloss": "first-born, firstling"
         }
       ]
     },
@@ -288,7 +322,8 @@
           "first_occurrence": [
             4,
             1
-          ]
+          ],
+          "gloss": "then, thereupon"
         },
         {
           "book_entry": "πρῶτον",
@@ -302,7 +337,8 @@
           "first_occurrence": [
             1,
             1
-          ]
+          ],
+          "gloss": "how?"
         }
       ]
     },
@@ -314,7 +350,8 @@
           "first_occurrence": [
             3,
             3
-          ]
+          ],
+          "gloss": "adv. + superl., as...as possible; ὅτι μή except"
         }
       ]
     },
@@ -337,82 +374,102 @@
           "book_entry": "Αἰθήρ, ὁ"
         },
         {
-          "book_entry": "Ἀλκμήνη, ἡ"
+          "book_entry": "Ἀλκμήνη, ἡ",
+          "gloss": "Alcmene"
         },
         {
-          "book_entry": "Ἄτλας, ὁ"
+          "book_entry": "Ἄτλας, ὁ",
+          "gloss": "Atlas"
         },
         {
           "book_entry": "Γαῖα, ἡ"
         },
         {
-          "book_entry": "Δευκαλίων, ὁ"
+          "book_entry": "Δευκαλίων, ὁ",
+          "gloss": "Deucalion"
         },
         {
-          "book_entry": "Διώνη, ἡ"
+          "book_entry": "Διώνη, ἡ",
+          "gloss": "Dione"
         },
         {
-          "book_entry": "Ἐπιμηθεύς, ὁ"
+          "book_entry": "Ἐπιμηθεύς, ὁ",
+          "gloss": "Epi-metheus, after-thought"
         },
         {
-          "book_entry": "Ἐρατώ, ἡ"
+          "book_entry": "Ἐρατώ, ἡ",
+          "gloss": "Erato, the lovely"
         },
         {
-          "book_entry": "Ἔρεβος, τό"
+          "book_entry": "Ἔρεβος, τό",
+          "gloss": "Erebos"
         },
         {
           "book_entry": "Ἔρως, ὁ"
         },
         {
-          "book_entry": "Ἑστία, ἡ"
+          "book_entry": "Ἑστία, ἡ",
+          "gloss": "Vesta"
         },
         {
-          "book_entry": "Εὐτέρπη, ἡ"
+          "book_entry": "Εὐτέρπη, ἡ",
+          "gloss": "the Well-pleasing"
         },
         {
           "book_entry": "Ἡμέρα. ἡ"
         },
         {
-          "book_entry": "Ἡρακλῆς, ὁ"
+          "book_entry": "Ἡρακλῆς, ὁ",
+          "gloss": "Herakles"
         },
         {
-          "book_entry": "Ἡσίοδος, ὁ"
+          "book_entry": "Ἡσίοδος, ὁ",
+          "gloss": "Hesiod"
         },
         {
           "book_entry": "Ἰαπετός, ὁ"
         },
         {
-          "book_entry": "Καλλιόπη, ἡ"
+          "book_entry": "Καλλιόπη, ἡ",
+          "gloss": "Calliope, the beautiful-voiced"
         },
         {
-          "book_entry": "Κλειώ, ἡ"
+          "book_entry": "Κλειώ, ἡ",
+          "gloss": "Clio"
         },
         {
-          "book_entry": "Κλυμένη, ἡ"
+          "book_entry": "Κλυμένη, ἡ",
+          "gloss": "Clymene"
         },
         {
-          "book_entry": "Λητώ, ἡ"
+          "book_entry": "Λητώ, ἡ",
+          "gloss": "Leto"
         },
         {
           "book_entry": "Μαία, ἡ"
         },
         {
-          "book_entry": "Μελπομένη, ἡ"
+          "book_entry": "Μελπομένη, ἡ",
+          "gloss": "Melpomene"
         },
         {
-          "book_entry": "Μενοίτιος, ὁ"
+          "book_entry": "Μενοίτιος, ὁ",
+          "gloss": "Menoetius"
         },
         {
-          "book_entry": "Μίνως, ὁ"
+          "book_entry": "Μίνως, ὁ",
+          "gloss": "Minos"
         },
         {
-          "book_entry": "Μνημοσύνη, ἡ"
+          "book_entry": "Μνημοσύνη, ἡ",
+          "gloss": "Mnemosyne"
         },
         {
           "book_entry": "Νύξ, ἡ"
         },
         {
-          "book_entry": "Ὅμηρος, ὁ"
+          "book_entry": "Ὅμηρος, ὁ",
+          "gloss": "Homer"
         },
         {
           "book_entry": "Οὐρανία. ἡ"
@@ -421,40 +478,51 @@
           "book_entry": "Οὐρανός, ὁ"
         },
         {
-          "book_entry": "Πολύμνια, ἡ"
+          "book_entry": "Πολύμνια, ἡ",
+          "gloss": "Polymnia"
         },
         {
-          "book_entry": "Πόντος, ὁ"
+          "book_entry": "Πόντος, ὁ",
+          "gloss": "Pontus"
         },
         {
-          "book_entry": "Προμηθεύς, ὁ"
+          "book_entry": "Προμηθεύς, ὁ",
+          "gloss": "Prometheus"
         },
         {
-          "book_entry": "Πύρρα, ἡ"
+          "book_entry": "Πύρρα, ἡ",
+          "gloss": "Pyrrha"
         },
         {
-          "book_entry": "Πανδώρα, ἡ"
+          "book_entry": "Πανδώρα, ἡ",
+          "gloss": "Pandora"
         },
         {
-          "book_entry": "Ῥέα, ἡ"
+          "book_entry": "Ῥέα, ἡ",
+          "gloss": "Rhea"
         },
         {
-          "book_entry": "Ῥαδάμανθυς, ὁ"
+          "book_entry": "Ῥαδάμανθυς, ὁ",
+          "gloss": "pr.n. Rhadamanthys"
         },
         {
-          "book_entry": "Σαρπηδών, ὁ"
+          "book_entry": "Σαρπηδών, ὁ",
+          "gloss": "Sarpedon"
         },
         {
-          "book_entry": "Σεμέλη, ἡ"
+          "book_entry": "Σεμέλη, ἡ",
+          "gloss": "Semele"
         },
         {
-          "book_entry": "Στύξ, ἡ"
+          "book_entry": "Στύξ, ἡ",
+          "gloss": "the Styx"
         },
         {
           "book_entry": "Τερψιχόρα, ἡ"
         },
         {
-          "book_entry": "Τηθύς, ἡ"
+          "book_entry": "Τηθύς, ἡ",
+          "gloss": "Tethys"
         },
         {
           "book_entry": "Τιτᾶνες, οἱ"

@@ -14,7 +14,8 @@
           "first_occurrence": [
             1,
             3
-          ]
+          ],
+          "gloss": "man"
         },
         {
           "book_entry": "_γένος, τό_"
@@ -24,35 +25,40 @@
           "first_occurrence": [
             7,
             7
-          ]
+          ],
+          "gloss": "(voc. γύναι), woman; wife"
         },
         {
           "book_entry": "κόρη, ἡ",
           "first_occurrence": [
             26,
             2
-          ]
+          ],
+          "gloss": "maiden, girl (noun)"
         },
         {
           "book_entry": "νεανίας, ὁ",
           "first_occurrence": [
             25,
             5
-          ]
+          ],
+          "gloss": "young man"
         },
         {
           "book_entry": "παῖς, ὁ/ἡ",
           "first_occurrence": [
             18,
             6
-          ]
+          ],
+          "gloss": "or ἡ, child"
         },
         {
           "book_entry": "παιδίον, τό",
           "first_occurrence": [
             20,
             4
-          ]
+          ],
+          "gloss": "child"
         }
       ]
     },
@@ -64,7 +70,8 @@
           "first_occurrence": [
             43,
             6
-          ]
+          ],
+          "gloss": "undying, immortal"
         },
         {
           "book_entry": "_ἀρσενικός, -ή, -όν_"
@@ -77,21 +84,24 @@
           "first_occurrence": [
             43,
             3
-          ]
+          ],
+          "gloss": "mortal (adjective)"
         },
         {
           "book_entry": "κακός, -ή, -ον",
           "first_occurrence": [
             32,
             2
-          ]
+          ],
+          "gloss": "bad, evil"
         },
         {
           "book_entry": "καλός, -ή, -όν",
           "first_occurrence": [
             31,
             5
-          ]
+          ],
+          "gloss": "beautiful, noble, good"
         },
         {
           "book_entry": "_οὐδέτερος, -τέρα, -τερον_"
@@ -106,7 +116,8 @@
           "first_occurrence": [
             15,
             6
-          ]
+          ],
+          "gloss": "the [definite article]"
         }
       ]
     },
@@ -118,14 +129,16 @@
           "first_occurrence": [
             3,
             2
-          ]
+          ],
+          "gloss": "two"
         },
         {
           "book_entry": "τρεῖς",
           "first_occurrence": [
             6,
             3
-          ]
+          ],
+          "gloss": "three"
         }
       ]
     },
@@ -137,21 +150,24 @@
           "first_occurrence": [
             25,
             3
-          ]
+          ],
+          "gloss": "for (explanatory)"
         },
         {
           "book_entry": "ἤ",
           "first_occurrence": [
             66,
             5
-          ]
+          ],
+          "gloss": "or; than (12)"
         },
         {
           "book_entry": "οὔτε ... οὔτε",
           "first_occurrence": [
             24,
             3
-          ]
+          ],
+          "gloss": "...οὔτε, neither...nor"
         }
       ]
     },
@@ -163,7 +179,8 @@
           "first_occurrence": [
             13,
             3
-          ]
+          ],
+          "gloss": "then, therefore"
         }
       ]
     },
@@ -171,36 +188,44 @@
       "section": "Κύρα ὀνόματα",
       "words": [
         {
-          "book_entry": "Ἀπολλόδωρος, ὁ"
+          "book_entry": "Ἀπολλόδωρος, ὁ",
+          "gloss": "Apollodorus"
         },
         {
-          "book_entry": "Ἀπολλώνιος, ὁ"
+          "book_entry": "Ἀπολλώνιος, ὁ",
+          "gloss": "of or belonging to Apollo; (pr.n.) Apollonius"
         },
         {
-          "book_entry": "Ἑλένη, ἡ"
+          "book_entry": "Ἑλένη, ἡ",
+          "gloss": "Helen"
         },
         {
-          "book_entry": "Ἠλέκτρα, ἡ"
+          "book_entry": "Ἠλέκτρα, ἡ",
+          "gloss": "Electra"
         },
         {
-          "book_entry": "Καλλίμαχος, ὁ"
+          "book_entry": "Καλλίμαχος, ὁ",
+          "gloss": "Callimachus"
         },
         {
-          "book_entry": "Καλλιρρόη, ἡ"
+          "book_entry": "Καλλιρρόη, ἡ",
+          "gloss": "Callirrhoe"
         },
         {
           "book_entry": "Κασσάνδρα, ἡ",
           "first_occurrence": [
             22,
             3
-          ]
+          ],
+          "gloss": "Cassandra"
         },
         {
           "book_entry": "Πάτροκλος, ὁ",
           "first_occurrence": [
             22,
             6
-          ]
+          ],
+          "gloss": "Patroclus"
         },
         {
           "book_entry": "Ὑπατία, ἡ",
@@ -214,7 +239,8 @@
           "first_occurrence": [
             4,
             1
-          ]
+          ],
+          "gloss": "Philip, Philippus; (pl.) the city, Philippi"
         }
       ]
     }

@@ -14,49 +14,56 @@
           "first_occurrence": [
             98,
             4
-          ]
+          ],
+          "gloss": "reveal, show (verb)"
         },
         {
           "book_entry": "δικάζω",
           "first_occurrence": [
             101,
             6
-          ]
+          ],
+          "gloss": "judge, serve as judge or juror; (mid.) plead a case, participate in a suit"
         },
         {
           "book_entry": "καλλωπίζω",
           "first_occurrence": [
             4,
             2
-          ]
+          ],
+          "gloss": "to make the face beautiful"
         },
         {
           "book_entry": "κατακλύζω",
           "first_occurrence": [
             105,
             3
-          ]
+          ],
+          "gloss": "to dash over, flood, deluge, inundate"
         },
         {
           "book_entry": "οἰκίζω",
           "first_occurrence": [
             30,
             5
-          ]
+          ],
+          "gloss": "to found as a colony"
         },
         {
           "book_entry": "περιέχω",
           "first_occurrence": [
             18,
             6
-          ]
+          ],
+          "gloss": "to encompass, embrace, surround"
         },
         {
           "book_entry": "πλήσσω",
           "first_occurrence": [
             97,
             4
-          ]
+          ],
+          "gloss": "strike"
         }
       ]
     },
@@ -68,42 +75,48 @@
           "first_occurrence": [
             114,
             1
-          ]
+          ],
+          "gloss": "before, in front"
         },
         {
           "book_entry": "ἐντεῦθεν",
           "first_occurrence": [
             77,
             3
-          ]
+          ],
+          "gloss": "from then, from there (adverb)"
         },
         {
           "book_entry": "ἔνθα",
           "first_occurrence": [
             61,
             1
-          ]
+          ],
+          "gloss": "where"
         },
         {
           "book_entry": "ὄπισθεν",
           "first_occurrence": [
             81,
             1
-          ]
+          ],
+          "gloss": "behind; hereafter, in future; (sometimes + gen.) behind"
         },
         {
           "book_entry": "πάλαι",
           "first_occurrence": [
             52,
             1
-          ]
+          ],
+          "gloss": "long ago"
         },
         {
           "book_entry": "πανταχοῦ",
           "first_occurrence": [
             5,
             7
-          ]
+          ],
+          "gloss": "everywhere"
         }
       ]
     },
@@ -115,70 +128,80 @@
           "first_occurrence": [
             13,
             1
-          ]
+          ],
+          "gloss": "each of two, both"
         },
         {
           "book_entry": "ἀνατολικός, -ή, -όν",
           "first_occurrence": [
             47,
             4
-          ]
+          ],
+          "gloss": "eastern"
         },
         {
           "book_entry": "ἄξιος, -α, -ον",
           "first_occurrence": [
             11,
             5
-          ]
+          ],
+          "gloss": "worthy, worth (+ gen)"
         },
         {
           "book_entry": "ἀριστερός, -ά, -όν",
           "first_occurrence": [
             74,
             1
-          ]
+          ],
+          "gloss": "on the left, left; ominous"
         },
         {
           "book_entry": "Ἀχαρνικός, -ή, -όν",
           "first_occurrence": [
             46,
             2
-          ]
+          ],
+          "gloss": "belonging to or of Acharnae"
         },
         {
           "book_entry": "βόρειος, -α, -ον",
           "first_occurrence": [
             44,
             4
-          ]
+          ],
+          "gloss": "from the quarter of the North wind, northern"
         },
         {
           "book_entry": "γυναικόμορφος, -ον",
           "first_occurrence": [
             89,
             2
-          ]
+          ],
+          "gloss": "in woman’s shape"
         },
         {
           "book_entry": "δεξιός, -ά, -όν",
           "first_occurrence": [
             15,
             2
-          ]
+          ],
+          "gloss": "on the right; fortunate; dexterous, skillful, clever"
         },
         {
           "book_entry": "Διονυσιακός, -ή, -όν",
           "first_occurrence": [
             63,
             6
-          ]
+          ],
+          "gloss": "belonging to Dionysus"
         },
         {
           "book_entry": "δυτικός, -ή, -όν",
           "first_occurrence": [
             37,
             3
-          ]
+          ],
+          "gloss": "able to dive; of the sunset: western"
         },
         {
           "book_entry": "Θεμιστόκλειος, -α, ον",
@@ -192,21 +215,24 @@
           "first_occurrence": [
             52,
             4
-          ]
+          ],
+          "gloss": "wet, moist, damp; southern"
         },
         {
           "book_entry": "ὁρατός, -ή, -όν",
           "first_occurrence": [
             61,
             2
-          ]
+          ],
+          "gloss": "to be seen, visible"
         },
         {
           "book_entry": "ὀρθός, -ή, -όν",
           "first_occurrence": [
             119,
             7
-          ]
+          ],
+          "gloss": "straight, correct"
         },
         {
           "book_entry": "Παναθήναιος, -α, -ον",
@@ -220,28 +246,32 @@
           "first_occurrence": [
             43,
             2
-          ]
+          ],
+          "gloss": "of the Peiraeus"
         },
         {
           "book_entry": "Πελοποννήσιος, -α, -ον",
           "first_occurrence": [
             3,
             2
-          ]
+          ],
+          "gloss": "Peloponnesian (of people)"
         },
         {
           "book_entry": "Πλατωνικός, -ή, -όν",
           "first_occurrence": [
             40,
             5
-          ]
+          ],
+          "gloss": "of Plato"
         },
         {
           "book_entry": "πρόμαχος, -ον",
           "first_occurrence": [
             80,
             5
-          ]
+          ],
+          "gloss": "fighting before"
         }
       ]
     },
@@ -253,35 +283,40 @@
           "first_occurrence": [
             32,
             3
-          ]
+          ],
+          "gloss": "a glade"
         },
         {
           "book_entry": "ἀνάθημα, τό",
           "first_occurrence": [
             57,
             2
-          ]
+          ],
+          "gloss": "a votive offering set up"
         },
         {
           "book_entry": "ἀνατολή, ἡ",
           "first_occurrence": [
             35,
             4
-          ]
+          ],
+          "gloss": "a rising, rise; sunrise, East"
         },
         {
           "book_entry": "ἀρχιτέκτων, ὁ",
           "first_occurrence": [
             109,
             3
-          ]
+          ],
+          "gloss": "a chief-artificer, master-builder, director of works, architect, engineer"
         },
         {
           "book_entry": "ἀσπίς, ἡ",
           "first_occurrence": [
             123,
             3
-          ]
+          ],
+          "gloss": "shield"
         },
         {
           "book_entry": "βορέας, ὁ",
@@ -295,143 +330,164 @@
           "first_occurrence": [
             14,
             8
-          ]
+          ],
+          "gloss": "tree, plank, spear"
         },
         {
           "book_entry": "δύσις, ἡ",
           "first_occurrence": [
             35,
             6
-          ]
+          ],
+          "gloss": "a setting of the sun"
         },
         {
           "book_entry": "εἴσοδος, ἡ",
           "first_occurrence": [
             71,
             5
-          ]
+          ],
+          "gloss": "a way in, entrance"
         },
         {
-          "book_entry": "ἔξοδος, ἡ"
+          "book_entry": "ἔξοδος, ἡ",
+          "gloss": "a going out; an exit"
         },
         {
           "book_entry": "ἦχος, ὁ",
           "first_occurrence": [
             94,
             2
-          ]
+          ],
+          "gloss": "sound"
         },
         {
           "book_entry": "θέα, ἡ",
           "first_occurrence": [
             11,
             6
-          ]
+          ],
+          "gloss": "a seeing, looking at, view"
         },
         {
           "book_entry": "θέατρον, τό",
           "first_occurrence": [
             63,
             7
-          ]
+          ],
+          "gloss": "theater"
         },
         {
           "book_entry": "κράνος, τό",
           "first_occurrence": [
             124,
             7
-          ]
+          ],
+          "gloss": "a helmet"
         },
         {
           "book_entry": "κῦμα, τό",
           "first_occurrence": [
             94,
             1
-          ]
+          ],
+          "gloss": "wave, flood; sprout, foetus"
         },
         {
           "book_entry": "νότος, ὁ",
           "first_occurrence": [
             36,
             1
-          ]
+          ],
+          "gloss": "the south"
         },
         {
           "book_entry": "οἴκημα, τό",
           "first_occurrence": [
             22,
             3
-          ]
+          ],
+          "gloss": "dwelling (noun)"
         },
         {
           "book_entry": "πάγος, ὁ",
           "first_occurrence": [
             64,
             6
-          ]
+          ],
+          "gloss": "rock; frost, solid"
         },
         {
           "book_entry": "πρόστασις, ἡ",
           "first_occurrence": [
             93,
             1
-          ]
+          ],
+          "gloss": "outward dignity, pompous appearance, pomp"
         },
         {
           "book_entry": "πύλη, ἡ",
           "first_occurrence": [
             37,
             8
-          ]
+          ],
+          "gloss": "gate (noun)"
         },
         {
           "book_entry": "σκῆπτρον, τό",
           "first_occurrence": [
             14,
             2
-          ]
+          ],
+          "gloss": "a staff"
         },
         {
           "book_entry": "στέρνον, τό",
           "first_occurrence": [
             121,
             2
-          ]
+          ],
+          "gloss": "the breast, chest"
         },
         {
           "book_entry": "στήλη, ἡ",
           "first_occurrence": [
             89,
             3
-          ]
+          ],
+          "gloss": "a block of stone"
         },
         {
           "book_entry": "σχῆμα, τό",
           "first_occurrence": [
             94,
             6
-          ]
+          ],
+          "gloss": "form, figure, appearance"
         },
         {
           "book_entry": "τρίαινα, ἡ",
           "first_occurrence": [
             94,
             8
-          ]
+          ],
+          "gloss": "a trident"
         },
         {
           "book_entry": "φρέαρ, τό",
           "first_occurrence": [
             93,
             6
-          ]
+          ],
+          "gloss": "a well"
         },
         {
           "book_entry": "χαλκός, ὁ",
           "first_occurrence": [
             12,
             7
-          ]
+          ],
+          "gloss": "copper, bronze; weapon made of bronze"
         }
       ]
     },
@@ -451,7 +507,8 @@
           "book_entry": "Ἀκάδημος, ὁ"
         },
         {
-          "book_entry": "Ἄρειος πάγος, ὁ"
+          "book_entry": "Ἄρειος πάγος, ὁ",
+          "gloss": "devoted to Ares, warlike, martial; (πάγος:) the hill of Ares; (πεδίον) campus Martius"
         },
         {
           "book_entry": "Δημόσιον Σῆμα, τό"
@@ -466,10 +523,12 @@
           "book_entry": "Ἐρέχθειον, τό"
         },
         {
-          "book_entry": "Ἐρεχθεύς, ὁ"
+          "book_entry": "Ἐρεχθεύς, ὁ",
+          "gloss": "Erechtheus"
         },
         {
-          "book_entry": "Θεμιστοκλῆς, ὁ"
+          "book_entry": "Θεμιστοκλῆς, ὁ",
+          "gloss": "Themistocles"
         },
         {
           "book_entry": "Ἱερὰ Ὁδός, ἡ"
@@ -478,25 +537,30 @@
           "book_entry": "Ἱερὰ Πύλη, ἡ"
         },
         {
-          "book_entry": "Ἰκτῖνος, ὁ"
+          "book_entry": "Ἰκτῖνος, ὁ",
+          "gloss": "Ictinus"
         },
         {
-          "book_entry": "Καλλικράτης, ὁ"
+          "book_entry": "Καλλικράτης, ὁ",
+          "gloss": "Callicrates"
         },
         {
           "book_entry": "Καρυάτιδες, αἱ"
         },
         {
-          "book_entry": "Λύκος, ὁ"
+          "book_entry": "Λύκος, ὁ",
+          "gloss": "Lycus"
         },
         {
-          "book_entry": "Λύκειον, τό"
+          "book_entry": "Λύκειον, τό",
+          "gloss": "the Lyceum"
         },
         {
           "book_entry": "Νίκη, ἡ"
         },
         {
-          "book_entry": "Περικλῆς, ὁ"
+          "book_entry": "Περικλῆς, ὁ",
+          "gloss": "Pericles"
         },
         {
           "book_entry": "Πνύξ, ἡ"
@@ -511,7 +575,8 @@
           "book_entry": "Στάδιον, τό"
         },
         {
-          "book_entry": "Σφίγξ, ἡ"
+          "book_entry": "Σφίγξ, ἡ",
+          "gloss": "Sphinx"
         },
         {
           "book_entry": "Φαληρικὴ Πύλη, ἡ"
@@ -526,7 +591,8 @@
           "first_occurrence": [
             2,
             6
-          ]
+          ],
+          "gloss": "before, in front of"
         }
       ]
     }

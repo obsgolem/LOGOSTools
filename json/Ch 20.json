@@ -14,84 +14,96 @@
           "first_occurrence": [
             13,
             1
-          ]
+          ],
+          "gloss": "to be a fisher"
         },
         {
           "book_entry": "ἀποθνῄσκω",
           "first_occurrence": [
             60,
             5
-          ]
+          ],
+          "gloss": "die"
         },
         {
           "book_entry": "ἀσκέω",
           "first_occurrence": [
             76,
             3
-          ]
+          ],
+          "gloss": "(prose) exercise, train (poetry) to work curiously, form by art, fashion,  revere"
         },
         {
           "book_entry": "διαφθείρω",
           "first_occurrence": [
             36,
             1
-          ]
+          ],
+          "gloss": "destroy utterly; corrupt, bribe; seduce; (intrans. 2nd perf.) have been ruined, destroyed"
         },
         {
           "book_entry": "δουλεύω",
           "first_occurrence": [
             96,
             2
-          ]
+          ],
+          "gloss": "be a slave (+ dat)"
         },
         {
           "book_entry": "ἱππεύω",
           "first_occurrence": [
             74,
             5
-          ]
+          ],
+          "gloss": "to be a horseman"
         },
         {
           "book_entry": "καταλύω",
           "first_occurrence": [
             59,
             7
-          ]
+          ],
+          "gloss": "destroy; dissolve"
         },
         {
           "book_entry": "μετοικέω",
           "first_occurrence": [
             50,
             5
-          ]
+          ],
+          "gloss": "to change one’s abode, remove to"
         },
         {
           "book_entry": "ποιμαίνω",
           "first_occurrence": [
             16,
             6
-          ]
+          ],
+          "gloss": "to be shepherd"
         },
         {
           "book_entry": "σπείρω",
           "first_occurrence": [
             34,
             4
-          ]
+          ],
+          "gloss": "to sow"
         },
         {
           "book_entry": "φιλοσοφέω",
           "first_occurrence": [
             77,
             3
-          ]
+          ],
+          "gloss": "to love knowledge, pursue it, philosophise"
         },
         {
           "book_entry": "φυτεύω",
           "first_occurrence": [
             33,
             5
-          ]
+          ],
+          "gloss": "to plant"
         }
       ]
     },
@@ -103,7 +115,8 @@
           "first_occurrence": [
             89,
             6
-          ]
+          ],
+          "gloss": "no one, nothing"
         }
       ]
     },
@@ -122,7 +135,8 @@
           "first_occurrence": [
             114,
             6
-          ]
+          ],
+          "gloss": "inside (adverb)"
         }
       ]
     },
@@ -130,7 +144,8 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Ἱπποκράτης, ὁ"
+          "book_entry": "Ἱπποκράτης, ὁ",
+          "gloss": "Hippocrates"
         }
       ]
     },
@@ -142,7 +157,8 @@
           "first_occurrence": [
             63,
             1
-          ]
+          ],
+          "gloss": "three hundred"
         }
       ]
     },
@@ -154,146 +170,168 @@
           "first_occurrence": [
             25,
             9
-          ]
+          ],
+          "gloss": "a country-man, rustic"
         },
         {
           "book_entry": "ἁλιεύς, ὁ",
           "first_occurrence": [
             13,
             2
-          ]
+          ],
+          "gloss": "fisherman, sailor"
         },
         {
           "book_entry": "ἀστός, ὁ",
           "first_occurrence": [
             26,
             2
-          ]
+          ],
+          "gloss": "male citizen (noun)"
         },
         {
           "book_entry": "ἄστυ, τό",
           "first_occurrence": [
             24,
             6
-          ]
+          ],
+          "gloss": "town"
         },
         {
           "book_entry": "ἀφθονία, ἡ",
           "first_occurrence": [
             66,
             5
-          ]
+          ],
+          "gloss": "freedom from envy"
         },
         {
           "book_entry": "βία, ἡ",
           "first_occurrence": [
             1,
             2
-          ]
+          ],
+          "gloss": "bodily strength, force, power, might"
         },
         {
           "book_entry": "γεωργός, ὁ",
           "first_occurrence": [
             17,
             5
-          ]
+          ],
+          "gloss": "farmer (noun)"
         },
         {
           "book_entry": "γυμνάσιον, τό",
           "first_occurrence": [
             85,
             4
-          ]
+          ],
+          "gloss": "(gymnastic) school; (pl.) exercises"
         },
         {
           "book_entry": "δῆμος, ὁ",
           "first_occurrence": [
             106,
             4
-          ]
+          ],
+          "gloss": "the people"
         },
         {
           "book_entry": "θηρευτής, ὁ",
           "first_occurrence": [
             12,
             4
-          ]
+          ],
+          "gloss": "a hunter, huntsman"
         },
         {
           "book_entry": "κάπρος, ὁ",
           "first_occurrence": [
             11,
             4
-          ]
+          ],
+          "gloss": "the boar, wild boar"
         },
         {
           "book_entry": "μάχη, ἡ",
           "first_occurrence": [
             61,
             2
-          ]
+          ],
+          "gloss": "battle"
         },
         {
           "book_entry": "μέτοικος, ὁ",
           "first_occurrence": [
             49,
             7
-          ]
+          ],
+          "gloss": "settler from abroad, resident alien; adj. changing oneʼs abode"
         },
         {
           "book_entry": "ὁπλίτης, ὁ",
           "first_occurrence": [
             63,
             2
-          ]
+          ],
+          "gloss": "hoplite, heavy-armed foot soldier"
         },
         {
-          "book_entry": "παροιμία, ἡ"
+          "book_entry": "παροιμία, ἡ",
+          "gloss": "a by-word, common saying, proverb, maxim, saw"
         },
         {
           "book_entry": "πενία, ἡ",
           "first_occurrence": [
             56,
             5
-          ]
+          ],
+          "gloss": "poverty (noun)"
         },
         {
           "book_entry": "ποιμήν, ὁ",
           "first_occurrence": [
             17,
             7
-          ]
+          ],
+          "gloss": "shepherd (noun)"
         },
         {
           "book_entry": "πολεμιστής, ὁ",
           "first_occurrence": [
             60,
             3
-          ]
+          ],
+          "gloss": "a warrior, combatant"
         },
         {
           "book_entry": "πολιτεία, ἡ",
           "first_occurrence": [
             128,
             3
-          ]
+          ],
+          "gloss": "government, constitution, commonwealth"
         },
         {
           "book_entry": "πολίτης, ὁ",
           "first_occurrence": [
             48,
             2
-          ]
+          ],
+          "gloss": "citizen"
         },
         {
-          "book_entry": "πόρος, ὁ"
+          "book_entry": "πόρος, ὁ",
+          "gloss": "a means of passing/providing, provision"
         },
         {
           "book_entry": "σπέρμα, τό",
           "first_occurrence": [
             34,
             3
-          ]
+          ],
+          "gloss": "seed, offspring"
         }
       ]
     },
@@ -305,56 +343,64 @@
           "first_occurrence": [
             31,
             7
-          ]
+          ],
+          "gloss": "from the country, boorish (adjective)"
         },
         {
           "book_entry": "ἀμέριμνος, -ον",
           "first_occurrence": [
             71,
             4
-          ]
+          ],
+          "gloss": "free from care, unconcerned"
         },
         {
           "book_entry": "ἀνόητος, -ον",
           "first_occurrence": [
             89,
             2
-          ]
+          ],
+          "gloss": "foolish (adjective)"
         },
         {
           "book_entry": "ἄπορος, -ον",
           "first_occurrence": [
             38,
             5
-          ]
+          ],
+          "gloss": "without passage, without a way out: hard to solve, manage; helpless; poor"
         },
         {
           "book_entry": "ἀστικός, -ή, -ον",
           "first_occurrence": [
             42,
             7
-          ]
+          ],
+          "gloss": "of a city"
         },
         {
           "book_entry": "δημοκρατικός, -ή, -όν",
           "first_occurrence": [
             132,
             2
-          ]
+          ],
+          "gloss": "of or for democracy; favoring, suited to democracy"
         },
         {
           "book_entry": "δημόσιος, -α, -ον",
           "first_occurrence": [
             105,
             9
-          ]
+          ],
+          "gloss": "belonging to the people"
         },
         {
           "book_entry": "διάφορος, -ον",
           "first_occurrence": [
             3,
             5
-          ]
+          ],
+          "gloss": "different, unlike"
         },
         {
           "book_entry": "_δικατάληκτος, -ον_"
@@ -364,56 +410,64 @@
           "first_occurrence": [
             55,
             4
-          ]
+          ],
+          "gloss": "unlucky, unfortunate"
         },
         {
           "book_entry": "εἰρηνικός, -ή, -όν",
           "first_occurrence": [
             55,
             1
-          ]
+          ],
+          "gloss": "of or for peace, in peace, peaceable"
         },
         {
           "book_entry": "ἐλεύθερος, -α, -ον",
           "first_occurrence": [
             91,
             6
-          ]
+          ],
+          "gloss": "free (+ gen)"
         },
         {
           "book_entry": "Ἕλλην, Ἑλληνίς",
           "first_occurrence": [
             51,
             2
-          ]
+          ],
+          "gloss": "a Greek"
         },
         {
           "book_entry": "εὐτυχής, -ές",
           "first_occurrence": [
             54,
             5
-          ]
+          ],
+          "gloss": "lucky"
         },
         {
           "book_entry": "ἴδιος, -α, -ον",
           "first_occurrence": [
             103,
             7
-          ]
+          ],
+          "gloss": "pertaining to oneself; private, personal; separate, distinct"
         },
         {
           "book_entry": "κοινός, -ή, -όν",
           "first_occurrence": [
             132,
             7
-          ]
+          ],
+          "gloss": "common"
         },
         {
           "book_entry": "μάταιος, -α, -ον",
           "first_occurrence": [
             39,
             6
-          ]
+          ],
+          "gloss": "vain, empty, idle, trifling, frivolous"
         },
         {
           "book_entry": "_μονοκατάληκτος. -ον_"
@@ -423,49 +477,56 @@
           "first_occurrence": [
             128,
             6
-          ]
+          ],
+          "gloss": "oligarchical, of, for"
         },
         {
           "book_entry": "ὅμοιος, -α, -ον",
           "first_occurrence": [
             5,
             1
-          ]
+          ],
+          "gloss": "like (+ dat)"
         },
         {
           "book_entry": "πάτριος, -α, -ον",
           "first_occurrence": [
             49,
             4
-          ]
+          ],
+          "gloss": "of one’s father, ancestral, native"
         },
         {
           "book_entry": "πένης (ὁ/ἡ)",
           "first_occurrence": [
             67,
             9
-          ]
+          ],
+          "gloss": "poor man; poor (noun; adjective)"
         },
         {
           "book_entry": "πολεμικός, -ή, -όν",
           "first_occurrence": [
             55,
             7
-          ]
+          ],
+          "gloss": "military, of war, martial (adjective)"
         },
         {
           "book_entry": "πόριμος, -η, -ον",
           "first_occurrence": [
             45,
             4
-          ]
+          ],
+          "gloss": "able to provide, full of resources, inventive, contriving"
         },
         {
           "book_entry": "Σπαρτιάτης, -ις",
           "first_occurrence": [
             62,
             5
-          ]
+          ],
+          "gloss": "a Spartan"
         },
         {
           "book_entry": "_τρικατάληκτος, -ον_"

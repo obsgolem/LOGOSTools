@@ -14,122 +14,140 @@
           "first_occurrence": [
             72,
             3
-          ]
+          ],
+          "gloss": "do wrong, wrong"
         },
         {
           "book_entry": "ἀναβοάω",
           "first_occurrence": [
             90,
             1
-          ]
+          ],
+          "gloss": "to shout aloud, utter a loud cry"
         },
         {
           "book_entry": "ἀνακαίω",
           "first_occurrence": [
             46,
             3
-          ]
+          ],
+          "gloss": "to light up"
         },
         {
           "book_entry": "ἀπέρχομαι",
           "first_occurrence": [
             76,
             6
-          ]
+          ],
+          "gloss": "go away"
         },
         {
           "book_entry": "ἀποβαίνω",
           "first_occurrence": [
             21,
             5
-          ]
+          ],
+          "gloss": "leave, depart (verb)"
         },
         {
           "book_entry": "ἀποξύνω",
           "first_occurrence": [
             65,
             1
-          ]
+          ],
+          "gloss": "to bring to a point, make taper"
         },
         {
           "book_entry": "ἀποπλέω",
           "first_occurrence": [
             14,
             1
-          ]
+          ],
+          "gloss": "sail away"
         },
         {
           "book_entry": "βάλλω",
           "first_occurrence": [
             96,
             4
-          ]
+          ],
+          "gloss": "throw; hit (with thrown object)"
         },
         {
           "book_entry": "βοάω",
           "first_occurrence": [
             69,
             3
-          ]
+          ],
+          "gloss": "shout (for) (verb)"
         },
         {
           "book_entry": "βυθίζω",
           "first_occurrence": [
             97,
             8
-          ]
+          ],
+          "gloss": "to sink"
         },
         {
           "book_entry": "εἰσβαίνω",
           "first_occurrence": [
             45,
             5
-          ]
+          ],
+          "gloss": "enter, board (verb)"
         },
         {
           "book_entry": "εἰσελαύνω",
           "first_occurrence": [
             44,
             2
-          ]
+          ],
+          "gloss": "to drive in"
         },
         {
           "book_entry": "ἐκλύω",
           "first_occurrence": [
             5,
             4
-          ]
+          ],
+          "gloss": "to loose, release, set free, from"
         },
         {
           "book_entry": "ἐξέρχομαι",
           "first_occurrence": [
             83,
             3
-          ]
+          ],
+          "gloss": "go out; come out (verb)"
         },
         {
           "book_entry": "ἐπανέρχομαι",
           "first_occurrence": [
             14,
             6
-          ]
+          ],
+          "gloss": "return (verb)"
         },
         {
           "book_entry": "ἐπιζητέω",
           "first_occurrence": [
             80,
             2
-          ]
+          ],
+          "gloss": "to seek after, wish for, miss"
         },
         {
-          "book_entry": "καίω"
+          "book_entry": "καίω",
+          "gloss": "/κάω, kindle; set on fire, burn"
         },
         {
           "book_entry": "καταντάω",
           "first_occurrence": [
             18,
             3
-          ]
+          ],
+          "gloss": "come down to, arrive"
         },
         {
           "book_entry": "κεραννύω",
@@ -143,84 +161,96 @@
           "first_occurrence": [
             62,
             1
-          ]
+          ],
+          "gloss": "sleep"
         },
         {
           "book_entry": "κρύπτω, -ομαι",
           "first_occurrence": [
             82,
             2
-          ]
+          ],
+          "gloss": "hide, cover, conceal"
         },
         {
           "book_entry": "μανθάνω",
           "first_occurrence": [
             95,
             5
-          ]
+          ],
+          "gloss": "learn, understand"
         },
         {
           "book_entry": "μεθύω",
           "first_occurrence": [
             9,
             1
-          ]
+          ],
+          "gloss": "to be drunken with wine"
         },
         {
           "book_entry": "μηνίω",
           "first_occurrence": [
             99,
             5
-          ]
+          ],
+          "gloss": "to be wroth with"
         },
         {
           "book_entry": "νομίζω",
           "first_occurrence": [
             75,
             2
-          ]
+          ],
+          "gloss": "consider, think, believe"
         },
         {
           "book_entry": "παραγίγνομαι",
           "first_occurrence": [
             71,
             3
-          ]
+          ],
+          "gloss": "be present, be with (+ dat)"
         },
         {
           "book_entry": "πάσχω",
           "first_occurrence": [
             73,
             1
-          ]
+          ],
+          "gloss": "suffer, have done to one"
         },
         {
           "book_entry": "περιρρέω",
           "first_occurrence": [
             68,
             6
-          ]
+          ],
+          "gloss": "to flow round"
         },
         {
           "book_entry": "πλανάω, -άομαι",
           "first_occurrence": [
             15,
             3
-          ]
+          ],
+          "gloss": "to make to wander, lead wandering about"
         },
         {
           "book_entry": "προσπελάζω",
           "first_occurrence": [
             20,
             7
-          ]
+          ],
+          "gloss": "to make to approach, bring near to"
         },
         {
           "book_entry": "προστίθημι",
           "first_occurrence": [
             45,
             2
-          ]
+          ],
+          "gloss": "to add, to apply, to close (a door); mid. to join (a group), take as an ally"
         },
         {
           "book_entry": "σώζω, -ομαι",
@@ -234,17 +264,20 @@
           "first_occurrence": [
             66,
             4
-          ]
+          ],
+          "gloss": "to rub, grind, wear out"
         },
         {
-          "book_entry": "τυφλόω"
+          "book_entry": "τυφλόω",
+          "gloss": "to blind, make blind"
         },
         {
           "book_entry": "φοβέω, -έομαι",
           "first_occurrence": [
             49,
             4
-          ]
+          ],
+          "gloss": "fear, be afraid"
         }
       ]
     },
@@ -256,112 +289,128 @@
           "first_occurrence": [
             51,
             2
-          ]
+          ],
+          "gloss": "a leathern-bag, a wine-skin"
         },
         {
           "book_entry": "βασιλεύς, ὁ",
           "first_occurrence": [
             11,
             4
-          ]
+          ],
+          "gloss": "king"
         },
         {
           "book_entry": "βοή, ἡ",
           "first_occurrence": [
             70,
             4
-          ]
+          ],
+          "gloss": "shout (noun)"
         },
         {
           "book_entry": "γαστήρ, ἡ",
           "first_occurrence": [
             81,
             4
-          ]
+          ],
+          "gloss": "the paunch, belly"
         },
         {
           "book_entry": "δόλος, ὁ",
           "first_occurrence": [
             96,
             2
-          ]
+          ],
+          "gloss": "a bait, trap, cunning"
         },
         {
           "book_entry": "ἐπεισόδιον, τό",
           "first_occurrence": [
             10,
             3
-          ]
+          ],
+          "gloss": "episode, interlude"
         },
         {
           "book_entry": "ἑταῖρος, ὁ",
           "first_occurrence": [
             35,
             4
-          ]
+          ],
+          "gloss": "companion"
         },
         {
           "book_entry": "κρατήρ, ὁ",
           "first_occurrence": [
             8,
             5
-          ]
+          ],
+          "gloss": "a mixing vessel"
         },
         {
           "book_entry": "κριός, ὁ",
           "first_occurrence": [
             82,
             1
-          ]
+          ],
+          "gloss": "a ram"
         },
         {
           "book_entry": "λίθος, ὁ",
           "first_occurrence": [
             44,
             4
-          ]
+          ],
+          "gloss": "stone"
         },
         {
           "book_entry": "μέτωπον, τό",
           "first_occurrence": [
             29,
             5
-          ]
+          ],
+          "gloss": "the space between the eyes, the brow, forehead"
         },
         {
           "book_entry": "ναῦς, ἡ",
           "first_occurrence": [
             22,
             2
-          ]
+          ],
+          "gloss": "ship"
         },
         {
           "book_entry": "ὀφθαλμός, ὁ",
           "first_occurrence": [
             29,
             2
-          ]
+          ],
+          "gloss": "eye"
         },
         {
           "book_entry": "ποίμνιον, τό",
           "first_occurrence": [
             32,
             3
-          ]
+          ],
+          "gloss": "a flock (usu. of sheep)"
         },
         {
           "book_entry": "ῥόπαλον, τό",
           "first_occurrence": [
             63,
             7
-          ]
+          ],
+          "gloss": "a club, cudgel"
         },
         {
           "book_entry": "στόμαχος, ὁ",
           "first_occurrence": [
             5,
             3
-          ]
+          ],
+          "gloss": "a mouth, opening"
         }
       ]
     },
@@ -373,56 +422,64 @@
           "first_occurrence": [
             7,
             4
-          ]
+          ],
+          "gloss": "unmixed, sheer"
         },
         {
           "book_entry": "ἀνδροφάγος, -ον",
           "first_occurrence": [
             27,
             3
-          ]
+          ],
+          "gloss": "eating men"
         },
         {
           "book_entry": "γλυκύς, -εἴα, τύ",
           "first_occurrence": [
             2,
             5
-          ]
+          ],
+          "gloss": "sweet, pleasant, delightful"
         },
         {
           "book_entry": "διάπυρος, -ον",
           "first_occurrence": [
             3,
             7
-          ]
+          ],
+          "gloss": "red-hot"
         },
         {
           "book_entry": "ἔνδοξος, -ον",
           "first_occurrence": [
             9,
             7
-          ]
+          ],
+          "gloss": "held in esteem"
         },
         {
           "book_entry": "ἡδύποτος, -ον",
           "first_occurrence": [
             4,
             5
-          ]
+          ],
+          "gloss": "sweet to drink"
         },
         {
           "book_entry": "λευκός, -ή, τόν",
           "first_occurrence": [
             2,
             4
-          ]
+          ],
+          "gloss": "light, bright, clear"
         },
         {
           "book_entry": "λυπηρός, -ά, -όν",
           "first_occurrence": [
             9,
             5
-          ]
+          ],
+          "gloss": "painful, distressing"
         },
         {
           "book_entry": "λωτοφάγος, -ον",
@@ -436,28 +493,32 @@
           "first_occurrence": [
             2,
             7
-          ]
+          ],
+          "gloss": "inclined to urinate much"
         },
         {
           "book_entry": "πεπτικός, -ή, -όν",
           "first_occurrence": [
             3,
             2
-          ]
+          ],
+          "gloss": "able to digest"
         },
         {
           "book_entry": "πολύτροπος, -ον",
           "first_occurrence": [
             53,
             8
-          ]
+          ],
+          "gloss": "much-turned"
         },
         {
           "book_entry": "συνήθης, -ες",
           "first_occurrence": [
             79,
             7
-          ]
+          ],
+          "gloss": "living together; accustomed, customary"
         },
         {
           "book_entry": "_σύνθετος, -ον_"
@@ -467,24 +528,28 @@
           "first_occurrence": [
             4,
             7
-          ]
+          ],
+          "gloss": "nourishing"
         },
         {
           "book_entry": "τυφλός, -ή, -όν",
           "first_occurrence": [
             70,
             1
-          ]
+          ],
+          "gloss": "blind"
         },
         {
-          "book_entry": "ὑπέρμεγας, -άλη, -αν"
+          "book_entry": "ὑπέρμεγας, -άλη, -αν",
+          "gloss": "immensely great"
         },
         {
           "book_entry": "ὑπερμεγέθης, -ες",
           "first_occurrence": [
             27,
             1
-          ]
+          ],
+          "gloss": "immensely great"
         },
         {
           "book_entry": "ὑστεραίος, -α, τον",
@@ -502,16 +567,20 @@
           "book_entry": "Θοώσα, ἡ"
         },
         {
-          "book_entry": "Ὀδύσσεια, ἡ"
+          "book_entry": "Ὀδύσσεια, ἡ",
+          "gloss": "the Odyssey"
         },
         {
-          "book_entry": "Ἴλιον, τό"
+          "book_entry": "Ἴλιον, τό",
+          "gloss": "Ilium"
         },
         {
-          "book_entry": "Λαέρτης, ὁ"
+          "book_entry": "Λαέρτης, ὁ",
+          "gloss": "Laertes"
         },
         {
-          "book_entry": "Ὀδυσσεύς, ὁ"
+          "book_entry": "Ὀδυσσεύς, ὁ",
+          "gloss": "Odysseus"
         }
       ]
     },
@@ -530,7 +599,8 @@
           "first_occurrence": [
             70,
             7
-          ]
+          ],
+          "gloss": "round about, all round"
         },
         {
           "book_entry": "πλησίον",
@@ -552,10 +622,12 @@
       "section": "Φράσεις",
       "words": [
         {
-          "book_entry": "ἐκ τούτου"
+          "book_entry": "ἐκ τούτου",
+          "gloss": "from, out of"
         },
         {
-          "book_entry": "τῇ ὑστεραίᾳ"
+          "book_entry": "τῇ ὑστεραίᾳ",
+          "gloss": "here, there"
         }
       ]
     },
@@ -567,7 +639,8 @@
           "first_occurrence": [
             55,
             1
-          ]
+          ],
+          "gloss": "no one (pronoun)"
         }
       ]
     },
@@ -579,7 +652,8 @@
           "first_occurrence": [
             21,
             3
-          ]
+          ],
+          "gloss": "twelve"
         }
       ]
     },
@@ -587,19 +661,24 @@
       "section": "Προθέσεις",
       "words": [
         {
-          "book_entry": "ἀπό + γεν."
+          "book_entry": "ἀπό + γεν.",
+          "gloss": "from, away from"
         },
         {
-          "book_entry": "εἰς"
+          "book_entry": "εἰς",
+          "gloss": "into, to, for (purpose)"
         },
         {
-          "book_entry": "ἐπί + γεν."
+          "book_entry": "ἐπί + γεν.",
+          "gloss": "on (+ gen); on, pertaining to, on condition that (+ dat); onto, over, against, for (purpose) (+ acc)"
         },
         {
-          "book_entry": "μετά + γεν."
+          "book_entry": "μετά + γεν.",
+          "gloss": "with (+ gen); after (+ acc)"
         },
         {
-          "book_entry": "ὑπό + γεν. / αἰτ."
+          "book_entry": "ὑπό + γεν. / αἰτ.",
+          "gloss": "by (personal agent), under (+ gen); under, under the power of (+ dat); under (with motion), toward (of time) (+ acc)"
         }
       ]
     }

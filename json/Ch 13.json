@@ -14,63 +14,72 @@
           "first_occurrence": [
             65,
             7
-          ]
+          ],
+          "gloss": "please (+ dat.) (verb)"
         },
         {
           "book_entry": "ἀριστάω",
           "first_occurrence": [
             43,
             4
-          ]
+          ],
+          "gloss": "to take breakfast"
         },
         {
           "book_entry": "ἀρρωστέω",
           "first_occurrence": [
             99,
             7
-          ]
+          ],
+          "gloss": "to be weak and sickly"
         },
         {
           "book_entry": "γιγνώσκω",
           "first_occurrence": [
             5,
             5
-          ]
+          ],
+          "gloss": "perceive, recognize, know"
         },
         {
           "book_entry": "δίδωμι",
           "first_occurrence": [
             71,
             7
-          ]
+          ],
+          "gloss": "give"
         },
         {
           "book_entry": "ἐθέλω",
           "first_occurrence": [
             66,
             3
-          ]
+          ],
+          "gloss": "be willing, wish"
         },
         {
           "book_entry": "εὐλογέω",
           "first_occurrence": [
             48,
             8
-          ]
+          ],
+          "gloss": "to speak well of, praise, honour"
         },
         {
           "book_entry": "ἔρχομαι",
           "first_occurrence": [
             53,
             6
-          ]
+          ],
+          "gloss": "come, go"
         },
         {
           "book_entry": "καθίζω",
           "first_occurrence": [
             59,
             4
-          ]
+          ],
+          "gloss": "sit down (verb)"
         },
         {
           "book_entry": "κατακλίνομαι",
@@ -84,42 +93,48 @@
           "first_occurrence": [
             17,
             1
-          ]
+          ],
+          "gloss": "to eat up, devour"
         },
         {
           "book_entry": "παρέχω",
           "first_occurrence": [
             51,
             6
-          ]
+          ],
+          "gloss": "furnish, supply, afford"
         },
         {
           "book_entry": "πίνω",
           "first_occurrence": [
             4,
             4
-          ]
+          ],
+          "gloss": "drink"
         },
         {
           "book_entry": "πολεμέω",
           "first_occurrence": [
             34,
             8
-          ]
+          ],
+          "gloss": "make war, make war against (+ dat.)"
         },
         {
           "book_entry": "ὑγιαίνω",
           "first_occurrence": [
             95,
             4
-          ]
+          ],
+          "gloss": "to be sound, healthy"
         },
         {
           "book_entry": "φλέγω",
           "first_occurrence": [
             41,
             3
-          ]
+          ],
+          "gloss": "to burn, burn up"
         }
       ]
     },
@@ -131,101 +146,116 @@
           "first_occurrence": [
             2,
             4
-          ]
+          ],
+          "gloss": "immortality; ambrosia"
         },
         {
           "book_entry": "ἄριστον, τό",
           "first_occurrence": [
             42,
             7
-          ]
+          ],
+          "gloss": "the morning meal, breakfast"
         },
         {
           "book_entry": "ἀρρωστία, ἡ",
           "first_occurrence": [
             99,
             7
-          ]
+          ],
+          "gloss": "weakness, sickness"
         },
         {
           "book_entry": "δένδρον, τό",
           "first_occurrence": [
             10,
             1
-          ]
+          ],
+          "gloss": "tree (noun)"
         },
         {
           "book_entry": "εἰρήνη, ἡ",
           "first_occurrence": [
             20,
             7
-          ]
+          ],
+          "gloss": "peace"
         },
         {
           "book_entry": "ἔλαιον, τό",
           "first_occurrence": [
             62,
             3
-          ]
+          ],
+          "gloss": "olive-oil"
         },
         {
           "book_entry": "καρπός, ὁ",
           "first_occurrence": [
             9,
             7
-          ]
+          ],
+          "gloss": "fruit"
         },
         {
           "book_entry": "κόραξ, ὁ",
           "first_occurrence": [
             34,
             2
-          ]
+          ],
+          "gloss": "crow (noun)"
         },
         {
           "book_entry": "κρέας, τό",
           "first_occurrence": [
             8,
             6
-          ]
+          ],
+          "gloss": "flesh, meat, a piece of meat"
         },
         {
           "book_entry": "λέαινα, ἡ",
           "first_occurrence": [
             31,
             3
-          ]
+          ],
+          "gloss": "a lioness"
         },
         {
           "book_entry": "μεσημβρία, ἡ",
           "first_occurrence": [
             41,
             5
-          ]
+          ],
+          "gloss": "mid-day, noon; south"
         },
         {
           "book_entry": "νέκταρ, τό",
           "first_occurrence": [
             1,
             3
-          ]
+          ],
+          "gloss": "nectar"
         },
         {
           "book_entry": "ποτόν, τό",
           "first_occurrence": [
             1,
             4
-          ]
+          ],
+          "gloss": "drink, liquid"
         },
         {
           "book_entry": "ῥόφημα, τό",
           "first_occurrence": [
             101,
             8
-          ]
+          ],
+          "gloss": "that which is supped up, thick gruel"
         },
         {
-          "book_entry": "σῖτος, ὁ"
+          "book_entry": "σῖτος, ὁ",
+          "gloss": "grain; bread; food, provisions"
         },
         {
           "book_entry": "σκόρδον, τό",
@@ -239,14 +269,16 @@
           "first_occurrence": [
             47,
             6
-          ]
+          ],
+          "gloss": "scarcity, rareness, dearth, lack of"
         },
         {
           "book_entry": "σῶμα, τό",
           "first_occurrence": [
             67,
             7
-          ]
+          ],
+          "gloss": "body"
         },
         {
           "book_entry": "ὑγιεία, ἡ"
@@ -256,28 +288,32 @@
           "first_occurrence": [
             49,
             2
-          ]
+          ],
+          "gloss": "grace, favor, gratitude"
         },
         {
           "book_entry": "χόρτος, ὁ",
           "first_occurrence": [
             14,
             5
-          ]
+          ],
+          "gloss": "a feeding-place; fodder"
         },
         {
           "book_entry": "χρόνος, ὁ",
           "first_occurrence": [
             100,
             2
-          ]
+          ],
+          "gloss": "time"
         },
         {
           "book_entry": "ᾠόν, τό",
           "first_occurrence": [
             25,
             5
-          ]
+          ],
+          "gloss": "egg"
         }
       ]
     },
@@ -289,56 +325,64 @@
           "first_occurrence": [
             99,
             7
-          ]
+          ],
+          "gloss": "weak, sickly"
         },
         {
           "book_entry": "ἄφθονος, -ον",
           "first_occurrence": [
             19,
             9
-          ]
+          ],
+          "gloss": "free from envy; (more commonly) plentiful"
         },
         {
           "book_entry": "θερμός, -ή, -όν",
           "first_occurrence": [
             69,
             4
-          ]
+          ],
+          "gloss": "hot, warm"
         },
         {
           "book_entry": "κρεοφάγος, -ον",
           "first_occurrence": [
             16,
             3
-          ]
+          ],
+          "gloss": "eating flesh, carnivorous"
         },
         {
           "book_entry": "πολέμιος, -α, -ον",
           "first_occurrence": [
             22,
             2
-          ]
+          ],
+          "gloss": "hostile (+ dat)"
         },
         {
           "book_entry": "σιτοφάγος, -ον",
           "first_occurrence": [
             6,
             5
-          ]
+          ],
+          "gloss": "eating grain"
         },
         {
           "book_entry": "σπάνιος, -α, -ον",
           "first_occurrence": [
             19,
             7
-          ]
+          ],
+          "gloss": "rare, scarce, scanty"
         },
         {
           "book_entry": "ὑγιεινός, -ή, -όν",
           "first_occurrence": [
             67,
             5
-          ]
+          ],
+          "gloss": "good for the health, wholesome, sound, healthy"
         },
         {
           "book_entry": "χορτοφόγος, -ον",
@@ -357,14 +401,16 @@
           "first_occurrence": [
             18,
             4
-          ]
+          ],
+          "gloss": "after, when, since"
         },
         {
           "book_entry": "οὐδέ",
           "first_occurrence": [
             6,
             2
-          ]
+          ],
+          "gloss": "and not; not even"
         }
       ]
     },
@@ -391,10 +437,12 @@
       "section": "Προθέσεις",
       "words": [
         {
-          "book_entry": "διά + γεν. (δι ̓ ὀλίγου), + αἰτ."
+          "book_entry": "διά + γεν. (δι ̓ ὀλίγου), + αἰτ.",
+          "gloss": "through (+ gen); on account of (+ acc)"
         },
         {
-          "book_entry": "κατά + αἰτ."
+          "book_entry": "κατά + αἰτ.",
+          "gloss": "down from, under, against (+ gen); according to, throughout (+ acc.)"
         }
       ]
     }

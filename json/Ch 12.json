@@ -14,119 +14,136 @@
           "first_occurrence": [
             80,
             4
-          ]
+          ],
+          "gloss": "marketplace"
         },
         {
           "book_entry": "ἀθλητής, ὁ",
           "first_occurrence": [
             43,
             3
-          ]
+          ],
+          "gloss": "a prizefighter"
         },
         {
           "book_entry": "ἄνθος, τό",
           "first_occurrence": [
             107,
             6
-          ]
+          ],
+          "gloss": "a blossom, flower"
         },
         {
           "book_entry": "ἄροτρον, τό",
           "first_occurrence": [
             90,
             5
-          ]
+          ],
+          "gloss": "a plough"
         },
         {
           "book_entry": "γέρων, ὁ",
           "first_occurrence": [
             80,
             5
-          ]
+          ],
+          "gloss": "old man"
         },
         {
           "book_entry": "γραῦς, ἡ",
           "first_occurrence": [
             63,
             1
-          ]
+          ],
+          "gloss": "old woman"
         },
         {
           "book_entry": "δίσκος, ὁ",
           "first_occurrence": [
             43,
             5
-          ]
+          ],
+          "gloss": "discus, quoit , of metal or stone"
         },
         {
           "book_entry": "ἔτος, τό",
           "first_occurrence": [
             2,
             3
-          ]
+          ],
+          "gloss": "year"
         },
         {
           "book_entry": "ἱμάτιον, τό",
           "first_occurrence": [
             67,
             1
-          ]
+          ],
+          "gloss": "cloak (noun)"
         },
         {
           "book_entry": "ἱματιοπώλης, ὁ",
           "first_occurrence": [
             79,
             2
-          ]
+          ],
+          "gloss": "clothes-dealer"
         },
         {
           "book_entry": "κιθαριστής, ὁ",
           "first_occurrence": [
             44,
             3
-          ]
+          ],
+          "gloss": "a player on the cithara"
         },
         {
           "book_entry": "κλῆρος, ὁ",
           "first_occurrence": [
             23,
             1
-          ]
+          ],
+          "gloss": "lot, casting of lots, allotment"
         },
         {
           "book_entry": "κρήνη, ἡ",
           "first_occurrence": [
             101,
             1
-          ]
+          ],
+          "gloss": "well, spring"
         },
         {
           "book_entry": "οἰκονόμος, ὁ / ὴ",
           "first_occurrence": [
             31,
             5
-          ]
+          ],
+          "gloss": "one who manages a household"
         },
         {
           "book_entry": "ποίημα, τό",
           "first_occurrence": [
             47,
             2
-          ]
+          ],
+          "gloss": "poem"
         },
         {
           "book_entry": "πόνος, ὁ",
           "first_occurrence": [
             65,
             2
-          ]
+          ],
+          "gloss": "hard work, toil, suffering"
         },
         {
           "book_entry": "τροφός, ἡ",
           "first_occurrence": [
             101,
             5
-          ]
+          ],
+          "gloss": "a feeder, rearer, nurse"
         }
       ]
     },
@@ -138,14 +155,16 @@
           "first_occurrence": [
             20,
             3
-          ]
+          ],
+          "gloss": "this, that"
         },
         {
           "book_entry": "ποῖος; ποία; ποῖον;",
           "first_occurrence": [
             19,
             6
-          ]
+          ],
+          "gloss": "of what kind?"
         }
       ]
     },
@@ -157,21 +176,24 @@
           "first_occurrence": [
             20,
             9
-          ]
+          ],
+          "gloss": "good"
         },
         {
           "book_entry": "Ἀθηναῖος, -α, -ον",
           "first_occurrence": [
             18,
             4
-          ]
+          ],
+          "gloss": "Athenian"
         },
         {
           "book_entry": "ἀνδρεῖος, -α, -ον",
           "first_occurrence": [
             42,
             4
-          ]
+          ],
+          "gloss": "manly, courageous"
         },
         {
           "book_entry": "ἀνήσυχος. -ον",
@@ -185,28 +207,32 @@
           "first_occurrence": [
             93,
             3
-          ]
+          ],
+          "gloss": "ugly, unseemly, indecorous"
         },
         {
           "book_entry": "δεινός, -ή, -όν",
           "first_occurrence": [
             31,
             6
-          ]
+          ],
+          "gloss": "fearsome, marvelous, clever"
         },
         {
           "book_entry": "δύσκολος, -ον",
           "first_occurrence": [
             69,
             7
-          ]
+          ],
+          "gloss": "hard to please, discontented, grouchy; difficult"
         },
         {
           "book_entry": "ἐπιδέξιος, -ον",
           "first_occurrence": [
             44,
             2
-          ]
+          ],
+          "gloss": "towards the right"
         },
         {
           "book_entry": "ἤσυχος, -ον",
@@ -220,7 +246,8 @@
           "first_occurrence": [
             20,
             6
-          ]
+          ],
+          "gloss": "strong, forceful, violent"
         },
         {
           "book_entry": "_κτητικός, -ἤ, -ον_"
@@ -230,7 +257,8 @@
           "first_occurrence": [
             22,
             3
-          ]
+          ],
+          "gloss": "wealthy, rich"
         },
         {
           "book_entry": "ῥᾴθυμος, -ον",
@@ -244,21 +272,24 @@
           "first_occurrence": [
             42,
             7
-          ]
+          ],
+          "gloss": "loving mankind, humane, benevolent, kindly"
         },
         {
           "book_entry": "φιλόπονος, -ον",
           "first_occurrence": [
             65,
             2
-          ]
+          ],
+          "gloss": "loving labour, laborious, industrious, diligent"
         },
         {
           "book_entry": "χῆρος, -α, -ον",
           "first_occurrence": [
             86,
             3
-          ]
+          ],
+          "gloss": "bereaved"
         }
       ]
     },
@@ -270,7 +301,8 @@
           "first_occurrence": [
             70,
             7
-          ]
+          ],
+          "gloss": "always"
         },
         {
           "book_entry": "ἄριστα",
@@ -284,14 +316,16 @@
           "first_occurrence": [
             88,
             2
-          ]
+          ],
+          "gloss": "(adv) very"
         },
         {
           "book_entry": "οὔπω",
           "first_occurrence": [
             70,
             4
-          ]
+          ],
+          "gloss": "/ οὔπω, not yet (adverb)"
         }
       ]
     },
@@ -310,70 +344,80 @@
           "first_occurrence": [
             91,
             5
-          ]
+          ],
+          "gloss": "plough"
         },
         {
           "book_entry": "διοικέω",
           "first_occurrence": [
             61,
             8
-          ]
+          ],
+          "gloss": "administer, run (verb)"
         },
         {
           "book_entry": "ἐσθίω",
           "first_occurrence": [
             95,
             4
-          ]
+          ],
+          "gloss": "eat"
         },
         {
           "book_entry": "θηλάζω",
           "first_occurrence": [
             103,
             2
-          ]
+          ],
+          "gloss": "to suckle"
         },
         {
           "book_entry": "κιθαρίζω",
           "first_occurrence": [
             45,
             5
-          ]
+          ],
+          "gloss": "to play the cithara"
         },
         {
           "book_entry": "κλαίω",
           "first_occurrence": [
             70,
             8
-          ]
+          ],
+          "gloss": "weep (verb)"
         },
         {
           "book_entry": "πλύνω",
           "first_occurrence": [
             99,
             6
-          ]
+          ],
+          "gloss": "to wash, clean"
         },
         {
           "book_entry": "πονέω",
           "first_occurrence": [
             21,
             3
-          ]
+          ],
+          "gloss": "to work hard, do work, suffer toil"
         },
         {
           "book_entry": "πωλέω",
           "first_occurrence": [
             80,
             1
-          ]
+          ],
+          "gloss": "sell (verb)"
         },
         {
           "book_entry": "συλλέγω",
           "first_occurrence": [
             108,
             1
-          ]
+          ],
+          "gloss": "gather, bring together, collect"
         }
       ]
     },
@@ -385,42 +429,48 @@
           "first_occurrence": [
             80,
             7
-          ]
+          ],
+          "gloss": "seventy"
         },
         {
           "book_entry": "εἴκοσι",
           "first_occurrence": [
             92,
             2
-          ]
+          ],
+          "gloss": "twenty"
         },
         {
           "book_entry": "ἑξήκοντα",
           "first_occurrence": [
             63,
             4
-          ]
+          ],
+          "gloss": "sixty"
         },
         {
           "book_entry": "πεντεκαίδεκα",
           "first_occurrence": [
             40,
             6
-          ]
+          ],
+          "gloss": "fifteen"
         },
         {
           "book_entry": "τεσσαράκοντα",
           "first_occurrence": [
             18,
             6
-          ]
+          ],
+          "gloss": "forty"
         },
         {
           "book_entry": "τριάκοντα",
           "first_occurrence": [
             29,
             7
-          ]
+          ],
+          "gloss": "thirty"
         }
       ]
     },
@@ -428,7 +478,8 @@
       "section": "Προθέσεις",
       "words": [
         {
-          "book_entry": "κατά (καθ ̓ ἡμέραν)"
+          "book_entry": "κατά (καθ ̓ ἡμέραν)",
+          "gloss": "down from, under, against (+ gen); according to, throughout (+ acc.)"
         }
       ]
     }

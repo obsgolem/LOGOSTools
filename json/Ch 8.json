@@ -10,22 +10,28 @@
       "section": "Κύρια ὀνόματα",
       "words": [
         {
-          "book_entry": "Αἴγυπτος, ἡ"
+          "book_entry": "Αἴγυπτος, ἡ",
+          "gloss": "Egypt (f.); king Aegyptus (m.)"
         },
         {
-          "book_entry": "Ἀκράγας, ὁ"
+          "book_entry": "Ἀκράγας, ὁ",
+          "gloss": "Acragas"
         },
         {
-          "book_entry": "Ἀλεξάνδρεια, ἡ"
+          "book_entry": "Ἀλεξάνδρεια, ἡ",
+          "gloss": "Alexandria"
         },
         {
-          "book_entry": "Ἀντιόχεια, ἡ"
+          "book_entry": "Ἀντιόχεια, ἡ",
+          "gloss": "Antiochia"
         },
         {
-          "book_entry": "Ἀραβία, ἡ"
+          "book_entry": "Ἀραβία, ἡ",
+          "gloss": "Arabia"
         },
         {
-          "book_entry": "Γαλατία, ἡ"
+          "book_entry": "Γαλατία, ἡ",
+          "gloss": "Galatia"
         },
         {
           "book_entry": "Ἔβυσος. ἡ"
@@ -40,16 +46,19 @@
           "book_entry": "Εὔξεινος Πόντος, ὁ"
         },
         {
-          "book_entry": "Εὐφράτης, ὁ"
+          "book_entry": "Εὐφράτης, ὁ",
+          "gloss": "the river Euphrates"
         },
         {
-          "book_entry": "Ἡράκλειον, τό"
+          "book_entry": "Ἡράκλειον, τό",
+          "gloss": "sanctuary of Heracles"
         },
         {
           "book_entry": "Θούριοι, οἱ"
         },
         {
-          "book_entry": "Θύμβρις, ὁ"
+          "book_entry": "Θύμβρις, ὁ",
+          "gloss": "the Tiber"
         },
         {
           "book_entry": "Ἰβηρία. ἡ"
@@ -58,49 +67,60 @@
           "book_entry": "Ἰνδία, ἡ"
         },
         {
-          "book_entry": "Ἴστρος, ὁ"
+          "book_entry": "Ἴστρος, ὁ",
+          "gloss": "Ister, Danube"
         },
         {
           "book_entry": "Ἰταλία. ἡ"
         },
         {
-          "book_entry": "Κρήτη, ἡ"
+          "book_entry": "Κρήτη, ἡ",
+          "gloss": "Crete"
         },
         {
-          "book_entry": "Κύπρος, ἡ"
+          "book_entry": "Κύπρος, ἡ",
+          "gloss": "Cyprus"
         },
         {
-          "book_entry": "Κυρήνη, ἡ"
+          "book_entry": "Κυρήνη, ἡ",
+          "gloss": "Cyrene"
         },
         {
           "book_entry": "Λεοντίνοι, οἱ"
         },
         {
-          "book_entry": "Λυδία, ἡ"
+          "book_entry": "Λυδία, ἡ",
+          "gloss": "Lydia"
         },
         {
-          "book_entry": "Μασσαλία, ἡ"
+          "book_entry": "Μασσαλία, ἡ",
+          "gloss": "Massalia, Marseilles"
         },
         {
           "book_entry": "Μελίτα, ἡ"
         },
         {
-          "book_entry": "Μεσσήνη, ἡ"
+          "book_entry": "Μεσσήνη, ἡ",
+          "gloss": "Messene"
         },
         {
           "book_entry": "Μίνιος, ὁ"
         },
         {
-          "book_entry": "Νάξος, ἡ"
+          "book_entry": "Νάξος, ἡ",
+          "gloss": "Naxos (f. island, m. mythical founder)"
         },
         {
-          "book_entry": "Νεάπολις, ἡ"
+          "book_entry": "Νεάπολις, ἡ",
+          "gloss": "new city"
         },
         {
-          "book_entry": "Νεῖλος, ὁ"
+          "book_entry": "Νεῖλος, ὁ",
+          "gloss": "the Nile"
         },
         {
-          "book_entry": "Περσίς, ἡ"
+          "book_entry": "Περσίς, ἡ",
+          "gloss": "Persian"
         },
         {
           "book_entry": "Πιτυούσσαι, αἱ"
@@ -115,28 +135,35 @@
           "book_entry": "Ῥόδη, ἡ"
         },
         {
-          "book_entry": "Ῥόδος, ἡ"
+          "book_entry": "Ῥόδος, ἡ",
+          "gloss": "Rhodes"
         },
         {
-          "book_entry": "Ῥώμη, ἡ"
+          "book_entry": "Ῥώμη, ἡ",
+          "gloss": "Roma, Rome"
         },
         {
-          "book_entry": "Σικελία, ἡ"
+          "book_entry": "Σικελία, ἡ",
+          "gloss": "Sicily"
         },
         {
-          "book_entry": "Συράκουσαι, αἱ"
+          "book_entry": "Συράκουσαι, αἱ",
+          "gloss": "Syracuse"
         },
         {
-          "book_entry": "Συρία, ἡ"
+          "book_entry": "Συρία, ἡ",
+          "gloss": "Syria"
         },
         {
           "book_entry": "Τίγρις, ὁ"
         },
         {
-          "book_entry": "Τύρος, ἡ"
+          "book_entry": "Τύρος, ἡ",
+          "gloss": "Tyre"
         },
         {
-          "book_entry": "Χίος, ἡ"
+          "book_entry": "Χίος, ἡ",
+          "gloss": "Chios (island)"
         }
       ]
     },
@@ -148,14 +175,16 @@
           "first_occurrence": [
             69,
             4
-          ]
+          ],
+          "gloss": "a settlement far from home, a colony settlement"
         },
         {
           "book_entry": "χώρα, ἡ",
           "first_occurrence": [
             2,
             5
-          ]
+          ],
+          "gloss": "land, country"
         }
       ]
     }
