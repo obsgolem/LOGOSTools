@@ -11,14 +11,22 @@
       "words": [
         {
           "book_entry": "αἴρω, -ομαι",
+          "first_occurrence": [
+            93,
+            1
+          ],
           "gloss": "to take up, raise, lift up"
         },
         {
           "book_entry": "ἀναχωρέω",
-          "gloss": "retreat (verb)"
+          "gloss": "retreat"
         },
         {
           "book_entry": "ἀνδραποδίζω",
+          "first_occurrence": [
+            138,
+            3
+          ],
           "gloss": "to reduce to slavery, enslave"
         },
         {
@@ -27,10 +35,18 @@
         },
         {
           "book_entry": "γέμω",
+          "first_occurrence": [
+            127,
+            7
+          ],
           "gloss": "to be full"
         },
         {
           "book_entry": "γνωρίζω",
+          "first_occurrence": [
+            34,
+            1
+          ],
           "gloss": "to make known, point out, explain"
         },
         {
@@ -39,6 +55,10 @@
         },
         {
           "book_entry": "διαφαίνω, -ομαι",
+          "first_occurrence": [
+            70,
+            4
+          ],
           "gloss": "to shew through, let"
         },
         {
@@ -46,22 +66,43 @@
           "gloss": "to keep apart; to be apart, distant"
         },
         {
-          "book_entry": "διῆκω"
+          "book_entry": "διῆκω",
+          "first_occurrence": [
+            110,
+            2
+          ],
+          "gloss": "to extend"
         },
         {
           "book_entry": "εἰσβάλλω",
+          "first_occurrence": [
+            80,
+            1
+          ],
           "gloss": "to throw into, put into"
         },
         {
           "book_entry": "εἴσειμι",
+          "first_occurrence": [
+            146,
+            6
+          ],
           "gloss": "to go into"
         },
         {
           "book_entry": "ἐκπέμπω",
-          "gloss": "send out, divorce (verb)"
+          "first_occurrence": [
+            88,
+            2
+          ],
+          "gloss": "send out, divorce"
         },
         {
           "book_entry": "ἐξαιρέω",
+          "first_occurrence": [
+            137,
+            1
+          ],
           "gloss": "to take out of"
         },
         {
@@ -113,11 +154,11 @@
         },
         {
           "book_entry": "παραλαμβάνω",
-          "gloss": "take, receive from (verb); παραλαμβάνω, undertake, take from (verb) (19d (12i))"
+          "gloss": "take, receive from"
         },
         {
           "book_entry": "πιστεύω",
-          "gloss": "trust (+ dat)"
+          "gloss": "trust"
         },
         {
           "book_entry": "πολιορκέω, -έομαι",
@@ -164,7 +205,7 @@
         },
         {
           "book_entry": "ὑπάρχω",
-          "gloss": "be, be sufficient; begin (verb); ὑπάρχω, begin (+ gen.) (verb) (12c)"
+          "gloss": "be, be sufficient; begin"
         }
       ]
     },
@@ -189,7 +230,7 @@
         },
         {
           "book_entry": "Πελοποννησιακός, -ή, -όν",
-          "gloss": "Peloponnesian (of things)"
+          "gloss": "Peloponnesian"
         },
         {
           "book_entry": "πεζικός, -ή, -όν",
@@ -210,7 +251,7 @@
       "words": [
         {
           "book_entry": "ἀντίον",
-          "gloss": "[over against >ἀντίος]"
+          "gloss": "over against"
         },
         {
           "book_entry": "εὐθύς",
@@ -245,7 +286,7 @@
         },
         {
           "book_entry": "ἔθος, τό",
-          "gloss": "manner, habit (noun)"
+          "gloss": "manner, habit"
         },
         {
           "book_entry": "ἐπίδοσις, ἡ",
@@ -296,7 +337,7 @@
         },
         {
           "book_entry": "στάδιον, τό",
-          "gloss": "(plural τὰ στάδια or οἱ στάδιοι), stade (= ca. 600 ft.)"
+          "gloss": "stade (= ca. 600 ft.)"
         },
         {
           "book_entry": "στρατιώτης, ὁ",
@@ -324,7 +365,7 @@
         },
         {
           "book_entry": "φιλοσοφία, ἡ",
-          "gloss": "philosophy (noun)"
+          "gloss": "philosophy"
         },
         {
           "book_entry": "φυγάς, ὁ",
@@ -410,11 +451,19 @@
       "words": [
         {
           "book_entry": "ἕτερος, -α, -ον",
+          "first_occurrence": [
+            110,
+            4
+          ],
           "gloss": "the other (of two)"
         },
         {
           "book_entry": "τοιοῦτος, τοιαύτη, τοιοῦτο",
-          "gloss": "/ τοιοῦτον, of this/that sort, such (as this)"
+          "first_occurrence": [
+            153,
+            5
+          ],
+          "gloss": "of this/that sort, such (as this)"
         }
       ]
     },

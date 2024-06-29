@@ -99,7 +99,8 @@
           "first_occurrence": [
             56,
             1
-          ]
+          ],
+          "gloss": "what"
         }
       ]
     },
@@ -148,10 +149,11 @@
             35,
             6
           ],
-          "gloss": "with two sounds"
+          "gloss": "with two sounds; diphthong"
         },
         {
-          "book_entry": "_κλίσις, ἡ_"
+          "book_entry": "_κλίσις, ἡ_",
+          "gloss": "declension"
         },
         {
           "book_entry": "λέξις, ἡ",
@@ -159,7 +161,7 @@
             62,
             3
           ],
-          "gloss": "a speaking, saying, speech"
+          "gloss": "a speaking, saying, speech, word"
         },
         {
           "book_entry": "ὄνομα, τό",
@@ -209,7 +211,7 @@
             69,
             5
           ],
-          "gloss": "able, with power, by right, sovereign (adjective)"
+          "gloss": "able, with power, by right, sovereign (adjective), (of names) proper"
         },
         {
           "book_entry": "Λατινικός, -ή, -ὸν",

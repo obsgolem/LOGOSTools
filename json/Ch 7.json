@@ -97,7 +97,7 @@
             74,
             7
           ],
-          "gloss": "(voc. ἔρως), love"
+          "gloss": "love (of a man for a woman)"
         },
         {
           "book_entry": "ἑστία, ἡ",
@@ -129,7 +129,7 @@
             41,
             5
           ],
-          "gloss": "hero, i.e., an epic warrior from the Age of Heroes and/or a cult figure with powers for good and evil worshipped at a hero shrine or tomb"
+          "gloss": "hero"
         },
         {
           "book_entry": "θήρα, ἡ",
@@ -330,7 +330,8 @@
           "first_occurrence": [
             3,
             4
-          ]
+          ],
+          "gloss": "first"
         },
         {
           "book_entry": "πῶς;",
@@ -351,7 +352,7 @@
             3,
             3
           ],
-          "gloss": "adv. + superl., as...as possible; ὅτι μή except"
+          "gloss": "that, because"
         }
       ]
     },
@@ -363,7 +364,8 @@
           "first_occurrence": [
             6,
             5
-          ]
+          ],
+          "gloss": "out of"
         }
       ]
     },
@@ -431,7 +433,7 @@
         },
         {
           "book_entry": "Καλλιόπη, ἡ",
-          "gloss": "Calliope, the beautiful-voiced"
+          "gloss": "Calliope"
         },
         {
           "book_entry": "Κλειώ, ἡ",
@@ -503,7 +505,7 @@
         },
         {
           "book_entry": "Ῥαδάμανθυς, ὁ",
-          "gloss": "pr.n. Rhadamanthys"
+          "gloss": "Rhadamanthys"
         },
         {
           "book_entry": "Σαρπηδών, ὁ",

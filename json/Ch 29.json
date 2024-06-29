@@ -30,7 +30,7 @@
             69,
             2
           ],
-          "gloss": "ask for (+ acc. of person and acc. of thing or inf.)"
+          "gloss": "ask for"
         },
         {
           "book_entry": "ἀμύνω, -ομαι",
@@ -38,11 +38,11 @@
             26,
             5
           ],
-          "gloss": "keep off, withstand (verb)"
+          "gloss": "keep off, withstand"
         },
         {
           "book_entry": "ἀναλαμβάνω",
-          "gloss": "take back, take up (verb)"
+          "gloss": "take back, take up"
         },
         {
           "book_entry": "ἀπαιτέω",
@@ -50,7 +50,7 @@
             89,
             2
           ],
-          "gloss": "demand X from Y (+ acc., acc.) (verb)"
+          "gloss": "demand X from Y"
         },
         {
           "book_entry": "ἀποδεικνύω",
@@ -65,7 +65,7 @@
             91,
             3
           ],
-          "gloss": "give back, pay, permit; (mid.) sell"
+          "gloss": "give back, pay, permit; sell"
         },
         {
           "book_entry": "ἀσφαλίζω -ομαι",
@@ -85,7 +85,7 @@
         },
         {
           "book_entry": "διακρίνω, -ομαι",
-          "gloss": "decide, judge between (verb)"
+          "gloss": "decide, judge between"
         },
         {
           "book_entry": "διηγέομαι",
@@ -93,7 +93,7 @@
             47,
             4
           ],
-          "gloss": "explain, relate, go through (verb)"
+          "gloss": "explain, relate, go through"
         },
         {
           "book_entry": "ἐάω",
@@ -101,7 +101,7 @@
             115,
             4
           ],
-          "gloss": "permit, allow (+ acc. + inf.); let go, dismiss"
+          "gloss": "permit, allow; let go, dismiss"
         },
         {
           "book_entry": "ἕλκω",
@@ -133,7 +133,7 @@
             65,
             4
           ],
-          "gloss": "place in, put in (verb)"
+          "gloss": "place in, put in"
         },
         {
           "book_entry": "ἐπέρχομαι",
@@ -141,7 +141,7 @@
             121,
             8
           ],
-          "gloss": "go against, attack (verb)"
+          "gloss": "go against, attack"
         },
         {
           "book_entry": "ἐπινοέω",
@@ -157,7 +157,7 @@
             108,
             2
           ],
-          "gloss": "observe, watch (verb); θεάομαι, watch, gaze at (verb) (3b (= 2dG))"
+          "gloss": "observe, watch"
         },
         {
           "book_entry": "ἵστημι",
@@ -165,7 +165,7 @@
             111,
             2
           ],
-          "gloss": "(trans.) or ἔστην (intrans.), ἕστηκα (intrans.), ἕσταμαι, ἐστάθην, make stand; (mid. or intrans.) stand"
+          "gloss": "stand"
         },
         {
           "book_entry": "καταβάλλω",
@@ -221,7 +221,7 @@
             92,
             1
           ],
-          "gloss": "kill (verb)"
+          "gloss": "kill"
         },
         {
           "book_entry": "ξενίζω, -ομαι",
@@ -237,7 +237,7 @@
             73,
             1
           ],
-          "gloss": "exhort, advise (+ dat. of person + inf.)"
+          "gloss": "exhort, advise"
         },
         {
           "book_entry": "πειράομαι",
@@ -284,7 +284,7 @@
             32,
             1
           ],
-          "gloss": "carry out a military campaign, wage war; (mid.) carry out a campaign, march (on campaign)"
+          "gloss": "carry out a military campaign, wage war"
         },
         {
           "book_entry": "στρατολογέω",
@@ -328,7 +328,7 @@
             119,
             6
           ],
-          "gloss": "welcome, entertain (verb)"
+          "gloss": "welcome, entertain"
         },
         {
           "book_entry": "ὑποτίθημι, ὑποτίθεμαι",
@@ -396,7 +396,7 @@
         },
         {
           "book_entry": "Μυρμιδόνες, οἱ",
-          "gloss": "Myrmidons (sg. a Myrmidon, or their mythical ancestor M.)"
+          "gloss": "Myrmidons"
         },
         {
           "book_entry": "ὀνομαστός, -ή, -ον",
@@ -416,7 +416,7 @@
         },
         {
           "book_entry": "Πύλιος, -α",
-          "gloss": "of Pylos, Pylian; (pr.n.) Pylius, godfather of Heracles"
+          "gloss": "of Pylos, Pylian"
         },
         {
           "book_entry": "Σαλαμίνιος, -α",
@@ -461,7 +461,7 @@
         },
         {
           "book_entry": "ἀτιμία, ἡ",
-          "gloss": "loss of citizen rights (noun)"
+          "gloss": "loss of citizen rights"
         },
         {
           "book_entry": "βάραθρον, τό",
@@ -536,7 +536,7 @@
             63,
             1
           ],
-          "gloss": "one’s mother’s father"
+          "gloss": "one's mother's father"
         },
         {
           "book_entry": "πανοπλία, ἡ",
@@ -544,7 +544,7 @@
             94,
             3
           ],
-          "gloss": "suit of armour of a ὁπλίτης"
+          "gloss": "suit of armour of a soldier"
         },
         {
           "book_entry": "στρατεία, ἡ",
@@ -695,7 +695,7 @@
             24,
             9
           ],
-          "gloss": "our; (as a substantive) ours"
+          "gloss": "our"
         }
       ]
     }

@@ -31,7 +31,7 @@
             76,
             3
           ],
-          "gloss": "(prose) exercise, train (poetry) to work curiously, form by art, fashion,  revere"
+          "gloss": "exercise, train, to work curiously, form by art, fashion, revere"
         },
         {
           "book_entry": "διαφθείρω",
@@ -39,7 +39,7 @@
             36,
             1
           ],
-          "gloss": "destroy utterly; corrupt, bribe; seduce; (intrans. 2nd perf.) have been ruined, destroyed"
+          "gloss": "destroy utterly; corrupt, bribe; seduce;"
         },
         {
           "book_entry": "δουλεύω",
@@ -47,7 +47,7 @@
             96,
             2
           ],
-          "gloss": "be a slave (+ dat)"
+          "gloss": "be a slave"
         },
         {
           "book_entry": "ἱππεύω",
@@ -71,7 +71,7 @@
             50,
             5
           ],
-          "gloss": "to change one’s abode, remove to"
+          "gloss": "to change one's abode, remove to"
         },
         {
           "book_entry": "ποιμαίνω",
@@ -128,7 +128,8 @@
           "first_occurrence": [
             123,
             6
-          ]
+          ],
+          "gloss": "freely"
         },
         {
           "book_entry": "ἔνδον",
@@ -136,7 +137,7 @@
             114,
             6
           ],
-          "gloss": "inside (adverb)"
+          "gloss": "inside"
         }
       ]
     },
@@ -187,7 +188,7 @@
             26,
             2
           ],
-          "gloss": "male citizen (noun)"
+          "gloss": "male citizen"
         },
         {
           "book_entry": "ἄστυ, τό",
@@ -219,7 +220,7 @@
             17,
             5
           ],
-          "gloss": "farmer (noun)"
+          "gloss": "farmer"
         },
         {
           "book_entry": "γυμνάσιον, τό",
@@ -227,7 +228,7 @@
             85,
             4
           ],
-          "gloss": "(gymnastic) school; (pl.) exercises"
+          "gloss": "school"
         },
         {
           "book_entry": "δῆμος, ὁ",
@@ -267,7 +268,7 @@
             49,
             7
           ],
-          "gloss": "settler from abroad, resident alien; adj. changing oneʼs abode"
+          "gloss": "settler from abroad, resident alien"
         },
         {
           "book_entry": "ὁπλίτης, ὁ",
@@ -287,7 +288,7 @@
             56,
             5
           ],
-          "gloss": "poverty (noun)"
+          "gloss": "poverty"
         },
         {
           "book_entry": "ποιμήν, ὁ",
@@ -295,7 +296,7 @@
             17,
             7
           ],
-          "gloss": "shepherd (noun)"
+          "gloss": "shepherd"
         },
         {
           "book_entry": "πολεμιστής, ὁ",
@@ -344,7 +345,7 @@
             31,
             7
           ],
-          "gloss": "from the country, boorish (adjective)"
+          "gloss": "from the country, boorish"
         },
         {
           "book_entry": "ἀμέριμνος, -ον",
@@ -360,7 +361,7 @@
             89,
             2
           ],
-          "gloss": "foolish (adjective)"
+          "gloss": "foolish"
         },
         {
           "book_entry": "ἄπορος, -ον",
@@ -427,7 +428,7 @@
             91,
             6
           ],
-          "gloss": "free (+ gen)"
+          "gloss": "free"
         },
         {
           "book_entry": "Ἕλλην, Ἑλληνίς",
@@ -435,7 +436,7 @@
             51,
             2
           ],
-          "gloss": "a Greek"
+          "gloss": "Greek"
         },
         {
           "book_entry": "εὐτυχής, -ές",
@@ -486,7 +487,7 @@
             5,
             1
           ],
-          "gloss": "like (+ dat)"
+          "gloss": "like"
         },
         {
           "book_entry": "πάτριος, -α, -ον",
@@ -494,7 +495,7 @@
             49,
             4
           ],
-          "gloss": "of one’s father, ancestral, native"
+          "gloss": "of one's father, ancestral, native"
         },
         {
           "book_entry": "πένης (ὁ/ἡ)",
@@ -502,7 +503,7 @@
             67,
             9
           ],
-          "gloss": "poor man; poor (noun; adjective)"
+          "gloss": "poor"
         },
         {
           "book_entry": "πολεμικός, -ή, -όν",
@@ -510,7 +511,7 @@
             55,
             7
           ],
-          "gloss": "military, of war, martial (adjective)"
+          "gloss": "martial"
         },
         {
           "book_entry": "πόριμος, -η, -ον",
@@ -526,7 +527,7 @@
             62,
             5
           ],
-          "gloss": "a Spartan"
+          "gloss": "Spartan"
         },
         {
           "book_entry": "_τρικατάληκτος, -ον_"

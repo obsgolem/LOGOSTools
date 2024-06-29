@@ -36,7 +36,7 @@
         },
         {
           "book_entry": "ἔχω",
-          "gloss": "or σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, -, have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.)"
+          "gloss": "have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.)"
         },
         {
           "book_entry": "ζητέω",
@@ -76,11 +76,11 @@
         },
         {
           "book_entry": "ὁράω",
-          "gloss": "or ἑώρᾱκα, ἑώρᾱμαι or ὦμμαι, ὤφθην, see"
+          "gloss": "see"
         },
         {
           "book_entry": "παρασκευάζω",
-          "gloss": "prepare, provide, procure; (mid.) prepare for oneself, make preparations"
+          "gloss": "prepare, provide, procure, cook"
         },
         {
           "book_entry": "πάρειμι",
@@ -104,8 +104,8 @@
       "section": "Προθέσεις",
       "words": [
         {
-          "book_entry": "κατά (κατ ̓ οἰκον)",
-          "gloss": "down from, under, against (+ gen); according to, throughout (+ acc.)"
+          "book_entry": "κατά (κατ' οἰκον)",
+          "gloss": "of the house"
         }
       ]
     },
@@ -122,7 +122,7 @@
         },
         {
           "book_entry": "αὐλή, ἡ",
-          "gloss": "courtyard (noun)"
+          "gloss": "courtyard"
         },
         {
           "book_entry": "αὔλιον, τό",
@@ -138,11 +138,11 @@
         },
         {
           "book_entry": "βωμός, ὁ",
-          "gloss": "altar (noun)"
+          "gloss": "altar"
         },
         {
           "book_entry": "γυναικωνῖτις, ἡ",
-          "gloss": "the women’s apartments"
+          "gloss": "the women's apartments"
         },
         {
           "book_entry": "δεῖπνον, τό",
@@ -178,7 +178,7 @@
         },
         {
           "book_entry": "θύρα, ἡ",
-          "gloss": "door, (freq. pl.) double/folding doors"
+          "gloss": "door"
         },
         {
           "book_entry": "θυρίς, ἡ",
@@ -263,7 +263,7 @@
         },
         {
           "book_entry": "τροφή, ἡ",
-          "gloss": "food, nourishment (noun)"
+          "gloss": "food, nourishment"
         },
         {
           "book_entry": "ὕπνος, ὁ",
@@ -275,8 +275,8 @@
       "section": "Ἐπίθετα",
       "words": [
         {
-          "book_entry": "αἰτιατικός, -ή, -όν",
-          "gloss": "causal"
+          "book_entry": "_αἰτιατικός, -ή, -όν_",
+          "gloss": "accusative"
         },
         {
           "book_entry": "διπλοῦς, -ῆ, -οῦν"
@@ -306,7 +306,8 @@
           "gloss": "already, immediately, actually, now"
         },
         {
-          "book_entry": "καλῶς"
+          "book_entry": "καλῶς",
+          "gloss": "well"
         },
         {
           "book_entry": "τέλος",
@@ -318,7 +319,8 @@
       "section": "Ἐπιρωνήματα",
       "words": [
         {
-          "book_entry": "ὦ!"
+          "book_entry": "ὦ!",
+          "gloss": "O (vocative particle)"
         }
       ]
     }

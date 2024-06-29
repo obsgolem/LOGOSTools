@@ -11,11 +11,11 @@
       "words": [
         {
           "book_entry": "ἀναμένω",
-          "gloss": "wait, hold on (verb)"
+          "gloss": "wait, hold on"
         },
         {
           "book_entry": "ἀπαγγέλλω",
-          "gloss": "announce, report (verb)"
+          "gloss": "announce, report"
         },
         {
           "book_entry": "ἀπογράφω, -ομαι",
@@ -31,7 +31,7 @@
         },
         {
           "book_entry": "ἐγκαθίστημι",
-          "gloss": "place or establish in (double acc., someone as ruler)"
+          "gloss": "place or establish in"
         },
         {
           "book_entry": "ἐπιτελέω",
@@ -39,7 +39,7 @@
         },
         {
           "book_entry": "ἥδομαι",
-          "gloss": "enjoy, take pleasure (+ dat. or + part.)"
+          "gloss": "enjoy, take pleasure"
         },
         {
           "book_entry": "καταπολεμέω, -ομαι",
@@ -61,7 +61,7 @@
         },
         {
           "book_entry": "ὄμνυμι",
-          "gloss": "swear; swear to, swear by; swear that (+ inf.)"
+          "gloss": "swear; swear to, swear by; swear that"
         },
         {
           "book_entry": "ὁμογνωμονέω",
@@ -73,7 +73,7 @@
         },
         {
           "book_entry": "παρέρχομαι",
-          "gloss": "come forward, pass by, go by (verb)"
+          "gloss": "come forward, pass by, go by"
         },
         {
           "book_entry": "προηγορέω",
@@ -111,7 +111,7 @@
         },
         {
           "book_entry": "αὐτονομία, ἡ",
-          "gloss": "freedom to use one’s own laws, independence"
+          "gloss": "freedom to use one's own laws, independence"
         },
         {
           "book_entry": "γνώμη, ἡ",
@@ -155,7 +155,7 @@
       "words": [
         {
           "book_entry": "ὑμεῖς",
-          "gloss": "you (pl.)"
+          "gloss": "y'all"
         }
       ]
     },
@@ -172,7 +172,7 @@
       "section": "Σύνδεσμοι",
       "words": [
         {
-          "book_entry": "ἐάν (εἰ - ἄν)",
+          "book_entry": "ἐάν",
           "gloss": "if"
         }
       ]
@@ -199,7 +199,7 @@
         },
         {
           "book_entry": "ἀνάξιος, -ον",
-          "gloss": "unworthy (+ gen)"
+          "gloss": "unworthy"
         },
         {
           "book_entry": "ἀντίτυπος, -ον",
@@ -211,7 +211,7 @@
         },
         {
           "book_entry": "αὐτόνομος, -ον",
-          "gloss": "living under one’s own laws, independent"
+          "gloss": "living under one's own laws, independent"
         },
         {
           "book_entry": "εὔπορος, -ον",
@@ -219,7 +219,7 @@
         },
         {
           "book_entry": "σχολαῖος, -α, -ον",
-          "gloss": "at one’s leisure, leisurely, tardy"
+          "gloss": "at one's leisure, leisurely, tardy"
         },
         {
           "book_entry": "σώφρων, -ον",
@@ -235,14 +235,14 @@
         },
         {
           "book_entry": "ἄλλως",
-          "gloss": "otherwise; in vain (adverb)"
+          "gloss": "otherwise; in vain"
         },
         {
           "book_entry": "ἀφρόνως"
         },
         {
           "book_entry": "δήπου",
-          "gloss": "(postpositive) surely, doubtless, I presume"
+          "gloss": "surely, doubtless, I presume"
         },
         {
           "book_entry": "δίς",
@@ -250,7 +250,7 @@
         },
         {
           "book_entry": "ἐμποδών",
-          "gloss": "at the feet, in the way, in one’s path"
+          "gloss": "at the feet, in the way, in one's path"
         },
         {
           "book_entry": "πολεμικῶς"

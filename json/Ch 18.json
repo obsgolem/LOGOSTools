@@ -39,7 +39,7 @@
             125,
             2
           ],
-          "gloss": "go away, depart (verb)"
+          "gloss": "go away, depart"
         },
         {
           "book_entry": "βοηθέω",
@@ -47,7 +47,7 @@
             117,
             2
           ],
-          "gloss": "come to the aid of (+ dat.); come to the rescue"
+          "gloss": "come to the aid of; come to the rescue"
         },
         {
           "book_entry": "βούλομαι",
@@ -79,7 +79,7 @@
             116,
             3
           ],
-          "gloss": "-, -, δεδύνημαι, ἐδυνήθην, be able"
+          "gloss": "to be able"
         },
         {
           "book_entry": "ἐργάζομαι",
@@ -87,7 +87,7 @@
             29,
             7
           ],
-          "gloss": "work; work at, make; do, perform"
+          "gloss": "to work"
         },
         {
           "book_entry": "ἥκω",
@@ -95,7 +95,7 @@
             126,
             7
           ],
-          "gloss": "have come, be present"
+          "gloss": "to arrive"
         },
         {
           "book_entry": "ἰλιγγιάω",
@@ -111,7 +111,7 @@
             126,
             6
           ],
-          "gloss": "be seated (verb)"
+          "gloss": "be seated"
         },
         {
           "book_entry": "κατασκευάζω",
@@ -119,7 +119,7 @@
             22,
             6
           ],
-          "gloss": "to equip"
+          "gloss": "to equip, to build"
         },
         {
           "book_entry": "μισέω",
@@ -127,7 +127,7 @@
             66,
             4
           ],
-          "gloss": "hate; (ingressive aor.) conceived a hatred for"
+          "gloss": "hate"
         },
         {
           "book_entry": "οἶδα",
@@ -143,7 +143,7 @@
             110,
             3
           ],
-          "gloss": "-, -, fall"
+          "gloss": "fall"
         },
         {
           "book_entry": "πταῖω",
@@ -158,7 +158,7 @@
             111,
             4
           ],
-          "gloss": "-, -, -, say, assert, affirm"
+          "gloss": "say, assert, affirm"
         }
       ]
     },
@@ -167,7 +167,7 @@
       "words": [
         {
           "book_entry": "οὐ γὰρ οὖν!",
-          "gloss": "not"
+          "gloss": "certainly not"
         },
         {
           "book_entry": "τί ἔστιν;"
@@ -183,7 +183,7 @@
             85,
             3
           ],
-          "gloss": "image, statue (noun)"
+          "gloss": "image, statue"
         },
         {
           "book_entry": "ἀγγεῖον, τό",
@@ -207,7 +207,7 @@
             113,
             2
           ],
-          "gloss": "help, rescue operation (noun)"
+          "gloss": "help, rescue operation"
         },
         {
           "book_entry": "γλύπτης, ὁ",
@@ -318,14 +318,16 @@
           "first_occurrence": [
             112,
             8
-          ]
+          ],
+          "gloss": "ah"
         },
         {
           "book_entry": "φεῦ!",
           "first_occurrence": [
             111,
             5
-          ]
+          ],
+          "gloss": "alas"
         }
       ]
     },
@@ -338,7 +340,7 @@
             103,
             3
           ],
-          "gloss": "here, over here (adverb)"
+          "gloss": "here, over here"
         }
       ]
     },
@@ -347,7 +349,7 @@
       "words": [
         {
           "book_entry": "Ἀγαμέμνων, ὁ",
-          "gloss": "Agamemnon, lit. the very steadfast"
+          "gloss": "Agamemnon"
         },
         {
           "book_entry": "Ἀκρόπολις, ἡ"
@@ -361,7 +363,7 @@
         },
         {
           "book_entry": "Κεραμεικός, ὁ",
-          "gloss": "the Potters’ Quarter in Athens; (adj.) of Ceramus, in Caria"
+          "gloss": "the Potters' Quarter in Athens"
         },
         {
           "book_entry": "Λακεδαίμων, ἡ",
@@ -405,7 +407,7 @@
             33,
             2
           ],
-          "gloss": "Spartan (used of persons)"
+          "gloss": "Spartan"
         },
         {
           "book_entry": "Μακεδών, Μακεδόνισσα",
@@ -413,7 +415,7 @@
             12,
             3
           ],
-          "gloss": "a Macedonian"
+          "gloss": "Macedonian"
         },
         {
           "book_entry": "ξένος, -η, -ον",
@@ -454,7 +456,7 @@
         },
         {
           "book_entry": "πρός + δοτ.",
-          "gloss": "in the eyes of, in the name of (+ gen); near, in addition to (+ dat); toward (+ acc)"
+          "gloss": "in addition to"
         }
       ]
     }

@@ -15,7 +15,7 @@
             1,
             3
           ],
-          "gloss": "man"
+          "gloss": "man; husband"
         },
         {
           "book_entry": "_γένος, τό_"
@@ -26,7 +26,7 @@
             7,
             7
           ],
-          "gloss": "(voc. γύναι), woman; wife"
+          "gloss": "woman; wife"
         },
         {
           "book_entry": "κόρη, ἡ",
@@ -50,7 +50,7 @@
             18,
             6
           ],
-          "gloss": "or ἡ, child"
+          "gloss": "child"
         },
         {
           "book_entry": "παιδίον, τό",
@@ -74,10 +74,12 @@
           "gloss": "undying, immortal"
         },
         {
-          "book_entry": "_ἀρσενικός, -ή, -όν_"
+          "book_entry": "_ἀρσενικός, -ή, -όν_",
+          "gloss": "masculine"
         },
         {
-          "book_entry": "_θηλυκός, -ή, -όν_"
+          "book_entry": "_θηλυκός, -ή, -όν_",
+          "gloss": "feminine"
         },
         {
           "book_entry": "θνητός, -ή, -όν",
@@ -159,7 +161,7 @@
             66,
             5
           ],
-          "gloss": "or; than (12)"
+          "gloss": "or; than"
         },
         {
           "book_entry": "οὔτε ... οὔτε",
@@ -167,7 +169,7 @@
             24,
             3
           ],
-          "gloss": "...οὔτε, neither...nor"
+          "gloss": "neither...nor"
         }
       ]
     },
@@ -193,7 +195,7 @@
         },
         {
           "book_entry": "Ἀπολλώνιος, ὁ",
-          "gloss": "of or belonging to Apollo; (pr.n.) Apollonius"
+          "gloss": "Apollonius"
         },
         {
           "book_entry": "Ἑλένη, ἡ",
@@ -240,7 +242,7 @@
             4,
             1
           ],
-          "gloss": "Philip, Philippus; (pl.) the city, Philippi"
+          "gloss": "Philip, Philippus"
         }
       ]
     }

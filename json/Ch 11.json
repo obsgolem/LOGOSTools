@@ -78,7 +78,7 @@
             39,
             5
           ],
-          "gloss": "fut. ἐρωτήσω and ἐρήσομαι, aor. ἠρώτησα and ἠρόμην, ἠρώτηκα, ἠρώτημαι, ἠρωτήθην, ask, question"
+          "gloss": "ask, question"
         },
         {
           "book_entry": "καταβαίνω",
@@ -110,7 +110,7 @@
             20,
             4
           ],
-          "gloss": "to sigh often, sigh deeply"
+          "gloss": "to sigh often, sigh deeply, groan"
         },
         {
           "book_entry": "τιμάω",
@@ -126,7 +126,7 @@
             23,
             2
           ],
-          "gloss": "or ἤνεγκον, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην, bring, bear, carry; (mid.) win"
+          "gloss": "bring, bear, carry"
         }
       ]
     },
@@ -139,10 +139,11 @@
             30,
             6
           ],
-          "gloss": "in"
+          "gloss": "while"
         },
         {
-          "book_entry": "μὰ τόν Δία"
+          "book_entry": "μὰ τόν Δία",
+          "gloss": "by Zeus"
         }
       ]
     },
@@ -291,7 +292,7 @@
       "words": [
         {
           "book_entry": "διά (διὰ τί;)",
-          "gloss": "through (+ gen); on account of (+ acc)"
+          "gloss": "why, because of what"
         },
         {
           "book_entry": "ἐπί + δοτ.",
@@ -303,11 +304,11 @@
         },
         {
           "book_entry": "μετά (μετὰ ταῦτα)",
-          "gloss": "with (+ gen); after (+ acc)"
+          "gloss": "after this"
         },
         {
           "book_entry": "πρός + αἷτ.",
-          "gloss": "in the eyes of, in the name of (+ gen); near, in addition to (+ dat); toward (+ acc)"
+          "gloss": "toward"
         },
         {
           "book_entry": "σύν",
@@ -357,7 +358,7 @@
             74,
             3
           ],
-          "gloss": "at any rate, at least (emphasizes or limits preceding word)"
+          "gloss": "(discourse particle, mildly emphasizes or limits preceding word)"
         },
         {
           "book_entry": "δή",
@@ -365,7 +366,7 @@
             47,
             8
           ],
-          "gloss": "in fact, of course"
+          "gloss": "in fact, of course, obviously (discourse particle, points to the current statement, question, or request as being obvious from the current context)"
         }
       ]
     },
@@ -378,7 +379,7 @@
             74,
             2
           ],
-          "gloss": "(adv.), most"
+          "gloss": "most"
         },
         {
           "book_entry": "οὐκέτι",

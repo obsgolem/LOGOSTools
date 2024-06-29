@@ -23,7 +23,7 @@
             71,
             7
           ],
-          "gloss": "-βήσομαι, -ἔβην, βέβηκα, -, -, walk, step, go; (perfect) stand"
+          "gloss": "walk, step, go; (perfect) stand"
         },
         {
           "book_entry": "ἐνέχω",
@@ -62,7 +62,8 @@
           "first_occurrence": [
             4,
             6
-          ]
+          ],
+          "gloss": "to travel"
         },
         {
           "book_entry": "προσχωρέω",
@@ -110,7 +111,7 @@
             78,
             7
           ],
-          "gloss": "meet with (verb)"
+          "gloss": "meet with"
         },
         {
           "book_entry": "χαίρω",
@@ -127,7 +128,7 @@
       "words": [
         {
           "book_entry": "Ἐλευσίς, ἡ",
-          "gloss": "Eleusis, an old city of Attica"
+          "gloss": "Eleusis"
         }
       ]
     },
@@ -166,7 +167,7 @@
             66,
             1
           ],
-          "gloss": "the olive-tree"
+          "gloss": "olive-tree"
         },
         {
           "book_entry": "ἱερεύς, ὁ",
@@ -206,7 +207,7 @@
             112,
             1
           ],
-          "gloss": "a mystery"
+          "gloss": "mystery"
         },
         {
           "book_entry": "μύστης, ὁ",
@@ -214,7 +215,7 @@
             109,
             3
           ],
-          "gloss": "one initiated; (adj.) mystic"
+          "gloss": "one initiated"
         },
         {
           "book_entry": "ναός, ὁ",
@@ -245,7 +246,7 @@
             11,
             8
           ],
-          "gloss": "a shield"
+          "gloss": "sack"
         },
         {
           "book_entry": "σιγή, ἡ",
@@ -268,7 +269,7 @@
             120,
             7
           ],
-          "gloss": "forgiveness; συγγνώμην ἔχω, to forgive, pardon (+ dat.)"
+          "gloss": "forgiveness"
         }
       ]
     },
@@ -280,7 +281,8 @@
           "first_occurrence": [
             41,
             2
-          ]
+          ],
+          "gloss": "himself, herself, itself"
         },
         {
           "book_entry": "ὅς, ἥ, ὅ",
@@ -295,7 +297,8 @@
           "first_occurrence": [
             39,
             3
-          ]
+          ],
+          "gloss": "yourself"
         }
       ]
     },
@@ -364,7 +367,7 @@
             72,
             4
           ],
-          "gloss": "to Athens (adverb)"
+          "gloss": "to Athens"
         },
         {
           "book_entry": "Ἀθήνηθεν",
@@ -379,17 +382,20 @@
           "first_occurrence": [
             59,
             7
-          ]
+          ],
+          "gloss": "slowly"
         },
         {
           "book_entry": "Ἐλευσίναδε",
           "first_occurrence": [
             81,
             3
-          ]
+          ],
+          "gloss": "to Eleusis"
         },
         {
-          "book_entry": "κακῶς"
+          "book_entry": "κακῶς",
+          "gloss": "badly"
         },
         {
           "book_entry": "μόλις",
@@ -411,7 +417,8 @@
           "first_occurrence": [
             75,
             1
-          ]
+          ],
+          "gloss": "near"
         },
         {
           "book_entry": "ποῖ;",
@@ -426,7 +433,8 @@
           "first_occurrence": [
             74,
             4
-          ]
+          ],
+          "gloss": "far"
         },
         {
           "book_entry": "τότε",
@@ -454,7 +462,8 @@
           "first_occurrence": [
             124,
             2
-          ]
+          ],
+          "gloss": "may it go well with you; (pariphrastically) have a good day"
         }
       ]
     }

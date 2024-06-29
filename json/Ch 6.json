@@ -47,18 +47,20 @@
           "gloss": "another, other"
         },
         {
-          "book_entry": "πόσοι: πόσαι; πόσα;",
+          "book_entry": "πόσοι; πόσαι; πόσα;",
           "first_occurrence": [
             10,
             1
-          ]
+          ],
+          "gloss": "of what sort"
         },
         {
           "book_entry": "τίνες;",
           "first_occurrence": [
             32,
             1
-          ]
+          ],
+          "gloss": "who"
         }
       ]
     },
@@ -150,7 +152,7 @@
             39,
             7
           ],
-          "gloss": "field, country(side) (noun)"
+          "gloss": "field, country(side)"
         },
         {
           "book_entry": "ἄντρον, τό",
@@ -209,7 +211,7 @@
             59,
             1
           ],
-          "gloss": "corpse (noun)"
+          "gloss": "corpse"
         },
         {
           "book_entry": "νηρηίς, ἡ"
@@ -264,7 +266,7 @@
             4,
             1
           ],
-          "gloss": "moon (noun)"
+          "gloss": "moon"
         },
         {
           "book_entry": "σφαῖρα, ἡ",

@@ -47,7 +47,7 @@
             21,
             5
           ],
-          "gloss": "leave, depart (verb)"
+          "gloss": "leave, depart"
         },
         {
           "book_entry": "ἀποξύνω",
@@ -79,7 +79,7 @@
             69,
             3
           ],
-          "gloss": "shout (for) (verb)"
+          "gloss": "shout (for)"
         },
         {
           "book_entry": "βυθίζω",
@@ -95,7 +95,7 @@
             45,
             5
           ],
-          "gloss": "enter, board (verb)"
+          "gloss": "enter, board"
         },
         {
           "book_entry": "εἰσελαύνω",
@@ -119,7 +119,7 @@
             83,
             3
           ],
-          "gloss": "go out; come out (verb)"
+          "gloss": "go out; come out"
         },
         {
           "book_entry": "ἐπανέρχομαι",
@@ -127,7 +127,7 @@
             14,
             6
           ],
-          "gloss": "return (verb)"
+          "gloss": "return"
         },
         {
           "book_entry": "ἐπιζητέω",
@@ -139,7 +139,7 @@
         },
         {
           "book_entry": "καίω",
-          "gloss": "/κάω, kindle; set on fire, burn"
+          "gloss": "kindle; set on fire, burn"
         },
         {
           "book_entry": "καταντάω",
@@ -306,7 +306,7 @@
             70,
             4
           ],
-          "gloss": "shout (noun)"
+          "gloss": "shout"
         },
         {
           "book_entry": "γαστήρ, ἡ",
@@ -592,7 +592,8 @@
           "first_occurrence": [
             82,
             3
-          ]
+          ],
+          "gloss": "in this way, thusly"
         },
         {
           "book_entry": "πέριξ",
@@ -607,14 +608,16 @@
           "first_occurrence": [
             23,
             3
-          ]
+          ],
+          "gloss": "near"
         },
         {
           "book_entry": "ταχέως",
           "first_occurrence": [
             71,
             2
-          ]
+          ],
+          "gloss": "quickly"
         }
       ]
     },
@@ -640,7 +643,7 @@
             55,
             1
           ],
-          "gloss": "no one (pronoun)"
+          "gloss": "no one"
         }
       ]
     },

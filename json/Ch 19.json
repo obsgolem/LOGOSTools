@@ -15,7 +15,7 @@
             69,
             5
           ],
-          "gloss": "miss (+ gen.); make a mistake, do wrong"
+          "gloss": "to miss; make a mistake, do wrong"
         },
         {
           "book_entry": "ἀρνέομαι",
@@ -31,7 +31,7 @@
             7,
             5
           ],
-          "gloss": "look (at) (verb)"
+          "gloss": "look"
         },
         {
           "book_entry": "γελάω",
@@ -39,7 +39,7 @@
             84,
             6
           ],
-          "gloss": "laugh; laugh at (+ prep. phrase or + dat.); deride (+ acc.)"
+          "gloss": "to laugh"
         },
         {
           "book_entry": "δακρύω",
@@ -47,7 +47,7 @@
             72,
             6
           ],
-          "gloss": "weep (verb)"
+          "gloss": "weep"
         },
         {
           "book_entry": "διέρχομαι",
@@ -55,7 +55,7 @@
             2,
             2
           ],
-          "gloss": "go through, relate (verb)"
+          "gloss": "go through, relate"
         },
         {
           "book_entry": "εἰσέρχομαι",
@@ -63,7 +63,7 @@
             2,
             6
           ],
-          "gloss": "enter (verb)"
+          "gloss": "enter"
         },
         {
           "book_entry": "δοκέω",
@@ -71,7 +71,7 @@
             49,
             7
           ],
-          "gloss": "-, δέδογμαι, -ἐδόχθην, seem, think, it seems best"
+          "gloss": "to seem"
         },
         {
           "book_entry": "θαυμάζω",
@@ -79,7 +79,7 @@
             106,
             2
           ],
-          "gloss": "wonder at, marvel at; admire"
+          "gloss": "wonder at, marvel at"
         },
         {
           "book_entry": "κλέπτω",
@@ -95,14 +95,15 @@
             124,
             1
           ],
-          "gloss": "pity (verb)"
+          "gloss": "pity"
         },
         {
           "book_entry": "ὀργίζομαι",
           "first_occurrence": [
             111,
             4
-          ]
+          ],
+          "gloss": "to be angry"
         },
         {
           "book_entry": "τύπτω",
@@ -223,7 +224,8 @@
           "first_occurrence": [
             80,
             2
-          ]
+          ],
+          "gloss": "truely"
         },
         {
           "book_entry": "οὐδέποτε",
@@ -231,7 +233,7 @@
             78,
             6
           ],
-          "gloss": "never (adverb)"
+          "gloss": "never"
         },
         {
           "book_entry": "πάνυ",
@@ -239,7 +241,7 @@
             117,
             4
           ],
-          "gloss": "(adv.), perfectly, very; by all means"
+          "gloss": "perfectly, very; by all means"
         },
         {
           "book_entry": "ὠς",
@@ -255,22 +257,22 @@
       "words": [
         {
           "book_entry": "ἐν νῷ ἔχω",
-          "gloss": "in"
+          "gloss": "keep in mind"
         },
         {
           "book_entry": "ἔστιν ὅτε"
         },
         {
           "book_entry": "εἰς κόρακας!",
-          "gloss": "into, to, for (purpose)"
+          "gloss": "to the crows"
         },
         {
           "book_entry": "ὡς ἐμοὶ δοκεῖ",
-          "gloss": "in order that"
+          "gloss": "it seems to me"
         },
         {
           "book_entry": "ὡς καλός!",
-          "gloss": "in order that"
+          "gloss": "how good"
         }
       ]
     }

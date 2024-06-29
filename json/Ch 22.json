@@ -54,7 +54,7 @@
             79,
             7
           ],
-          "gloss": "speak against, accuse (+ gen. of person accused)"
+          "gloss": "speak against, accuse"
         },
         {
           "book_entry": "προηγέομαι",
@@ -70,7 +70,7 @@
             73,
             7
           ],
-          "gloss": "be serious, be earnest; be eager (+ inf.)"
+          "gloss": "be serious, be earnest; be eager"
         },
         {
           "book_entry": "συμφέρω",
@@ -94,7 +94,7 @@
             102,
             5
           ],
-          "gloss": "(impersonal verb) ought, must"
+          "gloss": "to be necessary"
         }
       ]
     },
@@ -120,7 +120,7 @@
             43,
             4
           ],
-          "gloss": "responsible (for), guilty (of) (+ gen)"
+          "gloss": "responsible, guilty"
         },
         {
           "book_entry": "δῆλος, -η, -ον",
@@ -152,7 +152,7 @@
       "words": [
         {
           "book_entry": "ὅστις, ἥτις, ὅ τι",
-          "gloss": "(indefinite relative) whoever, whatever; (indirect interrogative) who?, what?"
+          "gloss": "someone who, something that"
         }
       ]
     },
@@ -165,7 +165,7 @@
             55,
             6
           ],
-          "gloss": "because (conjunction)"
+          "gloss": "because"
         }
       ]
     },
@@ -178,7 +178,7 @@
             85,
             3
           ],
-          "gloss": "(postpositive particle adding strength to declarations) truly, surely"
+          "gloss": "truly, surely"
         }
       ]
     },
@@ -190,7 +190,8 @@
           "first_occurrence": [
             97,
             3
-          ]
+          ],
+          "gloss": "woe is me"
         }
       ]
     },
@@ -210,7 +211,7 @@
             87,
             3
           ],
-          "gloss": "then (particle)"
+          "gloss": "then"
         },
         {
           "book_entry": "σήμερον",
@@ -218,7 +219,7 @@
             16,
             6
           ],
-          "gloss": "(Att. τήμερον), today"
+          "gloss": "today"
         },
         {
           "book_entry": "χθές",

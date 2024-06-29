@@ -15,7 +15,7 @@
             71,
             1
           ],
-          "gloss": "follow, accompany (+ dat.) (verb)"
+          "gloss": "follow, accompany"
         },
         {
           "book_entry": "ἐπισκοπέω",
@@ -31,7 +31,7 @@
             95,
             7
           ],
-          "gloss": "put one's hand to, attempt (+ dat. or + inf.)"
+          "gloss": "put one's hand to, attempt"
         },
         {
           "book_entry": "ἕπομαι",
@@ -39,7 +39,7 @@
             117,
             3
           ],
-          "gloss": "follow, pursue (+ dat)"
+          "gloss": "follow, pursue"
         },
         {
           "book_entry": "ἡγέομαι",
@@ -47,7 +47,7 @@
             70,
             2
           ],
-          "gloss": "lead the way; be commander; rule (+ gen); believe"
+          "gloss": "lead the way; be commander; rule; believe"
         },
         {
           "book_entry": "κατατρίβω",
@@ -146,7 +146,7 @@
             114,
             3
           ],
-          "gloss": "noise, din, hustle and bustle (noun)"
+          "gloss": "noise, din, hustle and bustle"
         },
         {
           "book_entry": "οἰκονομία, ἡ",
@@ -219,7 +219,7 @@
             21,
             5
           ],
-          "gloss": "produced at the right season (subst. ἡ ὡραία harvest time)"
+          "gloss": "produced at the right season"
         }
       ]
     },
@@ -240,11 +240,11 @@
       "section": "Φράσεις",
       "words": [
         {
-          "book_entry": "ὡς τὰ πολλά",
-          "gloss": "in order that"
+          "book_entry": "ὡς τὰ πολλά"
         },
         {
-          "book_entry": "διὰ τοῦτο"
+          "book_entry": "διὰ τοῦτο",
+          "gloss": "because of this, through this"
         }
       ]
     },
@@ -301,7 +301,7 @@
             91,
             2
           ],
-          "gloss": "at any rate (particle)"
+          "gloss": "at any rate"
         },
         {
           "book_entry": "μέντοι",
@@ -309,7 +309,7 @@
             22,
             3
           ],
-          "gloss": "(postpositive) however (stronger adversative than δή or ἀλλά)"
+          "gloss": "however (stronger adversative than δή or ἀλλά)"
         }
       ]
     }

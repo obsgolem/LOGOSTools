@@ -15,7 +15,7 @@
             65,
             7
           ],
-          "gloss": "please (+ dat.) (verb)"
+          "gloss": "to be pleased"
         },
         {
           "book_entry": "ἀριστάω",
@@ -79,7 +79,7 @@
             59,
             4
           ],
-          "gloss": "sit down (verb)"
+          "gloss": "sit down"
         },
         {
           "book_entry": "κατακλίνομαι",
@@ -171,7 +171,7 @@
             10,
             1
           ],
-          "gloss": "tree (noun)"
+          "gloss": "tree"
         },
         {
           "book_entry": "εἰρήνη, ἡ",
@@ -203,7 +203,7 @@
             34,
             2
           ],
-          "gloss": "crow (noun)"
+          "gloss": "crow"
         },
         {
           "book_entry": "κρέας, τό",
@@ -334,7 +334,7 @@
             19,
             9
           ],
-          "gloss": "free from envy; (more commonly) plentiful"
+          "gloss": "plentiful"
         },
         {
           "book_entry": "θερμός, -ή, -όν",
@@ -422,14 +422,16 @@
           "first_occurrence": [
             49,
             2
-          ]
+          ],
+          "gloss": "thank you (literally \"I have grace for you\")"
         },
         {
           "book_entry": "Οὐδέν γε!",
           "first_occurrence": [
             74,
             2
-          ]
+          ],
+          "gloss": "it's nothing (not authentic ancient greek phrase)"
         }
       ]
     },

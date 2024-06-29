@@ -19,7 +19,7 @@
             121,
             6
           ],
-          "gloss": "perceive (+ gen or acc)"
+          "gloss": "perceive"
         },
         {
           "book_entry": "ἀναγκάζω, -ομαι",
@@ -27,7 +27,7 @@
             68,
             1
           ],
-          "gloss": "force, compel (verb)"
+          "gloss": "force, compel"
         },
         {
           "book_entry": "ἀποκτείνω",
@@ -43,7 +43,7 @@
             137,
             7
           ],
-          "gloss": "(trans) or ἀπωλόμην (intrans), ἀπολώλεκα (trans) or ἀπόλωλα (intrans)ς ΧΧΧ, ΧΧΧ, kill, lose; (mid. and intrans.) die, cease to exist"
+          "gloss": "kill, lose, die, cease to exist"
         },
         {
           "book_entry": "ἀποτίνω",
@@ -67,7 +67,7 @@
             145,
             3
           ],
-          "gloss": "/δέδια, (perfects with present meaning) fear"
+          "gloss": "fear"
         },
         {
           "book_entry": "διαρθρόω, -ομαι",
@@ -105,7 +105,7 @@
             38,
             2
           ],
-          "gloss": "be quiet, keep quiet (verb)"
+          "gloss": "be quiet, keep quiet, rest"
         },
         {
           "book_entry": "ἱκετεύω",
@@ -113,7 +113,7 @@
             8,
             1
           ],
-          "gloss": "beg, supplicate (verb)"
+          "gloss": "beg, supplicate"
         },
         {
           "book_entry": "κατακρίνω, -ομαι",
@@ -169,11 +169,11 @@
             80,
             9
           ],
-          "gloss": "be about to, be likely to (+ future infin.); delay"
+          "gloss": "be about to, be likely to"
         },
         {
           "book_entry": "μετέρχομαι",
-          "gloss": "send for, chase after (verb)"
+          "gloss": "send for, chase after"
         },
         {
           "book_entry": "νέμω",
@@ -181,7 +181,7 @@
             82,
             4
           ],
-          "gloss": "distribute, allot, assign (verb)"
+          "gloss": "distribute, allot, assign"
         },
         {
           "book_entry": "ὁπλίζω",
@@ -213,7 +213,7 @@
             83,
             6
           ],
-          "gloss": "beg (verb)"
+          "gloss": "beg"
         },
         {
           "book_entry": "πορίζω",
@@ -221,7 +221,7 @@
             95,
             3
           ],
-          "gloss": "provide, offer (verb)"
+          "gloss": "provide, offer"
         },
         {
           "book_entry": "πρέπω",
@@ -229,7 +229,7 @@
             83,
             2
           ],
-          "gloss": "it is fitting / becoming / seemly (+ acc. or dat. of person + inf.)"
+          "gloss": "to be fitting / becoming / seemly"
         },
         {
           "book_entry": "προσάπτω",
@@ -237,11 +237,11 @@
             87,
             3
           ],
-          "gloss": "give, attach to (verb)"
+          "gloss": "give, attach to"
         },
         {
           "book_entry": "προσέρχομαι",
-          "gloss": "advance, go / come towards (verb)"
+          "gloss": "advance, go / come towards"
         },
         {
           "book_entry": "προσηλόω",
@@ -253,11 +253,11 @@
             81,
             2
           ],
-          "gloss": "order (verb)"
+          "gloss": "order"
         },
         {
           "book_entry": "σέβομαι",
-          "gloss": "feel awe (before the gods); revere, worship, honor"
+          "gloss": "revere, worship, honor"
         },
         {
           "book_entry": "συμβαίνω",
@@ -265,7 +265,7 @@
             5,
             7
           ],
-          "gloss": "come together; come to an agreement, come to terms; (impersonal) come to pass, happen"
+          "gloss": "come together; come to an agreement, come to terms; come to pass, happen"
         },
         {
           "book_entry": "τιμωρέω, -έομαι",
@@ -293,7 +293,7 @@
             31,
             3
           ],
-          "gloss": "think; worry (verb)"
+          "gloss": "think; worry"
         }
       ]
     },
@@ -338,7 +338,7 @@
             120,
             4
           ],
-          "gloss": "(adv) later"
+          "gloss": "later"
         }
       ]
     },
@@ -366,15 +366,15 @@
       "words": [
         {
           "book_entry": "ἐπί - αἰτ. (ἐπὶ πάντας)",
-          "gloss": "on (+ gen); on, pertaining to, on condition that (+ dat); onto, over, against, for (purpose) (+ acc)"
+          "gloss": "onto, over, against, for"
         },
         {
           "book_entry": "παρά + γεν. (παρ ̓ ἐμοῦ)",
-          "gloss": "from (the side of) (+ gen); at (the side of), at the house of (+ dat); to (the side of), beside, contrary to (+ acc)"
+          "gloss": "from (the side of)"
         },
         {
           "book_entry": "περί + δοτ. (περὶ τῷ γένει)",
-          "gloss": "concerning, about (+ gen); around (+ dat); around, concerning (+ acc)"
+          "gloss": "around"
         }
       ]
     },
@@ -426,7 +426,7 @@
             88,
             8
           ],
-          "gloss": "skin (noun)"
+          "gloss": "skin"
         },
         {
           "book_entry": "δικαίωμα, τό",
@@ -438,7 +438,7 @@
         },
         {
           "book_entry": "δικαστής, ὁ",
-          "gloss": "juryman, judge (in court)"
+          "gloss": "juryman, judge"
         },
         {
           "book_entry": "δύναμις, ἡ",
@@ -454,7 +454,7 @@
             113,
             3
           ],
-          "gloss": "abundance, means (noun)"
+          "gloss": "abundance, means"
         },
         {
           "book_entry": "ἥπαρ, τό",
@@ -589,7 +589,7 @@
             131,
             8
           ],
-          "gloss": "kinship (noun)"
+          "gloss": "kinship"
         },
         {
           "book_entry": "σωτηρία, ἡ",
@@ -613,7 +613,7 @@
             51,
             1
           ],
-          "gloss": "revenge, vengeance (noun)"
+          "gloss": "revenge, vengeance"
         },
         {
           "book_entry": "ὑπόδεσις, ἡ",
@@ -621,7 +621,7 @@
             135,
             1
           ],
-          "gloss": "a putting on one’s shoes"
+          "gloss": "a putting on one's shoes"
         },
         {
           "book_entry": "φωνή, ἡ",
@@ -663,7 +663,7 @@
             98,
             7
           ],
-          "gloss": "unprovided for (adjective)"
+          "gloss": "unprovided for"
         },
         {
           "book_entry": "ἄλογος, -ον",
@@ -695,7 +695,7 @@
             103,
             6
           ],
-          "gloss": "unarmed (adjective)"
+          "gloss": "unarmed"
         },
         {
           "book_entry": "ἀσεβής, -ές",
@@ -711,7 +711,7 @@
             139,
             9
           ],
-          "gloss": "technical, of a workman (adjective)"
+          "gloss": "technical, of a workman"
         },
         {
           "book_entry": "δίκαιος, -α, ον",
@@ -735,7 +735,7 @@
             130,
             6
           ],
-          "gloss": "divine (adjective)"
+          "gloss": "divine"
         },
         {
           "book_entry": "ἱκέσιος, -α, -ον",

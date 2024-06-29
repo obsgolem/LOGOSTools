@@ -39,7 +39,7 @@
             100,
             1
           ],
-          "gloss": "discourse: discussion, debate, arguing"
+          "gloss": "discourse; dialect"
         },
         {
           "book_entry": "ἡγεμονία, ἡ",
@@ -454,7 +454,7 @@
             2,
             5
           ],
-          "gloss": "-, -, -, ἠπιστήθην, know"
+          "gloss": "know"
         },
         {
           "book_entry": "ἰωνίζω",
@@ -493,7 +493,7 @@
             95,
             6
           ],
-          "gloss": "address, speak to (verb)"
+          "gloss": "address, speak to"
         }
       ]
     },
@@ -541,7 +541,8 @@
           "first_occurrence": [
             71,
             8
-          ]
+          ],
+          "gloss": "former, superior"
         }
       ]
     },
@@ -553,7 +554,8 @@
           "first_occurrence": [
             36,
             1
-          ]
+          ],
+          "gloss": "good things are hard"
         }
       ]
     }

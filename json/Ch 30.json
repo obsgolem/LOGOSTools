@@ -23,7 +23,7 @@
             60,
             1
           ],
-          "gloss": "remind, call to mind (+ acc. of person + gen. of thing); (mid./pass.) remember (+ gen. or + acc.), make mention of (+ gen.)"
+          "gloss": "remind, call to mind"
         },
         {
           "book_entry": "ἀντέχω, -ομαι",
@@ -59,7 +59,7 @@
             64,
             4
           ],
-          "gloss": "(trnas.) or ἀπέστην (intrans.), ἀφέστηκα (intrans.), ἀφέσταμαι, ἀπεστάθην, (trans.) cause to revolt; (mid. or intrans.) revolt"
+          "gloss": "cause to revolt"
         },
         {
           "book_entry": "δηλόω",
@@ -91,7 +91,7 @@
             94,
             2
           ],
-          "gloss": "do, act (verb)"
+          "gloss": "do, act"
         },
         {
           "book_entry": "ἐκλείπω",
@@ -141,7 +141,7 @@
             116,
             1
           ],
-          "gloss": "come across, overtake (verb)"
+          "gloss": "come across, overtake"
         },
         {
           "book_entry": "καταφρονέω",
@@ -149,7 +149,7 @@
             74,
             2
           ],
-          "gloss": "despise, look down on (+ gen.) (verb)"
+          "gloss": "despise, look down on"
         },
         {
           "book_entry": "κωλύω",
@@ -165,7 +165,7 @@
             83,
             6
           ],
-          "gloss": "fight (+ dat)"
+          "gloss": "fight"
         },
         {
           "book_entry": "ὄλλυμι",
@@ -173,7 +173,7 @@
             35,
             7
           ],
-          "gloss": "(poetic) destroy, kill; lose; (mid. and intrans. aor. and perf.) perish, die"
+          "gloss": "destroy, kill, lose, die"
         },
         {
           "book_entry": "προάγω",
@@ -181,7 +181,7 @@
             117,
             4
           ],
-          "gloss": "lead on (verb)"
+          "gloss": "lead on"
         },
         {
           "book_entry": "προκαταλαμβάνω, -ομαι",
@@ -193,7 +193,7 @@
         },
         {
           "book_entry": "συμβουλεύω",
-          "gloss": "advise, counsel (+ dat); (mid.) consult with (+ dat)"
+          "gloss": "advise, counsel"
         },
         {
           "book_entry": "συναγωνίζομαι",
@@ -209,7 +209,7 @@
             109,
             7
           ],
-          "gloss": "come together (verb)"
+          "gloss": "come together"
         }
       ]
     },
@@ -341,7 +341,7 @@
       "words": [
         {
           "book_entry": "Πλαταιαί, αἱ",
-          "gloss": "Plataeae (LSJ Πλάταια)"
+          "gloss": "Plataeae"
         }
       ]
     },
@@ -403,7 +403,7 @@
             112,
             4
           ],
-          "gloss": "naval (adjective)"
+          "gloss": "naval"
         },
         {
           "book_entry": "ταπεινός, -ή, -όν",
@@ -419,7 +419,7 @@
             14,
             6
           ],
-          "gloss": "(goat-like); tragic, majestic, pompous"
+          "gloss": "tragic, majestic, pompous"
         },
         {
           "book_entry": "τριταῖος, -α, -ον",
@@ -484,7 +484,7 @@
             143,
             5
           ],
-          "gloss": "near; (+ gen.) next to, near"
+          "gloss": "near"
         }
       ]
     },

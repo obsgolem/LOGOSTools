@@ -11,7 +11,7 @@
       "words": [
         {
           "book_entry": "ἀλλάσσω",
-          "gloss": "change, alter; exchange (+ gen. of thing received in return); (mid.) take in exchange (+ gen. of thing given in return)"
+          "gloss": "change, alter; exchange"
         },
         {
           "book_entry": "ἀπάγω",
@@ -35,7 +35,7 @@
             110,
             1
           ],
-          "gloss": "light; fasten, fix (verb)"
+          "gloss": "light; fasten, fix"
         },
         {
           "book_entry": "ἁρπάζω, -ομαι",
@@ -58,7 +58,8 @@
           "first_occurrence": [
             93,
             4
-          ]
+          ],
+          "gloss": "to chase"
         },
         {
           "book_entry": "κατοικέω",
@@ -106,7 +107,7 @@
             117,
             4
           ],
-          "gloss": "treat violently, disgracefully (verb)"
+          "gloss": "treat violently, disgracefully"
         }
       ]
     },
@@ -151,7 +152,7 @@
             94,
             6
           ],
-          "gloss": "holy, sacred to (+ gen)"
+          "gloss": "holy, sacred to"
         },
         {
           "book_entry": "_παθητικός, ή, -όν_"
@@ -211,12 +212,12 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "αἴξ, ἡ",
+          "book_entry": "αἴξ, ἡ / ὁ",
           "first_occurrence": [
             64,
             2
           ],
-          "gloss": "or ἡ, goat"
+          "gloss": "goat"
         },
         {
           "book_entry": "ἀρχή, ἡ",
@@ -227,7 +228,7 @@
           "gloss": "beginning, rule, empire"
         },
         {
-          "book_entry": "βοῦς, ἡ / ὸ",
+          "book_entry": "βοῦς, ἡ / ὁ",
           "gloss": "ox, cow"
         },
         {
@@ -354,7 +355,8 @@
           "first_occurrence": [
             18,
             7
-          ]
+          ],
+          "gloss": "nose"
         },
         {
           "book_entry": "στόμα, τό",
@@ -362,7 +364,7 @@
             17,
             3
           ],
-          "gloss": "mouth (noun)"
+          "gloss": "mouth"
         },
         {
           "book_entry": "_σύνταξις, ἡ_"
@@ -445,7 +447,7 @@
       "words": [
         {
           "book_entry": "Ἐλευσίς, ἡ",
-          "gloss": "Eleusis, an old city of Attica"
+          "gloss": "Eleusis"
         },
         {
           "book_entry": "Αἰαία, ἡ"
@@ -455,7 +457,8 @@
           "gloss": "Actaeon"
         },
         {
-          "book_entry": "Ἀράχνη, ἡ"
+          "book_entry": "Ἀράχνη, ἡ",
+          "gloss": "Arachne"
         },
         {
           "book_entry": "Γανυμήδης, ὁ",
@@ -525,7 +528,7 @@
             136,
             5
           ],
-          "gloss": "(adv.), often"
+          "gloss": "often, frequently"
         }
       ]
     },
@@ -551,7 +554,7 @@
             54,
             6
           ],
-          "gloss": "except; (also used as conjunction) except (+ gen.)"
+          "gloss": "except"
         }
       ]
     }

@@ -15,7 +15,7 @@
             71,
             2
           ],
-          "gloss": "to be in the ἀγορά"
+          "gloss": "to be in the market, to purchase in the market"
         },
         {
           "book_entry": "διαλέγομαι",
@@ -23,7 +23,7 @@
             68,
             1
           ],
-          "gloss": "(passive deponent) converse with (+ dat.)"
+          "gloss": "converse with (+ dat.)"
         },
         {
           "book_entry": "κελεύω",
@@ -39,7 +39,7 @@
             56,
             3
           ],
-          "gloss": "close, shut (verb)"
+          "gloss": "close, shut"
         },
         {
           "book_entry": "παίζω",
@@ -47,7 +47,7 @@
             21,
             4
           ],
-          "gloss": "play; joke (at) (verb)"
+          "gloss": "play; joke"
         },
         {
           "book_entry": "περιπατέω",
@@ -63,7 +63,7 @@
             47,
             5
           ],
-          "gloss": "seek eagerly, strive (+ inf.); (intrans.) rush, hasten"
+          "gloss": "seek eagerly; (intrans.) rush, hasten"
         }
       ]
     },
@@ -76,7 +76,7 @@
             54,
             1
           ],
-          "gloss": "of or belonging to the courtyard (αὐλή)"
+          "gloss": "of or belonging to the courtyard"
         },
         {
           "book_entry": "δωρικός, -ή, -όν",
@@ -182,7 +182,7 @@
             12,
             4
           ],
-          "gloss": "birth (noun)"
+          "gloss": "birth"
         },
         {
           "book_entry": "δραχμή, ἡ",
@@ -190,7 +190,7 @@
             126,
             2
           ],
-          "gloss": "drachma (noun)"
+          "gloss": "drachma"
         },
         {
           "book_entry": "ἔνδυμα, τό",
@@ -206,7 +206,7 @@
             86,
             4
           ],
-          "gloss": "maidservant (noun)"
+          "gloss": "maidservant"
         },
         {
           "book_entry": "θυρωρός, ὁ",
@@ -238,7 +238,7 @@
             72,
             7
           ],
-          "gloss": "shop of a κάπηλος, freq. of a tavern"
+          "gloss": "shop of a peddlar, freq. of a tavern"
         },
         {
           "book_entry": "κάπηλος, ὁ",
@@ -294,7 +294,7 @@
             73,
             5
           ],
-          "gloss": "tool; (pl.) weapons"
+          "gloss": "tool, weapons"
         },
         {
           "book_entry": "ὄχλος, ὁ",
@@ -346,7 +346,8 @@
           "first_occurrence": [
             68,
             3
-          ]
+          ],
+          "gloss": "one another"
         },
         {
           "book_entry": "ἐκεῖνος, -η, -ο",

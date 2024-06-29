@@ -95,7 +95,7 @@
             19,
             1
           ],
-          "gloss": "servant (noun)"
+          "gloss": "servant"
         },
         {
           "book_entry": "θυσία, ἡ",
@@ -122,8 +122,7 @@
           "first_occurrence": [
             1,
             2
-          ],
-          "gloss": "(postpositive particle adding strength to declarations) truly, surely"
+          ]
         },
         {
           "book_entry": "μῆνις, ἡ",
@@ -272,7 +271,7 @@
             67,
             5
           ],
-          "gloss": "greet, welcome (verb)"
+          "gloss": "greet, welcome"
         },
         {
           "book_entry": "ἀφικνέομαι",
@@ -316,7 +315,7 @@
             65,
             2
           ],
-          "gloss": "introduce (verb)"
+          "gloss": "introduce"
         },
         {
           "book_entry": "ἐμπίπτω",
@@ -324,7 +323,7 @@
             117,
             3
           ],
-          "gloss": "fall into, on (verb)"
+          "gloss": "fall into, on"
         },
         {
           "book_entry": "ἑορτάζω",
@@ -359,7 +358,7 @@
         },
         {
           "book_entry": "καθοράω",
-          "gloss": "see, look down on (verb)"
+          "gloss": "see, look down on"
         },
         {
           "book_entry": "κατάκειμαι",
@@ -458,7 +457,7 @@
         },
         {
           "book_entry": "παρά + αἰτ.",
-          "gloss": "from (the side of) (+ gen); at (the side of), at the house of (+ dat); to (the side of), beside, contrary to (+ acc)"
+          "gloss": "to (the side of), beside, contrary to (+ acc)"
         }
       ]
     },
@@ -479,7 +478,7 @@
             13,
             5
           ],
-          "gloss": "noble, fine (adjective)"
+          "gloss": "noble, fine"
         },
         {
           "book_entry": "ἐμός, -ή, -όν",
@@ -487,7 +486,7 @@
             164,
             8
           ],
-          "gloss": "my; (as a substantive) mine"
+          "gloss": "my"
         },
         {
           "book_entry": "ἐρωτικός, -ή, -όν",
@@ -553,7 +552,7 @@
         },
         {
           "book_entry": "σός, σή, σόν",
-          "gloss": "your; (as a substantive) yours"
+          "gloss": "your"
         },
         {
           "book_entry": "συγγενής, -ές",
@@ -561,7 +560,7 @@
             24,
             7
           ],
-          "gloss": "relation (noun)"
+          "gloss": "relation"
         },
         {
           "book_entry": "σύμμαχος, -ον",
@@ -622,7 +621,8 @@
           "first_occurrence": [
             193,
             3
-          ]
+          ],
+          "gloss": "third"
         },
         {
           "book_entry": "ὧδε",
@@ -661,7 +661,7 @@
             202,
             2
           ],
-          "gloss": "therefore (particle)"
+          "gloss": "therefore"
         }
       ]
     }
