@@ -11,6 +11,10 @@
       "words": [
         {
           "book_entry": "αἰδέομαι",
+          "first_occurrence": [
+            54,
+            8
+          ],
           "gloss": "to be ashamed to do"
         },
         {
@@ -245,7 +249,11 @@
         },
         {
           "book_entry": "προσηλόω",
-          "gloss": "to nail, pin"
+          "gloss": "to nail, pin",
+          "first_occurrence": [
+            124,
+            2
+          ]
         },
         {
           "book_entry": "προστάσσω",
@@ -277,7 +285,11 @@
         },
         {
           "book_entry": "τίνω",
-          "gloss": "to pay a price"
+          "gloss": "to pay a price",
+          "first_occurrence": [
+            128,
+            3
+          ]
         },
         {
           "book_entry": "τυπόω",
@@ -357,7 +369,8 @@
           "first_occurrence": [
             128,
             8
-          ]
+          ],
+          "gloss": "until; as long as"
         }
       ]
     },
@@ -402,7 +415,8 @@
           "first_occurrence": [
             4,
             7
-          ]
+          ],
+          "gloss": "safe from violence, inviolate"
         },
         {
           "book_entry": "βορά, ἡ",
