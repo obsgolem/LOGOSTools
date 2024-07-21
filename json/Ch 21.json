@@ -62,7 +62,8 @@
           "first_occurrence": [
             75,
             1
-          ]
+          ],
+          "gloss": "teach, raise"
         },
         {
           "book_entry": "παραμελέω",
@@ -232,7 +233,7 @@
             17,
             2
           ],
-          "gloss": "in order that"
+          "gloss": "the manner in which"
         }
       ]
     },
@@ -256,7 +257,8 @@
           "first_occurrence": [
             72,
             3
-          ]
+          ],
+          "gloss": "precisely"
         },
         {
           "book_entry": "αὖθις",

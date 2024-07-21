@@ -32,15 +32,27 @@
         },
         {
           "book_entry": "εὑρίσκω",
-          "gloss": "find, discover"
+          "gloss": "find, discover",
+          "first_occurrence": [
+            68,
+            1
+          ]
         },
         {
           "book_entry": "ἔχω",
-          "gloss": "have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.)"
+          "gloss": "have, hold",
+          "first_occurrence": [
+            76,
+            3
+          ]
         },
         {
           "book_entry": "ζητέω",
-          "gloss": "seek"
+          "gloss": "seek",
+          "first_occurrence": [
+            65,
+            2
+          ]
         },
         {
           "book_entry": "θεραπεύω",
@@ -236,7 +248,12 @@
           "gloss": "wood"
         },
         {
-          "book_entry": "ὄνειρον, τό"
+          "book_entry": "ὄνειρον, τό",
+          "first_occurrence": [
+            75,
+            5
+          ],
+          "gloss": "dream"
         },
         {
           "book_entry": "πάπυρος, ὁ",

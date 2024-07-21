@@ -146,7 +146,11 @@
       "words": [
         {
           "book_entry": "μή (+ προστ.)",
-          "gloss": "not"
+          "gloss": "not",
+          "first_occurrence": [
+            38,
+            4
+          ]
         }
       ]
     },

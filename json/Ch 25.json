@@ -88,8 +88,8 @@
         {
           "book_entry": "φυλή, ἡ",
           "first_occurrence": [
-            59,
-            6
+            38,
+            4
           ],
           "gloss": "a race, a tribe"
         },
@@ -396,6 +396,10 @@
         },
         {
           "book_entry": "ἀποδοκιμάζω",
+          "first_occurrence": [
+            91,
+            3
+          ],
           "gloss": "to reject on scrutiny, to reject for want of qualification"
         },
         {
@@ -431,6 +435,10 @@
         },
         {
           "book_entry": "διαφέρω",
+          "first_occurrence": [
+            125,
+            2
+          ],
           "gloss": "carry through; be different from, excel (+ gen)"
         },
         {
@@ -502,7 +510,7 @@
       "words": [
         {
           "book_entry": "περί (+ αἰτ.)",
-          "gloss": "concerning, about (+ gen); around (+ dat); around, concerning (+ acc)"
+          "gloss": "around, concerning (+ acc)"
         }
       ]
     },
@@ -530,6 +538,7 @@
         },
         {
           "book_entry": "πέραν",
+          "macronized": "πέρᾱν",
           "first_occurrence": [
             77,
             4

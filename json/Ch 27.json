@@ -94,7 +94,11 @@
         },
         {
           "book_entry": "δίκη, ἡ",
-          "gloss": "justice, lawsuit"
+          "gloss": "justice, lawsuit",
+          "first_occurrence": [
+            84,
+            6
+          ]
         },
         {
           "book_entry": "δοκιμασία, ἡ",
@@ -480,7 +484,7 @@
         },
         {
           "book_entry": "ἔθω",
-          "gloss": "be accustomed (see also εἴωθα)"
+          "gloss": "be accustomed"
         },
         {
           "book_entry": "εἰσαγγέλλω",

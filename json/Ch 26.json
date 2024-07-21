@@ -255,7 +255,8 @@
           "first_occurrence": [
             119,
             5
-          ]
+          ],
+          "gloss": "take off, carry off"
         },
         {
           "book_entry": "ἄρχω, -ομαι",
@@ -354,7 +355,8 @@
           "first_occurrence": [
             89,
             3
-          ]
+          ],
+          "gloss": "make merry"
         },
         {
           "book_entry": "καθοράω",
@@ -457,7 +459,7 @@
         },
         {
           "book_entry": "παρά + αἰτ.",
-          "gloss": "to (the side of), beside, contrary to (+ acc)"
+          "gloss": "to (the side of), beside, contrary to"
         }
       ]
     },
@@ -614,7 +616,7 @@
             93,
             1
           ],
-          "gloss": "betwixt, between"
+          "gloss": "betwixt, between, somewhat"
         },
         {
           "book_entry": "τρίτον",
