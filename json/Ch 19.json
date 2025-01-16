@@ -183,7 +183,12 @@
           "gloss": "a mirror"
         },
         {
-          "book_entry": "νοῦς, ὁ"
+          "book_entry": "νοῦς, ὁ",
+          "first_occurrence": [
+            12,
+            5
+          ],
+          "gloss": "mind, reason"
         },
         {
           "book_entry": "στεφάνη, ἡ",
