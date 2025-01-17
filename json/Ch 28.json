@@ -86,7 +86,8 @@
           "first_occurrence": [
             118,
             2
-          ]
+          ],
+          "gloss": "to gift"
         },
         {
           "book_entry": "ἐπακούω",
@@ -101,7 +102,8 @@
           "first_occurrence": [
             15,
             9
-          ]
+          ],
+          "gloss": "to invoke"
         },
         {
           "book_entry": "ἡσυχάζω",
@@ -313,28 +315,32 @@
       "section": "Ἐπιρρήματα",
       "words": [
         {
-          "book_entry": "ἄτε"
+          "book_entry": "ἅτε",
+          "gloss": "just as, seeing that"
         },
         {
           "book_entry": "δικαίως",
           "first_occurrence": [
             28,
             4
-          ]
+          ],
+          "gloss": "just, honest"
         },
         {
           "book_entry": "εὐθαρσῶς",
           "first_occurrence": [
             21,
             1
-          ]
+          ],
+          "gloss": "courageous"
         },
         {
           "book_entry": "ποτέ",
           "first_occurrence": [
             76,
             8
-          ]
+          ],
+          "gloss": "sometime"
         },
         {
           "book_entry": "σποράδην",
@@ -362,7 +368,8 @@
           "first_occurrence": [
             78,
             2
-          ]
+          ],
+          "gloss": "next"
         },
         {
           "book_entry": "μέχρις",
@@ -378,7 +385,7 @@
       "section": "Προθέσεις",
       "words": [
         {
-          "book_entry": "ἐπί - αἰτ. (ἐπὶ πάντας)",
+          "book_entry": "ἐπί + αἰτ. (ἐπὶ πάντας)",
           "gloss": "onto, over, against, for"
         },
         {
@@ -471,11 +478,12 @@
           "gloss": "abundance, means"
         },
         {
-          "book_entry": "ἥπαρ, τό",
+          "book_entry": "ἧπαρ, τό",
           "first_occurrence": [
             127,
             1
-          ]
+          ],
+          "gloss": "liver"
         },
         {
           "book_entry": "θρίξ, ἡ",
@@ -499,7 +507,7 @@
             22,
             4
           ],
-          "gloss": "suppliant (noun)"
+          "gloss": "suppliant"
         },
         {
           "book_entry": "ἰσχύς, ἡ",
@@ -571,7 +579,7 @@
             134,
             6
           ],
-          "gloss": "dwelling (noun)"
+          "gloss": "dwelling"
         },
         {
           "book_entry": "ὀλιγογονία, ἡ",

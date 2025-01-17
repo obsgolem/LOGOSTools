@@ -23,7 +23,7 @@
             71,
             7
           ],
-          "gloss": "walk, step, go; (perfect) stand"
+          "gloss": "walk, step, go"
         },
         {
           "book_entry": "ἐνέχω",
@@ -87,7 +87,7 @@
             51,
             8
           ],
-          "gloss": "be silent; (transitive) keep secret"
+          "gloss": "be silent"
         },
         {
           "book_entry": "συμμετέχω",
@@ -119,7 +119,7 @@
             87,
             4
           ],
-          "gloss": "rejoice (in), take pleasure (in), enjoy (+ dat)"
+          "gloss": "rejoice, take pleasure, enjoy"
         }
       ]
     },
@@ -137,7 +137,7 @@
       "words": [
         {
           "book_entry": "περί + γεν.",
-          "gloss": "concerning, about (+ gen); around (+ dat); around, concerning (+ acc)"
+          "gloss": "concerning, about"
         }
       ]
     },
@@ -242,7 +242,8 @@
           "first_occurrence": [
             13,
             1
-          ]
+          ],
+          "gloss": "sack"
         },
         {
           "book_entry": "σάκος, ὁ",

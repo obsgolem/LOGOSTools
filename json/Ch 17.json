@@ -236,7 +236,8 @@
           "first_occurrence": [
             75,
             5
-          ]
+          ],
+          "gloss": "giant"
         },
         {
           "book_entry": "δάκτυλος, ὁ",
@@ -390,7 +391,8 @@
           "first_occurrence": [
             123,
             4
-          ]
+          ],
+          "gloss": "weaver"
         },
         {
           "book_entry": "φάρμακον, τό",
@@ -541,7 +543,7 @@
             107,
             9
           ],
-          "gloss": "each (of many); (pl.) each (of several groups), all (considered singly)"
+          "gloss": "each (of many)"
         }
       ]
     },

@@ -120,7 +120,8 @@
           "first_occurrence": [
             79,
             5
-          ]
+          ],
+          "gloss": "hello!"
         }
       ]
     },
@@ -214,7 +215,7 @@
             69,
             5
           ],
-          "gloss": "able, with power, by right, sovereign (adjective), (of names) proper"
+          "gloss": "able, with power, by right, sovereign (of names) proper"
         },
         {
           "book_entry": "Λατινικός, -ή, -ὸν",

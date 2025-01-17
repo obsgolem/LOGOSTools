@@ -46,7 +46,8 @@
           "gloss": "to war down"
         },
         {
-          "book_entry": "λακωνίζω"
+          "book_entry": "λακωνίζω",
+          "gloss": "to be spartan-like"
         },
         {
           "book_entry": "μεταγράφω",
@@ -57,7 +58,8 @@
           "gloss": "to send after, send for, summon"
         },
         {
-          "book_entry": "οἶμαι"
+          "book_entry": "οἶμαι",
+          "gloss": "to think, suppose, believe"
         },
         {
           "book_entry": "ὄμνυμι",
@@ -88,7 +90,8 @@
           "gloss": "to place under, assign; place behind; subject, subdue"
         },
         {
-          "book_entry": "φαίνομαι"
+          "book_entry": "φαίνομαι",
+          "gloss": "to be apparent"
         },
         {
           "book_entry": "φιλονικέω",
@@ -104,10 +107,12 @@
       "section": "Ὀνόματα",
       "words": [
         {
-          "book_entry": "ἀμάρτημα, τό"
+          "book_entry": "ἀμάρτημα, τό",
+          "gloss": "fault, sin"
         },
         {
-          "book_entry": "ἀρμοστής, ὁ"
+          "book_entry": "ἀρμοστής, ὁ",
+          "gloss": "governor"
         },
         {
           "book_entry": "αὐτονομία, ἡ",
@@ -130,7 +135,8 @@
           "gloss": "a dissolving, dissolution; lodging, resting place"
         },
         {
-          "book_entry": "πράξις, ἡ"
+          "book_entry": "πρᾶξις, ἡ",
+          "gloss": "action, achievement"
         },
         {
           "book_entry": "πρεσβεία, ἡ",
@@ -231,14 +237,16 @@
       "section": "Ἐπιρρήματα",
       "words": [
         {
-          "book_entry": "ἀθύμως"
+          "book_entry": "ἀθύμως",
+          "gloss": "dispirited"
         },
         {
           "book_entry": "ἄλλως",
           "gloss": "otherwise; in vain"
         },
         {
-          "book_entry": "ἀφρόνως"
+          "book_entry": "ἀφρόνως",
+          "gloss": "foolishly"
         },
         {
           "book_entry": "δήπου",
@@ -253,11 +261,12 @@
           "gloss": "at the feet, in the way, in one's path"
         },
         {
-          "book_entry": "πολεμικῶς"
+          "book_entry": "πολεμικῶς",
+          "gloss": "hostilely"
         },
         {
           "book_entry": "πρόσθεν",
-          "gloss": "(of place) before, in front of (occasionally governs gen. like a preposition); (of time) before, formerly"
+          "gloss": "before, in front of"
         },
         {
           "book_entry": "πως",
@@ -265,10 +274,11 @@
         },
         {
           "book_entry": "ὑμέτερος, -α, -ον",
-          "gloss": "your; (as a substantive) yours"
+          "gloss": "your"
         },
         {
-          "book_entry": "σωφρόνως"
+          "book_entry": "σωφρόνως",
+          "gloss": "soberly"
         }
       ]
     }

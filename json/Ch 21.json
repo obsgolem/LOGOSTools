@@ -102,7 +102,8 @@
           "first_occurrence": [
             100,
             3
-          ]
+          ],
+          "gloss": "neglect"
         },
         {
           "book_entry": "φυλάσσω",
@@ -182,7 +183,8 @@
           "gloss": "fig"
         },
         {
-          "book_entry": "ὑγρόν, τό"
+          "book_entry": "ὑγρόν, τό",
+          "gloss": "wet"
         },
         {
           "book_entry": "φιλία, ἡ",
@@ -311,7 +313,7 @@
             22,
             3
           ],
-          "gloss": "however (stronger adversative than δή or ἀλλά)"
+          "gloss": "however"
         }
       ]
     }

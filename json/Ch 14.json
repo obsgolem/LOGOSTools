@@ -71,7 +71,7 @@
             96,
             4
           ],
-          "gloss": "throw; hit (with thrown object)"
+          "gloss": "throw; hit"
         },
         {
           "book_entry": "βοάω",
@@ -79,7 +79,7 @@
             69,
             3
           ],
-          "gloss": "shout (for)"
+          "gloss": "shout"
         },
         {
           "book_entry": "βυθίζω",
@@ -154,7 +154,8 @@
           "first_occurrence": [
             6,
             6
-          ]
+          ],
+          "gloss": "mix"
         },
         {
           "book_entry": "κοιμάομαι",
@@ -257,7 +258,8 @@
           "first_occurrence": [
             98,
             1
-          ]
+          ],
+          "gloss": "save"
         },
         {
           "book_entry": "τρίβω",
@@ -486,7 +488,8 @@
           "first_occurrence": [
             18,
             6
-          ]
+          ],
+          "gloss": "mythical lotus eater"
         },
         {
           "book_entry": "οὐρητικός, -ή, -όν",
@@ -556,7 +559,8 @@
           "first_occurrence": [
             77,
             2
-          ]
+          ],
+          "gloss": "next"
         }
       ]
     },
@@ -669,19 +673,19 @@
         },
         {
           "book_entry": "εἰς",
-          "gloss": "into, to, for (purpose)"
+          "gloss": "into, to, for"
         },
         {
           "book_entry": "ἐπί + γεν.",
-          "gloss": "on (+ gen); on, pertaining to, on condition that (+ dat); onto, over, against, for (purpose) (+ acc)"
+          "gloss": "on"
         },
         {
           "book_entry": "μετά + γεν.",
-          "gloss": "with (+ gen); after (+ acc)"
+          "gloss": "with"
         },
         {
           "book_entry": "ὑπό + γεν. / αἰτ.",
-          "gloss": "by (personal agent), under (+ gen); under, under the power of (+ dat); under (with motion), toward (of time) (+ acc)"
+          "gloss": "under"
         }
       ]
     }

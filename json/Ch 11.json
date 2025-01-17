@@ -38,7 +38,8 @@
           "first_occurrence": [
             18,
             4
-          ]
+          ],
+          "gloss": "reply"
         },
         {
           "book_entry": "ἀφυπνίζω",
@@ -183,11 +184,12 @@
           "gloss": "a cup, drinking-cup, wine-cup"
         },
         {
-          "book_entry": "λεκάκιον, τό",
+          "book_entry": "λεκάνιον, τό",
           "first_occurrence": [
             75,
             7
-          ]
+          ],
+          "gloss": "dish"
         },
         {
           "book_entry": "μέλι, τό",
@@ -296,11 +298,11 @@
         },
         {
           "book_entry": "ἐπί + δοτ.",
-          "gloss": "on (+ gen); on, pertaining to, on condition that (+ dat); onto, over, against, for (purpose) (+ acc)"
+          "gloss": "upon"
         },
         {
           "book_entry": "κατά + γεν.",
-          "gloss": "down from, under, against (+ gen); according to, throughout (+ acc.)"
+          "gloss": "down from, under, against"
         },
         {
           "book_entry": "μετά (μετὰ ταῦτα)",
@@ -316,7 +318,7 @@
         },
         {
           "book_entry": "ὑπό + δοτ.",
-          "gloss": "by (personal agent), under (+ gen); under, under the power of (+ dat); under (with motion), toward (of time) (+ acc)"
+          "gloss": "under"
         }
       ]
     },
@@ -345,7 +347,7 @@
             9,
             8
           ],
-          "gloss": "you (sg.)"
+          "gloss": "you"
         }
       ]
     },

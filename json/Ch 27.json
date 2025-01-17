@@ -82,7 +82,8 @@
           "first_occurrence": [
             17,
             6
-          ]
+          ],
+          "gloss": "two rulers"
         },
         {
           "book_entry": "δικαστήριον, τό",
@@ -90,7 +91,7 @@
             85,
             8
           ],
-          "gloss": "law-court (noun)"
+          "gloss": "law-court"
         },
         {
           "book_entry": "δίκη, ἡ",
@@ -122,7 +123,7 @@
             114,
             6
           ],
-          "gloss": "impeachment (noun)"
+          "gloss": "impeachment"
         },
         {
           "book_entry": "ἐκκλησία, ἡ",
@@ -226,7 +227,7 @@
         },
         {
           "book_entry": "λαμπάς, ἡ",
-          "gloss": "torch (noun)"
+          "gloss": "torch"
         },
         {
           "book_entry": "λαός, ὁ",
@@ -289,7 +290,8 @@
           "first_occurrence": [
             8,
             3
-          ]
+          ],
+          "gloss": "matter, affair, fact"
         },
         {
           "book_entry": "σύμβολον, τό",
@@ -329,7 +331,7 @@
         },
         {
           "book_entry": "τραγῳδός, ὁ",
-          "gloss": "member of tragic chorus; (pl.) tragic performance; tragedian"
+          "gloss": "member of tragic chorus; tragic performance; tragedian"
         },
         {
           "book_entry": "τρόπος, ὁ",
@@ -480,7 +482,7 @@
             34,
             3
           ],
-          "gloss": "enrol, enlist, register (verb)"
+          "gloss": "enrol, enlist, register"
         },
         {
           "book_entry": "ἔθω",
@@ -532,7 +534,7 @@
             88,
             5
           ],
-          "gloss": "(trans.) appoint, establish, put into a state; (intrans.) be established, be appointed, enter into a state"
+          "gloss": "appoint, establish, put into a state"
         },
         {
           "book_entry": "κληρόω, -έομαι",
@@ -624,14 +626,16 @@
           "first_occurrence": [
             25,
             4
-          ]
+          ],
+          "gloss": "civilly"
         },
         {
           "book_entry": "τυραννικῶς",
           "first_occurrence": [
             26,
             1
-          ]
+          ],
+          "gloss": "tyrannically"
         }
       ]
     },
@@ -700,7 +704,7 @@
             7,
             6
           ],
-          "gloss": "able, with power, by right, sovereign (adjective)"
+          "gloss": "able, with power, by right, sovereign"
         },
         {
           "book_entry": "Ληναῖος, -α, -ον",
@@ -718,11 +722,12 @@
           "gloss": "an orphan"
         },
         {
-          "book_entry": "πέμπτον, -η, -ον",
+          "book_entry": "πέμπτος, -η, -ον",
           "first_occurrence": [
             5,
             4
-          ]
+          ],
+          "gloss": "fifth"
         },
         {
           "book_entry": "μοναρχικός, -ή, -όν",
@@ -733,11 +738,12 @@
           "gloss": "monarchical"
         },
         {
-          "book_entry": "τέταρτον, -η, -ον",
+          "book_entry": "τέταρτος, -η, -ον",
           "first_occurrence": [
             4,
             6
-          ]
+          ],
+          "gloss": "fourth"
         },
         {
           "book_entry": "τυραννικός, -ή, -όν",

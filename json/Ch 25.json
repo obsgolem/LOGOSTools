@@ -94,11 +94,12 @@
           "gloss": "a race, a tribe"
         },
         {
-          "book_entry": "χώρος, ὁ",
+          "book_entry": "χῶρος, ὁ",
           "first_occurrence": [
             63,
             6
-          ]
+          ],
+          "gloss": "place, dwelling, country"
         }
       ]
     },
@@ -177,11 +178,12 @@
           "gloss": "Aeolian"
         },
         {
-          "book_entry": "αἰολικός. -ή, -όν",
+          "book_entry": "αἰολικός, -ή, -όν",
           "first_occurrence": [
             99,
             6
-          ]
+          ],
+          "gloss": "aeolic"
         },
         {
           "book_entry": "Ἁλικαρνασσεύς, -ίς",
@@ -379,7 +381,7 @@
             99,
             2
           ],
-          "gloss": "local; concerning common-places (τόποι)"
+          "gloss": "local"
         }
       ]
     },
@@ -407,7 +409,8 @@
           "first_occurrence": [
             117,
             3
-          ]
+          ],
+          "gloss": "speek attic"
         },
         {
           "book_entry": "βαρβαρίζω",
@@ -446,7 +449,8 @@
           "first_occurrence": [
             101,
             4
-          ]
+          ],
+          "gloss": "speak doric"
         },
         {
           "book_entry": "ἑλληνίζω",
@@ -469,7 +473,8 @@
           "first_occurrence": [
             107,
             4
-          ]
+          ],
+          "gloss": "speak ionic"
         },
         {
           "book_entry": "λαλέω",
@@ -510,7 +515,7 @@
       "words": [
         {
           "book_entry": "περί (+ αἰτ.)",
-          "gloss": "around, concerning (+ acc)"
+          "gloss": "around, concerning"
         }
       ]
     },
@@ -522,7 +527,8 @@
           "first_occurrence": [
             17,
             3
-          ]
+          ],
+          "gloss": "all that, all who"
         }
       ]
     },
@@ -534,7 +540,8 @@
           "first_occurrence": [
             6,
             6
-          ]
+          ],
+          "gloss": "greekly"
         },
         {
           "book_entry": "πέραν",

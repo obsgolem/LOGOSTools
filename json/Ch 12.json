@@ -196,11 +196,12 @@
           "gloss": "manly, courageous"
         },
         {
-          "book_entry": "ἀνήσυχος. -ον",
+          "book_entry": "ἀνήσυχος, -ον",
           "first_occurrence": [
             70,
             3
-          ]
+          ],
+          "gloss": "restless"
         },
         {
           "book_entry": "ἄσχημος, -ον",
@@ -239,7 +240,8 @@
           "first_occurrence": [
             64,
             9
-          ]
+          ],
+          "gloss": "restfull"
         },
         {
           "book_entry": "ἰσχυρός, -ά, -όν",
@@ -265,7 +267,8 @@
           "first_occurrence": [
             94,
             8
-          ]
+          ],
+          "gloss": "careless"
         },
         {
           "book_entry": "φιλάνθρωπος, -ον",
@@ -309,7 +312,8 @@
           "first_occurrence": [
             61,
             7
-          ]
+          ],
+          "gloss": "best"
         },
         {
           "book_entry": "μάλα",
@@ -337,7 +341,8 @@
           "first_occurrence": [
             47,
             4
-          ]
+          ],
+          "gloss": "sing"
         },
         {
           "book_entry": "ἀροτρεύω",

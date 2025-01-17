@@ -134,7 +134,8 @@
           "first_occurrence": [
             10,
             4
-          ]
+          ],
+          "gloss": "almond tree"
         },
         {
           "book_entry": "_βαθμός, ὁ_"
@@ -144,7 +145,8 @@
           "first_occurrence": [
             4,
             1
-          ]
+          ],
+          "gloss": "slope"
         },
         {
           "book_entry": "λιθοτομία, ἡ",
@@ -276,7 +278,8 @@
           "gloss": "with sea on both sides"
         },
         {
-          "book_entry": "ἀττικός, -ή, -όν"
+          "book_entry": "ἀττικός, -ή, -όν",
+          "gloss": "attic"
         },
         {
           "book_entry": "ἐμπορικός, -ή, -όν",
@@ -300,7 +303,7 @@
             29,
             7
           ],
-          "gloss": "hated, hostile, (as substantive) enemy"
+          "gloss": "hated, hostile, enemy"
         },
         {
           "book_entry": "_θετικός, -ή, -όν_"

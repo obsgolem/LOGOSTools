@@ -84,7 +84,8 @@
           "first_occurrence": [
             29,
             8
-          ]
+          ],
+          "gloss": "mediterranean"
         },
         {
           "book_entry": "ὀλύμπιος, -ον",
@@ -221,7 +222,8 @@
           "gloss": "corpse"
         },
         {
-          "book_entry": "νηρηίς, ἡ"
+          "book_entry": "νηρηίς, ἡ",
+          "gloss": "nereid"
         },
         {
           "book_entry": "νῆσος, ἡ δ",
@@ -349,7 +351,7 @@
         },
         {
           "book_entry": "Ποσειδῶν, ὁ",
-          "gloss": "Poseidon (noun)"
+          "gloss": "Poseidon"
         },
         {
           "book_entry": "Σείριος, ὁ",

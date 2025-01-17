@@ -122,10 +122,12 @@
           "first_occurrence": [
             37,
             5
-          ]
+          ],
+          "gloss": "to stand upon"
         },
         {
-          "book_entry": "ἡττάομαι"
+          "book_entry": "ἡττάομαι",
+          "gloss": "to be lesser/fair worse"
         },
         {
           "book_entry": "θρηνέω",
@@ -230,7 +232,7 @@
             46,
             8
           ],
-          "gloss": "lack of spirit, depression (noun)"
+          "gloss": "lack of spirit, depression"
         },
         {
           "book_entry": "αἰτία, ἡ",
@@ -285,7 +287,8 @@
           "first_occurrence": [
             103,
             7
-          ]
+          ],
+          "gloss": "defeat"
         },
         {
           "book_entry": "θρήνος, ὁ",
@@ -477,7 +480,8 @@
           "first_occurrence": [
             128,
             5
-          ]
+          ],
+          "gloss": "most bravely"
         },
         {
           "book_entry": "ἐγγύς",

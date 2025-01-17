@@ -23,7 +23,7 @@
             123,
             7
           ],
-          "gloss": "take, capture; (mid) choose"
+          "gloss": "take"
         },
         {
           "book_entry": "ἀλγέω",
@@ -146,11 +146,12 @@
           "gloss": "fall"
         },
         {
-          "book_entry": "πταῖω",
+          "book_entry": "πταίω",
           "first_occurrence": [
             110,
             2
-          ]
+          ],
+          "gloss": "stumble"
         },
         {
           "book_entry": "φημί",

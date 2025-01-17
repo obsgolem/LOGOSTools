@@ -22,7 +22,8 @@
           "first_occurrence": [
             65,
             6
-          ]
+          ],
+          "gloss": "show, explain"
         },
         {
           "book_entry": "δειπνέω",
@@ -78,7 +79,7 @@
             64,
             3
           ],
-          "gloss": "bring together; be useful or profitable; (impersonal) it is expedient"
+          "gloss": "bring together; be useful or profitable"
         },
         {
           "book_entry": "φεύγω",
@@ -139,11 +140,12 @@
           "gloss": "empty"
         },
         {
-          "book_entry": "πλήρης. -ες",
+          "book_entry": "πλήρης, -ες",
           "first_occurrence": [
             92,
             3
-          ]
+          ],
+          "gloss": "complete, full"
         }
       ]
     },
@@ -203,7 +205,8 @@
           "first_occurrence": [
             60,
             3
-          ]
+          ],
+          "gloss": "unjust"
         },
         {
           "book_entry": "δῆτα",

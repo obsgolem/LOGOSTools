@@ -86,7 +86,8 @@
           "first_occurrence": [
             53,
             2
-          ]
+          ],
+          "gloss": "lie in bed"
         },
         {
           "book_entry": "κατεσθίω",
@@ -262,7 +263,8 @@
           "first_occurrence": [
             64,
             1
-          ]
+          ],
+          "gloss": "garlic"
         },
         {
           "book_entry": "σπάνις, ἡ",
@@ -281,7 +283,8 @@
           "gloss": "body"
         },
         {
-          "book_entry": "ὑγιεία, ἡ"
+          "book_entry": "ὑγιεία, ἡ",
+          "gloss": "health"
         },
         {
           "book_entry": "χάρις, ἡ",
@@ -358,7 +361,7 @@
             22,
             2
           ],
-          "gloss": "hostile (+ dat)"
+          "gloss": "hostile"
         },
         {
           "book_entry": "σιτοφάγος, -ον",
@@ -385,11 +388,12 @@
           "gloss": "good for the health, wholesome, sound, healthy"
         },
         {
-          "book_entry": "χορτοφόγος, -ον",
+          "book_entry": "χορτοφάγος, -ον",
           "first_occurrence": [
             15,
             5
-          ]
+          ],
+          "gloss": "plant-eater"
         }
       ]
     },
@@ -440,11 +444,11 @@
       "words": [
         {
           "book_entry": "διά + γεν. (δι ̓ ὀλίγου), + αἰτ.",
-          "gloss": "through (+ gen); on account of (+ acc)"
+          "gloss": "through (+ gen); because of (+ acc)"
         },
         {
           "book_entry": "κατά + αἰτ.",
-          "gloss": "down from, under, against (+ gen); according to, throughout (+ acc.)"
+          "gloss": "according to, throughout"
         }
       ]
     }

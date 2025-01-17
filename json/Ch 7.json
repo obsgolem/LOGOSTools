@@ -28,7 +28,7 @@
             67,
             2
           ],
-          "gloss": "same (adj in attributive position); -self, -selves (in predicate position or alone in nom); him, her, it, them (pronoun in gen, dat, acc)"
+          "gloss": "same; -self, -selves; him, her, it, them"
         }
       ]
     },
@@ -168,7 +168,8 @@
           "first_occurrence": [
             51,
             2
-          ]
+          ],
+          "gloss": "muse"
         },
         {
           "book_entry": "μουσική, ἡ",
@@ -282,7 +283,8 @@
           "first_occurrence": [
             54,
             1
-          ]
+          ],
+          "gloss": "epic"
         },
         {
           "book_entry": "λυρικός, ή, -όν",

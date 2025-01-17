@@ -110,7 +110,8 @@
           "gloss": "to throw back upon, ascribe, refer"
         },
         {
-          "book_entry": "ἰδρύω"
+          "book_entry": "ἰδρύω",
+          "gloss": "to sit, settle, found"
         },
         {
           "book_entry": "ἰσχύω",
@@ -258,10 +259,12 @@
           "gloss": "immediately, forthwith"
         },
         {
-          "book_entry": "παντελῶς"
+          "book_entry": "παντελῶς",
+          "gloss": "completely, utterly"
         },
         {
-          "book_entry": "σαφῶς"
+          "book_entry": "σαφῶς",
+          "gloss": "clearly"
         }
       ]
     },
@@ -333,7 +336,8 @@
           "gloss": "wealth, riches"
         },
         {
-          "book_entry": "ῥητορική, ἡ"
+          "book_entry": "ῥητορική, ἡ",
+          "gloss": "rhetoric"
         },
         {
           "book_entry": "στάδιον, τό",
@@ -463,7 +467,7 @@
             153,
             5
           ],
-          "gloss": "of this/that sort, such (as this)"
+          "gloss": "of this/that sort"
         }
       ]
     },

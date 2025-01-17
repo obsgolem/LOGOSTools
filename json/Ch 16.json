@@ -23,7 +23,7 @@
             68,
             1
           ],
-          "gloss": "converse with (+ dat.)"
+          "gloss": "converse with"
         },
         {
           "book_entry": "κελεύω",
@@ -63,7 +63,7 @@
             47,
             5
           ],
-          "gloss": "seek eagerly; (intrans.) rush, hasten"
+          "gloss": "rush, hasten"
         }
       ]
     },
@@ -83,7 +83,8 @@
           "first_occurrence": [
             125,
             4
-          ]
+          ],
+          "gloss": "doric"
         },
         {
           "book_entry": "ἐπιτήδειος, -α, -ον",
@@ -98,7 +99,8 @@
           "first_occurrence": [
             133,
             8
-          ]
+          ],
+          "gloss": "ionic"
         }
       ]
     },
@@ -335,7 +337,7 @@
             94,
             3
           ],
-          "gloss": "thing, (pl.) goods, property, money"
+          "gloss": "thing, property, money"
         }
       ]
     },
@@ -373,7 +375,7 @@
       "words": [
         {
           "book_entry": "παρά + δοτ.",
-          "gloss": "from (the side of) (+ gen); at (the side of), at the house of (+ dat); to (the side of), beside, contrary to (+ acc)"
+          "gloss": "at"
         }
       ]
     }

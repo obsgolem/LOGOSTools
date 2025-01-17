@@ -10,25 +10,48 @@
       "section": "Ῥήματα",
       "words": [
         {
-          "book_entry": "ᾄδω"
+          "book_entry": "ᾄδω",
+          "gloss": "sing",
+          "first_occurrence": [
+            70,
+            4
+          ]
         },
         {
           "book_entry": "ἀναγιγνώσκω",
-          "gloss": "read (aloud), recite (from a written document)"
+          "gloss": "read, recite",
+          "first_occurrence": [
+            51,
+            4
+          ]
         },
         {
-          "book_entry": "ἀναπαύομαι"
+          "book_entry": "ἀναπαύομαι",
+          "gloss": "stop, rest upon"
         },
         {
           "book_entry": "ἄπειμι",
-          "gloss": "be away, be distant, be absent"
+          "gloss": "be away, be distant, be absent",
+          "first_occurrence": [
+            58,
+            4
+          ]
         },
         {
           "book_entry": "διατρίβω",
-          "gloss": "pass time, waste time (verb)"
+          "first_occurrence": [
+            8,
+            4
+          ],
+          "gloss": "pass time, waste time"
         },
         {
-          "book_entry": "δύει"
+          "book_entry": "δύει",
+          "first_occurrence": [
+            47,
+            3
+          ],
+          "gloss": "set, sink"
         },
         {
           "book_entry": "εὑρίσκω",
@@ -56,11 +79,11 @@
         },
         {
           "book_entry": "θεραπεύω",
-          "gloss": "look after, tend (verb)"
+          "gloss": "look after, tend"
         },
         {
           "book_entry": "καθεύδω",
-          "gloss": "sleep (verb)"
+          "gloss": "sleep"
         },
         {
           "book_entry": "καλέω",
@@ -182,7 +205,7 @@
         },
         {
           "book_entry": "θάλαμος, ὁ",
-          "gloss": "bedchamber (noun)"
+          "gloss": "bedchamber"
         },
         {
           "book_entry": "θρόνος, ὁ",
@@ -217,7 +240,8 @@
           "gloss": "lyre, lute"
         },
         {
-          "book_entry": "κλίμαξ, ἡ"
+          "book_entry": "κλίμαξ, ἡ",
+          "gloss": "stair"
         },
         {
           "book_entry": "κλίνη, ἡ",
@@ -264,7 +288,8 @@
           "gloss": "any woven cloth"
         },
         {
-          "book_entry": "περιστύλιον, τό"
+          "book_entry": "περιστύλιον, τό",
+          "gloss": "surrouding pillar"
         },
         {
           "book_entry": "στῦλος, ὁ",
@@ -296,7 +321,8 @@
           "gloss": "accusative"
         },
         {
-          "book_entry": "διπλοῦς, -ῆ, -οῦν"
+          "book_entry": "διπλοῦς, -ῆ, -οῦν",
+          "gloss": "doubled"
         },
         {
           "book_entry": "_κλητικός, -ή, -όν_"

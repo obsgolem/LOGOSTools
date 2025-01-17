@@ -122,7 +122,8 @@
           "first_occurrence": [
             1,
             2
-          ]
+          ],
+          "gloss": "month"
         },
         {
           "book_entry": "μῆνις, ἡ",
@@ -178,7 +179,7 @@
             28,
             2
           ],
-          "gloss": "old man; elder; ambassador (plural rare except in this last sense)"
+          "gloss": "old man; elder; ambassador"
         },
         {
           "book_entry": "πρόβλημα, τό",
@@ -403,7 +404,8 @@
           "first_occurrence": [
             7,
             6
-          ]
+          ],
+          "gloss": "to have come"
         },
         {
           "book_entry": "σπένδω",
@@ -411,14 +413,15 @@
             204,
             3
           ],
-          "gloss": "pour a libation; (mid.) exchange libations, make a truce, make peace"
+          "gloss": "pour a libation; exchange libations, make a truce, make peace"
         },
         {
           "book_entry": "συλλαμβάνομαι",
           "first_occurrence": [
             164,
             3
-          ]
+          ],
+          "gloss": "participate"
         },
         {
           "book_entry": "συνεορτάζω",
@@ -503,7 +506,8 @@
           "first_occurrence": [
             18,
             4
-          ]
+          ],
+          "gloss": "ready"
         },
         {
           "book_entry": "ἡδύς, ἡδεῖα ἡδύ",
@@ -542,7 +546,8 @@
           "first_occurrence": [
             203,
             1
-          ]
+          ],
+          "gloss": "one must trust"
         },
         {
           "book_entry": "πρότερος, -α, -ον",
@@ -598,17 +603,20 @@
           "first_occurrence": [
             177,
             3
-          ]
+          ],
+          "gloss": "second"
         },
         {
-          "book_entry": "μεγαλοπρεπῶς"
+          "book_entry": "μεγαλοπρεπῶς",
+          "gloss": "superbly"
         },
         {
           "book_entry": "μεγάλως",
           "first_occurrence": [
             67,
             4
-          ]
+          ],
+          "gloss": "greatly"
         },
         {
           "book_entry": "μεταξύ",
