@@ -11,6 +11,7 @@ model = genanki.Model(
     fields=[
         {"name": "Greek"},
         {"name": "English"},
+        {"name": "Part of Speech"},
     ],
     css=""".card {
     font-family: arial;
@@ -22,7 +23,7 @@ model = genanki.Model(
     templates=[
         {
             "name": "Card 1",
-            "qfmt": "{{Greek}}",
+            "qfmt": "{{Greek}}<br>{{Part of Speech}}",
             "afmt": '{{FrontSide}}<hr id="answer">{{English}}',
         },
         {
@@ -32,17 +33,40 @@ model = genanki.Model(
         },
     ],
 )
-
+secs = {
+    'Ἐπίθετα': "Ἐπίθετον",
+    'Ἐπιφωνήματα': "Ἐπιφωνήμα",
+    'Ἐπιρρήματα': "Ἐπιρρήμα",
+    'Φράσεις': "Φράσις",
+    'Ἀριθμοί': "Ἀριθμός",
+    'Ὀνόματα': "Ὀνόμα",
+    'Ἐκφράσεις': "Ἐκφράσις",
+    'Ἀντωνυμίαι': "Ἀντωνυμία",
+    'Ῥήματα': "Ῥήμα",
+    'Ἄρθρον': "Ἄρθρον",
+    'Προθέσεις': "Προθέσις",
+    'Σύνδεσμοι': "Σύνδεσμος",
+    'Μόρια': "Μόριον"
+}
 for file in Path.cwd().glob("json/*.json"):
+    ch = file.stem.split(' ')[1]
     data = json.loads(file.read_text(encoding="utf-8"))
 
     for section in data["sections"]:
+        if section["section"].lower() == "κύρια ὀνόματα":
+            continue
+        pos = secs[section["section"]].lower()
         for word in section["words"]:
-            word = word["macronized"] if "macronized" in word else word["book_entry"]
+            greek = word["macronized"] if "macronized" in word else word["book_entry"]
+            greek = greek.replace("_","")
+            if greek[0].upper() == greek[0]:
+                # skip name-ish stuff
+                continue
             if "gloss" not in word:
                 continue
-            gloss = word.gloss
-            word = unicodedata.normalize("NFC", word)
-            deck.add_note(genanki.Note(model=model, fields=[word, gloss]))
+            gloss = word["gloss"]
+            greek = unicodedata.normalize("NFC", greek)
+            print(f"Adding {greek} {gloss} {pos}")
+            deck.add_note(genanki.Note(model=model, fields=[greek, gloss, pos], tags=[f"{ch}"]))
 
 genanki.Package(deck).write_to_file("output.apkg")
