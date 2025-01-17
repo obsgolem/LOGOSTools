@@ -18,7 +18,8 @@
           "gloss": "man; husband"
         },
         {
-          "book_entry": "_γένος, τό_"
+          "book_entry": "_γένος, τό_",
+          "gloss": "gender"
         },
         {
           "book_entry": "γυνή, ἡ",
@@ -87,7 +88,7 @@
             43,
             3
           ],
-          "gloss": "mortal (adjective)"
+          "gloss": "mortal"
         },
         {
           "book_entry": "κακός, -ή, -ον",
@@ -106,7 +107,8 @@
           "gloss": "beautiful, noble, good"
         },
         {
-          "book_entry": "_οὐδέτερος, -τέρα, -τερον_"
+          "book_entry": "_οὐδέτερος, -τέρα, -τερον_",
+          "gloss": "neuter"
         }
       ]
     },
@@ -119,7 +121,7 @@
             15,
             6
           ],
-          "gloss": "the [definite article]"
+          "gloss": "the"
         }
       ]
     },
@@ -153,7 +155,7 @@
             25,
             3
           ],
-          "gloss": "for (explanatory)"
+          "gloss": "for"
         },
         {
           "book_entry": "ἤ",

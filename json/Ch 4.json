@@ -107,7 +107,7 @@
             17,
             1
           ],
-          "gloss": "or ἡ, horse, mare"
+          "gloss": "horse, mare"
         },
         {
           "book_entry": "ἰχθύς, ὁ",
@@ -134,14 +134,16 @@
           "gloss": "shark"
         },
         {
-          "book_entry": "_κατηγορούμενον, τό_"
+          "book_entry": "_κατηγορούμενον, τό_",
+          "gloss": "accused, charged, predicate"
         },
         {
           "book_entry": "κένταυρος, ὁ",
           "first_occurrence": [
             93,
             7
-          ]
+          ],
+          "gloss": "centaur"
         },
         {
           "book_entry": "κροκόδειλος, ὁ",
@@ -149,14 +151,15 @@
             13,
             1
           ],
-          "gloss": "a lizard (see -διλος)"
+          "gloss": "a lizard"
         },
         {
           "book_entry": "κύκλωψ, ὁ",
           "first_occurrence": [
             95,
             5
-          ]
+          ],
+          "gloss": "cyclops"
         },
         {
           "book_entry": "κύκνος, ὁ",
@@ -172,7 +175,7 @@
             14,
             1
           ],
-          "gloss": "dog; shameless creature"
+          "gloss": "dog"
         },
         {
           "book_entry": "λέων, ὁ",
@@ -204,7 +207,7 @@
         },
         {
           "book_entry": "μῦθος, ὁ",
-          "gloss": "anything, delivered by word of mouth, word, speech"
+          "gloss": "myth, speach"
         },
         {
           "book_entry": "ὄνος, ὁ",
@@ -212,7 +215,7 @@
             10,
             2
           ],
-          "gloss": "an ass"
+          "gloss": "donkey"
         },
         {
           "book_entry": "ὄρνις, ἡ",
@@ -220,7 +223,7 @@
             76,
             9
           ],
-          "gloss": "bird; omen"
+          "gloss": "bird"
         },
         {
           "book_entry": "ὄφις, ὁ",
@@ -231,7 +234,8 @@
           "gloss": "a serpent, snake"
         },
         {
-          "book_entry": "_παράδειγμα, τό_"
+          "book_entry": "_παράδειγμα, τό_",
+          "gloss": "pattern"
         },
         {
           "book_entry": "πόλις, ἡ",
@@ -243,7 +247,7 @@
         },
         {
           "book_entry": "πούς, ὁ",
-          "gloss": "or ἡ, foot"
+          "gloss": "foot"
         },
         {
           "book_entry": "πρόβατον, τό",
@@ -251,13 +255,15 @@
             1,
             7
           ],
-          "gloss": "sheep (noun)"
+          "gloss": "sheep"
         },
         {
-          "book_entry": "_πτῶσις, ἡ_"
+          "book_entry": "_πτῶσις, ἡ_",
+          "gloss": "case, inflection"
         },
         {
-          "book_entry": "_ῥῆμα, τό_"
+          "book_entry": "_ῥῆμα, τό_",
+          "gloss": "verb"
         },
         {
           "book_entry": "σαῦρος, ὁ",
@@ -296,7 +302,8 @@
           "gloss": "water"
         },
         {
-          "book_entry": "_ὑποκείμενον, τό_"
+          "book_entry": "_ὑποκείμενον, τό_",
+          "gloss": "subject"
         },
         {
           "book_entry": "φάλλαινα, ἡ",
@@ -325,7 +332,7 @@
             10,
             8
           ],
-          "gloss": "(living in the fields) wild, savage, harsh"
+          "gloss": "wild, savage, harsh"
         },
         {
           "book_entry": "ἀμφίβιος, -ον",
@@ -437,10 +444,11 @@
             6,
             2
           ],
-          "gloss": "little; (pl) few"
+          "gloss": "little; few"
         },
         {
-          "book_entry": "_ὀνομαστικός, -ή, -ον_"
+          "book_entry": "_ὀνομαστικός, -ή, -ον_",
+          "gloss": "nominative"
         },
         {
           "book_entry": "πεζός, -ή, -όν",
@@ -456,7 +464,7 @@
             64,
             5
           ],
-          "gloss": "political (adjective)"
+          "gloss": "political"
         },
         {
           "book_entry": "πολύπους, -ον",
@@ -517,7 +525,7 @@
             41,
             7
           ],
-          "gloss": "walk, go (verb)"
+          "gloss": "walk, go"
         },
         {
           "book_entry": "ἕρπω",
@@ -541,7 +549,7 @@
             65,
             1
           ],
-          "gloss": "or λέξω, εἷπον or ἔλεξα, εἴρηκα, εἴρημαι or λέλεγμαι, ἐλέχθην or ἐρρήθην, say, speak"
+          "gloss": "say, speak"
         },
         {
           "book_entry": "πέτομαι",
@@ -557,7 +565,7 @@
             57,
             2
           ],
-          "gloss": "leap, jump (verb)"
+          "gloss": "leap, jump"
         },
         {
           "book_entry": "ποιέω",
@@ -593,7 +601,8 @@
           "first_occurrence": [
             36,
             8
-          ]
+          ],
+          "gloss": "only, alone"
         }
       ]
     },
@@ -621,7 +630,8 @@
           "first_occurrence": [
             21,
             3
-          ]
+          ],
+          "gloss": "either... or"
         },
         {
           "book_entry": "ὥσπερ",

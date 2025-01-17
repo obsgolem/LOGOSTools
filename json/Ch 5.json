@@ -30,7 +30,8 @@
           "first_occurrence": [
             3,
             5
-          ]
+          ],
+          "gloss": "parent"
         },
         {
           "book_entry": "δέσποινα, ἡ",
@@ -38,7 +39,7 @@
             48,
             1
           ],
-          "gloss": "mistress (f. of ‘master'), queen (noun)"
+          "gloss": "mistress, queen"
         },
         {
           "book_entry": "δεσπότης, ὁ",
@@ -54,7 +55,7 @@
             47,
             1
           ],
-          "gloss": "slave (female)"
+          "gloss": "slave"
         },
         {
           "book_entry": "δοῦλος, ὁ",
@@ -118,7 +119,7 @@
             31,
             7
           ],
-          "gloss": "forebear, ancestor (noun)"
+          "gloss": "forebear, ancestor"
         },
         {
           "book_entry": "τέκνον, τό",
@@ -126,7 +127,7 @@
             18,
             4
           ],
-          "gloss": "child (noun)"
+          "gloss": "child"
         },
         {
           "book_entry": "τήθη, ἡ",
@@ -171,7 +172,8 @@
       "section": "Ἐπίθετα",
       "words": [
         {
-          "book_entry": "_γενικός, -ή, -όν_"
+          "book_entry": "_γενικός, -ή, -όν_",
+          "gloss": "gender"
         },
         {
           "book_entry": "φίλος, -η, -ον",
@@ -192,7 +194,7 @@
             1,
             1
           ],
-          "gloss": "look! here! hey! (interjection)"
+          "gloss": "look! here! hey!"
         }
       ]
     },
@@ -200,7 +202,8 @@
       "section": "Φράσεις",
       "words": [
         {
-          "book_entry": "τοῦτ ̓ ἔστιν"
+          "book_entry": "τοῦτ ̓ ἔστιν",
+          "gloss": "that is (to restate a previous idea)"
         }
       ]
     }

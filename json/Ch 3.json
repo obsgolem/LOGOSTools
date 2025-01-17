@@ -113,7 +113,7 @@
             79,
             7
           ],
-          "gloss": "hear (+ acc of thing heard, gen of person heard); be spoken of"
+          "gloss": "hear; be spoken of"
         },
         {
           "book_entry": "χαῖρε!",
@@ -141,7 +141,7 @@
             1,
             3
           ],
-          "gloss": "letter (of the alphabet), (pl.) documents"
+          "gloss": "letter of alphabet, documents"
         },
         {
           "book_entry": "δίφθογγος, ἡ",
@@ -176,14 +176,16 @@
           "first_occurrence": [
             29,
             3
-          ]
+          ],
+          "gloss": "consonant"
         },
         {
           "book_entry": "φωνῆεν, τό",
           "first_occurrence": [
             25,
             4
-          ]
+          ],
+          "gloss": "vowel"
         }
       ]
     },
@@ -203,7 +205,8 @@
           "first_occurrence": [
             20,
             6
-          ]
+          ],
+          "gloss": "top, chief, large"
         },
         {
           "book_entry": "κύριος, -α, -ον",
@@ -218,7 +221,8 @@
           "first_occurrence": [
             7,
             3
-          ]
+          ],
+          "gloss": "of Latin"
         },
         {
           "book_entry": "μέγας, μεγάλη, μέγα",

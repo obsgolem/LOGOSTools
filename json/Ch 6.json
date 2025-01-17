@@ -31,7 +31,7 @@
             38,
             3
           ],
-          "gloss": "inhabit, settle; manage (a house or a government); dwell, live"
+          "gloss": "inhabit, settle; manage; dwell, live"
         }
       ]
     },
@@ -68,13 +68,16 @@
       "section": "Ἐπίθετα",
       "words": [
         {
-          "book_entry": "_βαρύτονος, -ον_"
+          "book_entry": "_βαρύτονος, -ον_",
+          "gloss": "having an acute accent"
         },
         {
-          "book_entry": "_δοτικός, -ή, -όν_"
+          "book_entry": "_δοτικός, -ή, -όν_",
+          "gloss": "dative"
         },
         {
-          "book_entry": "_ἐπίθετος, -ον_"
+          "book_entry": "_ἐπίθετος, -ον_",
+          "gloss": "adjective"
         },
         {
           "book_entry": "μεσόγειος, -ον",
@@ -88,13 +91,16 @@
           "first_occurrence": [
             42,
             2
-          ]
+          ],
+          "gloss": "of Olympus"
         },
         {
-          "book_entry": "_ὀριστικός, -ή, -όν_"
+          "book_entry": "_ὀριστικός, -ή, -όν_",
+          "gloss": "definite, indicative (mood)"
         },
         {
-          "book_entry": "_περισπώμενος, -η, -ον_"
+          "book_entry": "_περισπώμενος, -η, -ον_",
+          "gloss": "having the circumflex accent"
         }
       ]
     },
@@ -107,7 +113,7 @@
             57,
             8
           ],
-          "gloss": "there (in that place)"
+          "gloss": "there"
         },
         {
           "book_entry": "ἔξω",
@@ -115,7 +121,7 @@
             12,
             6
           ],
-          "gloss": "outside (adverb)"
+          "gloss": "outside"
         },
         {
           "book_entry": "ἔσω",
@@ -131,7 +137,7 @@
             59,
             4
           ],
-          "gloss": "below (adverb)"
+          "gloss": "below"
         },
         {
           "book_entry": "ποῦ;",
@@ -179,7 +185,8 @@
           "gloss": "the depth"
         },
         {
-          "book_entry": "_ἔγκλισις, ἡ_"
+          "book_entry": "_ἔγκλισις, ἡ_",
+          "gloss": "inflection"
         },
         {
           "book_entry": "ἥλιος, ὁ",

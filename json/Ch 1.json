@@ -45,7 +45,7 @@
         },
         {
           "book_entry": "ἄρθρον, τό",
-          "gloss": "a joint"
+          "gloss": "a joint; article"
         },
         {
           "book_entry": "ἀριθμός, ὁ",
@@ -132,7 +132,7 @@
             24,
             3
           ],
-          "gloss": "philosopher (noun)"
+          "gloss": "philosopher"
         }
       ]
     },
@@ -203,7 +203,7 @@
             4,
             5
           ],
-          "gloss": "yes (particle)"
+          "gloss": "yes"
         },
         {
           "book_entry": "οὐ | οὐκ | οὐχ",
@@ -219,7 +219,7 @@
             15,
             6
           ],
-          "gloss": "in no way, not at all (adverb)"
+          "gloss": "in no way, not at all"
         }
       ]
     },
@@ -232,7 +232,7 @@
             2,
             5
           ],
-          "gloss": "the [definite article]"
+          "gloss": "the"
         }
       ]
     },
