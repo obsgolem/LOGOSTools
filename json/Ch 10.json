@@ -11,7 +11,7 @@
       "words": [
         {
           "book_entry": "ᾄδω",
-          "gloss": "sing",
+          "gloss": "to sing",
           "first_occurrence": [
             70,
             4
@@ -19,7 +19,7 @@
         },
         {
           "book_entry": "ἀναγιγνώσκω",
-          "gloss": "read, recite",
+          "gloss": "to read, recite",
           "first_occurrence": [
             51,
             4
@@ -27,11 +27,11 @@
         },
         {
           "book_entry": "ἀναπαύομαι",
-          "gloss": "stop, rest upon"
+          "gloss": "to stop, rest upon"
         },
         {
           "book_entry": "ἄπειμι",
-          "gloss": "be away, be distant, be absent",
+          "gloss": "to be away, be distant, be absent",
           "first_occurrence": [
             58,
             4
@@ -43,7 +43,7 @@
             8,
             4
           ],
-          "gloss": "pass time, waste time"
+          "gloss": "to pass time, waste time"
         },
         {
           "book_entry": "δύει",
@@ -51,11 +51,11 @@
             47,
             3
           ],
-          "gloss": "set, sink"
+          "gloss": "to set, sink"
         },
         {
           "book_entry": "εὑρίσκω",
-          "gloss": "find, discover",
+          "gloss": "to find, discover",
           "first_occurrence": [
             68,
             1
@@ -63,7 +63,7 @@
         },
         {
           "book_entry": "ἔχω",
-          "gloss": "have, hold",
+          "gloss": "to have, hold",
           "first_occurrence": [
             76,
             3
@@ -71,7 +71,7 @@
         },
         {
           "book_entry": "ζητέω",
-          "gloss": "seek",
+          "gloss": "to seek",
           "first_occurrence": [
             65,
             2
@@ -79,15 +79,15 @@
         },
         {
           "book_entry": "θεραπεύω",
-          "gloss": "look after, tend"
+          "gloss": "to look after, tend"
         },
         {
           "book_entry": "καθεύδω",
-          "gloss": "sleep"
+          "gloss": "to sleep"
         },
         {
           "book_entry": "καλέω",
-          "gloss": "call"
+          "gloss": "to call"
         },
         {
           "book_entry": "κτενίζω",
@@ -95,11 +95,11 @@
         },
         {
           "book_entry": "λαμβάνω",
-          "gloss": "take"
+          "gloss": "to take"
         },
         {
           "book_entry": "λείπω",
-          "gloss": "leave, leave behind"
+          "gloss": "to leave, leave behind"
         },
         {
           "book_entry": "λούω, -ομαι",
@@ -111,15 +111,15 @@
         },
         {
           "book_entry": "ὁράω",
-          "gloss": "see"
+          "gloss": "to see"
         },
         {
           "book_entry": "παρασκευάζω",
-          "gloss": "prepare, provide, procure, cook"
+          "gloss": "to prepare, provide, procure, cook"
         },
         {
           "book_entry": "πάρειμι",
-          "gloss": "be by, be present"
+          "gloss": "to be present"
         },
         {
           "book_entry": "ῥάπτω",
@@ -127,11 +127,11 @@
         },
         {
           "book_entry": "τρέφω",
-          "gloss": "bring up, rear (children); nourish, maintain; cherish"
+          "gloss": "to bring up, rear (children); nourish, maintain; cherish"
         },
         {
           "book_entry": "φιλέω",
-          "gloss": "love"
+          "gloss": "to love"
         }
       ]
     },

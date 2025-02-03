@@ -15,7 +15,7 @@
             72,
             3
           ],
-          "gloss": "do wrong, wrong"
+          "gloss": "to do wrong, wrong"
         },
         {
           "book_entry": "ἀναβοάω",
@@ -39,7 +39,7 @@
             76,
             6
           ],
-          "gloss": "go away"
+          "gloss": "to go away"
         },
         {
           "book_entry": "ἀποβαίνω",
@@ -47,7 +47,7 @@
             21,
             5
           ],
-          "gloss": "leave, depart"
+          "gloss": "to leave, depart"
         },
         {
           "book_entry": "ἀποξύνω",
@@ -63,7 +63,7 @@
             14,
             1
           ],
-          "gloss": "sail away"
+          "gloss": "to sail away"
         },
         {
           "book_entry": "βάλλω",
@@ -71,7 +71,7 @@
             96,
             4
           ],
-          "gloss": "throw; hit"
+          "gloss": "to throw; hit"
         },
         {
           "book_entry": "βοάω",
@@ -79,7 +79,7 @@
             69,
             3
           ],
-          "gloss": "shout"
+          "gloss": "to shout"
         },
         {
           "book_entry": "βυθίζω",
@@ -95,7 +95,7 @@
             45,
             5
           ],
-          "gloss": "enter, board"
+          "gloss": "to enter, board"
         },
         {
           "book_entry": "εἰσελαύνω",
@@ -119,7 +119,7 @@
             83,
             3
           ],
-          "gloss": "go out; come out"
+          "gloss": "to go out; come out"
         },
         {
           "book_entry": "ἐπανέρχομαι",
@@ -127,7 +127,7 @@
             14,
             6
           ],
-          "gloss": "return"
+          "gloss": "to return"
         },
         {
           "book_entry": "ἐπιζητέω",
@@ -139,7 +139,7 @@
         },
         {
           "book_entry": "καίω",
-          "gloss": "kindle; set on fire, burn"
+          "gloss": "to kindle; set on fire, burn"
         },
         {
           "book_entry": "καταντάω",
@@ -147,7 +147,7 @@
             18,
             3
           ],
-          "gloss": "come down to, arrive"
+          "gloss": "to come down to, arrive"
         },
         {
           "book_entry": "κεραννύω",
@@ -155,7 +155,7 @@
             6,
             6
           ],
-          "gloss": "mix"
+          "gloss": "to mix"
         },
         {
           "book_entry": "κοιμάομαι",
@@ -163,7 +163,7 @@
             62,
             1
           ],
-          "gloss": "sleep"
+          "gloss": "to sleep"
         },
         {
           "book_entry": "κρύπτω, -ομαι",
@@ -171,7 +171,7 @@
             82,
             2
           ],
-          "gloss": "hide, cover, conceal"
+          "gloss": "to hide, cover, conceal"
         },
         {
           "book_entry": "μανθάνω",
@@ -179,7 +179,7 @@
             95,
             5
           ],
-          "gloss": "learn, understand"
+          "gloss": "to learn, understand"
         },
         {
           "book_entry": "μεθύω",
@@ -187,7 +187,7 @@
             9,
             1
           ],
-          "gloss": "to be drunken with wine"
+          "gloss": "to be drunken"
         },
         {
           "book_entry": "μηνίω",
@@ -203,7 +203,7 @@
             75,
             2
           ],
-          "gloss": "consider, think, believe"
+          "gloss": "to consider, think, believe"
         },
         {
           "book_entry": "παραγίγνομαι",
@@ -211,7 +211,7 @@
             71,
             3
           ],
-          "gloss": "be present, be with (+ dat)"
+          "gloss": "to be present, be with (+ dat)"
         },
         {
           "book_entry": "πάσχω",
@@ -219,7 +219,7 @@
             73,
             1
           ],
-          "gloss": "suffer, have done to one"
+          "gloss": "to suffer, have done to one"
         },
         {
           "book_entry": "περιρρέω",
@@ -279,7 +279,7 @@
             49,
             4
           ],
-          "gloss": "fear, be afraid"
+          "gloss": "to fear, be afraid"
         }
       ]
     },

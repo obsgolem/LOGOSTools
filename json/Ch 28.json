@@ -23,7 +23,7 @@
             121,
             6
           ],
-          "gloss": "perceive"
+          "gloss": "to perceive"
         },
         {
           "book_entry": "ἀναγκάζω, -ομαι",
@@ -31,7 +31,7 @@
             68,
             1
           ],
-          "gloss": "force, compel"
+          "gloss": "to force, compel"
         },
         {
           "book_entry": "ἀποκτείνω",
@@ -39,7 +39,7 @@
             154,
             5
           ],
-          "gloss": "kill"
+          "gloss": "to kill"
         },
         {
           "book_entry": "ἀπόλλυμι",
@@ -47,7 +47,7 @@
             137,
             7
           ],
-          "gloss": "kill, lose, die, cease to exist"
+          "gloss": "to kill, lose, die, cease to exist"
         },
         {
           "book_entry": "ἀποτίνω",
@@ -71,7 +71,7 @@
             145,
             3
           ],
-          "gloss": "fear"
+          "gloss": "to fear"
         },
         {
           "book_entry": "διαρθρόω, -ομαι",
@@ -111,7 +111,7 @@
             38,
             2
           ],
-          "gloss": "be quiet, keep quiet, rest"
+          "gloss": "to be quiet, keep quiet, rest"
         },
         {
           "book_entry": "ἱκετεύω",
@@ -119,7 +119,7 @@
             8,
             1
           ],
-          "gloss": "beg, supplicate"
+          "gloss": "to beg, supplicate"
         },
         {
           "book_entry": "κατακρίνω, -ομαι",
@@ -175,11 +175,11 @@
             80,
             9
           ],
-          "gloss": "be about to, be likely to"
+          "gloss": "to be about to, be likely to"
         },
         {
           "book_entry": "μετέρχομαι",
-          "gloss": "send for, chase after"
+          "gloss": "to send for, chase after"
         },
         {
           "book_entry": "νέμω",
@@ -187,7 +187,7 @@
             82,
             4
           ],
-          "gloss": "distribute, allot, assign"
+          "gloss": "to distribute, allot, assign"
         },
         {
           "book_entry": "ὁπλίζω",
@@ -211,7 +211,7 @@
             52,
             5
           ],
-          "gloss": "go beside; overstep, transgress, violate"
+          "gloss": "to go beside; overstep, transgress, violate"
         },
         {
           "book_entry": "παραιτέομαι",
@@ -219,7 +219,7 @@
             83,
             6
           ],
-          "gloss": "beg"
+          "gloss": "to beg"
         },
         {
           "book_entry": "πορίζω",
@@ -227,7 +227,7 @@
             95,
             3
           ],
-          "gloss": "provide, offer"
+          "gloss": "to provide, offer"
         },
         {
           "book_entry": "πρέπω",
@@ -243,11 +243,11 @@
             87,
             3
           ],
-          "gloss": "give, attach to"
+          "gloss": "to give, attach to"
         },
         {
           "book_entry": "προσέρχομαι",
-          "gloss": "advance, go / come towards"
+          "gloss": "to go / come towards"
         },
         {
           "book_entry": "προσηλόω",
@@ -263,11 +263,11 @@
             81,
             2
           ],
-          "gloss": "order"
+          "gloss": "to order/command"
         },
         {
           "book_entry": "σέβομαι",
-          "gloss": "revere, worship, honor"
+          "gloss": "to revere, worship, honor"
         },
         {
           "book_entry": "συμβαίνω",
@@ -275,7 +275,7 @@
             5,
             7
           ],
-          "gloss": "come together; come to an agreement, come to terms; come to pass, happen"
+          "gloss": "to come together; come to an agreement, come to terms; come to pass, happen"
         },
         {
           "book_entry": "τιμωρέω, -έομαι",
@@ -307,7 +307,7 @@
             31,
             3
           ],
-          "gloss": "think; worry"
+          "gloss": "to think; worry"
         }
       ]
     },
